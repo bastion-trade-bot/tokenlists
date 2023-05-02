@@ -83,10 +83,11 @@ class TokenListProvider:
                         continue
                 if not t.get("coingeckoId"):
                     t["coingeckoId"] = coingecko_ids.get(str(t["chainId"]), {}).get(t["address"].lower())
-                if t.get("decimals") is None:
+                    
+                if t.get("decimals") is None and t.get("tokenDecimals") is not None:
+                    t["decimals"] = t["tokenDecimals"]
+                elif t.get("decimals") is None and t.get("tokenDecimals") is None:
                     t["decimals"] = 18
-                elif t.get("tokenDecimal") is None:
-                    t["tokenDecimal"] = 18
                 parsed_token = Token.parse_obj(t)
                 res[parsed_token.chainId].append(parsed_token)
             log.info(f"[{cls.name}] {chain_id} {chain_name} OK")
