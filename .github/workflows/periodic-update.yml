@@ -36,3 +36,5 @@ jobs:
           aws-region: 'ap-southeast-1'
           aws-bucket: ${{ secrets.S3_BUCKET }}
           file-path: 'all_tokens/all.json'
+          destination-dir: '/'
+          bucket-root: '/'
