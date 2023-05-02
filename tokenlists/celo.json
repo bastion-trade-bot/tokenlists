@@ -3,7 +3,7 @@
         "symbol": "USDC",
         "name": "Optics USDC v2",
         "address": "0xef4229c8c3250C675F21BCefa42f58EfbfF6002a",
-        "decimals": 6,
+        "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_USDC.png",
         "coingeckoId": null,
@@ -29,7 +29,7 @@
     },
     {
         "symbol": "TFBX",
-        "name": "TrueFeedBack New",
+        "name": "Truefeedback Token",
         "address": "0xbDd31EFfb9E9f7509fEaAc5B4091b31645A47e4b",
         "decimals": 18,
         "chainId": 42220,
@@ -44,7 +44,7 @@
         "symbol": "USDTv1",
         "name": "Optics USDT v1",
         "address": "0xb020D981420744F6b0FedD22bB67cd37Ce18a1d5",
-        "decimals": 6,
+        "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg",
         "coingeckoId": null,
@@ -80,15 +80,14 @@
         ]
     },
     {
-        "symbol": "CMETA",
+        "symbol": "cMeta",
         "name": "MetaCelo",
         "address": "0xF3608F846cA73147F08FdE8D57f45E27CeEA4d61",
         "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0xF3608F846cA73147F08FdE8D57f45E27CeEA4d61/logo.png",
-        "coingeckoId": "metacelo",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "sushiswap",
             "lifinance"
         ]
@@ -136,7 +135,7 @@
         "symbol": "IMMO",
         "name": "ImmortalDAO",
         "address": "0xE685d21b7B0FC7A248a6A8E03b8Db22d013Aa2eE",
-        "decimals": 9,
+        "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_IMMO.png",
         "coingeckoId": "immortaldao",
@@ -177,7 +176,7 @@
         "symbol": "cDOGE",
         "name": "CeloDoge",
         "address": "0xD90BBdf5904cb7d275c41f897495109B9A5adA58",
-        "decimals": 9,
+        "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cdoge.jpg",
         "coingeckoId": null,
@@ -244,10 +243,23 @@
         ]
     },
     {
+        "symbol": "stCELO",
+        "name": "Staked Celo",
+        "address": "0xC668583dcbDc9ae6FA3CE46462758188adfdfC24",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_stCELO.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "ubeswap"
+        ]
+    },
+    {
         "symbol": "WBTCv1",
         "name": "Optics WBTC v1",
         "address": "0xBe50a3013A1c94768A1ABb78c3cB79AB28fc1aCE",
-        "decimals": 8,
+        "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg",
         "coingeckoId": null,
@@ -260,7 +272,7 @@
         "symbol": "WBTC",
         "name": "Optics WBTC v2",
         "address": "0xBAAB46E28388d2779e6E31Fd00cF0e5Ad95E327B",
-        "decimals": 8,
+        "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WBTC.png",
         "coingeckoId": null,
@@ -285,7 +297,7 @@
     },
     {
         "symbol": "BNB",
-        "name": "Binance",
+        "name": "Anyswap BNB",
         "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
         "decimals": 18,
         "chainId": 42220,
@@ -311,7 +323,7 @@
     },
     {
         "symbol": "ETHIX",
-        "name": "EthicHub",
+        "name": "Ethix",
         "address": "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed",
         "decimals": 18,
         "chainId": 42220,
@@ -381,7 +393,7 @@
     },
     {
         "symbol": "AVAX",
-        "name": "AVAX",
+        "name": "Allbridge AVAX",
         "address": "0x8E3670FD7B0935d3FE832711deBFE13BB689b690",
         "decimals": 18,
         "chainId": 42220,
@@ -396,7 +408,7 @@
         "symbol": "USDT",
         "name": "Optics USDT v2",
         "address": "0x88eeC49252c8cbc039DCdB394c0c2BA2f1637EA0",
-        "decimals": 6,
+        "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_USDT.png",
         "coingeckoId": null,
@@ -575,6 +587,19 @@
         ]
     },
     {
+        "symbol": "G$",
+        "name": "GoodDollar",
+        "address": "0x62B8B11039FcfE5aB0C56E502b1C372A3d2a9c7A",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_G$.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "ubeswap"
+        ]
+    },
+    {
         "symbol": "CLA",
         "name": "CeloLaunch",
         "address": "0x5927fd244E11dB1c7b1215619144d2aAbAc80a4F",
@@ -649,7 +674,7 @@
         "symbol": "USDCet",
         "name": "Portal USDC from Ethereum",
         "address": "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd",
-        "decimals": 6,
+        "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_USDCet.png",
         "coingeckoId": null,
@@ -718,7 +743,7 @@
         "symbol": "USDCv1",
         "name": "Optics USDC v1",
         "address": "0x2A3684e9Dc20B857375EA04235F2F7edBe818FA7",
-        "decimals": 6,
+        "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg",
         "coingeckoId": null,
@@ -756,10 +781,24 @@
         ]
     },
     {
+        "symbol": "PLASTIK",
+        "name": "Plastiks",
+        "address": "0x27cd006548dF7C8c8e9fdc4A67fa05C2E3CA5CF9",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_PLASTIK.png",
+        "coingeckoId": "plastiks",
+        "listedIn": [
+            "coingecko",
+            "lifinance",
+            "ubeswap"
+        ]
+    },
+    {
         "symbol": "cSHIBA",
         "name": "CeloShiba",
         "address": "0x22401536505dd5d85F7d57f8B37172feDa8f499d",
-        "decimals": 9,
+        "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cshiba.jpg",
         "coingeckoId": null,
@@ -799,7 +838,7 @@
         "symbol": "USDC-POS",
         "name": "Optics USDC v2 POS",
         "address": "0x1bfc26cE035c368503fAE319Cc2596716428ca44",
-        "decimals": 6,
+        "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets//logo.png",
         "coingeckoId": null,

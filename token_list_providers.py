@@ -83,6 +83,10 @@ class TokenListProvider:
                         continue
                 if not t.get("coingeckoId"):
                     t["coingeckoId"] = coingecko_ids.get(str(t["chainId"]), {}).get(t["address"].lower())
+                if t.get("decimals") is None:
+                    t["decimals"] = 18
+                elif t.get("tokenDecimal") is None:
+                    t["tokenDecimal"] = 18
                 parsed_token = Token.parse_obj(t)
                 res[parsed_token.chainId].append(parsed_token)
             log.info(f"[{cls.name}] {chain_id} {chain_name} OK")
@@ -277,27 +281,27 @@ class TrisolarisLabsLists(TokenListProvider):
     }
 
 
-class RubicLists(TokenListProvider):
-    name = "rubic"
-    base_url = "https://api.rubic.exchange/api/tokens/?network={}"
-    chains = {
-        "-2": "near",
-        "-1": "solana",
-        "1": "ethereum",
-        # "25": "cronos",
-        "40": "telos",
-        "56": "binance-smart-chain",
-        "100": "xdai",
-        "137": "polygon",
-        "250": "fantom",
-        "1284": "moonbeam",
-        "1285": "moonriver",
-        "42161": "arbitrum",
-        "43114": "avalanche",
-        "1313161554": "aurora",
-        "1666600000": "harmony",
-    }
-    absent_chain_id = True
+# class RubicLists(TokenListProvider):
+#     name = "rubic"
+#     base_url = "https://api.rubic.exchange/api/tokens/?network={}"
+#     chains = {
+#         "-2": "near",
+#         "-1": "solana",
+#         "1": "ethereum",
+#         # "25": "cronos",
+#         "40": "telos",
+#         "56": "binance-smart-chain",
+#         "100": "xdai",
+#         "137": "polygon",
+#         "250": "fantom",
+#         "1284": "moonbeam",
+#         "1285": "moonriver",
+#         "42161": "arbitrum",
+#         "43114": "avalanche",
+#         "1313161554": "aurora",
+#         "1666600000": "harmony",
+#     }
+#     absent_chain_id = True
 
 
 class CronaSwapLists(TokenListProvider):
@@ -414,14 +418,14 @@ class Pangolin(TokenListProvider):
 
 class TraderJoe(TokenListProvider):
     name = "joe"
-    base_url = "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/joe.tokenlist.json"
+    base_url = "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/mc.tokenlist.json"
 
     chains = {"43114": "43114"}
 
 
 class ArbitrumBridge(TokenListProvider):
     name = "arbitrum_bridge"
-    base_url = "https://bridge.arbitrum.io/token-list-42161.json"
+    base_url = "https://tokenlist.arbitrum.io/ArbTokenLists/arbed_arb_whitelist_era.json"
 
     chains = {"42161": "42161", "1": "1"}
 
@@ -476,7 +480,7 @@ tokenlists_providers = [
     Pangolin,
     PancakeSwap,
     MojitoSwap,
-    RubicLists,
+    # RubicLists,
     Lifinance,
     XyFinance,
     ElkFinanceTokenLists,

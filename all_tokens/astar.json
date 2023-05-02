@@ -1,5 +1,17 @@
 [
     {
+        "symbol": "IBTC",
+        "name": "interBTC",
+        "address": "0xffFFFfFF00000000000000010000000000000004",
+        "decimals": 18,
+        "chainId": 592,
+        "logoURI": "https://assets.coingecko.com/coins/images/26217/thumb/interBTC_for_Exchanges.png?1656578114",
+        "coingeckoId": "interbtc",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "ACS",
         "name": "ACryptoS",
         "address": "0xf27Ee99622C3C9b264583dACB2cCE056e194494f",
@@ -9,6 +21,18 @@
         "coingeckoId": null,
         "listedIn": [
             "multichain"
+        ]
+    },
+    {
+        "symbol": "CERES",
+        "name": "Ceres",
+        "address": "0xe69583B62D7B7d8a568E1eC08f34B648589F4cF1",
+        "decimals": 18,
+        "chainId": 592,
+        "logoURI": "https://assets.coingecko.com/coins/images/17959/thumb/sQLDgqx.png?1648442923",
+        "coingeckoId": "ceres",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -49,6 +73,18 @@
         ]
     },
     {
+        "symbol": "DEO",
+        "name": "Demeter",
+        "address": "0xb51541df05DE07be38dcfc4a80c05389A54502BB",
+        "decimals": 18,
+        "chainId": 592,
+        "logoURI": "https://assets.coingecko.com/coins/images/25582/thumb/7zyskNC.png?1652767188",
+        "coingeckoId": "demeter",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "ESW",
         "name": "EmiDAO Token",
         "address": "0xb361DAD0Cc1a03404b650A69d9a5ADB5aF8A531F",
@@ -64,7 +100,7 @@
         "symbol": "WBTC",
         "name": "Wrapped Bitcoin",
         "address": "0xad543f18cFf85c77E140E3E5E3c3392f6Ba9d5CA",
-        "decimals": 8,
+        "decimals": 18,
         "chainId": 592,
         "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744",
         "coingeckoId": "wrapped-bitcoin",
@@ -77,7 +113,7 @@
         "symbol": "WDOT",
         "name": "WDOT",
         "address": "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF",
-        "decimals": 16,
+        "decimals": 18,
         "chainId": 592,
         "logoURI": "https://assets.coingecko.com/coins/images/12171/small/polkadot.png?1639712644",
         "coingeckoId": "wdot",
@@ -94,6 +130,18 @@
         "chainId": 592,
         "logoURI": "https://assets.coingecko.com/coins/images/27533/thumb/SEAN_Token_icon.png?1664411041",
         "coingeckoId": "starfish-finance",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "NASTR",
+        "name": "Liquid ASTR",
+        "address": "0xE511ED88575C57767BAfb72BfD10775413E3F2b0",
+        "decimals": 18,
+        "chainId": 592,
+        "logoURI": "https://assets.coingecko.com/coins/images/28481/thumb/Rectangle_152.png?1671028263",
+        "coingeckoId": "liquid-astr",
         "listedIn": [
             "coingecko"
         ]
@@ -149,18 +197,6 @@
         ]
     },
     {
-        "symbol": "STAR",
-        "name": "StarSwap",
-        "address": "0x8489f4554790F5A103F2B0398537eAEe68B73884",
-        "decimals": 18,
-        "chainId": 592,
-        "logoURI": "https://assets.coingecko.com/coins/images/26624/thumb/star-swap.png?1659319183",
-        "coingeckoId": "starswap",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "WETH",
         "name": "WETH",
         "address": "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
@@ -203,7 +239,7 @@
         "symbol": "USDC",
         "name": "USD Coin",
         "address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
-        "decimals": 6,
+        "decimals": 18,
         "chainId": 592,
         "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
         "coingeckoId": "usd-coin",
@@ -254,7 +290,7 @@
         "symbol": "BUSD",
         "name": "Binance USD",
         "address": "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
-        "decimals": 6,
+        "decimals": 18,
         "chainId": 592,
         "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766",
         "coingeckoId": "binance-usd",
@@ -280,7 +316,7 @@
         "symbol": "USDT",
         "name": "Tether",
         "address": "0x3795C36e7D12A8c252A20C5a7B455f7c57b60283",
-        "decimals": 6,
+        "decimals": 18,
         "chainId": 592,
         "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
         "coingeckoId": "tether",

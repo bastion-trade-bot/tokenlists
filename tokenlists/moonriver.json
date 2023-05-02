@@ -3,13 +3,12 @@
         "symbol": "RMRK",
         "name": "RMRK",
         "address": "0xffffffFF893264794d9d57E1E0E21E0042aF5A0A",
-        "decimals": 10,
+        "decimals": 18,
         "chainId": 1285,
         "logoURI": "https://assets.coingecko.com/coins/images/18656/small/download_%281%29_%281%29.png?1632865271",
         "coingeckoId": "rmrk",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance",
             "xyfinance"
         ]
@@ -24,7 +23,6 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
-            "rubic",
             "lifinance"
         ]
     },
@@ -64,7 +62,6 @@
         "coingeckoId": "elk-finance",
         "listedIn": [
             "coingecko",
-            "rubic",
             "elkfinance"
         ]
     },
@@ -78,56 +75,41 @@
         "coingeckoId": "riverboat",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
     },
     {
-        "symbol": "SPDR",
-        "name": "SpiderDAO",
-        "address": "0xb2c22A9fb4FC02eb9D1d337655Ce079a04a526C7",
-        "decimals": 18,
-        "chainId": 1285,
-        "logoURI": "https://assets.coingecko.com/coins/images/13378/thumb/spiderdao_logo.png?1608029180",
-        "coingeckoId": "spiderdao",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "FTM",
-        "name": "Fantom",
+        "symbol": "WFTM",
+        "name": "Wrapped Fantom",
         "address": "0xaD12daB5959f30b9fF3c2d6709f53C335dC39908",
         "decimals": 18,
         "chainId": 1285,
         "logoURI": "https://elk.finance/tokens/logos/moonriver/0xaD12daB5959f30b9fF3c2d6709f53C335dC39908/logo.png",
-        "coingeckoId": "fantom",
+        "coingeckoId": "wrapped-fantom",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
     },
     {
-        "symbol": "ANKR",
-        "name": "Ankr",
-        "address": "0xFd301Ca82D007880e678bB750a771550C5104Ff2",
-        "decimals": 9,
+        "symbol": "XCKSM",
+        "name": "xcKSM",
+        "address": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
+        "decimals": 18,
         "chainId": 1285,
-        "logoURI": "https://assets.coingecko.com/coins/images/4324/thumb/U85xTl2.png?1608111978",
-        "coingeckoId": "ankr",
+        "logoURI": "https://assets.coingecko.com/coins/images/28405/thumb/xcksm.jpeg?1670320744",
+        "coingeckoId": "xcksm",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "lifinance"
         ]
     },
     {
         "symbol": "MAI",
-        "name": "MAI Stablecoin",
+        "name": "Mai Stablecoin",
         "address": "0xFb2019DfD635a03cfFF624D210AEe6AF2B00fC2C",
         "decimals": 18,
         "chainId": 1285,
@@ -168,7 +150,7 @@
         "symbol": "WBTC",
         "name": "Wrapped Bitcoin - Meter",
         "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
-        "decimals": 8,
+        "decimals": 18,
         "chainId": 1285,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg",
         "coingeckoId": null,
@@ -178,45 +160,18 @@
         ]
     },
     {
-        "symbol": "BTCBR",
-        "name": "Bitcoin BR",
-        "address": "0xE57425F1598f9b0d6219706b77f4b3DA573a3695",
-        "decimals": 18,
-        "chainId": 1285,
-        "logoURI": "https://assets.coingecko.com/coins/images/21205/thumb/btcbr.png?1661666691",
-        "coingeckoId": "bitcoin-br",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "USDC",
         "name": "USD Coin - AnySwap",
         "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
-        "decimals": 6,
+        "decimals": 18,
         "chainId": 1285,
         "logoURI": "https://elk.finance/tokens/logos/moonriver/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
-            "rubic",
             "lifinance",
             "xyfinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "TEM",
-        "name": "Templar DAO",
-        "address": "0xD86E3F7B2Ff4e803f90c799D702955003bcA9875",
-        "decimals": 9,
-        "chainId": 1285,
-        "logoURI": "https://assets.coingecko.com/coins/images/21001/thumb/93573503.png?1638181698",
-        "coingeckoId": "templardao",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -242,7 +197,6 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -257,7 +211,6 @@
         "coingeckoId": "moonwell",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance"
         ]
     },
@@ -265,14 +218,13 @@
         "symbol": "USDT",
         "name": "Tether",
         "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
-        "decimals": 6,
+        "decimals": 18,
         "chainId": 1285,
         "logoURI": "https://elk.finance/tokens/logos/moonriver/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png",
         "coingeckoId": "tether",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "rubic",
             "lifinance",
             "xyfinance",
             "elkfinance"
@@ -289,7 +241,6 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -304,21 +255,7 @@
         "coingeckoId": "multichain",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "FINN",
-        "name": "Huckleberry",
-        "address": "0x9A92B5EBf1F6F6f7d93696FCD44e5Cf75035A756",
-        "decimals": 18,
-        "chainId": 1285,
-        "logoURI": "https://assets.coingecko.com/coins/images/19642/thumb/Finn_1_%28200x200%29.png?1635726736",
-        "coingeckoId": "huckleberry",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -331,24 +268,9 @@
         "coingeckoId": "moonriver",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance",
             "xyfinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "IMX",
-        "name": "Impermax  OLD ",
-        "address": "0x900f1Ec5819FA087d368877cD03B265Bf1802667",
-        "decimals": 18,
-        "chainId": 1285,
-        "logoURI": "https://assets.coingecko.com/coins/images/15126/thumb/Copy_of_200px.png?1619761475",
-        "coingeckoId": "impermax",
-        "listedIn": [
-            "coingecko",
-            "rubic",
-            "lifinance"
         ]
     },
     {
@@ -374,7 +296,6 @@
         "coingeckoId": "alpha-dex",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance"
         ]
     },
@@ -402,7 +323,6 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "rubic",
             "lifinance",
             "xyfinance",
             "elkfinance"
@@ -419,7 +339,6 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "rubic",
             "lifinance"
         ]
     },
@@ -434,7 +353,6 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "rubic",
             "lifinance"
         ]
     },
@@ -448,7 +366,6 @@
         "coingeckoId": "solarbeam",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance",
             "xyfinance",
             "elkfinance"
@@ -458,13 +375,12 @@
         "symbol": "WBTC",
         "name": "Wrapped Bitcoin",
         "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
-        "decimals": 8,
+        "decimals": 18,
         "chainId": 1285,
         "logoURI": "https://elk.finance/tokens/logos/moonriver/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8/logo.png",
         "coingeckoId": "wrapped-bitcoin",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance",
             "xyfinance",
             "elkfinance"
@@ -481,21 +397,7 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "rubic",
             "lifinance",
-            "elkfinance"
-        ]
-    },
-    {
-        "symbol": "LAIKA",
-        "name": "LaikaProtocol",
-        "address": "0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A",
-        "decimals": 9,
-        "chainId": 1285,
-        "logoURI": "https://elk.finance/tokens/logos/moonriver/0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A/logo.png",
-        "coingeckoId": "laika-protocol",
-        "listedIn": [
-            "rubic",
             "elkfinance"
         ]
     },
@@ -510,7 +412,6 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "rubic",
             "lifinance",
             "xyfinance",
             "elkfinance"
@@ -540,44 +441,28 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
     },
     {
-        "symbol": "RIVRDOGE",
+        "symbol": "RivrDoge",
         "name": "RivrDoge",
         "address": "0x5D4360f1Be94bD6f182F09cFE5EF9832e65EB1ac",
         "decimals": 18,
         "chainId": 1285,
         "logoURI": "https://rivrdoge.com/wp-content/uploads/2021/09/logo.png",
-        "coingeckoId": "rivrdoge",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "sushiswap",
-            "rubic",
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "KAFE",
-        "name": "MOONKAFE",
-        "address": "0x52f04C806EB82930F40D410259b7AF8E18d3BDc9",
-        "decimals": 18,
-        "chainId": 1285,
-        "logoURI": "https://elk.finance/tokens/logos/moonriver/0x52f04C806EB82930F40D410259b7AF8E18d3BDc9/logo.png",
-        "coingeckoId": "kukafe-finance",
-        "listedIn": [
-            "rubic",
-            "elkfinance"
         ]
     },
     {
         "symbol": "ROME",
         "name": "Rome",
         "address": "0x4a436073552044D5f2f49B176853ad3Ad473d9d6",
-        "decimals": 9,
+        "decimals": 18,
         "chainId": 1285,
         "logoURI": "https://assets.coingecko.com/coins/images/21078/small/rome-dao.jpeg?1638291936",
         "coingeckoId": "rome",
@@ -589,29 +474,15 @@
         ]
     },
     {
-        "symbol": "KMOON",
-        "name": "KusaMOON",
-        "address": "0x480CD4Fa911eeEFf93cB11135C97237455617862",
-        "decimals": 18,
-        "chainId": 1285,
-        "logoURI": "https://elk.finance/tokens/logos/moonriver/0x480CD4Fa911eeEFf93cB11135C97237455617862/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "rubic",
-            "elkfinance"
-        ]
-    },
-    {
         "symbol": "RIVRSHIBA",
         "name": "Rivr Shiba",
         "address": "0x3d593056F3e34dB7A4720d7F171447C489CFa195",
-        "decimals": 9,
+        "decimals": 18,
         "chainId": 1285,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/moonriver/assets/0x3d593056F3e34dB7A4720d7F171447C489CFa195/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
-            "rubic",
             "lifinance"
         ]
     },
@@ -619,7 +490,7 @@
         "symbol": "WSTKSM",
         "name": "Lido on Kusama",
         "address": "0x3bfd113ad0329a7994a681236323fb16E16790e3",
-        "decimals": 12,
+        "decimals": 18,
         "chainId": 1285,
         "logoURI": "https://assets.coingecko.com/coins/images/27858/thumb/wstKSM.png?1666096461",
         "coingeckoId": "lido-on-kusama",
@@ -629,29 +500,15 @@
         ]
     },
     {
-        "symbol": "VETH",
-        "name": "Voucher ETH",
-        "address": "0x3b25BC1dC591D24d60560d0135D6750A561D4764",
-        "decimals": 18,
-        "chainId": 1285,
-        "logoURI": "https://assets.coingecko.com/coins/images/14484/thumb/veth_logo_uniswap_200x200.png?1616471309",
-        "coingeckoId": "voucher-eth",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "aROME",
         "name": "Alpha Rome",
         "address": "0x3D2D044E8C6dAd46b4F7896418d3d4DFaAD902bE",
-        "decimals": 9,
+        "decimals": 18,
         "chainId": 1285,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/moonriver/0x3D2D044E8C6dAd46b4F7896418d3d4DFaAD902bE.jpg",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
-            "rubic",
             "lifinance"
         ]
     },
@@ -666,19 +523,6 @@
         "listedIn": [
             "sushiswap",
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "1SWAP",
-        "name": "1Swap Token",
-        "address": "0x3516a7588C2E6FFA66C9507eF51853eb85d76e5B",
-        "decimals": 18,
-        "chainId": 1285,
-        "logoURI": "https://elk.finance/tokens/logos/moonriver/0x3516a7588C2E6FFA66C9507eF51853eb85d76e5B/logo.png",
-        "coingeckoId": "1swap",
-        "listedIn": [
-            "rubic",
-            "elkfinance"
         ]
     },
     {
@@ -704,7 +548,6 @@
         "coingeckoId": "wbnb",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance",
             "xyfinance",
             "elkfinance"
@@ -733,7 +576,6 @@
         "coingeckoId": "polkapet-world",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance"
         ]
     },
@@ -748,7 +590,6 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "rubic",
             "lifinance",
             "xyfinance"
         ]
@@ -764,35 +605,20 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "rubic",
             "lifinance"
         ]
     },
     {
-        "symbol": "ALM",
-        "name": "Alium Finance",
-        "address": "0x1581929770bE3275a82068c1135b6dD59c5334Ed",
-        "decimals": 18,
-        "chainId": 1285,
-        "logoURI": "https://assets.coingecko.com/coins/images/15621/thumb/alium.png?1655449806",
-        "coingeckoId": "alium-finance",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "AVAX",
-        "name": "Avalanche",
+        "symbol": "WAVAX",
+        "name": "Wrapped AVAX",
         "address": "0x14a0243C333A5b238143068dC3A7323Ba4C30ECB",
         "decimals": 18,
         "chainId": 1285,
         "logoURI": "https://elk.finance/tokens/logos/moonriver/0x14a0243C333A5b238143068dC3A7323Ba4C30ECB/logo.png",
-        "coingeckoId": "avalanche-2",
+        "coingeckoId": "wrapped-avax",
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "rubic",
             "lifinance",
             "xyfinance",
             "elkfinance"
@@ -808,7 +634,6 @@
         "coingeckoId": "zenlink-network-token",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance"
         ]
     },
@@ -826,20 +651,6 @@
         ]
     },
     {
-        "symbol": "MARA",
-        "name": "Amara Finance",
-        "address": "0x0d2faA2064129ecBfAccD45be33DEA3bCD3F8863",
-        "decimals": 18,
-        "chainId": 1285,
-        "logoURI": "https://assets.coingecko.com/coins/images/24314/thumb/Ijmm6Xws_400x400.jpg?1647353447",
-        "coingeckoId": "amara-finance",
-        "listedIn": [
-            "coingecko",
-            "rubic",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "MIM",
         "name": "Magic Internet Money",
         "address": "0x0caE51e1032e8461f4806e26332c030E34De3aDb",
@@ -850,7 +661,6 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -864,7 +674,6 @@
         "logoURI": "https://assets.coingecko.com/coins/images/17984/small/9285.png?1630028620",
         "coingeckoId": "moonriver",
         "listedIn": [
-            "rubic",
             "lifinance",
             "xyfinance"
         ]

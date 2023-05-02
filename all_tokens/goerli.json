@@ -24,10 +24,22 @@
         ]
     },
     {
+        "symbol": "cbETH",
+        "name": "Coinbase Wrapped Staked ETH",
+        "address": "0xD0bb78d0B337aA6D3A0530DD2e58560bf00851f1",
+        "decimals": 18,
+        "chainId": 5,
+        "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "USDT",
         "name": "Tether USD",
         "address": "0xC2C527C0CACF457746Bd31B2a698Fe89de2b6d49",
-        "decimals": 6,
+        "decimals": 18,
         "chainId": 5,
         "logoURI": "https://ethereum-optimism.github.io/data/USDT/logo.png",
         "coingeckoId": null,
@@ -39,9 +51,21 @@
         "symbol": "WBTC",
         "name": "Wrapped BTC",
         "address": "0xC04B0d3107736C32e19F1c62b2aF67BE61d63a05",
-        "decimals": 8,
+        "decimals": 18,
         "chainId": 5,
         "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "DRGIV4",
+        "name": "Giveth Test Token",
+        "address": "0xB9a344f23792bd2F72D050c2De8ccD6F4e700e4F",
+        "decimals": 18,
+        "chainId": 5,
+        "logoURI": "https://ethereum-optimism.github.io/data/GIV/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
@@ -67,6 +91,30 @@
         "decimals": 18,
         "chainId": 5,
         "logoURI": "https://ethereum-optimism.github.io/data/WMP/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "RPL",
+        "name": "Rocket Pool Protocol",
+        "address": "0x5e932688E81a182e3dE211dB6544F98b8e4f89C7",
+        "decimals": 18,
+        "chainId": 5,
+        "logoURI": "https://ethereum-optimism.github.io/data/RPL/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "frxETH",
+        "name": "Frax Ether",
+        "address": "0x5E8422345238F34275888049021821E8E08CAa1f",
+        "decimals": 18,
+        "chainId": 5,
+        "logoURI": "https://ethereum-optimism.github.io/data/frxETH/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
@@ -115,6 +163,30 @@
         "decimals": 18,
         "chainId": 5,
         "logoURI": "https://ethereum-optimism.github.io/data/MOCHI/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "ECO",
+        "name": "Eco",
+        "address": "0x3E87d4d9E69163E7590f9b39a70853cf25e5ABE3",
+        "decimals": 18,
+        "chainId": 5,
+        "logoURI": "https://ethereum-optimism.github.io/data/ECO/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "COMP",
+        "name": "Compound",
+        "address": "0x3587b2F7E0E2D6166d6C14230e7Fe160252B0ba4",
+        "decimals": 18,
+        "chainId": 5,
+        "logoURI": "https://ethereum-optimism.github.io/data/COMP/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
@@ -170,6 +242,18 @@
         ]
     },
     {
+        "symbol": "rETH",
+        "name": "Rocket Pool ETH",
+        "address": "0x178E141a0E3b34152f73Ff610437A7bf9B83267A",
+        "decimals": 18,
+        "chainId": 5,
+        "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "DAI",
         "name": "Dai Stablecoin",
         "address": "0x11fE4B6AE13d2a6055C8D9cF65c55bac32B5d844",
@@ -209,7 +293,7 @@
         "symbol": "USDC",
         "name": "USD Coin",
         "address": "0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
-        "decimals": 6,
+        "decimals": 18,
         "chainId": 5,
         "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
         "coingeckoId": null,

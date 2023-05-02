@@ -3,7 +3,7 @@
         "symbol": "fDoge",
         "name": "Fuse Doge",
         "address": "0xebB82851b8e1348Cc774442735B710b4Cd105210",
-        "decimals": 9,
+        "decimals": 18,
         "chainId": 122,
         "logoURI": "https://elk.finance/tokens/logos/fuse/0xebB82851b8e1348Cc774442735B710b4Cd105210/logo.png",
         "coingeckoId": null,
@@ -61,13 +61,13 @@
         ]
     },
     {
-        "symbol": "CNS",
-        "name": "Coineus",
-        "address": "0xc2E299b47398963c618De5b05C6BdeCd4cc64022",
+        "symbol": "fUSD",
+        "name": "Fuse Dollar",
+        "address": "0xd0ce1b4A349C35e61Af02f5971e71ac502441E49",
         "decimals": 18,
         "chainId": 122,
-        "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xc2E299b47398963c618De5b05C6BdeCd4cc64022/logo.png",
-        "coingeckoId": null,
+        "logoURI": "https://static.debank.com/image/fuse_token/logo_url/0xd0ce1b4a349c35e61af02f5971e71ac502441e49/4db7f2d35e6ae655690aeb75dbdfd99a.png",
+        "coingeckoId": "fuse-dollar",
         "listedIn": [
             "lifinance"
         ]
@@ -103,7 +103,7 @@
         "symbol": "USDT",
         "name": "Tether USD",
         "address": "0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10",
-        "decimals": 6,
+        "decimals": 18,
         "chainId": 122,
         "logoURI": "https://elk.finance/tokens/logos/fuse/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/logo.png",
         "coingeckoId": "tether",
@@ -200,6 +200,18 @@
         ]
     },
     {
+        "symbol": "BTZ",
+        "name": "Bitazza",
+        "address": "0x7641d492c17795Fb4cbaa8DF99116c9c482C81a8",
+        "decimals": 18,
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x7641d492c17795Fb4cbaa8DF99116c9c482C81a8/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "BNB",
         "name": "BNB",
         "address": "0x6acb34b1Df86E254b544189Ec32Cf737e2482058",
@@ -231,7 +243,7 @@
         "symbol": "USDC",
         "name": "USD Coin",
         "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
-        "decimals": 6,
+        "decimals": 18,
         "chainId": 122,
         "logoURI": "https://elk.finance/tokens/logos/fuse/0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5/logo.png",
         "coingeckoId": "usd-coin",
@@ -269,10 +281,22 @@
         ]
     },
     {
+        "symbol": "CEUS",
+        "name": "Coineus",
+        "address": "0x4e69Ae0CD024754655b4eF74F24A8DCB39Ba07e8",
+        "decimals": 18,
+        "chainId": 122,
+        "logoURI": "https://static.debank.com/image/fuse_token/logo_url/0x4e69ae0cd024754655b4ef74f24a8dcb39ba07e8/d03f1f13bd1ac88afab64a4bfa869839.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "G$",
         "name": "GoodDollar",
         "address": "0x495d133B938596C9984d462F007B676bDc57eCEC",
-        "decimals": 2,
+        "decimals": 18,
         "chainId": 122,
         "logoURI": "https://elk.finance/tokens/logos/fuse/0x495d133B938596C9984d462F007B676bDc57eCEC/logo.png",
         "coingeckoId": null,
@@ -313,7 +337,7 @@
         "symbol": "GRIM",
         "name": "GrimaceCoin",
         "address": "0x427C995a0623157a3c1c6b8b86410B5B3A26061B",
-        "decimals": 9,
+        "decimals": 18,
         "chainId": 122,
         "logoURI": "https://elk.finance/tokens/logos/fuse/0x427C995a0623157a3c1c6b8b86410B5B3A26061B/logo.png",
         "coingeckoId": null,
@@ -327,7 +351,7 @@
         "address": "0x34Ef2Cc892a88415e9f02b91BfA9c91fC0bE6bD4",
         "decimals": 18,
         "chainId": 122,
-        "logoURI": "https://static.debank.com/image/fuse_token/logo_url/0x34ef2cc892a88415e9f02b91bfa9c91fc0be6bd4/af184e8935d0d8909b35cc37b2979552.png",
+        "logoURI": "https://static.debank.com/image/fuse_token/logo_url/0x34ef2cc892a88415e9f02b91bfa9c91fc0be6bd4/27c073bbd2e4ab85dd8272331f91b8b8.png",
         "coingeckoId": "fusefi",
         "listedIn": [
             "lifinance"
@@ -337,7 +361,7 @@
         "symbol": "WBTC",
         "name": "Wrapped BTC",
         "address": "0x33284f95ccb7B948d9D352e1439561CF83d8d00d",
-        "decimals": 8,
+        "decimals": 18,
         "chainId": 122,
         "logoURI": "https://elk.finance/tokens/logos/fuse/0x33284f95ccb7B948d9D352e1439561CF83d8d00d/logo.png",
         "coingeckoId": "wrapped-bitcoin",
@@ -395,7 +419,7 @@
         "decimals": 18,
         "chainId": 122,
         "logoURI": "https://elk.finance/tokens/logos/fuse/0x249BE57637D8B013Ad64785404b24aeBaE9B098B/logo.png",
-        "coingeckoId": "fuse-dollar",
+        "coingeckoId": null,
         "listedIn": [
             "sushiswap",
             "fuseswap",
