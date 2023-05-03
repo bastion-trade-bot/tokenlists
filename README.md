@@ -41,8 +41,8 @@ Here are chains presented in our tokenlists with current token count. You can fi
 Token counts are approximate and may vary as providers update their tokenlists.
 
 - Ethereum, 1581 tokens
-- Bsc, 1013 tokens
-- Polygon, 652 tokens
+- Bsc, 1011 tokens
+- Polygon, 650 tokens
 - 101, 507 tokens
 - Avax, 323 tokens
 - Ftm, 290 tokens
