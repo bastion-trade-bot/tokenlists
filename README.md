@@ -47,7 +47,7 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Avax, 323 tokens
 - Ftm, 290 tokens
 - Solana, 279 tokens
-- Arbitrum, 212 tokens
+- Arbitrum, 213 tokens
 - Heco, 197 tokens
 - Optimism, 137 tokens
 - Gnosis, 115 tokens
