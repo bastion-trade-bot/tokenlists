@@ -2313,6 +2313,19 @@
             ]
         },
         {
+            "symbol": "POGAI",
+            "name": "POGAI",
+            "address": "0x6fD58f5a2F3468e35fEb098b5F59F04157002407",
+            "decimals": 18,
+            "chainId": 42161,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24859.png",
+            "coingeckoId": "pogai",
+            "listedIn": [
+                "coingecko",
+                "xyfinance"
+            ]
+        },
+        {
             "symbol": "FCTR",
             "name": "FactorDAO",
             "address": "0x6dD963C510c2D2f09d5eDdB48Ede45FeD063Eb36",
@@ -2365,6 +2378,19 @@
             "chainId": 42161,
             "logoURI": "https://assets.coingecko.com/coins/images/10390/thumb/cfeii0y.png?1578868949",
             "coingeckoId": "jarvis-reward-token",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "DOLA",
+            "name": "DOLA",
+            "address": "0x6A7661795C374c0bFC635934efAddFf3A7Ee23b6",
+            "decimals": 18,
+            "chainId": 42161,
+            "logoURI": "https://assets.coingecko.com/coins/images/14287/thumb/dola.png?1667738374",
+            "coingeckoId": "dola-usd",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -13311,6 +13337,19 @@
             ]
         },
         {
+            "symbol": "WOJ",
+            "name": "Wojak Finance",
+            "address": "0x55F96C7005D7C684A65Ee653B07b5FE1507C56ab",
+            "decimals": 9,
+            "chainId": 56,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12359.png",
+            "coingeckoId": "wojak-finance",
+            "listedIn": [
+                "coingecko",
+                "xyfinance"
+            ]
+        },
+        {
             "symbol": "PACOCA",
             "name": "Pacoca",
             "address": "0x55671114d774ee99D653D6C12460c780a67f1D18",
@@ -19311,10 +19350,11 @@
             "address": "0xbf60e7414EF09026733c1E7de72E7393888C64DA",
             "decimals": 18,
             "chainId": 250,
-            "logoURI": "https://assets.coingecko.com/coins/images/26007/thumb/LIF3.png?1655279569",
+            "logoURI": "https://s3.openocean.finance/token_logos/logos/1683279362599_71360270606065.png",
             "coingeckoId": "lif3",
             "listedIn": [
                 "coingecko",
+                "openocean",
                 "lifinance"
             ]
         },
@@ -21138,6 +21178,7 @@
             "listedIn": [
                 "coingecko",
                 "1inch",
+                "openocean",
                 "lifinance"
             ]
         },
@@ -45890,6 +45931,19 @@
             ]
         },
         {
+            "symbol": "PLEB",
+            "name": "PLEB Token",
+            "address": "0xe19f85c920B572cA48942315B06D6cAc86585c87",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24583.png",
+            "coingeckoId": "pleb-token",
+            "listedIn": [
+                "coingecko",
+                "xyfinance"
+            ]
+        },
+        {
             "symbol": "CLAW",
             "name": "Claw  OLD ",
             "address": "0xe115401B985306837B9f1495c8e9d7f8f8328cc3",
@@ -58118,7 +58172,7 @@
             "decimals": 9,
             "chainId": 1,
             "logoURI": "https://tokens.1inch.io/0x67c597624b17b16fb77959217360b7cd18284253.png",
-            "coingeckoId": "benchmark-protocol",
+            "coingeckoId": null,
             "listedIn": [
                 "coingecko",
                 "1inch",
@@ -74465,19 +74519,6 @@
             ]
         },
         {
-            "symbol": "BTC",
-            "name": "Bitcoin",
-            "address": "0xf390830DF829cf22c53c8840554B98eafC5dCBc2",
-            "decimals": 8,
-            "chainId": 40,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xf390830DF829cf22c53c8840554B98eafC5dCBc2/logo.png",
-            "coingeckoId": "wrapped-bitcoin",
-            "listedIn": [
-                "sushiswap",
-                "elkfinance"
-            ]
-        },
-        {
             "symbol": "USDT",
             "name": "Tether USD",
             "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
@@ -74511,19 +74552,6 @@
             "chainId": 40,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4/logo.png",
             "coingeckoId": "wrapped-fantom",
-            "listedIn": [
-                "sushiswap",
-                "elkfinance"
-            ]
-        },
-        {
-            "symbol": "SUSHI",
-            "name": "SushiToken",
-            "address": "0x922D641a426DcFFaeF11680e5358F34d97d112E1",
-            "decimals": 18,
-            "chainId": 40,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0x922D641a426DcFFaeF11680e5358F34d97d112E1/logo.png",
-            "coingeckoId": null,
             "listedIn": [
                 "sushiswap",
                 "elkfinance"
