@@ -44,7 +44,7 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Bsc, 1011 tokens
 - Polygon, 650 tokens
 - 101, 507 tokens
-- Avax, 323 tokens
+- Avax, 324 tokens
 - Ftm, 290 tokens
 - Solana, 279 tokens
 - Arbitrum, 213 tokens
