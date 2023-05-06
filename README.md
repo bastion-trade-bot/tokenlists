@@ -62,8 +62,8 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Evmos, 22 tokens
 - Astar, 15 tokens
 - Boba, 11 tokens
+- Telos, 10 tokens
 - Kcc, 9 tokens
-- Telos, 8 tokens
 
 Testnets:
 

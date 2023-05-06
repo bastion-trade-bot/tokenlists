@@ -13,6 +13,19 @@
         ]
     },
     {
+        "symbol": "BTC",
+        "name": "Bitcoin",
+        "address": "0xf390830DF829cf22c53c8840554B98eafC5dCBc2",
+        "decimals": 8,
+        "chainId": 40,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xf390830DF829cf22c53c8840554B98eafC5dCBc2/logo.png",
+        "coingeckoId": "wrapped-bitcoin",
+        "listedIn": [
+            "sushiswap",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "USDT",
         "name": "Tether USD",
         "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
@@ -46,6 +59,19 @@
         "chainId": 40,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4/logo.png",
         "coingeckoId": "wrapped-fantom",
+        "listedIn": [
+            "sushiswap",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "SUSHI",
+        "name": "SushiToken",
+        "address": "0x922D641a426DcFFaeF11680e5358F34d97d112E1",
+        "decimals": 18,
+        "chainId": 40,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/telos/0x922D641a426DcFFaeF11680e5358F34d97d112E1/logo.png",
+        "coingeckoId": null,
         "listedIn": [
             "sushiswap",
             "elkfinance"
