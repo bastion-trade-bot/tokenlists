@@ -3097,14 +3097,13 @@
         },
         {
             "symbol": "RDNT",
-            "name": "Radiant Capital",
+            "name": "Radiant",
             "address": "0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017",
             "decimals": 18,
             "chainId": 42161,
             "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017/logo.png",
             "coingeckoId": null,
             "listedIn": [
-                "openocean",
                 "joe",
                 "lifinance"
             ]
@@ -5464,7 +5463,6 @@
             "listedIn": [
                 "coingecko",
                 "1inch",
-                "openocean",
                 "pancake",
                 "lifinance",
                 "elkfinance"
@@ -21809,6 +21807,20 @@
             ]
         },
         {
+            "symbol": "SPEPE",
+            "name": "Saiyan PEPE",
+            "address": "0xfcA466F2fA8E667a517C9C6cfa99Cf985be5d9B1",
+            "decimals": 18,
+            "chainId": 137,
+            "logoURI": "https://i.imgur.com/gwmgrf0.png",
+            "coingeckoId": "saiyan-pepe",
+            "listedIn": [
+                "coingecko",
+                "quickswap",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "eUSDT",
             "name": "Easy USDT",
             "address": "0xfc39742Fe9420a7Af23757Fc7E78D1c3AE4A9474",
@@ -25404,6 +25416,19 @@
             ]
         },
         {
+            "symbol": "axlPEPE",
+            "name": "Axelar Wrapped PEPE",
+            "address": "0x8baE3F5Eb10F39663E57Be19741FD9ccEF0E113a",
+            "decimals": 18,
+            "chainId": 137,
+            "logoURI": "https://assets.coingecko.com/coins/images/29850/small/pepe-token.jpeg?1682922725",
+            "coingeckoId": null,
+            "listedIn": [
+                "quickswap",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "DEGEN",
             "name": "DEGEN Index",
             "address": "0x8a2870fb69A90000D6439b7aDfB01d4bA383A415",
@@ -27590,6 +27615,33 @@
             "listedIn": [
                 "sushiswap",
                 "lifinance"
+            ]
+        },
+        {
+            "symbol": "cbETH",
+            "name": "Coinbase Wrapped Staked ETH",
+            "address": "0x4b4327dB1600B8B1440163F667e199CEf35385f5",
+            "decimals": 18,
+            "chainId": 137,
+            "logoURI": "https://dynamic-assets.coinbase.com/55517c7b84cff054d0bf84f6d82680b5368915854f855ec4fe0178478a637b18a985ec85b87387beb2ae2a1b276fcb320ac7451c358302ceebb179c58934ff65/asset_icons/93aa525880c2df46f3d5404cff1844a42f1a5d1fc812128ae3f70f2ce4a882e1.png",
+            "coingeckoId": null,
+            "listedIn": [
+                "quickswap",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "BLID",
+            "name": "Bolide",
+            "address": "0x4b27Cd6E6a5E83d236eAD376D256Fe2F9e9f0d2E",
+            "decimals": 18,
+            "chainId": 137,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20765.png",
+            "coingeckoId": null,
+            "listedIn": [
+                "quickswap",
+                "lifinance",
+                "xyfinance"
             ]
         },
         {
@@ -50187,10 +50239,11 @@
             "address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
             "decimals": 18,
             "chainId": 1,
-            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24478.png",
+            "logoURI": "https://tokens.1inch.io/0x6982508145454ce325ddbe47a25d4ec3d2311933.png",
             "coingeckoId": "pepe",
             "listedIn": [
                 "coingecko",
+                "1inch",
                 "uniswap",
                 "openocean",
                 "lifinance",
