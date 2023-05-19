@@ -57,7 +57,8 @@
         "coingeckoId": "mt-pelerin-shares",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -295,6 +296,18 @@
         "coingeckoId": null,
         "listedIn": [
             "1inch"
+        ]
+    },
+    {
+        "symbol": "FCL",
+        "name": "Fractal Protocol Token",
+        "address": "0xe68856eb29B2FB39699286CcA7F10f90Ce8AE9De",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xe68856eb29b2fb39699286cca7f10f90ce8ae9de/a166f40145a5b5dcabe25cd93b89126c.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -821,6 +834,7 @@
         "coingeckoId": "yearn-finance",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1265,6 +1279,7 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xFAdc59D012Ba3c110B08A15B7755A5cb7Cbe77D7/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1620,6 +1635,7 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xDf6FF92bfDC1e8bE45177DC1f4845d391D3ad8fD/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1658,6 +1674,7 @@
         "listedIn": [
             "sushiswap",
             "openocean",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1848,6 +1865,7 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xD057604A14982FE8D88c5fC25Aac3267eA142a08/logo.png",
         "coingeckoId": "hopr",
         "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -2211,13 +2229,14 @@
     },
     {
         "symbol": "sUSD",
-        "name": "Synthetix USD on xDai",
+        "name": "Synth sUSD on xDai",
         "address": "0xB1950Fb2C9C0CbC8553578c67dB52Aa110A93393",
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xB1950Fb2C9C0CbC8553578c67dB52Aa110A93393/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -2459,6 +2478,7 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x9a495a281D959192343B0e007284bf130bd05F86/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -3290,6 +3310,7 @@
         "coingeckoId": null,
         "listedIn": [
             "openocean",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -3303,6 +3324,7 @@
         "coingeckoId": "perpetual-protocol",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -3316,6 +3338,7 @@
         "coingeckoId": "balancer",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -3584,14 +3607,15 @@
         ]
     },
     {
-        "symbol": "FTT",
-        "name": "FTX Token",
+        "symbol": "FTX Token",
+        "name": "FTT on xDai",
         "address": "0x75886F00c1a20Ec1511111Fb4Ec3C51de65B1fe7",
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x75886F00c1a20Ec1511111Fb4Ec3C51de65B1fe7/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -3741,6 +3765,7 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -3878,6 +3903,18 @@
         "coingeckoId": null,
         "listedIn": [
             "1inch"
+        ]
+    },
+    {
+        "symbol": "wstETH",
+        "name": "Wrapped liquid staked Ether 2.0 from Mainnet",
+        "address": "0x6C76971f98945AE98dD7d4DFcA8711ebea946eA6",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://static.debank.com/image/op_token/logo_url/0x1f32b1c2345538c0c6f582fcb022739c4a194ebb/4e742896fd0e8ecaf23bf8b6f9d79cfe.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -4126,6 +4163,7 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x5fd896D248fbfa54d26855C267859eb1b4DAEe72/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -4417,7 +4455,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/18740/thumb/swapr.jpg?1633516501",
         "coingeckoId": "swapr",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -4645,6 +4684,7 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x4A88248BAa5b39bB4A9CAa697Fb7f8ae0C3f0ddB/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -4673,6 +4713,18 @@
             "1inch",
             "lifinance",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "MR",
+        "name": "MoonRock from Mainnet",
+        "address": "0x481D6104761442F162d1f7AC3DC6F98896e7A4ef",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -4724,6 +4776,7 @@
         "coingeckoId": "uniswap",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -4949,6 +5002,7 @@
         "coingeckoId": "mimatic",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -4997,6 +5051,7 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x3A00E08544d589E19a8e7D97D0294331341cdBF6/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -5401,6 +5456,7 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x2bE73bFeEC620aa9B67535A4D3827bB1e29436D1/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -6117,6 +6173,18 @@
         ]
     },
     {
+        "symbol": "HND",
+        "name": "Hundred Finance",
+        "address": "0x10010078a54396F62c96dF8532dc2B4847d47ED3",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0x10010078a54396f62c96df8532dc2b4847d47ed3/cae168ae659748f245f0d57b76521952.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "REALTOKEN-S-17204-BRADFORD-AVE-DETROIT-MI",
         "name": "RealToken S 17204 Bradford Ave Detroit MI",
         "address": "0x0fd357eA71AD533c6b8A62520321Ed286Ed9a0C2",
@@ -6137,6 +6205,7 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x0da1a02CDF84C44021671d183d616925164E08Aa/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },

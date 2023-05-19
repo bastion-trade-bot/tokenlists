@@ -9,6 +9,7 @@
         "coingeckoId": "meerkat-shares",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "xyfinance"
         ]
     },
@@ -268,7 +269,21 @@
         "coingeckoId": "mad-meerkat-etf",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "xyfinance"
+        ]
+    },
+    {
+        "symbol": "FTM",
+        "name": "Fantom",
+        "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+        "decimals": 18,
+        "chainId": 25,
+        "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "cronaswap"
         ]
     },
     {
@@ -374,6 +389,32 @@
         "listedIn": [
             "coingecko",
             "xyfinance",
+            "cronaswap"
+        ]
+    },
+    {
+        "symbol": "AVAX",
+        "name": "Avalanche",
+        "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+        "decimals": 18,
+        "chainId": 25,
+        "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x765277EebeCA2e31912C9946eAe1021199B39C61/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "cronaswap"
+        ]
+    },
+    {
+        "symbol": "BUSD",
+        "name": "Binance-Peg BUSD Token",
+        "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+        "decimals": 18,
+        "chainId": 25,
+        "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
             "cronaswap"
         ]
     },
@@ -563,6 +604,7 @@
         "coingeckoId": "mad-bucks",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "xyfinance"
         ]
     },
@@ -602,6 +644,7 @@
         "coingeckoId": "single-finance",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "xyfinance"
         ]
     },
