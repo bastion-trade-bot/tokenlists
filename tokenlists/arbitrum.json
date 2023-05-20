@@ -439,7 +439,8 @@
         "listedIn": [
             "coingecko",
             "openocean",
-            "arbitrum_bridge"
+            "arbitrum_bridge",
+            "lifinance"
         ]
     },
     {
@@ -652,7 +653,8 @@
         "coingeckoId": "xtoken",
         "listedIn": [
             "coingecko",
-            "arbitrum_bridge"
+            "arbitrum_bridge",
+            "lifinance"
         ]
     },
     {
@@ -691,6 +693,19 @@
         "chainId": 42161,
         "logoURI": "https://assets.coingecko.com/coins/images/26476/thumb/axlUSDC.png?1658207579",
         "coingeckoId": "axlusdc",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "THALES",
+        "name": "Thales",
+        "address": "0xE85B662Fe97e8562f4099d8A1d5A92D4B453bF30",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/18388/thumb/CLVZJN_C_400x400.png?1631758808",
+        "coingeckoId": "thales",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -1468,7 +1483,8 @@
         "coingeckoId": "perpetual-protocol",
         "listedIn": [
             "coingecko",
-            "arbitrum_bridge"
+            "arbitrum_bridge",
+            "lifinance"
         ]
     },
     {
@@ -2252,6 +2268,19 @@
         ]
     },
     {
+        "symbol": "DERI",
+        "name": "Deri Protocol",
+        "address": "0x21E60EE73F17AC0A411ae5D690f908c3ED66Fe12",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/13931/thumb/200vs200.jpg?1627649443",
+        "coingeckoId": "deri-protocol",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "deUSDC",
         "name": "deBridge USD Coin",
         "address": "0x1dDcaa4Ed761428ae348BEfC6718BCb12e63bFaa",
@@ -2592,6 +2621,19 @@
         ]
     },
     {
+        "symbol": "IUSD",
+        "name": "iZUMi Bond USD",
+        "address": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/25388/thumb/iusd-logo-symbol-10k%E5%A4%A7%E5%B0%8F.png?1651660620",
+        "coingeckoId": "izumi-bond-usd",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "ARBY",
         "name": "Adamant Token",
         "address": "0x09ad12552ec45f82bE90B38dFE7b06332A680864",
@@ -2614,8 +2656,7 @@
         "coingeckoId": "arbdoge-ai",
         "listedIn": [
             "coingecko",
-            "openocean",
-            "lifinance"
+            "openocean"
         ]
     },
     {
@@ -2672,7 +2713,8 @@
         "coingeckoId": "lyra-finance",
         "listedIn": [
             "coingecko",
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
