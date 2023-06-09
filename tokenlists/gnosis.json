@@ -408,7 +408,7 @@
         "symbol": "USDC",
         "name": "USD Coin",
         "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
-        "decimals": 18,
+        "decimals": 6,
         "chainId": 100,
         "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
         "coingeckoId": "usd-coin",
@@ -499,7 +499,6 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "lifinance",
             "elkfinance"
@@ -963,6 +962,19 @@
         "listedIn": [
             "lifinance",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "WSTETH",
+        "name": "Wrapped stETH",
+        "address": "0x6C76971f98945AE98dD7d4DFcA8711ebea946eA6",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/18834/thumb/wstETH.png?1633565443",
+        "coingeckoId": "wrapped-steth",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {

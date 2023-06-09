@@ -1800,7 +1800,7 @@
         "symbol": "USDC",
         "name": "USD Coin",
         "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
-        "decimals": 18,
+        "decimals": 6,
         "chainId": 100,
         "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
         "coingeckoId": "usd-coin",
@@ -2155,7 +2155,6 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0xC45b3C1c24d5F54E7a2cF288ac668c74Dd507a84/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "lifinance",
             "elkfinance"
@@ -4109,18 +4108,6 @@
         ]
     },
     {
-        "symbol": "GTON",
-        "name": "GTON CAPITAL",
-        "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/15728/thumb/GC_logo_200x200.png?1642669327",
-        "coingeckoId": null,
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "REALTOKEN-S-13895-SARATOGA-ST-DETROIT-MI",
         "name": "RealToken S 13895 Saratoga St Detroit MI",
         "address": "0x6F442Da588232DC57Bf0096E8dE48D6961D5CC83",
@@ -4158,14 +4145,15 @@
         ]
     },
     {
-        "symbol": "wstETH",
-        "name": "Wrapped liquid staked Ether 2.0 from Mainnet",
+        "symbol": "WSTETH",
+        "name": "Wrapped stETH",
         "address": "0x6C76971f98945AE98dD7d4DFcA8711ebea946eA6",
         "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://static.debank.com/image/op_token/logo_url/0x1f32b1c2345538c0c6f582fcb022739c4a194ebb/4e742896fd0e8ecaf23bf8b6f9d79cfe.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/18834/thumb/wstETH.png?1633565443",
         "coingeckoId": "wrapped-steth",
         "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -4927,6 +4915,18 @@
         ]
     },
     {
+        "symbol": "AGEUR",
+        "name": "agEUR",
+        "address": "0x4b1E2c2762667331Bc91648052F646d1b0d35984",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/19479/thumb/agEUR.png?1635283566",
+        "coingeckoId": "ageur",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "REALTOKEN-S-10639-STRATMAN-ST-DETROIT-MI",
         "name": "RealToken S 10639 Stratman St Detroit MI",
         "address": "0x4a99cc509f7FaCF58D7B67E99236dB5e0921ef81",
@@ -5430,6 +5430,18 @@
         "coingeckoId": null,
         "listedIn": [
             "1inch"
+        ]
+    },
+    {
+        "symbol": "HIVEWATER",
+        "name": "hiveWater",
+        "address": "0x3A3e9715018d80916740E8Ac300713FDf6614d19",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://assets.coingecko.com/coins/images/30424/thumb/hivewater_transparent.png?1684397277",
+        "coingeckoId": "hivewater",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {

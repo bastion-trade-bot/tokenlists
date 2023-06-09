@@ -121,6 +121,19 @@
         ]
     },
     {
+        "symbol": "LOTUS",
+        "name": "White Lotus",
+        "address": "0xef261714F7E5ba6b86F4780eb6e3bf26B10729CF",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xef261714F7E5ba6b86F4780eb6e3bf26B10729CF/logo.png",
+        "coingeckoId": "white-lotus",
+        "listedIn": [
+            "coingecko",
+            "joe"
+        ]
+    },
+    {
         "symbol": "ACRV",
         "name": "Aladdin cvxCRV",
         "address": "0xebf1F92D4384118bFb91B4496660a95931c92861",
@@ -135,7 +148,7 @@
     },
     {
         "symbol": "DAI+",
-        "name": "DAI ",
+        "name": "Overnight fi DAI ",
         "address": "0xeb8E93A0c7504Bffd8A8fFa56CD754c63aAeBFe8",
         "decimals": 18,
         "chainId": 42161,
@@ -192,15 +205,29 @@
     },
     {
         "symbol": "USD+",
-        "name": "USD+",
+        "name": "Overnight fi USD ",
         "address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
         "decimals": 6,
         "chainId": 42161,
         "logoURI": "https://tokens.1inch.io/0xe80772eaf6e2e18b651f160bc9158b2a5cafca65.png",
         "coingeckoId": "usd",
         "listedIn": [
+            "coingecko",
             "1inch",
             "openocean",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "PLSJONES",
+        "name": "plsJONES",
+        "address": "0xe7f6C3c1F0018E4C08aCC52965e5cbfF99e34A44",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/30553/thumb/plsJONES.png?1685000456",
+        "coingeckoId": "plsjones",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -216,6 +243,19 @@
             "coingecko",
             "joe",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "FIEF",
+        "name": "Fief",
+        "address": "0xe2105bea3819d3131B5b2306D44Eb3271BfcFe0E",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xe2105bea3819d3131B5b2306D44Eb3271BfcFe0E/logo.png",
+        "coingeckoId": "fief",
+        "listedIn": [
+            "coingecko",
+            "joe"
         ]
     },
     {
@@ -298,7 +338,6 @@
         "logoURI": "https://s3.openocean.finance/token_logos/logos/1680604488324_033559270498115135.png",
         "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "openocean",
             "lifinance"
         ]
@@ -495,9 +534,11 @@
         "decimals": 6,
         "chainId": 42161,
         "logoURI": "https://tokens.1inch.io/0xaf88d065e77c8cc2239327c5edb3a432268e5831.png",
-        "coingeckoId": null,
+        "coingeckoId": "usd-coin",
         "listedIn": [
+            "coingecko",
             "1inch",
+            "openocean",
             "joe",
             "lifinance"
         ]
@@ -667,13 +708,13 @@
         ]
     },
     {
-        "symbol": "USDC",
-        "name": "USD Coin",
+        "symbol": "USDCE",
+        "name": "USD Coin Ethereum Bridged",
         "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
         "decimals": 6,
         "chainId": 42161,
         "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
-        "coingeckoId": "usd-coin",
+        "coingeckoId": "usd-coin-ethereum-bridged",
         "listedIn": [
             "coingecko",
             "1inch",
@@ -750,7 +791,7 @@
         "address": "0xF236ea74B515eF96a9898F5a4ed4Aa591f253Ce1",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/29652/thumb/plsDPX.png?1685070920",
         "coingeckoId": "plutus-dpx",
         "listedIn": [
             "coingecko",
@@ -1041,13 +1082,14 @@
     },
     {
         "symbol": "FUSE",
-        "name": "Fuse Token",
+        "name": "Fuse",
         "address": "0xBDeF0E9ef12E689F366fe494A7A7D0dad25D9286",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5634.png",
         "coingeckoId": "fuse-network-token",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "openocean",
             "arbitrum_bridge",
@@ -1081,14 +1123,28 @@
         ]
     },
     {
+        "symbol": "RPL",
+        "name": "Rocket Pool",
+        "address": "0xB766039cc6DB368759C1E56B79AFfE831d0Cc507",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/2090/thumb/rocket_pool_%28RPL%29.png?1637662441",
+        "coingeckoId": "rocket-pool",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "LVL",
-        "name": "Level Token",
+        "name": "Level",
         "address": "0xB64E280e9D1B5DbEc4AcceDb2257A87b400DB149",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": "https://tokens.1inch.io/0xb64e280e9d1b5dbec4accedb2257a87b400db149.png",
         "coingeckoId": "level",
         "listedIn": [
+            "coingecko",
             "1inch",
             "joe",
             "lifinance"
@@ -1146,19 +1202,6 @@
             "coingecko",
             "sushiswap",
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "DEGEN",
-        "name": "DEGEN Index",
-        "address": "0xAE6e3540E97b0b9EA8797B157B510e133afb6282",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/14143/thumb/alpha_logo.png?1614651244",
-        "coingeckoId": null,
-        "listedIn": [
-            "coingecko",
-            "arbitrum_bridge"
         ]
     },
     {
@@ -1601,6 +1644,19 @@
             "sushiswap",
             "lifinance",
             "xyfinance"
+        ]
+    },
+    {
+        "symbol": "DMT",
+        "name": "Dream Machine Token",
+        "address": "0x8B0E6f19Ee57089F7649A455D89D7bC6314D04e8",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x8B0E6f19Ee57089F7649A455D89D7bC6314D04e8/logo.png",
+        "coingeckoId": "dream-machine-token",
+        "listedIn": [
+            "coingecko",
+            "joe"
         ]
     },
     {
@@ -2067,6 +2123,19 @@
         ]
     },
     {
+        "symbol": "OPEN",
+        "name": "OpenWorld",
+        "address": "0x58CB98A966F62aA6F2190eB3AA03132A0c3de3D5",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/19416/thumb/open-transparent.png?1671958979",
+        "coingeckoId": "cryptowar-xblade",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "MMF",
         "name": "MMFinance  Arbitrum ",
         "address": "0x56b251d4b493ee3956E3f899D36b7290902D2326",
@@ -2130,6 +2199,19 @@
         "chainId": 42161,
         "logoURI": "https://assets.coingecko.com/coins/images/13454/thumb/lon_logo.png?1608701720",
         "coingeckoId": "tokenlon",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "ARTH",
+        "name": "ARTH",
+        "address": "0x5441695f4445E40900b4c4B0Fb3eD2B9E51601A6",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/16876/thumb/Ik5dhOq.png?1674126397",
+        "coingeckoId": "arth",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -2380,6 +2462,7 @@
         "logoURI": "https://s3.openocean.finance/token_logos/logos/1684407083031_41084804010732645.JPG",
         "coingeckoId": "milady-meme-coin",
         "listedIn": [
+            "coingecko",
             "openocean",
             "lifinance"
         ]
@@ -2485,6 +2568,7 @@
         "logoURI": "https://s3.openocean.finance/token_logos/logos/1683171643713_14968656293046356.jpg",
         "coingeckoId": "kujira",
         "listedIn": [
+            "coingecko",
             "openocean",
             "lifinance"
         ]
@@ -2502,19 +2586,6 @@
             "1inch",
             "openocean",
             "joe",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "PANA",
-        "name": "PANA",
-        "address": "0x369eB8197062093a20402935D3a707b4aE414E9D",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/27031/thumb/pana_logo.png?1661495937",
-        "coingeckoId": null,
-        "listedIn": [
-            "coingecko",
             "lifinance"
         ]
     },
@@ -2674,6 +2745,19 @@
         "listedIn": [
             "coingecko",
             "openocean",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "MUMU",
+        "name": "Mumu The Bull",
+        "address": "0x27e2209f4CeAebed97899eA2d8302Dee690d3820",
+        "decimals": 9,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/30185/thumb/mumu_200x200.png?1683600598",
+        "coingeckoId": "mumu-the-bull",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },

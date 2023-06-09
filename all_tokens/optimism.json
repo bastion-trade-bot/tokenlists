@@ -530,7 +530,7 @@
         ]
     },
     {
-        "symbol": "cbETH",
+        "symbol": "CBETH",
         "name": "Coinbase Wrapped Staked ETH",
         "address": "0xadDb6A0412DE1BA0F936DCaeb8Aaa24578dcF3B2",
         "decimals": 18,
@@ -538,6 +538,7 @@
         "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg",
         "coingeckoId": "coinbase-wrapped-staked-eth",
         "listedIn": [
+            "coingecko",
             "optimism",
             "lifinance"
         ]
@@ -687,6 +688,7 @@
         "logoURI": "https://ethereum-optimism.github.io/data/FOX/logo.svg",
         "coingeckoId": "shapeshift-fox-token",
         "listedIn": [
+            "coingecko",
             "optimism",
             "lifinance"
         ]
@@ -1251,6 +1253,18 @@
         ]
     },
     {
+        "symbol": "PIKA",
+        "name": "Pika Protocol",
+        "address": "0x9A601C5bb360811d96A23689066af316a30c3027",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "https://assets.coingecko.com/coins/images/30279/thumb/Pika_protocol.png?1683796032",
+        "coingeckoId": "pika-protocol",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "BEETS",
         "name": "Beethoven X",
         "address": "0x97513e975a7fA9072c72C92d8000B0dB90b163c5",
@@ -1266,7 +1280,7 @@
     },
     {
         "symbol": "DAI+",
-        "name": "DAI ",
+        "name": "Overnight fi DAI ",
         "address": "0x970D50d09F3a656b43E11B0D45241a84e3a6e011",
         "decimals": 18,
         "chainId": 10,
@@ -1718,7 +1732,7 @@
     },
     {
         "symbol": "USD+",
-        "name": "USD ",
+        "name": "Overnight fi USD ",
         "address": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
         "decimals": 6,
         "chainId": 10,
