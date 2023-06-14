@@ -1,5 +1,18 @@
 [
     {
+        "symbol": "WETH (Deprecated)",
+        "name": "Wrapped Ether on Fuse",
+        "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
+        "decimals": 18,
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "fuseswap",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "WETH",
         "name": "Wrapped Ether",
         "address": "0xa722c13135930332Eb3d749B2F0906559D2C5b99",
@@ -40,6 +53,7 @@
         "listedIn": [
             "sushiswap",
             "fuseswap",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -74,6 +88,19 @@
         ]
     },
     {
+        "symbol": "oneFUSE",
+        "name": "oneFUSE on Fuse",
+        "address": "0x8A5eE71Cd4Db6b7ffdCE37313006e48FaD6ADdB0",
+        "decimals": 18,
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xBbcE03B2E7f53caDCA93251CA4c928aF01Db6404/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "fuseswap",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "OM",
         "name": "MANTRA DAO",
         "address": "0x7F59aE3a787C0d1D640F99883d0e48c22188C54f",
@@ -84,6 +111,7 @@
         "listedIn": [
             "sushiswap",
             "fuseswap",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -98,6 +126,7 @@
         "listedIn": [
             "sushiswap",
             "fuseswap",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -130,6 +159,32 @@
         ]
     },
     {
+        "symbol": "ELON",
+        "name": "Dogelon on Fuse",
+        "address": "0x5DD8015cec49F4dB01fd228F688BF30337d3e0A9",
+        "decimals": 18,
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3/logo.png",
+        "coingeckoId": "dogelon-mars",
+        "listedIn": [
+            "fuseswap",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "atLUNA",
+        "name": "Luna Terra",
+        "address": "0x588e24DEd8f850b14BB2e62E9c50A7Cd5Ee13Da9",
+        "decimals": 18,
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/fuseio/tokenlist-assets/master/icons/luna.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "fuseswap",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "G$",
         "name": "GoodDollar",
         "address": "0x495d133B938596C9984d462F007B676bDc57eCEC",
@@ -154,6 +209,7 @@
         "listedIn": [
             "sushiswap",
             "fuseswap",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -183,7 +239,21 @@
         "listedIn": [
             "sushiswap",
             "fuseswap",
+            "lifinance",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "BIFI",
+        "name": "beefy.finance",
+        "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+        "decimals": 18,
+        "chainId": 122,
+        "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xCa3F508B8e4Dd382eE878A314789373D80A5190A/logo.png",
+        "coingeckoId": "beefy-finance",
+        "listedIn": [
+            "fuseswap",
+            "lifinance"
         ]
     },
     {
@@ -197,7 +267,21 @@
         "listedIn": [
             "sushiswap",
             "fuseswap",
+            "lifinance",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "atUST",
+        "name": "UST Terra",
+        "address": "0x0D58a44be3dCA0aB449965dcc2c46932547Fea2f",
+        "decimals": 18,
+        "chainId": 122,
+        "logoURI": "https://raw.githubusercontent.com/fuseio/tokenlist-assets/master/icons/ust.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "fuseswap",
+            "lifinance"
         ]
     },
     {
@@ -226,6 +310,7 @@
         "listedIn": [
             "sushiswap",
             "fuseswap",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -240,6 +325,7 @@
         "listedIn": [
             "sushiswap",
             "fuseswap",
+            "lifinance",
             "elkfinance"
         ]
     }
