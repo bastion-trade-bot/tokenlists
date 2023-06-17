@@ -198,7 +198,7 @@
         ]
     },
     {
-        "symbol": "KENSHI",
+        "symbol": "KNS",
         "name": "Kenshi",
         "address": "0xf1264873436A0771E440E2b28072FAfcC5EEBd01",
         "decimals": 18,
@@ -1280,13 +1280,14 @@
     },
     {
         "symbol": "ALP",
-        "name": "ALP",
+        "name": "Arbitrove ALP",
         "address": "0xb49B6A3Fd1F4bB510Ef776de7A88A9e65904478A",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb49B6A3Fd1F4bB510Ef776de7A88A9e65904478A/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "arbitrove-alp",
         "listedIn": [
+            "coingecko",
             "joe"
         ]
     },
@@ -3676,7 +3677,7 @@
         "address": "0x9879aBDea01a879644185341F7aF7d8343556B7a",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": null,
+        "logoURI": "https://token-icons.s3.amazonaws.com/0x0000000000085d4780b73119b644ae5ecd22b376.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -3858,7 +3859,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14666/thumb/Group_3.png?1617631327",
         "coingeckoId": "liquity-usd",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -4945,7 +4947,7 @@
         "address": "0x6b289CCeAA8639e3831095D75A3e43520faBf552",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": null,
+        "logoURI": "https://token-icons.s3.amazonaws.com/0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -6134,9 +6136,10 @@
         "address": "0x46F74778b265Df3a15EC9695CCd2fD3869ca848c",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": "https://static.debank.com/image/movr_token/logo_url/0xfd301ca82d007880e678bb750a771550c5104ff2/85ea921f18af773424cfdd497e3d757e.png",
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/4324/thumb/U85xTl2.png?1608111978",
+        "coingeckoId": "ankr",
         "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -6183,7 +6186,7 @@
         "address": "0x4518231a8FDF6ac553B9BBD51Bbb86825B583263",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": null,
+        "logoURI": "https://token-icons.s3.amazonaws.com/0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -6838,7 +6841,7 @@
         "address": "0x316772cFEc9A3E976FDE42C3Ba21F5A13aAaFf12",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": null,
+        "logoURI": "https://token-icons.s3.amazonaws.com/0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -7097,6 +7100,18 @@
         "chainId": 42161,
         "logoURI": "https://assets.coingecko.com/coins/images/12753/thumb/icon.png?1608771101",
         "coingeckoId": "stabilize",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "PNP",
+        "name": "Penpie",
+        "address": "0x2Ac2B254Bc18cD4999f64773a966E4f4869c34Ee",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/30760/thumb/PNP_Token.png?1686886798",
+        "coingeckoId": "penpie",
         "listedIn": [
             "coingecko"
         ]
