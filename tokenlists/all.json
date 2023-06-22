@@ -1505,19 +1505,6 @@
             ]
         },
         {
-            "symbol": "IDIA",
-            "name": "Impossible Finance Launchpad",
-            "address": "0xD91903D548f19C0FC0a6B9ED09D2F72b4dFe7144",
-            "decimals": 18,
-            "chainId": 42161,
-            "logoURI": "https://assets.coingecko.com/coins/images/17803/thumb/IDIA.png?1629292292",
-            "coingeckoId": "idia",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "WINR",
             "name": "WINR Protocol",
             "address": "0xD77B108d4f6cefaa0Cae9506A934e825BEccA46E",
@@ -8230,7 +8217,7 @@
         },
         {
             "symbol": "XGT",
-            "name": "Xion Finance",
+            "name": "Xion Finance  OLD ",
             "address": "0xC25AF3123d2420054c8fcd144c21113aa2853F39",
             "decimals": 18,
             "chainId": 56,
@@ -23366,6 +23353,19 @@
             "decimals": 9,
             "chainId": 10,
             "logoURI": "https://ethereum-optimism.github.io/data/SOL/logo.svg",
+            "coingeckoId": null,
+            "listedIn": [
+                "optimism",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "TRX",
+            "name": "TRON",
+            "address": "0xb1aE0a34DC3976d98C1741C92b798dAF8E0e1e11",
+            "decimals": 6,
+            "chainId": 10,
+            "logoURI": "https://ethereum-optimism.github.io/data/TRX/logo.svg",
             "coingeckoId": null,
             "listedIn": [
                 "optimism",
@@ -42603,7 +42603,7 @@
         },
         {
             "symbol": "XGT",
-            "name": "Xion Finance",
+            "name": "Xion Finance  OLD ",
             "address": "0xC25AF3123d2420054c8fcd144c21113aa2853F39",
             "decimals": 18,
             "chainId": 100,
@@ -58168,6 +58168,20 @@
                 "coingecko",
                 "1inch",
                 "openocean",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "WTRX",
+            "name": "Wrapped Tron",
+            "address": "0x50327c6c5a14DCaDE707ABad2E27eB517df87AB5",
+            "decimals": 6,
+            "chainId": 1,
+            "logoURI": "https://ethereum-optimism.github.io/data/TRX/logo.svg",
+            "coingeckoId": "wrapped-tron",
+            "listedIn": [
+                "coingecko",
+                "optimism",
                 "lifinance"
             ]
         },
