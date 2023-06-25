@@ -45,7 +45,7 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Polygon, 657 tokens
 - 101, 507 tokens
 - Avax, 325 tokens
-- Solana, 267 tokens
+- Solana, 266 tokens
 - Ftm, 263 tokens
 - Arbitrum, 232 tokens
 - Heco, 197 tokens
