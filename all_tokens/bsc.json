@@ -10379,6 +10379,18 @@
         ]
     },
     {
+        "symbol": "PPM",
+        "name": "Punk Panda Messenger",
+        "address": "0xEE246AA7e2ecF136466c6FE4808f395861C6a04e",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/28115/thumb/PunkPanda_200x200.png?1667553649",
+        "coingeckoId": "punk-panda-messenger",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "DOUGH",
         "name": "Dough",
         "address": "0xEDE5020492Be8E265dB6141CB0a1D2dF9dBAE9BB",
@@ -16889,18 +16901,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/26762/thumb/DV-200x200-logo.png?1660730975",
         "coingeckoId": "daoverse",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "DRIVECRYPTO",
-        "name": "Drive Crypto",
-        "address": "0xA151F5d8d9558C85a70Cd556e265a874073159fb",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/27430/thumb/IMG_20220922_132114_882.png?1663922031",
-        "coingeckoId": "drive-crypto",
         "listedIn": [
             "coingecko"
         ]
@@ -25707,18 +25707,6 @@
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "BDC",
-        "name": "BabyDogeCake",
-        "address": "0x7181638E041E26321f9f2519E2F885f656458519",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/17405/thumb/eWt6m4W.png?1627539644",
-        "coingeckoId": "babydogecake",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -34950,8 +34938,9 @@
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://tokens.1inch.io/0x40af3827f39d0eacbf4a168f8d4ee67c121d11c9.png",
-        "coingeckoId": null,
+        "coingeckoId": "true-usd",
         "listedIn": [
+            "coingecko",
             "1inch",
             "pancake",
             "lifinance"
@@ -42937,12 +42926,12 @@
     },
     {
         "symbol": "TUSD",
-        "name": "TrueUSD",
+        "name": "Bridged TrueUSD",
         "address": "0x14016E85a25aeb13065688cAFB43044C2ef86784",
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x14016E85a25aeb13065688cAFB43044C2ef86784/logo.png",
-        "coingeckoId": "true-usd",
+        "coingeckoId": "bridged-trueusd",
         "listedIn": [
             "coingecko",
             "openocean",

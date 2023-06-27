@@ -2929,12 +2929,12 @@
         },
         {
             "symbol": "TUSD",
-            "name": "TrueUSD",
+            "name": "Bridged TrueUSD",
             "address": "0x4D15a3A2286D883AF0AA1B3f21367843FAc63E07",
             "decimals": 18,
             "chainId": 42161,
             "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2563.png",
-            "coingeckoId": "true-usd",
+            "coingeckoId": "bridged-trueusd",
             "listedIn": [
                 "coingecko",
                 "openocean",
@@ -14570,8 +14570,9 @@
             "decimals": 18,
             "chainId": 56,
             "logoURI": "https://tokens.1inch.io/0x40af3827f39d0eacbf4a168f8d4ee67c121d11c9.png",
-            "coingeckoId": null,
+            "coingeckoId": "true-usd",
             "listedIn": [
+                "coingecko",
                 "1inch",
                 "pancake",
                 "lifinance"
@@ -16845,12 +16846,12 @@
         },
         {
             "symbol": "TUSD",
-            "name": "TrueUSD",
+            "name": "Bridged TrueUSD",
             "address": "0x14016E85a25aeb13065688cAFB43044C2ef86784",
             "decimals": 18,
             "chainId": 56,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x14016E85a25aeb13065688cAFB43044C2ef86784/logo.png",
-            "coingeckoId": "true-usd",
+            "coingeckoId": "bridged-trueusd",
             "listedIn": [
                 "coingecko",
                 "openocean",
@@ -19882,12 +19883,12 @@
         },
         {
             "symbol": "TUSD",
-            "name": "TrueUSD",
+            "name": "Bridged TrueUSD",
             "address": "0x9879aBDea01a879644185341F7aF7d8343556B7a",
             "decimals": 18,
             "chainId": 250,
             "logoURI": "https://tokens.1inch.io/0x1c20e891bab6b1727d14da358fae2984ed9b59eb.png",
-            "coingeckoId": "true-usd",
+            "coingeckoId": "bridged-trueusd",
             "listedIn": [
                 "coingecko",
                 "1inch",
@@ -23492,13 +23493,14 @@
         },
         {
             "symbol": "TUSD",
-            "name": "TrueUSD",
+            "name": "Bridged TrueUSD",
             "address": "0xcB59a0A753fDB7491d5F3D794316F1adE197B21E",
             "decimals": 18,
             "chainId": 10,
             "logoURI": "https://ethereum-optimism.github.io/data/TUSD/logo.png",
-            "coingeckoId": null,
+            "coingeckoId": "bridged-trueusd",
             "listedIn": [
+                "coingecko",
                 "optimism",
                 "lifinance"
             ]
@@ -32816,12 +32818,12 @@
         },
         {
             "symbol": "TUSD",
-            "name": "TrueUSD",
+            "name": "Bridged TrueUSD",
             "address": "0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756",
             "decimals": 18,
             "chainId": 137,
             "logoURI": "https://tokens.1inch.io/0x2e1ad108ff1d8c782fcbbb89aad783ac49586756.png",
-            "coingeckoId": "true-usd",
+            "coingeckoId": "bridged-trueusd",
             "listedIn": [
                 "coingecko",
                 "1inch",
@@ -40740,6 +40742,19 @@
             ]
         },
         {
+            "symbol": "TUSD",
+            "name": "Bridged TrueUSD",
+            "address": "0x87EFB3ec1576Dec8ED47e58B832bEdCd86eE186e",
+            "decimals": 18,
+            "chainId": 25,
+            "logoURI": "https://assets.coingecko.com/coins/images/30837/thumb/tusd.jpeg?1687837876",
+            "coingeckoId": "bridged-trueusd",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "DARK",
             "name": "DarkCrypto",
             "address": "0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5",
@@ -41350,6 +41365,19 @@
             "listedIn": [
                 "coingecko",
                 "openocean"
+            ]
+        },
+        {
+            "symbol": "KYO",
+            "name": "K y ",
+            "address": "0x618CC6549ddf12de637d46CDDadaFC0C2951131C",
+            "decimals": 18,
+            "chainId": 288,
+            "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x618CC6549ddf12de637d46CDDadaFC0C2951131C/logo.png",
+            "coingeckoId": "koyo",
+            "listedIn": [
+                "coingecko",
+                "oolongswap"
             ]
         },
         {
@@ -46512,15 +46540,14 @@
             ]
         },
         {
-            "symbol": "VETH",
-            "name": "Voucher ETH",
+            "symbol": "vETH",
+            "name": "Voucher Ethereum",
             "address": "0xc3D088842DcF02C13699F936BB83DFBBc6f721Ab",
             "decimals": 18,
             "chainId": 1,
             "logoURI": "https://tokens.1inch.io/0xc3d088842dcf02c13699f936bb83dfbbc6f721ab.png",
-            "coingeckoId": "voucher-eth",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "1inch",
                 "lifinance"
             ]

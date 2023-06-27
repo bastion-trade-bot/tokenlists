@@ -51,7 +51,7 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Heco, 197 tokens
 - Optimism, 146 tokens
 - Gnosis, 115 tokens
-- Cronos, 82 tokens
+- Cronos, 83 tokens
 - Celo, 69 tokens
 - Moonriver, 49 tokens
 - Okex, 48 tokens
@@ -61,7 +61,7 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Fuse, 23 tokens
 - Evmos, 18 tokens
 - Astar, 15 tokens
-- Boba, 11 tokens
+- Boba, 12 tokens
 - Telos, 10 tokens
 - Kcc, 9 tokens
 

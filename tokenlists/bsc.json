@@ -10554,8 +10554,9 @@
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://tokens.1inch.io/0x40af3827f39d0eacbf4a168f8d4ee67c121d11c9.png",
-        "coingeckoId": null,
+        "coingeckoId": "true-usd",
         "listedIn": [
+            "coingecko",
             "1inch",
             "pancake",
             "lifinance"
@@ -12829,12 +12830,12 @@
     },
     {
         "symbol": "TUSD",
-        "name": "TrueUSD",
+        "name": "Bridged TrueUSD",
         "address": "0x14016E85a25aeb13065688cAFB43044C2ef86784",
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x14016E85a25aeb13065688cAFB43044C2ef86784/logo.png",
-        "coingeckoId": "true-usd",
+        "coingeckoId": "bridged-trueusd",
         "listedIn": [
             "coingecko",
             "openocean",

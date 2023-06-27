@@ -337,13 +337,14 @@
     },
     {
         "symbol": "TUSD",
-        "name": "TrueUSD",
+        "name": "Bridged TrueUSD",
         "address": "0xcB59a0A753fDB7491d5F3D794316F1adE197B21E",
         "decimals": 18,
         "chainId": 10,
         "logoURI": "https://ethereum-optimism.github.io/data/TUSD/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "bridged-trueusd",
         "listedIn": [
+            "coingecko",
             "optimism",
             "lifinance"
         ]
@@ -1547,12 +1548,12 @@
         ]
     },
     {
-        "symbol": "RODO",
-        "name": "RODO",
+        "symbol": "MIM",
+        "name": "Magic Internet Money",
         "address": "0x82f0B8B456c1A451378467398982d4834b6829c1",
-        "decimals": 2,
+        "decimals": 18,
         "chainId": 10,
-        "logoURI": null,
+        "logoURI": "https://token-icons.s3.amazonaws.com/0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
