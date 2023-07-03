@@ -851,29 +851,27 @@
         ]
     },
     {
-        "symbol": "KAIINU",
+        "symbol": "KaiInu",
         "name": "Kai Inu",
         "address": "0xe5a09784b16E1065C37dF14c6e2f06fDcE317a1b",
         "decimals": 9,
         "chainId": 56,
         "logoURI": "https://tokens.1inch.io/0xe5a09784b16e1065c37df14c6e2f06fdce317a1b.png",
-        "coingeckoId": "kai-inu",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "lifinance"
         ]
     },
     {
         "symbol": "SWAP",
-        "name": "SafeSwap Online",
+        "name": "SafeSwap Token",
         "address": "0xe56a473043EaAB7947c0a2408cEA623074500EE3",
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://tokens.1inch.io/0xe56a473043eaab7947c0a2408cea623074500ee3.png",
-        "coingeckoId": "safeswap-online",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "lifinance"
         ]
@@ -1324,6 +1322,19 @@
         "listedIn": [
             "1inch",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "MAV",
+        "name": "Maverick Protocol",
+        "address": "0xd691d9a68C887BDF34DA8c36f63487333ACfD103",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://s3.openocean.finance/token_logos/logos/1688011577460_34962692731880773.png",
+        "coingeckoId": "maverick-protocol",
+        "listedIn": [
+            "coingecko",
+            "openocean"
         ]
     },
     {
@@ -2289,6 +2300,19 @@
             "coingecko",
             "1inch",
             "openocean",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "PENDLE",
+        "name": "Pendle",
+        "address": "0xb3Ed0A426155B79B898849803E3B36552f7ED507",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0xb3Ed0A426155B79B898849803E3B36552f7ED507.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "pancake",
             "lifinance"
         ]
     },
@@ -6312,6 +6336,7 @@
             "coingecko",
             "1inch",
             "openocean",
+            "joe",
             "pancake",
             "lifinance",
             "xyfinance",
@@ -7492,19 +7517,6 @@
         ]
     },
     {
-        "symbol": "MRXB",
-        "name": "Wrapped Metrix",
-        "address": "0x767B28a30E3a15DCEcE7bFF7a020ADfdE9D19cf8",
-        "decimals": 8,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/20763/thumb/Copy_of_Metrix_Logo_Final_Cut.png?1637652298",
-        "coingeckoId": "wrapped-metrix",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "BLID",
         "name": "Bolide",
         "address": "0x766AFcf83Fd5eaf884B3d529b432CA27A6d84617",
@@ -7930,15 +7942,14 @@
         ]
     },
     {
-        "symbol": "DVX",
-        "name": "DRIVENx",
+        "symbol": "DRIVENx",
+        "name": "DVX",
         "address": "0x6db3972c6a5535708e7A4F7Ad52F24d178D9A93e",
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://tokens.1inch.io/0x6db3972c6a5535708e7a4f7ad52f24d178d9a93e.png",
-        "coingeckoId": "drivenx",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "lifinance"
         ]
@@ -8138,15 +8149,14 @@
         ]
     },
     {
-        "symbol": "SPACEPI",
-        "name": "SpacePi",
+        "symbol": "SpacePi",
+        "name": "SpacePi Token",
         "address": "0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E",
         "decimals": 9,
         "chainId": 56,
         "logoURI": "https://tokens.1inch.io/0x69b14e8d3cebfdd8196bfe530954a0c226e5008e.png",
-        "coingeckoId": "spacepi",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "lifinance"
         ]
@@ -8960,6 +8970,19 @@
             "pancake",
             "lifinance",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "TFMC",
+        "name": "Tap Fantasy MC",
+        "address": "0x59C49B54D4425C7fF1E49f40958a14d48cC87c26",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/26483/small/Tap-Fantasy-MC-Logo.png?1658279327",
+        "coingeckoId": "tap-fantasy-mc",
+        "listedIn": [
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -10797,6 +10820,19 @@
         "listedIn": [
             "coingecko",
             "openocean"
+        ]
+    },
+    {
+        "symbol": "SMG",
+        "name": "Samurai Legends",
+        "address": "0x3Ca994D9f723736381d44388bC8dD1e7eE8C1653",
+        "decimals": 9,
+        "chainId": 56,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x3Ca994D9f723736381d44388bC8dD1e7eE8C1653/logo.png",
+        "coingeckoId": "samurai-legends",
+        "listedIn": [
+            "coingecko",
+            "elkfinance"
         ]
     },
     {
@@ -13782,6 +13818,19 @@
         "coingeckoId": null,
         "listedIn": [
             "1inch",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "xALGO",
+        "name": "Governance xAlgo",
+        "address": "0x0034719300501B06E10Ebb1D07ea5967301F0941",
+        "decimals": 6,
+        "chainId": 56,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x0034719300501B06E10Ebb1D07ea5967301F0941.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "pancake",
             "lifinance"
         ]
     },

@@ -753,9 +753,8 @@
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://tokens.1inch.io/0xf009f5531de69067435e32c4b9d36077f4c4a673.png",
-        "coingeckoId": "unvest",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "lifinance"
         ]
@@ -2605,19 +2604,6 @@
             "sushiswap",
             "openocean",
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "SUNDER",
-        "name": "Sunder Goverance",
-        "address": "0xbDbf245c690d54b67C6e610A28486A2C6dE08bE6",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xbDbf245c690d54b67C6e610A28486A2C6dE08bE6/logo.png",
-        "coingeckoId": "sunder-goverance-token",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
         ]
     },
     {
@@ -11414,6 +11400,19 @@
         ]
     },
     {
+        "symbol": "MAV",
+        "name": "Maverick Protocol",
+        "address": "0x7448c7456a97769F6cD04F1E83A4a23cCdC46aBD",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://s3.openocean.finance/token_logos/logos/1688011340152_04554909604175372.png",
+        "coingeckoId": "maverick-protocol",
+        "listedIn": [
+            "coingecko",
+            "openocean"
+        ]
+    },
+    {
         "symbol": "STRK",
         "name": "Strike",
         "address": "0x74232704659ef37c08995e386A2E26cc27a8d7B1",
@@ -17449,19 +17448,6 @@
         ]
     },
     {
-        "symbol": "USDB",
-        "name": "USD Bancor",
-        "address": "0x309627af60F0926daa6041B8279484312f2bf060",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://s3.openocean.finance/token_logos/logos/0x309627af60f0926daa6041b8279484312f2bf060.png",
-        "coingeckoId": "usd-bancor",
-        "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    {
         "symbol": "NFTY",
         "name": "NFTY DeFi Protocol",
         "address": "0x3085154623F51b00Dedfc6Ceeb5197277A66B17B",
@@ -18705,14 +18691,13 @@
     },
     {
         "symbol": "NFY",
-        "name": "Non Fungible Yearn",
+        "name": "Non-Fungible Yearn",
         "address": "0x1cBb83EbcD552D5EBf8131eF8c9CD9d9BAB342bC",
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://tokens.1inch.io/0x1cbb83ebcd552d5ebf8131ef8c9cd9d9bab342bc.png",
-        "coingeckoId": "non-fungible-yearn",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "1inch",
             "lifinance"
         ]
@@ -19419,15 +19404,14 @@
         ]
     },
     {
-        "symbol": "BITANT",
+        "symbol": "BitANT",
         "name": "BitANT",
         "address": "0x15Ee120fD69BEc86C1d38502299af7366a41D1a6",
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://ethereum-optimism.github.io/data/BitANT/logo.png",
-        "coingeckoId": "bitant",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "optimism",
             "lifinance"
         ]

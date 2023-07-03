@@ -188,6 +188,18 @@
         ]
     },
     {
+        "symbol": "GLSD",
+        "name": "GLSD Coin",
+        "address": "0xf40F19CAFaAA25bF9B52134646c6E325E76E0e93",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/30875/thumb/Icon-200.png?1688375787",
+        "coingeckoId": "glsd-coin",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "YOGI",
         "name": "Yogi",
         "address": "0xf387359fAb862eaEF4B7C03D2174755918c58D4d",
@@ -1982,9 +1994,8 @@
         "decimals": 6,
         "chainId": 42161,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xF0B5cEeFc89684889e5F7e0A7775Bd100FcD3709/logo.png",
-        "coingeckoId": "digitaldollar",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "sushiswap",
             "lifinance"
         ]
@@ -3317,6 +3328,19 @@
         ]
     },
     {
+        "symbol": "MMY",
+        "name": "Mummy Finance",
+        "address": "0xA6D7D0e650aa40FFa42d845A354c12c2bc0aB15f",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://s3.openocean.finance/token_logos/logos/1688032829938_8281273469081127.jpg",
+        "coingeckoId": null,
+        "listedIn": [
+            "openocean",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "WCHI",
         "name": "Wrapped CHI",
         "address": "0xA64eCCe74F8CdB7a940766B71f1b108BAC69851a",
@@ -3359,7 +3383,7 @@
         "address": "0xA58663FAEF461761e44066ea26c1FCddF2927B80",
         "decimals": 8,
         "chainId": 42161,
-        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xc004e2318722ea2b15499d6375905d75ee5390b8/c6b60c986fa723a00291f9860646166e.png",
+        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xa58663faef461761e44066ea26c1fcddf2927b80/c6b60c986fa723a00291f9860646166e.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -4656,8 +4680,8 @@
         ]
     },
     {
-        "symbol": "BANANACOIN",
-        "name": "Banana Coin",
+        "symbol": "BANANA",
+        "name": "BananaCoin",
         "address": "0x7985de01B26C1EFaBA8BF4A9971a32dFF8661BfB",
         "decimals": 18,
         "chainId": 42161,
@@ -4971,10 +4995,11 @@
         "address": "0x6d038130B9b379A373B1D33a29d5904ED1bb9026",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/29605/thumb/IMG_6589D0616DF1-1.jpeg?1679994169",
+        "logoURI": "https://assets.coingecko.com/coins/images/29605/small/IMG_6589D0616DF1-1.jpeg?1679994169",
         "coingeckoId": "quick-intel",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "dfyn"
         ]
     },
     {

@@ -830,9 +830,8 @@
         "decimals": 6,
         "chainId": 42161,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xF0B5cEeFc89684889e5F7e0A7775Bd100FcD3709/logo.png",
-        "coingeckoId": "digitaldollar",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "sushiswap",
             "lifinance"
         ]
@@ -1273,6 +1272,19 @@
             "coingecko",
             "sushiswap",
             "arbitrum_bridge",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "MMY",
+        "name": "Mummy Finance",
+        "address": "0xA6D7D0e650aa40FFa42d845A354c12c2bc0aB15f",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://s3.openocean.finance/token_logos/logos/1688032829938_8281273469081127.jpg",
+        "coingeckoId": null,
+        "listedIn": [
+            "openocean",
             "lifinance"
         ]
     },
@@ -1927,6 +1939,19 @@
         "listedIn": [
             "coingecko",
             "joe"
+        ]
+    },
+    {
+        "symbol": "QUICKI",
+        "name": "Quick Intel",
+        "address": "0x6d038130B9b379A373B1D33a29d5904ED1bb9026",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/29605/small/IMG_6589D0616DF1-1.jpeg?1679994169",
+        "coingeckoId": "quick-intel",
+        "listedIn": [
+            "coingecko",
+            "dfyn"
         ]
     },
     {
