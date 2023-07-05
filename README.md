@@ -50,7 +50,7 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Arbitrum, 224 tokens
 - Heco, 197 tokens
 - Optimism, 134 tokens
-- Gnosis, 114 tokens
+- Gnosis, 113 tokens
 - Cronos, 75 tokens
 - Celo, 69 tokens
 - Moonriver, 49 tokens
