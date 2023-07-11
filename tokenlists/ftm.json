@@ -1,5 +1,18 @@
 [
     {
+        "symbol": "axlETH",
+        "name": "Axelar wETH",
+        "address": "0xfe7eDa5F2c56160d406869A8aA4B2F365d544C7B",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://assets.spooky.fi/tokens/wETH.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "SpookySwap",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "FHM",
         "name": "Fantohm",
         "address": "0xfa1FBb8Ef55A4855E5688C0eE13aC3f202486286",
@@ -104,7 +117,8 @@
         "coingeckoId": null,
         "listedIn": [
             "openocean",
-            "SpookySwap"
+            "SpookySwap",
+            "lifinance"
         ]
     },
     {
@@ -399,6 +413,19 @@
         ]
     },
     {
+        "symbol": "axlUSDT",
+        "name": "Axelar USDT",
+        "address": "0xd226392C23fb3476274ED6759D4a478db3197d82",
+        "decimals": 6,
+        "chainId": 250,
+        "logoURI": "https://assets.spooky.fi/tokens/USDT.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "SpookySwap",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "lzUSDT",
         "name": "Layer Zero USDT",
         "address": "0xcc1b99dDAc1a33c201a742A1851662E87BC7f22C",
@@ -408,7 +435,8 @@
         "coingeckoId": null,
         "listedIn": [
             "openocean",
-            "SpookySwap"
+            "SpookySwap",
+            "lifinance"
         ]
     },
     {
@@ -787,6 +815,19 @@
         ]
     },
     {
+        "symbol": "SPANK",
+        "name": "Spank",
+        "address": "0xE04FA109051Aec310eD6a49E5d94a0272b3aB086",
+        "decimals": 5,
+        "chainId": 250,
+        "logoURI": "https://assets.spooky.fi/tokens/SPANK.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "SpookySwap",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "DEUS",
         "name": "DEUS Finance",
         "address": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
@@ -857,6 +898,19 @@
             "SpookySwap",
             "lifinance",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "axlDAI",
+        "name": "Axelar DAI",
+        "address": "0xD5d5350F42CB484036A1C1aF5F2DF77eAFadcAFF",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://assets.spooky.fi/tokens/DAI.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "SpookySwap",
+            "lifinance"
         ]
     },
     {
@@ -1213,6 +1267,19 @@
         ]
     },
     {
+        "symbol": "USDV",
+        "name": "USDV",
+        "address": "0x953E94CaF91a1E32337d0548B9274f337920eDFA",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://assets.spooky.fi/tokens/USDV.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "SpookySwap",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "WSHEC",
         "name": "Wrapped HEC",
         "address": "0x94CcF60f700146BeA8eF7832820800E2dFa92EdA",
@@ -1265,7 +1332,8 @@
         "coingeckoId": null,
         "listedIn": [
             "openocean",
-            "SpookySwap"
+            "SpookySwap",
+            "lifinance"
         ]
     },
     {
@@ -1388,6 +1456,19 @@
             "lifinance",
             "xyfinance",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "UND",
+        "name": "Unbound Dollar",
+        "address": "0x89e35A53b47aEBc1411C4a11Fd7894C27Fe77A51",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://assets.spooky.fi/tokens/UND.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "SpookySwap",
+            "lifinance"
         ]
     },
     {
@@ -1897,6 +1978,19 @@
         ]
     },
     {
+        "symbol": "lzWETH",
+        "name": "LayerZero wETH",
+        "address": "0x695921034f0387eAc4e11620EE91b1b15A6A09fE",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://assets.spooky.fi/tokens/wETH.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "SpookySwap",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "QI",
         "name": "Qi Dao Protocol",
         "address": "0x68Aa691a8819B07988B18923F712F3f4C8d36346",
@@ -2113,7 +2207,8 @@
         "coingeckoId": "jefe",
         "listedIn": [
             "coingecko",
-            "SpookySwap"
+            "SpookySwap",
+            "lifinance"
         ]
     },
     {
@@ -2280,6 +2375,19 @@
             "coingecko",
             "1inch",
             "openocean",
+            "SpookySwap",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "PORTX",
+        "name": "ChainPort Token",
+        "address": "0x504eC4f9AF7bBf8cAD73ccC2121A3A7FB4c81Bcf",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://assets.spooky.fi/tokens/PORTX.png",
+        "coingeckoId": null,
+        "listedIn": [
             "SpookySwap",
             "lifinance"
         ]
@@ -2456,6 +2564,32 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "GRINCH",
+        "name": "Grinch",
+        "address": "0x4496B1D72B1B18AF61702733077Cf9f5B07C160e",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://assets.spooky.fi/tokens/GRINCH.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "SpookySwap",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "axlWBTC",
+        "name": "Axelar wBTC",
+        "address": "0x448d59B4302aB5d2dadf9611bED9457491926c8e",
+        "decimals": 8,
+        "chainId": 250,
+        "logoURI": "https://assets.spooky.fi/tokens/wBTC.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "SpookySwap",
             "lifinance"
         ]
     },
@@ -2775,7 +2909,8 @@
         "coingeckoId": null,
         "listedIn": [
             "openocean",
-            "SpookySwap"
+            "SpookySwap",
+            "lifinance"
         ]
     },
     {
@@ -3019,7 +3154,8 @@
         "listedIn": [
             "coingecko",
             "openocean",
-            "SpookySwap"
+            "SpookySwap",
+            "lifinance"
         ]
     },
     {
@@ -3195,6 +3331,19 @@
             "1inch",
             "sushiswap",
             "openocean",
+            "SpookySwap",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "PEPE",
+        "name": "Pepe",
+        "address": "0x0f730D43d85f722903b8ADed334B32332466b207",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://assets.spooky.fi/tokens/PEPE.png",
+        "coingeckoId": null,
+        "listedIn": [
             "SpookySwap",
             "lifinance"
         ]
