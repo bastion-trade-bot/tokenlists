@@ -47,11 +47,11 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Avax, 320 tokens
 - Solana, 244 tokens
 - Ftm, 244 tokens
-- Arbitrum, 229 tokens
+- Arbitrum, 230 tokens
 - Heco, 197 tokens
 - Optimism, 135 tokens
 - Gnosis, 114 tokens
-- Cronos, 76 tokens
+- Cronos, 80 tokens
 - Celo, 69 tokens
 - Moonriver, 49 tokens
 - Okex, 47 tokens
