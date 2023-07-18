@@ -413,14 +413,15 @@
         ]
     },
     {
-        "symbol": "axlUSDT",
+        "symbol": "AXLUSDT",
         "name": "Axelar USDT",
         "address": "0xd226392C23fb3476274ED6759D4a478db3197d82",
         "decimals": 6,
         "chainId": 250,
         "logoURI": "https://assets.spooky.fi/tokens/USDT.png",
-        "coingeckoId": null,
+        "coingeckoId": "axelar-usdt",
         "listedIn": [
+            "coingecko",
             "SpookySwap",
             "lifinance"
         ]
