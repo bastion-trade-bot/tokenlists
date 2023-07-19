@@ -41,13 +41,13 @@ Here are chains presented in our tokenlists with current token count. You can fi
 Token counts are approximate and may vary as providers update their tokenlists.
 
 - Ethereum, 1417 tokens
-- Bsc, 954 tokens
+- Bsc, 955 tokens
 - Polygon, 562 tokens
 - 101, 507 tokens
 - Avax, 320 tokens
-- Ftm, 244 tokens
 - Solana, 243 tokens
-- Arbitrum, 233 tokens
+- Ftm, 243 tokens
+- Arbitrum, 234 tokens
 - Heco, 197 tokens
 - Optimism, 139 tokens
 - Gnosis, 114 tokens
@@ -61,7 +61,7 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Fuse, 23 tokens
 - Evmos, 18 tokens
 - Astar, 15 tokens
-- Boba, 12 tokens
+- Boba, 11 tokens
 - Telos, 10 tokens
 - Kcc, 9 tokens
 
