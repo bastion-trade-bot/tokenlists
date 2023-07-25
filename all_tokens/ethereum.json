@@ -18171,7 +18171,7 @@
         "symbol": "ASAP",
         "name": "Asap Sniper Bot",
         "address": "0xC36AD98E62598Ae24d4487d8012209f687c30D45",
-        "decimals": 15,
+        "decimals": 18,
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/30707/thumb/LOGO_%281%29.jpeg?1686548085",
         "coingeckoId": "asap-sniper-bot",
@@ -39105,6 +39105,18 @@
         ]
     },
     {
+        "symbol": "EYE",
+        "name": "Eye Labs",
+        "address": "0x5D39957Fc88566F14AE7E8aB8971d7c603f0ce5e",
+        "decimals": 9,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/31071/thumb/_EYE_logo.png?1690277867",
+        "coingeckoId": "eye-labs",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "GATSBY",
         "name": "Gatsby Inu",
         "address": "0x5D0EbC4Ec5ac18d30512fb6287886245061B3Dbd",
@@ -39547,18 +39559,6 @@
             "lifinance",
             "xyfinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "COM",
-        "name": "Communis",
-        "address": "0x5A9780Bfe63f3ec57f01b087cD65BD656C9034A8",
-        "decimals": 12,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/28723/thumb/strongestshapetransparent-200h.png?1673595687",
-        "coingeckoId": "communis",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -46656,9 +46656,8 @@
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://s3.openocean.finance/token_logos/logos/0x3c6ff50c9ec362efa359317009428d52115fe643.png",
-        "coingeckoId": "peerex-network",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "openocean"
         ]
     },
@@ -55594,6 +55593,7 @@
         "coingeckoId": "worldcoin-wld",
         "listedIn": [
             "coingecko",
+            "openocean",
             "optimism",
             "lifinance"
         ]
