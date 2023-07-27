@@ -12,6 +12,18 @@
         ]
     },
     {
+        "symbol": "HAN",
+        "name": "HanChain",
+        "address": "0xE2B21D4684b2bA62F3BE1FE286eacb90D26E394d",
+        "decimals": 18,
+        "chainId": 84531,
+        "logoURI": "https://ethereum-optimism.github.io/data/HAN/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "eUSD",
         "name": "Electronic Dollar",
         "address": "0xE265FC71d45fd791c9ebf3EE0a53FBB220Eb8f75",
@@ -48,18 +60,6 @@
         ]
     },
     {
-        "symbol": "cbETH",
-        "name": "Coinbase Wrapped Staked ETH",
-        "address": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
-        "decimals": 18,
-        "chainId": 84531,
-        "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg",
-        "coingeckoId": null,
-        "listedIn": [
-            "optimism"
-        ]
-    },
-    {
         "symbol": "CHAIN",
         "name": "Chain Games",
         "address": "0x52b7D8851d6CcBC6342ba0855Be65f7B82A3F17f",
@@ -72,12 +72,36 @@
         ]
     },
     {
+        "symbol": "cbETH",
+        "name": "Coinbase Wrapped Staked ETH",
+        "address": "0x4fC531f8Ae7A7808E0dccCA08F1e3c7694582950",
+        "decimals": 18,
+        "chainId": 84531,
+        "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "WETH",
         "name": "Wrapped Ether",
         "address": "0x4200000000000000000000000000000000000006",
         "decimals": 18,
         "chainId": 84531,
         "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "HANeP",
+        "name": "HANePlatform",
+        "address": "0x35D48A789904E9b15705977192e5d95e2aF7f1D3",
+        "decimals": 18,
+        "chainId": 84531,
+        "logoURI": "https://ethereum-optimism.github.io/data/HANeP/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"
