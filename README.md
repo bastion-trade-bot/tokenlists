@@ -54,9 +54,9 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Cronos, 80 tokens
 - Celo, 69 tokens
 - Moonriver, 49 tokens
+- Okex, 47 tokens
 - Aurora, 41 tokens
 - Harmony, 40 tokens
-- Okex, 39 tokens
 - Moonbeam, 30 tokens
 - Fuse, 23 tokens
 - Evmos, 18 tokens
