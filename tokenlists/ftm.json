@@ -2901,14 +2901,15 @@
         ]
     },
     {
-        "symbol": "lzUSDC",
-        "name": "Layer Zero USDC",
+        "symbol": "LZUSDC",
+        "name": "Bridged USD Coin  LayerZero ",
         "address": "0x28a92dde19D9989F39A49905d7C9C2FAc7799bDf",
         "decimals": 6,
         "chainId": 250,
         "logoURI": "https://assets.spooky.fi/tokens/USDC.png",
-        "coingeckoId": null,
+        "coingeckoId": "layerzero-usdc",
         "listedIn": [
+            "coingecko",
             "openocean",
             "SpookySwap",
             "lifinance"
