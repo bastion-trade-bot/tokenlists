@@ -1039,6 +1039,18 @@
         ]
     },
     {
+        "symbol": "WUSDR",
+        "name": "Wrapped USDR",
+        "address": "0xC03b43d492d904406db2d7D57e67C7e8234bA752",
+        "decimals": 9,
+        "chainId": 10,
+        "logoURI": "https://assets.coingecko.com/coins/images/28800/thumb/wUSDRlogo.png?1674283345",
+        "coingeckoId": "wrapped-usdr",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "UBI",
         "name": "Universal Basic Income",
         "address": "0xBb586Ed34974B15049a876fd5366A4C2d1203115",
@@ -1348,11 +1360,13 @@
         "address": "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db",
         "decimals": 18,
         "chainId": 10,
-        "logoURI": "https://s3.openocean.finance/token_logos/logos/1656664301096_4133387415807357.jpg",
+        "logoURI": "https://tokens.1inch.io/0x9560e827af36c94d2ac33a39bce1fe78631088db.png",
         "coingeckoId": "velodrome-finance",
         "listedIn": [
             "coingecko",
-            "openocean"
+            "1inch",
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -1480,6 +1494,7 @@
         "coingeckoId": "collab-land",
         "listedIn": [
             "coingecko",
+            "openocean",
             "optimism",
             "lifinance"
         ]
@@ -2386,18 +2401,6 @@
             "openocean",
             "optimism",
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "WUSDR",
-        "name": "Wrapped USDR",
-        "address": "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",
-        "decimals": 9,
-        "chainId": 10,
-        "logoURI": "https://assets.coingecko.com/coins/images/28800/thumb/wUSDRlogo.png?1674283345",
-        "coingeckoId": "wrapped-usdr",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {

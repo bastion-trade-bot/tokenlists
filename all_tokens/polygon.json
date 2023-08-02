@@ -5682,10 +5682,11 @@
         "address": "0xBFA35599c7AEbb0dAcE9b5aa3ca5f2a79624D8Eb",
         "decimals": 18,
         "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/31136/thumb/retro.png?1690885867",
+        "logoURI": "https://s3.openocean.finance/token_logos/logos/1690944074418_9885278544632408.jpg",
         "coingeckoId": "retro-finance",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "openocean"
         ]
     },
     {
@@ -6246,18 +6247,6 @@
         "listedIn": [
             "coingecko",
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "WUSDR",
-        "name": "Wrapped USDR",
-        "address": "0xAF0D9D65fC54de245cdA37af3d18cbEc860A4D4b",
-        "decimals": 9,
-        "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/28800/thumb/wUSDRlogo.png?1674283345",
-        "coingeckoId": "wrapped-usdr",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -15663,9 +15652,8 @@
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x1B43b97094Aa3c6Cc678eDb9e28Ac67dAaa7Cc64/logo.png",
-        "coingeckoId": "liquid-icp",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "sushiswap",
             "lifinance"
         ]
@@ -17469,6 +17457,18 @@
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "WUSDR",
+        "name": "Wrapped USDR",
+        "address": "0x00e8c0E92eB3Ad88189E7125Ec8825eDc03Ab265",
+        "decimals": 9,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/28800/thumb/wUSDRlogo.png?1674283345",
+        "coingeckoId": "wrapped-usdr",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
