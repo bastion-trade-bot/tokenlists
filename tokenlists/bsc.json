@@ -1824,9 +1824,8 @@
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://tokens.pancakeswap.finance/images/0xc2098a8938119A52B1F7661893c0153A6CB116d5.png",
-        "coingeckoId": "rangers-protocol-gas",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "pancake",
             "lifinance"
         ]
@@ -2595,13 +2594,14 @@
     },
     {
         "symbol": "STABLE",
-        "name": "STABLE",
+        "name": "Stable",
         "address": "0xa3870fbBeb730BA99e4107051612af3465CA9F5e",
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://s3.openocean.finance/token_logos/logos/1687172014042_9624216147947688.png",
-        "coingeckoId": null,
+        "coingeckoId": "usdfi-stable",
         "listedIn": [
+            "coingecko",
             "openocean",
             "lifinance"
         ]
@@ -10997,13 +10997,14 @@
     },
     {
         "symbol": "EQB",
-        "name": "Equilibria Token",
+        "name": "Equilibria Finance",
         "address": "0x374Ca32fd7934c5d43240E1e73fa9B2283468609",
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://tokens.pancakeswap.finance/images/0x374Ca32fd7934c5d43240E1e73fa9B2283468609.png",
-        "coingeckoId": null,
+        "coingeckoId": "equilibria-finance",
         "listedIn": [
+            "coingecko",
             "pancake",
             "lifinance"
         ]
@@ -12767,8 +12768,9 @@
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://s3.openocean.finance/token_logos/logos/1687258481374_8229506030200269.jpg",
-        "coingeckoId": null,
+        "coingeckoId": "usdfi",
         "listedIn": [
+            "coingecko",
             "openocean",
             "lifinance"
         ]
