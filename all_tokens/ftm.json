@@ -59,7 +59,7 @@
         "address": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
         "decimals": 18,
         "chainId": 250,
-        "logoURI": "https://tokens.1inch.io/0xfb98b335551a418cd0737375a2ea0ded62ea213b.png",
+        "logoURI": "https://tokens.1inch.io/0xa3fa99a148fa48d14ed51d610c367c61876997f1.png",
         "coingeckoId": "mimatic",
         "listedIn": [
             "coingecko",
@@ -169,14 +169,15 @@
         ]
     },
     {
-        "symbol": "lzBTC",
-        "name": "Layer Zero BTC",
+        "symbol": "WBTC",
+        "name": "Bridged Wrapped Bitcoin  Stargate ",
         "address": "0xf1648C50d2863f780c57849D812b4B7686031A3D",
         "decimals": 8,
         "chainId": 250,
         "logoURI": "https://assets.spooky.fi/tokens/wBTC.png",
-        "coingeckoId": null,
+        "coingeckoId": "bridged-wrapped-bitcoin-stargate",
         "listedIn": [
+            "coingecko",
             "openocean",
             "SpookySwap",
             "lifinance"
@@ -644,14 +645,15 @@
         ]
     },
     {
-        "symbol": "lzUSDT",
-        "name": "Layer Zero USDT",
+        "symbol": "USDT",
+        "name": "Bridged Tether  Stargate ",
         "address": "0xcc1b99dDAc1a33c201a742A1851662E87BC7f22C",
         "decimals": 6,
         "chainId": 250,
         "logoURI": "https://assets.spooky.fi/tokens/USDT.png",
-        "coingeckoId": null,
+        "coingeckoId": "bridged-tether-stargate",
         "listedIn": [
+            "coingecko",
             "openocean",
             "SpookySwap",
             "lifinance"
@@ -1046,6 +1048,18 @@
         "listedIn": [
             "coingecko",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "CRVUSD",
+        "name": "Bridged Curve Fi USD Stablecoin  Starga",
+        "address": "0xaa798BF5eC09B6E3bC059Ea4d36d4Ca53e063EF7",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://assets.coingecko.com/coins/images/31181/thumb/CurveFi_32.png?1691122532",
+        "coingeckoId": "curve-fi-usd-stablecoin-stargate",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -1774,6 +1788,18 @@
         ]
     },
     {
+        "symbol": "CRV",
+        "name": "Bridged Curve DAO Token  Stargate ",
+        "address": "0xC7aE4aB742F6b0b203f6710C87677005Bc45ad01",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://assets.coingecko.com/coins/images/31182/thumb/CurveFi_32.png?1691122756",
+        "coingeckoId": "bridged-curve-dao-token-stargate",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "FS",
         "name": "FantomStarter",
         "address": "0xC758295Cd1A564cdb020a78a681a838CF8e0627D",
@@ -1875,11 +1901,10 @@
         "address": "0xB67FA6deFCe4042070Eb1ae1511Dcd6dcc6a532E",
         "decimals": 18,
         "chainId": 250,
-        "logoURI": "https://tokens.1inch.io/0xb67fa6defce4042070eb1ae1511dcd6dcc6a532e.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/14114/thumb/Alchemix_USD.png?1614410406",
         "coingeckoId": "alchemix-usd",
         "listedIn": [
             "coingecko",
-            "1inch",
             "lifinance"
         ]
     },
@@ -2088,11 +2113,10 @@
         "address": "0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3",
         "decimals": 18,
         "chainId": 250,
-        "logoURI": "https://tokens.1inch.io/0x9fb9a33956351cf4fa040f65a13b835a3c8764e3.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/22087/small/1_Wyot-SDGZuxbjdkaOeT2-A.png?1640764238",
         "coingeckoId": "multichain",
         "listedIn": [
             "coingecko",
-            "1inch",
             "openocean",
             "SpookySwap",
             "lifinance",
@@ -2259,11 +2283,10 @@
         "address": "0x94CcF60f700146BeA8eF7832820800E2dFa92EdA",
         "decimals": 18,
         "chainId": 250,
-        "logoURI": "https://tokens.1inch.io/0x94ccf60f700146bea8ef7832820800e2dfa92eda.png",
+        "logoURI": "https://assets.spooky.fi/tokens/wsHEC.png",
         "coingeckoId": "wrapped-hec",
         "listedIn": [
             "coingecko",
-            "1inch",
             "SpookySwap",
             "lifinance"
         ]
@@ -2274,11 +2297,10 @@
         "address": "0x940F41F0ec9ba1A34CF001cc03347ac092F5F6B5",
         "decimals": 6,
         "chainId": 250,
-        "logoURI": "https://tokens.1inch.io/0x940f41f0ec9ba1a34cf001cc03347ac092f5f6b5.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/19000/thumb/preview-gallery-gUSDTgecko_%281%29.png?1634790738",
         "coingeckoId": "geist-fusdt",
         "listedIn": [
             "coingecko",
-            "1inch",
             "lifinance"
         ]
     },
@@ -2345,14 +2367,15 @@
         ]
     },
     {
-        "symbol": "lzDAI",
-        "name": "Layer Zero DAI",
+        "symbol": "DAI",
+        "name": "Bridged Dai Stablecoin  Stargate ",
         "address": "0x91a40C733c97a6e1BF876EaF9ed8c08102eB491f",
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://assets.spooky.fi/tokens/DAI.png",
-        "coingeckoId": null,
+        "coingeckoId": "bridged-dai-stablecoin-stargate",
         "listedIn": [
+            "coingecko",
             "openocean",
             "SpookySwap",
             "lifinance"
@@ -3157,11 +3180,10 @@
         "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
         "decimals": 18,
         "chainId": 250,
-        "logoURI": "https://tokens.1inch.io/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x74b23882a30290451A17c44f4F05243b6b58C76d/logo.png",
         "coingeckoId": "weth",
         "listedIn": [
             "coingecko",
-            "1inch",
             "sushiswap",
             "openocean",
             "dfyn",
@@ -3456,14 +3478,15 @@
         ]
     },
     {
-        "symbol": "lzWETH",
-        "name": "LayerZero wETH",
+        "symbol": "WETH",
+        "name": "Bridged Wrapped Ether  Stargate ",
         "address": "0x695921034f0387eAc4e11620EE91b1b15A6A09fE",
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://assets.spooky.fi/tokens/wETH.png",
-        "coingeckoId": null,
+        "coingeckoId": "bridged-wrapped-ether-stargate",
         "listedIn": [
+            "coingecko",
             "SpookySwap",
             "lifinance"
         ]
@@ -3688,10 +3711,9 @@
         "address": "0x627524d78B4fC840C887ffeC90563c7A42b671fD",
         "decimals": 18,
         "chainId": 250,
-        "logoURI": "https://tokens.1inch.io/0x627524d78b4fc840c887ffec90563c7a42b671fd.png",
+        "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x627524d78b4fc840c887ffec90563c7a42b671fd/f514a85c8be5b06b167ccecb324598b1.png",
         "coingeckoId": null,
         "listedIn": [
-            "1inch",
             "lifinance"
         ]
     },
@@ -5935,11 +5957,10 @@
         "address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
         "decimals": 6,
         "chainId": 250,
-        "logoURI": "https://tokens.1inch.io/0x049d68029688eabf473097a2fc38ef61633a3c7a.png",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x049d68029688eAbF473097a2fC38ef61633A3C7A/logo.png",
         "coingeckoId": "tether",
         "listedIn": [
             "coingecko",
-            "1inch",
             "sushiswap",
             "openocean",
             "dfyn",
