@@ -1075,6 +1075,19 @@
         ]
     },
     {
+        "symbol": "PENDLE",
+        "name": "Pendle",
+        "address": "0xBC7B1Ff1c6989f006a1185318eD4E7b5796e66E1",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "https://ethereum-optimism.github.io/data/PENDLE/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "IBEX",
         "name": "Impermax",
         "address": "0xBB6BBaa0F6D839A00c82B10747aBc3b7E2eEcc82",
@@ -1376,7 +1389,8 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "openocean"
+            "openocean",
+            "lifinance"
         ]
     },
     {
@@ -1610,6 +1624,18 @@
         "coingeckoId": "axelar-usdt",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "DAIx",
+        "name": "Super Dai Stablecoin",
+        "address": "0x7d342726B69C28D942ad8BfE6Ac81b972349d524",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xda10009cbd5d07dd0cecc66161fc93d7c9000da1/549c4205dbb199f1b8b03af783f35e71.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -2132,6 +2158,18 @@
         "coingeckoId": null,
         "listedIn": [
             "optimism",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "ETHx",
+        "name": "Super ETH",
+        "address": "0x4ac8bD1bDaE47beeF2D1c6Aa62229509b962Aa0d",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "https://static.debank.com/image/avax_token/logo_url/avax/0b9c84359c84d6bdd5bfda9c2d4c4a82.png",
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
