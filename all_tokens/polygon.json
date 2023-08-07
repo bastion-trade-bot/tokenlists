@@ -159,13 +159,14 @@
     },
     {
         "symbol": "WEFI",
-        "name": "Wefi",
+        "name": "Wefi Finance",
         "address": "0xfFA188493C15DfAf2C206c97D8633377847b6a52",
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://wefi-web-resources.s3.ap-south-1.amazonaws.com/wefi-128.png",
-        "coingeckoId": null,
+        "coingeckoId": "wefi-finance",
         "listedIn": [
+            "coingecko",
             "quickswap"
         ]
     },
@@ -3282,6 +3283,18 @@
             "coingecko",
             "lifinance",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "DSRUN",
+        "name": "Derby Stars RUN",
+        "address": "0xFf76c0B48363A7C7307868a81548d340049b0023",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/31203/thumb/download.png?1691380383",
+        "coingeckoId": "derby-stars-run",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
