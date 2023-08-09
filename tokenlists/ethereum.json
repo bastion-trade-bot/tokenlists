@@ -8803,19 +8803,6 @@
         ]
     },
     {
-        "symbol": "PYUSD",
-        "name": "Paypal USD",
-        "address": "0x8f5037B49Bc141D11A1D893ae5B6C5Ac6b41Fd86",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://tokens.1inch.io/0x8f5037b49bc141d11a1d893ae5b6c5ac6b41fd86.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1inch",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "TXL",
         "name": "Autobahn Network",
         "address": "0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41",
@@ -11595,6 +11582,19 @@
         "coingeckoId": "pha",
         "listedIn": [
             "coingecko",
+            "1inch",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "PYUSD",
+        "name": "Paypal USD",
+        "address": "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://tokens.1inch.io/0x6c3ea9036406852006290770bedfcaba0e23a0e8.png",
+        "coingeckoId": "paypal-usd",
+        "listedIn": [
             "1inch",
             "lifinance"
         ]

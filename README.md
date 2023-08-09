@@ -44,10 +44,10 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Bsc, 958 tokens
 - Polygon, 565 tokens
 - 101, 507 tokens
-- Avax, 321 tokens
+- Avax, 322 tokens
 - Solana, 243 tokens
 - Ftm, 242 tokens
-- Arbitrum, 236 tokens
+- Arbitrum, 237 tokens
 - Heco, 197 tokens
 - Optimism, 143 tokens
 - Gnosis, 114 tokens
