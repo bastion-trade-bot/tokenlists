@@ -138,6 +138,8 @@ class UniswapTokenLists(TokenListProvider):
         "137": "polygon",
         "4": "rinkeby",
         "3": "ropsten",
+        "42161":"arbitrum",
+        "8453":"base"
     }
 
 
@@ -176,10 +178,10 @@ class SushiswapTokenLists(TokenListProvider):
         "100": "xdai"
     }
 
-
+ 
 class OneInchTokenLists(TokenListProvider):
     name = "1inch"
-    base_url = "https://api.1inch.io/v4.0/{}/tokens"
+    base_url = "https://api.1inch.dev/token/v1.2/{}"
     chains = {
         "1": "1",
         "56": "56",
@@ -190,6 +192,7 @@ class OneInchTokenLists(TokenListProvider):
         "43114": "43114",
         "250": "250",
         "1313161554": "1313161554",
+        "8453":"8453"
     }
     _tokens_to_list = True
     absent_chain_id = True
@@ -211,6 +214,7 @@ class OpenOceanTokenLists(TokenListProvider):
         "100": "xdai-gnosis",
         "128": "heco",
         "1": "ethereum",
+        "8453": "base",
     }
     _by_chain_id = True
     absent_chain_id = True
@@ -240,7 +244,8 @@ class ElkFinanceTokenLists(TokenListProvider):
         "80001": "mumbai",
         "66": "okex",
         "40": "telos",
-        "100": "xdai"
+        "100": "xdai",
+        "8453": "base",
     }
     # "all", "top"
 
