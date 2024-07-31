@@ -1,6 +1,7 @@
 import asyncio
 import json
 import logging.config
+import os
 from collections import defaultdict
 
 import httpx
@@ -22,6 +23,7 @@ class TokenListProvider:
     name: str
     base_url: str
     chains: dict[str, str]
+    auth_bearer: str = None
     _by_chain_id = False
     _get_chain_id_key = False
     _tokens_to_list = False
@@ -33,8 +35,11 @@ class TokenListProvider:
 
         for chain_id, chain_name in cls.chains.items():
             try:
+                headers = {}
+                if cls.auth_bearer is not None:
+                    headers["Authorization"] = f"Bearer {cls.auth_bearer}"
                 resp = await httpx.AsyncClient().get(
-                    cls.base_url.format(chain_id if cls._by_chain_id else chain_name))
+                    cls.base_url.format(chain_id if cls._by_chain_id else chain_name), headers=headers)
             except httpx.ReadTimeout:
                 await asyncio.sleep(0.5)
                 continue
@@ -196,6 +201,7 @@ class OneInchTokenLists(TokenListProvider):
     }
     _tokens_to_list = True
     absent_chain_id = True
+    auth_bearer = os.environ["OneInchBearer"]
 
 
 class OpenOceanTokenLists(TokenListProvider):
@@ -472,7 +478,7 @@ tokenlists_providers = [
     # OneInchTokenLists,
     UniswapTokenLists,
     SushiswapTokenLists,
-    OpenOceanTokenLists,
+    # OpenOceanTokenLists,
     OneSolTokenLists,
     QuickSwapTokenLists,
     FuseSwapTokenLists,

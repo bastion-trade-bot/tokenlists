@@ -17,6 +17,8 @@ jobs:
       - run: pip install -r requirements.txt
 
       - name: Run script that collects tokens
+        env:
+          OneInchBearer: ${{ secrets.ONEINCHBEARER }}
         run: |
           python3 aggregate_tokens.py && python3 generate_readme.py
 
