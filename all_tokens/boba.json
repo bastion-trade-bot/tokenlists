@@ -1,38 +1,14 @@
 [
     {
-        "symbol": "AVAX",
-        "name": "Avalanche",
-        "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+        "symbol": "ELK",
+        "name": "Elk",
+        "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
         "decimals": 18,
         "chainId": 288,
-        "logoURI": "https://s3.openocean.finance/token_logos/logos/1639129975284_24194513240630244.png",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "openocean"
-        ]
-    },
-    {
-        "symbol": "DAI",
-        "name": "Dai",
-        "address": "0xf74195Bb8a5cf652411867c5C2C5b8C2a402be35",
-        "decimals": 18,
-        "chainId": 288,
-        "logoURI": "https://s3.openocean.finance/token_logos/logos/1639130905265_9701560750428779.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "openocean"
-        ]
-    },
-    {
-        "symbol": "FTM",
-        "name": "Fantom",
-        "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
-        "decimals": 18,
-        "chainId": 288,
-        "logoURI": "https://s3.openocean.finance/token_logos/logos/1639131240817_3745464539583767.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "openocean"
+            "elkfinance"
         ]
     },
     {
@@ -41,11 +17,10 @@
         "address": "0xe1E2ec9a85C607092668789581251115bCBD20de",
         "decimals": 18,
         "chainId": 288,
-        "logoURI": "https://s3.openocean.finance/token_logos/logos/1639128976536_02180437769771748.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/776/thumb/OMG_Network.jpg?1696501928",
         "coingeckoId": "omisego",
         "listedIn": [
-            "coingecko",
-            "openocean"
+            "coingecko"
         ]
     },
     {
@@ -54,11 +29,10 @@
         "address": "0xdc0486f8bf31DF57a952bcd3c1d3e166e3d9eC8b",
         "decimals": 8,
         "chainId": 288,
-        "logoURI": "https://s3.openocean.finance/token_logos/logos/1639129132128_3891051687439073.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/7598/thumb/wrapped_bitcoin_wbtc.png?1696507857",
         "coingeckoId": "wrapped-bitcoin",
         "listedIn": [
-            "coingecko",
-            "openocean"
+            "coingecko"
         ]
     },
     {
@@ -91,11 +65,10 @@
         "address": "0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7",
         "decimals": 18,
         "chainId": 288,
-        "logoURI": "https://s3.openocean.finance/token_logos/logos/1639130528284_184421563689809.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/20285/thumb/Boba-200x200---white.png?1696519690",
         "coingeckoId": "boba-network",
         "listedIn": [
-            "coingecko",
-            "openocean"
+            "coingecko"
         ]
     },
     {
@@ -116,23 +89,11 @@
         "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
         "decimals": 18,
         "chainId": 288,
-        "logoURI": "https://s3.openocean.finance/token_logos/logos/1640068479467_666268388062502.png",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bobaeth/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000/logo.png",
         "coingeckoId": "weth",
         "listedIn": [
             "coingecko",
-            "openocean"
-        ]
-    },
-    {
-        "symbol": "UNI",
-        "name": "Uniswap",
-        "address": "0xDBDE1347fED5dC03C74059010D571a16417d307e",
-        "decimals": 18,
-        "chainId": 288,
-        "logoURI": "https://s3.openocean.finance/token_logos/logos/1639131692553_8148288195463247.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "openocean"
+            "elkfinance"
         ]
     },
     {
@@ -177,22 +138,10 @@
         "address": "0x96821b258955587069F680729cD77369C0892B40",
         "decimals": 18,
         "chainId": 288,
-        "logoURI": "https://assets.coingecko.com/coins/images/28161/thumb/across-200x200.png?1668168201",
+        "logoURI": "https://assets.coingecko.com/coins/images/28161/thumb/across-200x200.png?1696527165",
         "coingeckoId": "across-protocol",
         "listedIn": [
             "coingecko"
-        ]
-    },
-    {
-        "symbol": "MATIC",
-        "name": "Polygon",
-        "address": "0x922D641a426DcFFaeF11680e5358F34d97d112E1",
-        "decimals": 18,
-        "chainId": 288,
-        "logoURI": "https://s3.openocean.finance/token_logos/logos/1639131547439_2810875297987778.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "openocean"
         ]
     },
     {
@@ -205,30 +154,6 @@
         "coingeckoId": null,
         "listedIn": [
             "oolongswap"
-        ]
-    },
-    {
-        "symbol": "BNB",
-        "name": "Binance Coin",
-        "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
-        "decimals": 18,
-        "chainId": 288,
-        "logoURI": "https://s3.openocean.finance/token_logos/logos/1639130240397_9744304549952987.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "openocean"
-        ]
-    },
-    {
-        "symbol": "FRAX",
-        "name": "Frax",
-        "address": "0x7562F525106F5d54E891e005867Bf489B5988CD9",
-        "decimals": 18,
-        "chainId": 288,
-        "logoURI": "https://s3.openocean.finance/token_logos/logos/1640069122683_8257756398337042.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "openocean"
         ]
     },
     {
@@ -257,15 +182,14 @@
     },
     {
         "symbol": "USDC",
-        "name": "USD Coin",
+        "name": "Bridged USDC",
         "address": "0x66a2A913e447d6b4BF33EFbec43aAeF87890FBbc",
         "decimals": 6,
         "chainId": 288,
-        "logoURI": "https://s3.openocean.finance/token_logos/logos/1639126999624_564648928450491.png",
-        "coingeckoId": "usd-coin",
+        "logoURI": "https://assets.coingecko.com/coins/images/35218/thumb/USDC_Icon.png?1707908537",
+        "coingeckoId": "bridged-usdc",
         "listedIn": [
-            "coingecko",
-            "openocean"
+            "coingecko"
         ]
     },
     {
@@ -295,28 +219,14 @@
     },
     {
         "symbol": "USDT",
-        "name": "Tether",
+        "name": "Bridged USDT",
         "address": "0x5DE1677344D3Cb0D7D465c10b72A8f60699C062d",
         "decimals": 6,
         "chainId": 288,
-        "logoURI": "https://s3.openocean.finance/token_logos/logos/1639128907722_5976524470347457.png",
-        "coingeckoId": "tether",
+        "logoURI": "https://assets.coingecko.com/coins/images/35001/thumb/logo.png?1706959346",
+        "coingeckoId": "bridged-usdt",
         "listedIn": [
-            "coingecko",
-            "openocean"
-        ]
-    },
-    {
-        "symbol": "OLO",
-        "name": "OolongSwap",
-        "address": "0x5008F837883EA9a07271a1b5eB0658404F5a9610",
-        "decimals": 18,
-        "chainId": 288,
-        "logoURI": "https://s3.openocean.finance/token_logos/logos/1639126902514_02776739497922076.png",
-        "coingeckoId": "oolongswap",
-        "listedIn": [
-            "coingecko",
-            "openocean"
+            "coingecko"
         ]
     },
     {
@@ -332,27 +242,26 @@
         ]
     },
     {
-        "symbol": "BUSD",
-        "name": "Binance USD",
-        "address": "0x461d52769884ca6235B685EF2040F47d30C94EB5",
+        "symbol": "MIMATIC",
+        "name": "MAI",
+        "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
         "decimals": 18,
         "chainId": 288,
-        "logoURI": "https://s3.openocean.finance/token_logos/logos/1640064724192_49362385974171685.png",
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/15264/thumb/mimatic-red.png?1696514916",
+        "coingeckoId": "mimatic",
         "listedIn": [
-            "openocean"
+            "coingecko"
         ]
     },
     {
         "symbol": "BRE",
-        "name": "Boba Brewery",
+        "name": "Brewery",
         "address": "0x3A93bD0fA10050d206370eeA53276542A105C885",
         "decimals": 18,
         "chainId": 288,
         "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x3A93bD0fA10050d206370eeA53276542A105C885/logo.png",
-        "coingeckoId": "boba-brewery",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "oolongswap"
         ]
     },
@@ -369,7 +278,7 @@
         ]
     },
     {
-        "symbol": "BDOGE",
+        "symbol": "BDoge",
         "name": "BobaDoge",
         "address": "0x121636C43E96D97AB00B6c6994cDDEBEf27dE1C7",
         "decimals": 18,
@@ -377,7 +286,6 @@
         "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x121636C43E96D97AB00B6c6994cDDEBEf27dE1C7/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "openocean",
             "oolongswap"
         ]
     },
@@ -390,7 +298,6 @@
         "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x017Ff87AB312301aDE54f7cf9Cc5AEA28C9De024/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "openocean",
             "oolongswap"
         ]
     }

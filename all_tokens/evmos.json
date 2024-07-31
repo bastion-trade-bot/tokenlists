@@ -1,5 +1,17 @@
 [
     {
+        "symbol": "USDC(Noble)",
+        "name": "USDC",
+        "address": "0xf1faE9eC886C5F6E4ea13dA2456087Bd72F02cD1",
+        "decimals": 6,
+        "chainId": 9001,
+        "logoURI": "https://static.debank.com/image/coin/logo_url/usdc/e87790bfe0b3f2ea855dc29069b38818.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "ibc G-USDT",
         "name": "Tether USD channel-8",
         "address": "0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265",
@@ -29,7 +41,7 @@
         "address": "0xd8176865DD0D672c6Ab4A427572f80A72b4B4A9C",
         "decimals": 18,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/13423/thumb/Frax_Shares_icon.png?1679886947",
+        "logoURI": "https://assets.coingecko.com/coins/images/13423/thumb/Frax_Shares_icon.png?1696513183",
         "coingeckoId": "frax-share",
         "listedIn": [
             "coingecko",
@@ -37,28 +49,27 @@
         ]
     },
     {
-        "symbol": "G-DAI",
-        "name": "Gravity Bridge DAI",
+        "symbol": "ibc G-DAI",
+        "name": "Dai Stablecoin channel-8",
         "address": "0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75",
         "decimals": 18,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/28169/thumb/g-dai.png?1668243431",
-        "coingeckoId": "gravity-bridge-dai",
+        "logoURI": "https://static.debank.com/image/evmos_token/logo_url/0xd567b3d7b8fe3c79a1ad8da978812cfc4fa05e75/3ab0cc2613be3a8e78792bcc0385785e.png",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "lifinance"
         ]
     },
     {
-        "symbol": "FXS",
-        "name": "Frax Share",
-        "address": "0xd0ec216A38F199B0229AE668a96c3Cd9F9f118A6",
-        "decimals": 18,
+        "symbol": "STATOM",
+        "name": "Stride Staked Atom",
+        "address": "0xc8B4d3e67238e38B20d38908646fF6F4F48De5EC",
+        "decimals": 6,
         "chainId": 9001,
-        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0xd0ec216A38F199B0229AE668a96c3Cd9F9f118A6/logo.png",
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/26316/thumb/stATOM.png?1696525398",
+        "coingeckoId": "stride-staked-atom",
         "listedIn": [
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -79,7 +90,7 @@
         "address": "0xb98e169C37ce30Dd47Fdad1f9726Fb832191e60b",
         "decimals": 8,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/25013/thumb/3717.png?1649825574",
+        "logoURI": "https://assets.coingecko.com/coins/images/25013/thumb/3717.png?1696524164",
         "coingeckoId": "wrapped-bitcoin-celer",
         "listedIn": [
             "coingecko",
@@ -104,7 +115,7 @@
         "address": "0xFe6998C5c22936CCa749b14Fcf5F190398cfa8F8",
         "decimals": 18,
         "chainId": 9001,
-        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0xFe6998C5c22936CCa749b14Fcf5F190398cfa8F8/logo.png",
+        "logoURI": "https://static.debank.com/image/rose_token/logo_url/0xf6a939e773fa4a63fd53f86bbbb279caad955035/1eb9c8f251098ea22a2cb30a877da86a.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -116,11 +127,10 @@
         "address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
         "decimals": 18,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/23659/thumb/acre_token-02.png?1644989289",
+        "logoURI": "https://assets.coingecko.com/coins/images/23659/thumb/acre_token-02.png?1696522862",
         "coingeckoId": "arable-protocol",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -133,20 +143,7 @@
         "coingeckoId": "osmosis",
         "listedIn": [
             "coingecko",
-            "pangolin",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "WBTC",
-        "name": "WBTC",
-        "address": "0xF80699Dc594e00aE7bA200c7533a07C1604A106D",
-        "decimals": 8,
-        "chainId": 9001,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
+            "pangolin"
         ]
     },
     {
@@ -155,7 +152,7 @@
         "address": "0xF5b24c0093b65408ACE53df7ce86a02448d53b25",
         "decimals": 8,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/28173/thumb/axlwbtc.png?1668245218",
+        "logoURI": "https://assets.coingecko.com/coins/images/28173/thumb/wbtc-satoshi_D_3x.png?1696986732",
         "coingeckoId": "axlwbtc",
         "listedIn": [
             "coingecko",
@@ -168,11 +165,10 @@
         "address": "0xE03494D0033687543a80c9B1ca7D6237F2EA8BD8",
         "decimals": 18,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/FRAX_icon.png?1679886922",
+        "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/FRAX_icon.png?1696513182",
         "coingeckoId": "frax",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -204,26 +200,51 @@
         ]
     },
     {
-        "symbol": "USDT",
-        "name": "Tether USD",
-        "address": "0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
+        "symbol": "USDC",
+        "name": "Wormhole USDC on Ethereum",
+        "address": "0xC4CcDf91b810a61cCB48b35ccCc066C63bf94B4F",
         "decimals": 6,
         "chainId": 9001,
-        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4/logo.png",
+        "logoURI": "https://static.debank.com/image/zkfair_token/logo_url/zkfair/35ab0987153a8355a454223aae371ac7.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
         ]
     },
     {
-        "symbol": "OAV",
-        "name": "OAV",
-        "address": "0xBbD37BF85f7474b5bDe689695674faB1888565Ad",
-        "decimals": 18,
+        "symbol": "USDT",
+        "name": "USDT on Kava",
+        "address": "0xB8f812B5943ab3BF941D5D4F1de90A4b326c5d8f",
+        "decimals": 6,
         "chainId": 9001,
-        "logoURI": "https://static.debank.com/image/evmos_token/logo_url/0xbbd37bf85f7474b5bde689695674fab1888565ad/e288944d3610de9b5c35e76949917569.png",
+        "logoURI": "https://static.debank.com/image/coin/logo_url/usdt/23af7472292cb41dc39b3f1146ead0fe.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "stATOM",
+        "name": "Stride Staked Atom",
+        "address": "0xB5124FA2b2cF92B2D469b249433BA1c96BDF536D",
+        "decimals": 6,
+        "chainId": 9001,
+        "logoURI": "https://static.debank.com/image/evmos_token/logo_url/0xb5124fa2b2cf92b2d469b249433ba1c96bdf536d/0f66afea357da16e5d6a61553bc06eea.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "TASHI",
+        "name": "Tashi",
+        "address": "0x98fAFD9F714CE0B4bB2870527076F2F314aAed82",
+        "decimals": 18,
+        "chainId": 9001,
+        "logoURI": "https://assets.coingecko.com/coins/images/32999/thumb/Tashi-logo-B-200x200.png?1700115144",
+        "coingeckoId": "tashi",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -233,7 +254,7 @@
         "address": "0x940dAAbA3F713abFabD79CdD991466fe698CBe54",
         "decimals": 18,
         "chainId": 9001,
-        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x940dAAbA3F713abFabD79CdD991466fe698CBe54/logo.png",
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x6b175474e89094c44da98b954eedeac495271d0f/549c4205dbb199f1b8b03af783f35e71.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -245,11 +266,10 @@
         "address": "0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd",
         "decimals": 6,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/24818/thumb/Graviton_-_Blue_200x200i.png?1649038479",
+        "logoURI": "https://assets.coingecko.com/coins/images/24818/thumb/Graviton_-_Blue_200x200i.png?1696523976",
         "coingeckoId": "graviton",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -259,42 +279,6 @@
         "decimals": 18,
         "chainId": 9001,
         "logoURI": "https://static.debank.com/image/evmos_token/logo_url/0x8006320739fc281da67ee62eb9b4ef8add5c903a/e195cdd89f44bf3d0c65d38ce2c6c662.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "USDT",
-        "name": "USDT",
-        "address": "0x7FF4a56B32ee13D7D4D405887E0eA37d61Ed919e",
-        "decimals": 6,
-        "chainId": 9001,
-        "logoURI": "https://static.debank.com/image/evmos_token/logo_url/0x7ff4a56b32ee13d7d4d405887e0ea37d61ed919e/3c1a718331e468abe1fc2ebe319f6c77.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "ETH",
-        "name": "Ethereum",
-        "address": "0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D",
-        "decimals": 18,
-        "chainId": 9001,
-        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "xDIFF",
-        "name": "xDiffusion",
-        "address": "0x75aeE82a16BD1fB98b11879af93AB7CE055f66Da",
-        "decimals": 18,
-        "chainId": 9001,
-        "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/xDIFF.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -318,22 +302,22 @@
         "address": "0x729416B1F442f204989f1C9f0d58321F878808eD",
         "decimals": 18,
         "chainId": 9001,
-        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x729416B1F442f204989f1C9f0d58321F878808eD/logo.png",
+        "logoURI": "https://static.debank.com/image/wan_token/logo_url/0xf8b0d176257f9dc1ee49f038bb4f6cfd51af5762/f0cd86ba8ddb907aabaf5a37a282b971.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
         ]
     },
     {
-        "symbol": "madDAI",
-        "name": "Dai Stablecoin",
-        "address": "0x63743ACF2c7cfee65A5E356A4C4A005b586fC7AA",
-        "decimals": 18,
+        "symbol": "EEUR",
+        "name": "e Money EUR",
+        "address": "0x5db67696C3c088DfBf588d3dd849f44266ff0ffa",
+        "decimals": 6,
         "chainId": 9001,
-        "logoURI": "https://static.debank.com/image/evmos_token/logo_url/0x63743acf2c7cfee65a5e356a4c4a005b586fc7aa/61b18dee6896c6dab0684a78d0eee10a.png",
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/18817/thumb/Currencies-Countries-Square-EEUR.png?1696518279",
+        "coingeckoId": "e-money-eur",
         "listedIn": [
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -342,19 +326,19 @@
         "address": "0x5aD523d94Efb56C400941eb6F34393b84c75ba39",
         "decimals": 6,
         "chainId": 9001,
-        "logoURI": "https://static.debank.com/image/evmos_token/logo_url/0x5ad523d94efb56c400941eb6f34393b84c75ba39/d55055a41780f7e7df3840a4b127904a.png",
+        "logoURI": "https://assets.coingecko.com/coins/images/22363/thumb/pink_star_200.png?1711311188",
         "coingeckoId": "stargaze",
         "listedIn": [
-            "lifinance"
+            "coingecko"
         ]
     },
     {
         "symbol": "G-USDC",
-        "name": "Gravity Bridge USDC",
+        "name": "Bridged USD Coin  Gravity Bridge ",
         "address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
         "decimals": 6,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/28175/thumb/gusdc.png?1668246961",
+        "logoURI": "https://assets.coingecko.com/coins/images/28175/thumb/gusdc.png?1696527178",
         "coingeckoId": "gravity-bridge-usdc",
         "listedIn": [
             "coingecko",
@@ -362,25 +346,13 @@
         ]
     },
     {
-        "symbol": "WETH",
-        "name": "WETH",
-        "address": "0x5842C5532b61aCF3227679a8b1BD0242a41752f2",
-        "decimals": 18,
-        "chainId": 9001,
-        "logoURI": "https://static.debank.com/image/evmos_token/logo_url/0x5842c5532b61acf3227679a8b1bd0242a41752f2/fa2f1f04a6761644701860eea7c4a47a.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "USDC",
-        "name": "USD Coin",
+        "name": "Nomad Bridged USDC  Evmos ",
         "address": "0x51e44FfaD5C2B122C8b635671FCC8139dc636E82",
         "decimals": 6,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389",
-        "coingeckoId": "usd-coin",
+        "logoURI": "https://assets.coingecko.com/coins/images/35322/thumb/USDC.jpg?1708178095",
+        "coingeckoId": "nomad-bridged-usdc-evmos",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -399,12 +371,12 @@
         ]
     },
     {
-        "symbol": "AXLWETH",
-        "name": "axlWETH",
+        "symbol": "AXLETH",
+        "name": "Axelar Wrapped Ether",
         "address": "0x50dE24B3f0B3136C50FA8A3B8ebc8BD80a269ce5",
         "decimals": 18,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/28171/thumb/axlweth.png?1668244532",
+        "logoURI": "https://assets.coingecko.com/coins/images/28171/thumb/weth-wei_D_3x.png?1696527174",
         "coingeckoId": "axlweth",
         "listedIn": [
             "coingecko",
@@ -417,10 +389,23 @@
         "address": "0x4E2D4F33d759976381D9DeE04B197bF52F6bC1FC",
         "decimals": 18,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/25643/thumb/SpaceFi.png?1652949206",
+        "logoURI": "https://assets.coingecko.com/coins/images/25643/thumb/SpaceFi.png?1696524776",
         "coingeckoId": "spacefi",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "WETH",
+        "name": "Wormhole ETH",
+        "address": "0x4D036A97e9ad9e805f0E7B163Ea681B3dE83B7BF",
+        "decimals": 8,
+        "chainId": 9001,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -429,7 +414,7 @@
         "address": "0x48421FF1c6B93988138130865C4B7Cce10358271",
         "decimals": 18,
         "chainId": 9001,
-        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x48421FF1c6B93988138130865C4B7Cce10358271/logo.png",
+        "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0x8bec47865ade3b172a928df8f990bc7f2a3b9f79/ec63b91b7247ce338caa842eb6439530.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -441,36 +426,10 @@
         "address": "0x47685B6AC7bB4de761A57828877A7B8254c8B145",
         "decimals": 18,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/27785/thumb/evmos-domains.png?1665798992",
+        "logoURI": "https://assets.coingecko.com/coins/images/27785/thumb/evmos-domains.png?1696526806",
         "coingeckoId": "evmos-domains",
         "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "DAI",
-        "name": "DAI Stablecoin",
-        "address": "0x461d52769884ca6235B685EF2040F47d30C94EB5",
-        "decimals": 18,
-        "chainId": 9001,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "DIFF",
-        "name": "Diffusion",
-        "address": "0x3f75ceabCDfed1aCa03257Dc6Bdc0408E2b4b026",
-        "decimals": 18,
-        "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/25331/thumb/photo5451952870917257644.jpg?1651826321",
-        "coingeckoId": "diffusion",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -479,35 +438,10 @@
         "address": "0x3452e23F9c4cC62c70B7ADAd699B264AF3549C19",
         "decimals": 6,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/19249/thumb/Juno_Logo_%28Salmon%29_%282%29.png?1676455333",
+        "logoURI": "https://assets.coingecko.com/coins/images/19249/thumb/Juno_Logo_%28Salmon%29_%282%29.png?1696518694",
         "coingeckoId": "juno-network",
         "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "WBTC",
-        "name": "Wrapped BTC",
-        "address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
-        "decimals": 8,
-        "chainId": 9001,
-        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x332730a4F6E03D9C55829435f10360E13cfA41Ff/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "USDC",
-        "name": "USD Coin",
-        "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
-        "decimals": 6,
-        "chainId": 9001,
-        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -519,30 +453,7 @@
         "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/9001/0x2C68D1d6aB986Ff4640b51e1F14C716a076E44C4/logo_24.png",
         "coingeckoId": null,
         "listedIn": [
-            "pangolin"
-        ]
-    },
-    {
-        "symbol": "COXEN",
-        "name": "Xen Crypto  EVMOS ",
-        "address": "0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e",
-        "decimals": 18,
-        "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/30025/thumb/Xen__crypto_200x200.png?1686793912",
-        "coingeckoId": "xen-crypto-evmos",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "FRAX",
-        "name": "Frax",
-        "address": "0x28eC4B29657959F4A5052B41079fe32919Ec3Bd3",
-        "decimals": 18,
-        "chainId": 9001,
-        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0x28eC4B29657959F4A5052B41079fe32919Ec3Bd3/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
+            "pangolin",
             "lifinance"
         ]
     },
@@ -560,7 +471,7 @@
     },
     {
         "symbol": "AXLUSDC",
-        "name": "Axelar USDC",
+        "name": "Axelar Bridged USDC",
         "address": "0x15C3Eb3B621d1Bff62CbA1c9536B7c1AE9149b57",
         "decimals": 6,
         "chainId": 9001,
@@ -578,7 +489,7 @@
         "address": "0x153A59d48AcEAbedbDCf7a13F67Ae52b434B810B",
         "decimals": 18,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/24827/thumb/weth.png?1649047091",
+        "logoURI": "https://assets.coingecko.com/coins/images/24827/thumb/weth.png?1696523984",
         "coingeckoId": "wrapped-ether-celer",
         "listedIn": [
             "coingecko",
@@ -586,15 +497,27 @@
         ]
     },
     {
-        "symbol": "CRN",
-        "name": "Cronus Finance",
-        "address": "0x1488346419FFc85C6D54E71be80a222971fb2240",
-        "decimals": 18,
+        "symbol": "USK",
+        "name": "USK",
+        "address": "0x13974cf36984216C90D1F4FC815C156092feA396",
+        "decimals": 6,
         "chainId": 9001,
-        "logoURI": "https://static.debank.com/image/evmos_token/logo_url/0x1488346419ffc85c6d54e71be80a222971fb2240/a921757f9981e9545899c37371946528.png",
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/27274/thumb/usk.png?1696526326",
+        "coingeckoId": "usk",
         "listedIn": [
-            "lifinance"
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "REGEN",
+        "name": "Regen",
+        "address": "0x0CE35b0D42608Ca54Eb7bcc8044f7087C18E7717",
+        "decimals": 6,
+        "chainId": 9001,
+        "logoURI": "https://assets.coingecko.com/coins/images/16733/thumb/REGEN.png?1696516306",
+        "coingeckoId": "regen",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -603,7 +526,7 @@
         "address": "0x0000000000000000000000000000000000000000",
         "decimals": 18,
         "chainId": 9001,
-        "logoURI": "https://static.debank.com/image/evmos_token/logo_url/evmos/26e038b4d5475d5a4b92f7fc08bdabc9.png",
+        "logoURI": "https://raw.githubusercontent.com/cronus-finance/token-list/main/assets/evmos/0xD4949664cD82660AaE99bEdc034a0deA8A0bd517/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"

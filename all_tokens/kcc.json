@@ -67,7 +67,7 @@
         "decimals": 18,
         "chainId": 321,
         "logoURI": "https://assets.coingecko.com/coins/images/23894/small/fjPuciCc_400x400.jpg?1645607690",
-        "coingeckoId": "coolmining",
+        "coingeckoId": null,
         "listedIn": [
             "mojitoswap",
             "xyfinance"
@@ -190,7 +190,7 @@
         "decimals": 18,
         "chainId": 321,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kcc/0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430/logo.png",
-        "coingeckoId": "usd-coin",
+        "coingeckoId": "kucoin-bridged-usdc-kucoin-community-chain",
         "listedIn": [
             "xyfinance",
             "elkfinance"
@@ -227,7 +227,7 @@
         "decimals": 18,
         "chainId": 321,
         "logoURI": "https://cdn.jsdelivr.net/gh/MojitoFinance/mjtTokenList@master/sax.png",
-        "coingeckoId": "sax-token",
+        "coingeckoId": null,
         "listedIn": [
             "mojitoswap",
             "xyfinance"
@@ -429,13 +429,25 @@
         ]
     },
     {
+        "symbol": "BBC",
+        "name": "Better Bits Club",
+        "address": "0x006d6f38234be7f0519286011A5bf39A35D501b7",
+        "decimals": 18,
+        "chainId": 321,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kcc/0x006d6f38234be7f0519286011A5bf39A35D501b7/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "USDT",
         "name": "USDT",
         "address": "0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48",
         "decimals": 18,
         "chainId": 321,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/kcc/0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48/logo.png",
-        "coingeckoId": "tether",
+        "coingeckoId": "kucoin-bridged-usdt-kucoin-community-chain",
         "listedIn": [
             "xyfinance",
             "elkfinance"
