@@ -10,7 +10,7 @@ CHAIN_ID_TO_NATIVE_COIN_COINGECKO_ID = {
     43113: 'avalanche-2', 10: 'ethereum', 69: 'ethereum', 42161: 'ethereum', 421611: 'ethereum', 1285: 'moonriver',
     66: 'oec-token', 1666600000: 'harmony', 128: 'huobi', 1313161554: 'ethereum', 592: 'astar', 1284: 'moonbeam',
     321: 'kucoin-shares', 25: 'crypto-com-chain', 122: 'fuse-network-token', 1818: 'cube-network', 42220: 'celo',
-    288: 'ethereum'
+    288: 'ethereum', 8453: 'ethereum'
 }
 
 def get_coingecko_ids() -> dict[str, dict[Address, str]]:
@@ -46,7 +46,8 @@ def get_coingecko_ids() -> dict[str, dict[Address, str]]:
         "32659": "fusion-network",
         "40": "telos",
         "-1": "solana",
-        "9001": "evmos"
+        "9001": "evmos",
+        "8453": "base"
     }
     coingecko_platform_to_chain_id = {v: k for k, v in chain_id_to_coingecko_platform.items()}
     coins = httpx.get('https://api.coingecko.com/api/v3/coins/list', params={'include_platform': True}).json()
