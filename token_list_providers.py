@@ -287,27 +287,27 @@ class TrisolarisLabsLists(TokenListProvider):
     }
 
 
-# class RubicLists(TokenListProvider):
-#     name = "rubic"
-#     base_url = "https://api.rubic.exchange/api/tokens/?network={}"
-#     chains = {
-#         "-2": "near",
-#         "-1": "solana",
-#         "1": "ethereum",
-#         # "25": "cronos",
-#         "40": "telos",
-#         "56": "binance-smart-chain",
-#         "100": "xdai",
-#         "137": "polygon",
-#         "250": "fantom",
-#         "1284": "moonbeam",
-#         "1285": "moonriver",
-#         "42161": "arbitrum",
-#         "43114": "avalanche",
-#         "1313161554": "aurora",
-#         "1666600000": "harmony",
-#     }
-#     absent_chain_id = True
+class RubicLists(TokenListProvider):
+    name = "rubic"
+    base_url = "https://api.rubic.exchange/api/tokens/?network={}"
+    chains = {
+        "-2": "near",
+        "-1": "solana",
+        "1": "ethereum",
+        # "25": "cronos",
+        "40": "telos",
+        "56": "binance-smart-chain",
+        "100": "xdai",
+        "137": "polygon",
+        "250": "fantom",
+        "1284": "moonbeam",
+        "1285": "moonriver",
+        "42161": "arbitrum",
+        "43114": "avalanche",
+        "1313161554": "aurora",
+        "1666600000": "harmony",
+    }
+    absent_chain_id = True
 
 
 class CronaSwapLists(TokenListProvider):
@@ -375,9 +375,9 @@ class Lifinance(TokenListProvider):
     chains = {
         "1": "1",
         "10": "10",
-        "25": "25",
+        # "25": "25",
         "56": "56",
-        "66": "66",
+        # "66": "66",
         "100": "100",
         "122": "122",
         "137": "137",
@@ -388,7 +388,7 @@ class Lifinance(TokenListProvider):
         "42161": "42161",
         "42220": "42220",
         "43114": "43114",
-        "1666600000": "1666600000",
+        # "1666600000": "1666600000",
     }
 
 
@@ -469,7 +469,7 @@ class RouterProtocol(TokenListProvider):
 
 tokenlists_providers = [
     CoinGeckoTokenLists,
-    OneInchTokenLists,
+    # OneInchTokenLists,
     UniswapTokenLists,
     SushiswapTokenLists,
     OpenOceanTokenLists,
