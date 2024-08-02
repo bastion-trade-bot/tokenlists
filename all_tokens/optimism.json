@@ -3662,6 +3662,18 @@
         ]
     },
     {
+        "symbol": "WELL",
+        "name": "WELL",
+        "address": "0xA88594D404727625A9437C3f886C7643872296AE",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "bTAROT",
         "name": "Tarot Borrowable",
         "address": "0xA76ab78453164dA65923FFcbe6Fa3C171C219459",
@@ -4703,6 +4715,18 @@
         ]
     },
     {
+        "symbol": "mUSDC",
+        "name": "Moonwell USDC",
+        "address": "0x8E08617b0d66359D73Aa11E11017834C29155525",
+        "decimals": 8,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "S*USDC",
         "name": "USDC-LP",
         "address": "0x8D66Ff1845b1baCC6E87D867CA4680d05A349cA8",
@@ -4859,14 +4883,15 @@
         ]
     },
     {
-        "symbol": "wrsETH",
-        "name": "rsETHWrapper",
+        "symbol": "WRSETH",
+        "name": "Wrapped rsETH",
         "address": "0x87eEE96D50Fb761AD85B1c982d28A042169d61b1",
         "decimals": 18,
         "chainId": 10,
-        "logoURI": "https://static.debank.com/image/blast_token/logo_url/0xe7903b1f75c534dd8159b313d92cdcfbc62cb3cd/570bd8c5a7c151124d71d35ccbfaaefb.png",
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/37919/thumb/rseth.png?1715936438",
+        "coingeckoId": "wrapped-rseth",
         "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -5962,15 +5987,14 @@
         ]
     },
     {
-        "symbol": "ASUSD",
-        "name": "Aave v3 sUSD",
+        "symbol": "aOptSUSD",
+        "name": "Aave Optimism SUSD",
         "address": "0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97",
         "decimals": 18,
         "chainId": 10,
-        "logoURI": "https://assets.coingecko.com/coins/images/32918/thumb/asusd.png?1699825436",
-        "coingeckoId": "aave-v3-susd",
+        "logoURI": "https://static.debank.com/image/op_token/logo_url/0x6d80113e533a2c0fe82eabd35f1875dcea89ea97/cbd92d5e0358bb3d11db3547e3e05c3e.png",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "lifinance"
         ]
     },
