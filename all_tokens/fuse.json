@@ -166,6 +166,18 @@
         ]
     },
     {
+        "symbol": "aeETH",
+        "name": "ETH (Allbridge)",
+        "address": "0xCC9d144a8a8A1e71D5EC66A13F301b9E0137e71C",
+        "decimals": 18,
+        "chainId": 122,
+        "logoURI": null,
+        "coingeckoId": "allbridge-bridged-eth-fuse",
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "DAI",
         "name": "Dai Stablecoin",
         "address": "0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA",
@@ -514,7 +526,7 @@
         "decimals": 8,
         "chainId": 122,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/fuse/0x33284f95ccb7B948d9D352e1439561CF83d8d00d/logo.png",
-        "coingeckoId": "wrapped-bitcoin",
+        "coingeckoId": "fuse-bridged-wbtc-fuse",
         "listedIn": [
             "sushiswap",
             "fuseswap",

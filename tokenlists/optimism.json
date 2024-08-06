@@ -1578,12 +1578,12 @@
     },
     {
         "symbol": "WBTC",
-        "name": "Wrapped Bitcoin",
+        "name": "Optimism Bridged WBTC  Optimism ",
         "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
         "decimals": 8,
         "chainId": 10,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0x68f180fcCe6836688e9084f035309E29Bf0A2095/logo.png",
-        "coingeckoId": "wrapped-bitcoin",
+        "coingeckoId": "optimism-bridged-wbtc-optimism",
         "listedIn": [
             "coingecko",
             "optimism",
@@ -1804,6 +1804,19 @@
         "listedIn": [
             "coingecko",
             "optimism",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "DACKIE",
+        "name": "DackieSwap",
+        "address": "0x47C337Bd5b9344a6F3D6f58C474D9D8cd419D8cA",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "https://assets.coingecko.com/coins/images/30752/thumb/dackieswap_large.png?1707290196",
+        "coingeckoId": "dackieswap",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -2355,19 +2368,6 @@
         "chainId": 10,
         "logoURI": "https://assets.coingecko.com/coins/images/20676/thumb/jYw3kgsY_400x400.png?1696520076",
         "coingeckoId": "space-token-bsc",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "DTORO",
-        "name": "DexToro",
-        "address": "0x1CeF2d62aF4cd26673C7416957CC4Ec619A696a7",
-        "decimals": 18,
-        "chainId": 10,
-        "logoURI": "https://assets.coingecko.com/coins/images/33529/thumb/DTORO_Logo_New.png?1716971115",
-        "coingeckoId": "dextoro",
         "listedIn": [
             "coingecko",
             "lifinance"
