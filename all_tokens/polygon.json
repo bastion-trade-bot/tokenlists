@@ -724,18 +724,6 @@
         ]
     },
     {
-        "symbol": "TRUMATIC",
-        "name": "TruFin Staked MATIC",
-        "address": "0xf33687811f3ad0cd6b48Dd4B39F9F977BD7165A2",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/32416/thumb/TruMATIC_logo_250px_%281%29.png?1698114190",
-        "coingeckoId": "trufin-staked-matic",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "20WMATIC-80SPHERE",
         "name": "20WMATIC-80SPHERE",
         "address": "0xf3312968c7D768C19107731100Ece7d4780b47B2",
@@ -1217,18 +1205,6 @@
         "coingeckoId": null,
         "listedIn": [
             "dfyn"
-        ]
-    },
-    {
-        "symbol": "MOJO",
-        "name": "Planet Mojo",
-        "address": "0xeD2d13A70acbD61074fC56bd0d0845e35f793e5E",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/36670/thumb/MOJOIcon.jpg?1712061269",
-        "coingeckoId": "planet-mojo",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -3127,6 +3103,18 @@
         ]
     },
     {
+        "symbol": "CLL",
+        "name": "CryptoLiveLeak (PoS)",
+        "address": "0xc8f1248B803B5CEd2d5556017092e5DAbFFdDA37",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "SEAT",
         "name": "Seamans Token",
         "address": "0xc79FC2885e207E1C4cc69Cf94402DD1a5642452e",
@@ -4173,6 +4161,18 @@
         ]
     },
     {
+        "symbol": "YVS",
+        "name": "YVS.Finance (PoS)",
+        "address": "0xb565CF70613ca464D68427106af80C67a8e4b801",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xb565cf70613ca464d68427106af80c67a8e4b801/f1a86d00a2f093b5f606265227886c28.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "WFDP",
         "name": "WFDP",
         "address": "0xb541a306DD240EF04Fb5E7e0Db9a3C6CB7DdBb07",
@@ -4919,18 +4919,6 @@
         "coingeckoId": "sportzchain",
         "listedIn": [
             "coingecko"
-        ]
-    },
-    {
-        "symbol": "huhcat",
-        "name": "huhcat",
-        "address": "0xa362F1bD0Ad262E2116088e0c17A3a383fbba11F",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xa362f1bd0ad262e2116088e0c17a3a383fbba11f/b752630f65adfaf1f128d652c831ca9f.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
         ]
     },
     {
@@ -7185,18 +7173,6 @@
         ]
     },
     {
-        "symbol": "BLOSP",
-        "name": "BlockSphere",
-        "address": "0xDD1061aA306DFAa0Ecf6156AB0D7BE554C5Fd712",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "FOOT",
         "name": "Foot Guns DAO (PoS)",
         "address": "0xDD0D1D0a02865e1CB7A01CE42E70F265Dc0a5775",
@@ -7893,8 +7869,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/33076/thumb/Rectangle_23015.png?1700544954",
         "coingeckoId": "liquid-driver-liveretro",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -10126,7 +10101,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/18407/thumb/logo_200.png?1696517897",
         "coingeckoId": "shibaverse",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -11510,7 +11486,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/20223/thumb/0x92868A5255C628dA08F550a858A802f5351C5223.png?1696519632",
         "coingeckoId": "cross-chain-bridge",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -15482,7 +15459,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/20885/thumb/gnome.png?1696520278",
         "coingeckoId": "gnome",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -20237,7 +20215,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14585/small/AcNx2x6P_400x400.jpg?1617153476",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn"
+            "dfyn",
+            "lifinance"
         ]
     },
     {
@@ -22850,6 +22829,18 @@
         "decimals": 18,
         "chainId": 137,
         "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "BEL",
+        "name": "Bella (PoS)",
+        "address": "0x28C388FB1F4fa9F9eB445f0579666849EE5eeb42",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x28c388fb1f4fa9f9eb445f0579666849ee5eeb42/ce1950cb7bf0cb48a226d5f96d596c6c.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -26646,6 +26637,18 @@
         "coingeckoId": "aave-v3-wbtc",
         "listedIn": [
             "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "ARKES",
+        "name": "Arke Token (PoS)",
+        "address": "0x0784d958Ee09ff8e876A82d3c6e798912C0F0A11",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
