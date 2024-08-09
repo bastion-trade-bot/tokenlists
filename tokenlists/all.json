@@ -561,19 +561,6 @@
             ]
         },
         {
-            "symbol": "LQTY",
-            "name": "Liquity",
-            "address": "0xfb9E5D956D889D91a82737B9bFCDaC1DCE3e1449",
-            "decimals": 18,
-            "chainId": 42161,
-            "logoURI": "https://assets.coingecko.com/coins/images/14665/thumb/200-lqty-icon.png?1696514340",
-            "coingeckoId": "liquity",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "PZT",
             "name": "Pizon",
             "address": "0xfb17d52F77Db6E32B5A082Ed4307FCFb0a86BEEE",
@@ -676,19 +663,6 @@
             "chainId": 42161,
             "logoURI": "https://assets.coingecko.com/coins/images/34512/thumb/YSL-Light_200px.png?1705288632",
             "coingeckoId": "xenify-ysl",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "ARBS",
-            "name": "Arbswap",
-            "address": "0xf50874f8246776CA4B89eEF471E718F70f38458F",
-            "decimals": 18,
-            "chainId": 42161,
-            "logoURI": "https://assets.coingecko.com/coins/images/30565/thumb/Arb-Logo_Circle_DARK_LOGO_ONLY.png?1696529436",
-            "coingeckoId": "arbswap",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -870,12 +844,12 @@
         },
         {
             "symbol": "USD+",
-            "name": "Overnight fi USD ",
+            "name": "Overnight fi USD   Arbitrum One ",
             "address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
             "decimals": 6,
             "chainId": 42161,
             "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F25757%2Fsmall%2FUSD__logo.png%3F1696524843&w=32&q=75",
-            "coingeckoId": "usd",
+            "coingeckoId": "overnight-fi-usd-arbitrum-one",
             "listedIn": [
                 "coingecko",
                 "joe",
@@ -1333,19 +1307,6 @@
             ]
         },
         {
-            "symbol": "NFD",
-            "name": "Feisty Doge NFT",
-            "address": "0xc9c2B86CD4cdbAB70cd65D22EB044574c3539F6c",
-            "decimals": 18,
-            "chainId": 42161,
-            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11368.png",
-            "coingeckoId": null,
-            "listedIn": [
-                "arbitrum_bridge",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "PLX",
             "name": "Parallax",
             "address": "0xc8CCBd97b96834b976C995a67BF46e5754e2C48E",
@@ -1523,6 +1484,19 @@
             "chainId": 42161,
             "logoURI": "https://assets.coingecko.com/coins/images/25598/thumb/USD24.png?1696524732",
             "coingeckoId": "fiat24-usd",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "CATCH",
+            "name": "SpaceCatch",
+            "address": "0xbC4c97Fb9befaa8B41448e1dFcC5236dA543217F",
+            "decimals": 18,
+            "chainId": 42161,
+            "logoURI": "https://assets.coingecko.com/coins/images/36632/thumb/Logomark_colours.png?1712022405",
+            "coingeckoId": "spacecatch",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -5924,19 +5898,6 @@
             ]
         },
         {
-            "symbol": "CTSI",
-            "name": "Cartesi",
-            "address": "0x319f865b287fCC10b30d8cE6144e8b6D1b476999",
-            "decimals": 18,
-            "chainId": 42161,
-            "logoURI": "https://assets.coingecko.com/coins/images/11038/thumb/Cartesi_Logo.png?1696510982",
-            "coingeckoId": "cartesi",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "OREO",
             "name": "OreoSwap",
             "address": "0x319e222De462ac959BAf2aEc848697AeC2bbD770",
@@ -6476,6 +6437,19 @@
             "chainId": 42161,
             "logoURI": "https://assets.coingecko.com/coins/images/31180/thumb/AlphaScan_logo.jpg?1696530008",
             "coingeckoId": "alphascan",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "FPI",
+            "name": "Frax Price Index",
+            "address": "0x1B01514A2B3CdEf16fD3c680a818A0Ab97Da8a09",
+            "decimals": 18,
+            "chainId": 42161,
+            "logoURI": "https://assets.coingecko.com/coins/images/24945/thumb/FPI_icon.png?1696524100",
+            "coingeckoId": "frax-price-index",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -7878,6 +7852,19 @@
                 "coingecko",
                 "sushiswap",
                 "lifinance"
+            ]
+        },
+        {
+            "symbol": "MSS",
+            "name": "MintStakeShare",
+            "address": "0xf0F14CbD7ce6753BC209EB0d8F67fC84cccB9B2F",
+            "decimals": 18,
+            "chainId": 56,
+            "logoURI": "https://coin-images.coingecko.com/coins/images/39424/small/logo200x200.png?1722230695",
+            "coingeckoId": "mintstakeshare",
+            "listedIn": [
+                "coingecko",
+                "xyfinance"
             ]
         },
         {
@@ -11108,19 +11095,6 @@
             ]
         },
         {
-            "symbol": "CRED",
-            "name": "CRED COIN PAY",
-            "address": "0xFc76ba9157Ee5D079De8c1e969ee54096Aaa6C9c",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://assets.coingecko.com/coins/images/29453/thumb/cred.png?1696528400",
-            "coingeckoId": "cred-coin-pay",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "ORO",
             "name": "Operon Origins",
             "address": "0xFc4f5A4d1452B8Dc6C3CB745dB15B29c00812b19",
@@ -12836,13 +12810,14 @@
         },
         {
             "symbol": "MAPE",
-            "name": "MechaExToken",
+            "name": "Mecha Morphing",
             "address": "0xCa044F16AfA434C0C17c0478D8A6cE4FEEf46504",
             "decimals": 18,
             "chainId": 56,
             "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17467.png",
-            "coingeckoId": null,
+            "coingeckoId": "mecha-morphing",
             "listedIn": [
+                "coingecko",
                 "lifinance",
                 "xyfinance"
             ]
@@ -13035,6 +13010,19 @@
                 "pancake",
                 "lifinance",
                 "elkfinance"
+            ]
+        },
+        {
+            "symbol": "FBTC",
+            "name": "Ignition FBTC",
+            "address": "0xC96dE26018A54D51c097160568752c4E3BD6C364",
+            "decimals": 8,
+            "chainId": 56,
+            "logoURI": "https://assets.coingecko.com/coins/images/39182/thumb/FBTC_LOGO.png?1720850455",
+            "coingeckoId": "ignition-fbtc",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
             ]
         },
         {
@@ -16146,7 +16134,6 @@
             "coingeckoId": "cartesi",
             "listedIn": [
                 "coingecko",
-                "lifinance",
                 "elkfinance"
             ]
         },
@@ -16827,19 +16814,6 @@
                 "pancake",
                 "lifinance",
                 "elkfinance"
-            ]
-        },
-        {
-            "symbol": "CAL",
-            "name": "FitBurn",
-            "address": "0x859C940F080B197659b3EfFc804fD622Df66f0a1",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://assets.coingecko.com/coins/images/29876/thumb/Logo_%283%29.png?1696528801",
-            "coingeckoId": "calorie",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
             ]
         },
         {
@@ -25149,6 +25123,19 @@
             ]
         },
         {
+            "symbol": "MIR",
+            "name": "Mir Token",
+            "address": "0x2134f3A7b18aE4161fBaB6EcCCa7497E17a6777b",
+            "decimals": 18,
+            "chainId": 56,
+            "logoURI": "https://assets.coingecko.com/coins/images/33303/thumb/MIR.jpg?1701404193",
+            "coingeckoId": "mir-token",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "BUX",
             "name": "BUX",
             "address": "0x211FfbE424b90e25a15531ca322adF1559779E45",
@@ -32084,8 +32071,7 @@
             "coingeckoId": "cartesi",
             "listedIn": [
                 "coingecko",
-                "optimism",
-                "lifinance"
+                "optimism"
             ]
         },
         {
@@ -32876,12 +32862,12 @@
         },
         {
             "symbol": "USD+",
-            "name": "Overnight fi USD ",
+            "name": "Overnight fi USD   Optimism ",
             "address": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
             "decimals": 6,
             "chainId": 10,
             "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F25757%2Fsmall%2FUSD__logo.png%3F1696524843&w=32&q=75",
-            "coingeckoId": "usd",
+            "coingeckoId": "overnight-fi-usd-optimism",
             "listedIn": [
                 "coingecko",
                 "optimism",
@@ -32993,19 +32979,6 @@
             "listedIn": [
                 "coingecko",
                 "optimism"
-            ]
-        },
-        {
-            "symbol": "VMEX",
-            "name": "VMEX",
-            "address": "0x6D2E5b8841a6Aa5f0f973436357f75D3Eeb93312",
-            "decimals": 18,
-            "chainId": 10,
-            "logoURI": "https://assets.coingecko.com/coins/images/33934/thumb/VMEX_3072x3072.jpg?1703500846",
-            "coingeckoId": "vmex",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
             ]
         },
         {
@@ -33669,19 +33642,6 @@
                 "coingecko",
                 "lifinance",
                 "xyfinance"
-            ]
-        },
-        {
-            "symbol": "UNIDX",
-            "name": "UniDex",
-            "address": "0x28b42698Caf46B4B012CF38b6C75867E0762186D",
-            "decimals": 18,
-            "chainId": 10,
-            "logoURI": "https://assets.coingecko.com/coins/images/13178/thumb/unidx.png?1696512961",
-            "coingeckoId": "unidex",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
             ]
         },
         {
@@ -37163,6 +37123,19 @@
             ]
         },
         {
+            "symbol": "LIVERETRO",
+            "name": "Liquid Driver liveRETRO",
+            "address": "0xCaAF554900E33ae5DBc66ae9f8ADc3049B7D31dB",
+            "decimals": 18,
+            "chainId": 137,
+            "logoURI": "https://assets.coingecko.com/coins/images/33076/thumb/Rectangle_23015.png?1700544954",
+            "coingeckoId": "liquid-driver-liveretro",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "SING",
             "name": "Sing",
             "address": "0xCB898b0eFb084Df14dd8E018dA37B4d0f06aB26D",
@@ -37739,19 +37712,6 @@
             "chainId": 137,
             "logoURI": "https://assets.coingecko.com/coins/images/561/thumb/byteball.png?1696501768",
             "coingeckoId": "byteball",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "XOIL",
-            "name": "Rebel Bots Oil",
-            "address": "0xA7AaC53F7C860B1F9d610147341C57579c51403e",
-            "decimals": 8,
-            "chainId": 137,
-            "logoURI": "https://assets.coingecko.com/coins/images/32640/thumb/Xoil_coingecko.png?1698888846",
-            "coingeckoId": "rebel-bots-oil",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -41668,6 +41628,19 @@
             ]
         },
         {
+            "symbol": "UFI",
+            "name": "PureFi",
+            "address": "0x3c205C8B3e02421Da82064646788c82f7bd753B9",
+            "decimals": 18,
+            "chainId": 137,
+            "logoURI": "https://assets.coingecko.com/coins/images/17341/thumb/purefi.PNG?1696516893",
+            "coingeckoId": "purefi",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "DST",
             "name": "Dragon Soul Token",
             "address": "0x3b7E1ce09aFe2bB3A23919AFb65a38E627CfbE97",
@@ -42086,8 +42059,7 @@
             "coingeckoId": "verified-usd-foundation-usdv",
             "listedIn": [
                 "coingecko",
-                "quickswap",
-                "lifinance"
+                "quickswap"
             ]
         },
         {
@@ -42554,7 +42526,6 @@
             "coingeckoId": "cartesi",
             "listedIn": [
                 "coingecko",
-                "lifinance",
                 "elkfinance"
             ]
         },
@@ -42667,6 +42638,19 @@
             ]
         },
         {
+            "symbol": "USD+",
+            "name": "Overnight fi USD ",
+            "address": "0x236eeC6359fb44CCe8f97E99387aa7F8cd5cdE1f",
+            "decimals": 6,
+            "chainId": 137,
+            "logoURI": "https://assets.coingecko.com/coins/images/25757/thumb/USD__logo.png?1696524843",
+            "coingeckoId": "usd",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "TBTC",
             "name": "tBTC",
             "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
@@ -42770,8 +42754,7 @@
             "coingeckoId": "matrixswap",
             "listedIn": [
                 "coingecko",
-                "dfyn",
-                "lifinance"
+                "dfyn"
             ]
         },
         {
@@ -44296,7 +44279,6 @@
             "listedIn": [
                 "coingecko",
                 "pangolin",
-                "lifinance",
                 "elkfinance"
             ]
         },
@@ -46454,19 +46436,6 @@
             ]
         },
         {
-            "symbol": "WTF",
-            "name": "Waterfall Governance",
-            "address": "0x873801Ae2ff12d816Db9a7B082F5796BEC64C82C",
-            "decimals": 18,
-            "chainId": 43114,
-            "logoURI": "https://assets.coingecko.com/coins/images/19189/thumb/wtf_icon_avatar_200x200.png?1696518637",
-            "coingeckoId": "waterfall-governance-token",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "QI",
             "name": "BENQI",
             "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
@@ -46905,7 +46874,6 @@
             "coingeckoId": "cartesi",
             "listedIn": [
                 "coingecko",
-                "lifinance",
                 "elkfinance"
             ]
         },
@@ -48932,6 +48900,19 @@
             ]
         },
         {
+            "symbol": "USDC",
+            "name": "USD Coin - AnySwap",
+            "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+            "decimals": 6,
+            "chainId": 1285,
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg",
+            "coingeckoId": null,
+            "listedIn": [
+                "sushiswap",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "BEANS",
             "name": "MoonBeans",
             "address": "0xC2392DD3e3fED2c8Ed9f7f0bDf6026fcd1348453",
@@ -49019,7 +49000,8 @@
             "coingeckoId": "frax-share",
             "listedIn": [
                 "coingecko",
-                "sushiswap"
+                "sushiswap",
+                "lifinance"
             ]
         },
         {
@@ -49045,7 +49027,8 @@
             "coingeckoId": "matic-network",
             "listedIn": [
                 "coingecko",
-                "sushiswap"
+                "sushiswap",
+                "lifinance"
             ]
         },
         {
@@ -54363,6 +54346,19 @@
             ]
         },
         {
+            "symbol": "MOJO",
+            "name": "Planet Mojo",
+            "address": "0xeD2d13A70acbD61074fC56bd0d0845e35f793e5E",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/36670/thumb/MOJOIcon.jpg?1712061269",
+            "coingeckoId": "planet-mojo",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "IOC",
             "name": "Intelligence On Chain",
             "address": "0xeD1DdC491A2c8b1f7D6e8933580a47E124EA38db",
@@ -59461,19 +59457,6 @@
             ]
         },
         {
-            "symbol": "DDIM",
-            "name": "DuckDaoDime",
-            "address": "0xFbEEa1C75E4c4465CB2FCCc9c6d6afe984558E20",
-            "decimals": 18,
-            "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/12146/thumb/token_DDIM-01.png?1696511987",
-            "coingeckoId": "duckdaodime",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "TREAT",
             "name": "Treat Token",
             "address": "0xFbD5fD3f85e9f4c5E8B40EEC9F8B8ab1cAAa146b",
@@ -62373,6 +62356,19 @@
             "chainId": 1,
             "logoURI": "https://assets.coingecko.com/coins/images/35662/thumb/G3_logo.jpg?1709454143",
             "coingeckoId": "gam3s-gg",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "TRUTH",
+            "name": "Truth Inu",
+            "address": "0xCF4C91ECaFc43C9F382DB723Ba20B82efa852821",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/38027/thumb/ZRSyw62O_400x400.jpg?1716318315",
+            "coingeckoId": "truth-inu",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -67311,8 +67307,7 @@
             "coingeckoId": "standard-protocol",
             "listedIn": [
                 "coingecko",
-                "sushiswap",
-                "lifinance"
+                "sushiswap"
             ]
         },
         {
@@ -71554,19 +71549,6 @@
             ]
         },
         {
-            "symbol": "UDS",
-            "name": "Undeads Games",
-            "address": "0x712bd4Beb54C6B958267d9dB0259abdBb0BFF606",
-            "decimals": 18,
-            "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/36308/thumb/01_avatar.jpg?1711090303",
-            "coingeckoId": "undeads-games",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "AENJ",
             "name": "Aave ENJ v1",
             "address": "0x712DB54daA836B53Ef1EcBb9c6ba3b9Efb073F40",
@@ -72236,6 +72218,19 @@
             "chainId": 1,
             "logoURI": "https://assets.coingecko.com/coins/images/37279/thumb/bloodboy200x200icon.png?1713941790",
             "coingeckoId": "bloodboy",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "TRUMP",
+            "name": "MAGA",
+            "address": "0x6aA56e1D98b3805921C170EB4B3fe7D4Fda6D89b",
+            "decimals": 9,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/31498/thumb/Maga-Trump-Logo-200px.png?1696530309",
+            "coingeckoId": "maga",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -73034,13 +73029,14 @@
         },
         {
             "symbol": "VUSD",
-            "name": "VUSD",
+            "name": "Vesper V Dollar",
             "address": "0x677ddbd918637E5F2c79e164D402454dE7dA8619",
             "decimals": 18,
             "chainId": 1,
             "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x677ddbd918637E5F2c79e164D402454dE7dA8619/logo.png",
-            "coingeckoId": null,
+            "coingeckoId": "vesper-vdollar",
             "listedIn": [
+                "coingecko",
                 "sushiswap",
                 "lifinance"
             ]
@@ -75227,7 +75223,7 @@
             "decimals": 9,
             "chainId": 1,
             "logoURI": "https://assets.coingecko.com/coins/images/31498/standard/Maga-Trump-Logo-200px.png?1696530309",
-            "coingeckoId": "maga",
+            "coingeckoId": null,
             "listedIn": [
                 "coingecko",
                 "xyfinance"
@@ -78151,19 +78147,6 @@
                 "coingecko",
                 "sushiswap",
                 "arbitrum_bridge",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "BISC",
-            "name": "Bidao Smart Chain",
-            "address": "0x4295c8556AFEE00264C0789dde2ddd2dba71AcFe",
-            "decimals": 18,
-            "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/29825/thumb/bisc200.png?1696528753",
-            "coingeckoId": "bidao-smart-chain",
-            "listedIn": [
-                "coingecko",
                 "lifinance"
             ]
         },
@@ -83425,19 +83408,6 @@
             ]
         },
         {
-            "symbol": "COLT",
-            "name": "Collateral Network",
-            "address": "0x1A3cBdA3853494acAb67648EE59AfeB7ec3E9334",
-            "decimals": 18,
-            "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/29770/thumb/IMG_20230407_101929_020.png?1696528701",
-            "coingeckoId": "collateral-network",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "DEP",
             "name": "DEAPCOIN",
             "address": "0x1A3496C18d558bd9C6C8f609E1B129f67AB08163",
@@ -85281,19 +85251,6 @@
             "chainId": 1,
             "logoURI": "https://assets.coingecko.com/coins/images/14106/thumb/Public_Mint_Icon_200x200.png?1696513827",
             "coingeckoId": "public-mint",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "WOMBAT",
-            "name": "Wombat",
-            "address": "0x0C9c7712C83B3C70e7c5E11100D33D9401BdF9dd",
-            "decimals": 18,
-            "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/26430/thumb/Project_Page_Icon.png?1696525504",
-            "coingeckoId": "wombat",
             "listedIn": [
                 "coingecko",
                 "lifinance"

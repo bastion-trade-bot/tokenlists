@@ -42,19 +42,6 @@
         ]
     },
     {
-        "symbol": "LQTY",
-        "name": "Liquity",
-        "address": "0xfb9E5D956D889D91a82737B9bFCDaC1DCE3e1449",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/14665/thumb/200-lqty-icon.png?1696514340",
-        "coingeckoId": "liquity",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "PZT",
         "name": "Pizon",
         "address": "0xfb17d52F77Db6E32B5A082Ed4307FCFb0a86BEEE",
@@ -157,19 +144,6 @@
         "chainId": 42161,
         "logoURI": "https://assets.coingecko.com/coins/images/34512/thumb/YSL-Light_200px.png?1705288632",
         "coingeckoId": "xenify-ysl",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "ARBS",
-        "name": "Arbswap",
-        "address": "0xf50874f8246776CA4B89eEF471E718F70f38458F",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/30565/thumb/Arb-Logo_Circle_DARK_LOGO_ONLY.png?1696529436",
-        "coingeckoId": "arbswap",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -351,12 +325,12 @@
     },
     {
         "symbol": "USD+",
-        "name": "Overnight fi USD ",
+        "name": "Overnight fi USD   Arbitrum One ",
         "address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
         "decimals": 6,
         "chainId": 42161,
         "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F25757%2Fsmall%2FUSD__logo.png%3F1696524843&w=32&q=75",
-        "coingeckoId": "usd",
+        "coingeckoId": "overnight-fi-usd-arbitrum-one",
         "listedIn": [
             "coingecko",
             "joe",
@@ -814,19 +788,6 @@
         ]
     },
     {
-        "symbol": "NFD",
-        "name": "Feisty Doge NFT",
-        "address": "0xc9c2B86CD4cdbAB70cd65D22EB044574c3539F6c",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11368.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "arbitrum_bridge",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "PLX",
         "name": "Parallax",
         "address": "0xc8CCBd97b96834b976C995a67BF46e5754e2C48E",
@@ -1004,6 +965,19 @@
         "chainId": 42161,
         "logoURI": "https://assets.coingecko.com/coins/images/25598/thumb/USD24.png?1696524732",
         "coingeckoId": "fiat24-usd",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "CATCH",
+        "name": "SpaceCatch",
+        "address": "0xbC4c97Fb9befaa8B41448e1dFcC5236dA543217F",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/36632/thumb/Logomark_colours.png?1712022405",
+        "coingeckoId": "spacecatch",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -5405,19 +5379,6 @@
         ]
     },
     {
-        "symbol": "CTSI",
-        "name": "Cartesi",
-        "address": "0x319f865b287fCC10b30d8cE6144e8b6D1b476999",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/11038/thumb/Cartesi_Logo.png?1696510982",
-        "coingeckoId": "cartesi",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "OREO",
         "name": "OreoSwap",
         "address": "0x319e222De462ac959BAf2aEc848697AeC2bbD770",
@@ -5957,6 +5918,19 @@
         "chainId": 42161,
         "logoURI": "https://assets.coingecko.com/coins/images/31180/thumb/AlphaScan_logo.jpg?1696530008",
         "coingeckoId": "alphascan",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "FPI",
+        "name": "Frax Price Index",
+        "address": "0x1B01514A2B3CdEf16fD3c680a818A0Ab97Da8a09",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/24945/thumb/FPI_icon.png?1696524100",
+        "coingeckoId": "frax-price-index",
         "listedIn": [
             "coingecko",
             "lifinance"

@@ -1208,6 +1208,18 @@
         ]
     },
     {
+        "symbol": "MOJO",
+        "name": "Planet Mojo",
+        "address": "0xeD2d13A70acbD61074fC56bd0d0845e35f793e5E",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "CFI",
         "name": "CyberFi",
         "address": "0xeCf8f2FA183b1C4d2A269BF98A54fCe86C812d3e",
@@ -4168,6 +4180,18 @@
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xb565cf70613ca464d68427106af80c67a8e4b801/f1a86d00a2f093b5f606265227886c28.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "SLP",
+        "name": "SushiSwap LP Token",
+        "address": "0xb556feD3B348634a9A010374C406824Ae93F0CF8",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -7870,7 +7894,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/33076/thumb/Rectangle_23015.png?1700544954",
         "coingeckoId": "liquid-driver-liveretro",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -9685,10 +9710,9 @@
         "address": "0xA7AaC53F7C860B1F9d610147341C57579c51403e",
         "decimals": 8,
         "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/32640/thumb/Xoil_coingecko.png?1698888846",
-        "coingeckoId": "rebel-bots-oil",
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xa7aac53f7c860b1f9d610147341c57579c51403e/5eda0e9b27fa1110a6cf4f8f31ef8970.png",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "lifinance"
         ]
     },
@@ -12277,18 +12301,6 @@
         "decimals": 18,
         "chainId": 137,
         "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "KWIK",
-        "name": "Kwikswap (PoS)",
-        "address": "0x8DF74088b3aeCfd0cB97BcFd053B173782f01e3A",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x8df74088b3aecfd0cb97bcfd053b173782f01e3a/9c928678a00199f4283f3278142252c0.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -20667,7 +20679,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/17341/thumb/purefi.PNG?1696516893",
         "coingeckoId": "purefi",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -21763,18 +21776,6 @@
         ]
     },
     {
-        "symbol": "PS1",
-        "name": "PolysportsToken",
-        "address": "0x32Cd1BCB75473845b5d1dB6ecE60AEC6E41d8518",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x32cd1bcb75473845b5d1db6ece60aec6e41d8518/0fa2c3793fd3efd56648baded43b19b7.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "SNE",
         "name": "StrongNode",
         "address": "0x32934CB16DA43fd661116468c1B225Fc26CF9A8c",
@@ -21821,8 +21822,7 @@
         "coingeckoId": "verified-usd-foundation-usdv",
         "listedIn": [
             "coingecko",
-            "quickswap",
-            "lifinance"
+            "quickswap"
         ]
     },
     {
@@ -23153,7 +23153,6 @@
         "coingeckoId": "cartesi",
         "listedIn": [
             "coingecko",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -23506,14 +23505,15 @@
         ]
     },
     {
-        "symbol": "USD+(overnight.fi)",
-        "name": "USD+",
+        "symbol": "USD+",
+        "name": "Overnight fi USD ",
         "address": "0x236eeC6359fb44CCe8f97E99387aa7F8cd5cdE1f",
         "decimals": 6,
         "chainId": 137,
-        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x236eec6359fb44cce8f97e99387aa7f8cd5cde1f/58363c9095ed5998f48688b3c52c78c7.png",
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/25757/thumb/USD__logo.png?1696524843",
+        "coingeckoId": "usd",
         "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -23768,18 +23768,6 @@
         ]
     },
     {
-        "symbol": "GREENGOLD",
-        "name": "GREENGOLD",
-        "address": "0x21a00838E6b2D4aa3ac4BbC11111Be011E1ca111",
-        "decimals": 6,
-        "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/33578/thumb/GG_Logo_%283%29.png?1702453059",
-        "coingeckoId": "greengold",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "MNTR",
         "name": "Mintor",
         "address": "0x21Ffa8eA8AeDc4d5FB8a4fE83EFC40058B3a75C8",
@@ -23825,8 +23813,7 @@
         "coingeckoId": "matrixswap",
         "listedIn": [
             "coingecko",
-            "dfyn",
-            "lifinance"
+            "dfyn"
         ]
     },
     {

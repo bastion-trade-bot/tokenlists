@@ -2306,8 +2306,7 @@
         "coingeckoId": "cartesi",
         "listedIn": [
             "coingecko",
-            "optimism",
-            "lifinance"
+            "optimism"
         ]
     },
     {
@@ -3161,6 +3160,18 @@
         "symbol": "mooVeloV2USDC-OP",
         "name": "Moo VeloV2 USDC-OP",
         "address": "0xC1CE18ee03bED17676021ca0B84F550339c66a24",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "UP",
+        "name": "Position Up",
+        "address": "0xC14702270f15b4ce8BE3f5E854a99cE205747743",
         "decimals": 18,
         "chainId": 10,
         "logoURI": null,
@@ -5786,12 +5797,12 @@
     },
     {
         "symbol": "USD+",
-        "name": "Overnight fi USD ",
+        "name": "Overnight fi USD   Optimism ",
         "address": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
         "decimals": 6,
         "chainId": 10,
         "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F25757%2Fsmall%2FUSD__logo.png%3F1696524843&w=32&q=75",
-        "coingeckoId": "usd",
+        "coingeckoId": "overnight-fi-usd-optimism",
         "listedIn": [
             "coingecko",
             "optimism",
@@ -6159,14 +6170,13 @@
     },
     {
         "symbol": "VMEX",
-        "name": "VMEX",
+        "name": "VMEX Token",
         "address": "0x6D2E5b8841a6Aa5f0f973436357f75D3Eeb93312",
         "decimals": 18,
         "chainId": 10,
-        "logoURI": "https://assets.coingecko.com/coins/images/33934/thumb/VMEX_3072x3072.jpg?1703500846",
-        "coingeckoId": "vmex",
+        "logoURI": "https://static.debank.com/image/op_token/logo_url/0x6d2e5b8841a6aa5f0f973436357f75d3eeb93312/a0edda0dc1f377122015cd0b0304af61.png",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "lifinance"
         ]
     },
@@ -7883,6 +7893,18 @@
         ]
     },
     {
+        "symbol": "UP",
+        "name": "Position Up",
+        "address": "0x3f9ec16ED24148FB7c13520BC47e4e3A2a21593D",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "mooSonneWETH",
         "name": "Moo Sonne WETH",
         "address": "0x3f63e9Db070ADe3e833EF8972Ac5E9810367a49c",
@@ -8178,18 +8200,6 @@
         "decimals": 6,
         "chainId": 10,
         "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "MMY",
-        "name": "MUMMY",
-        "address": "0x385719545Ef34d457A88e723504544A53F0Ad9BC",
-        "decimals": 18,
-        "chainId": 10,
-        "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x01e77288b38b416f972428d562454fb329350bac/e8954299ca5a53721602e2c5a3edd8cd.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -8798,8 +8808,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/13178/thumb/unidx.png?1696512961",
         "coingeckoId": "unidex",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
