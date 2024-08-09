@@ -230,7 +230,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14665/thumb/200-lqty-icon.png?1696514340",
         "coingeckoId": "liquity",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -734,7 +735,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/30565/thumb/Arb-Logo_Circle_DARK_LOGO_ONLY.png?1696529436",
         "coingeckoId": "arbswap",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -1205,6 +1207,18 @@
         "coingeckoId": "rocketverse-2",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "LP-qWOM",
+        "name": "Wombat Quoll WOM Asset",
+        "address": "0xeF9187a5f03b988326a79eBd21569A2319DF2486",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -3068,6 +3082,18 @@
         ]
     },
     {
+        "symbol": "sUSDC-wUSD+",
+        "name": "Silo Finance Borrowable USDC Deposit in wUSD+ Silo",
+        "address": "0xcA751A650B5A5C0E6e204cFaE21F2F3c8C35e9A4",
+        "decimals": 6,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "AQ LP USDC",
         "name": "Aqua LP: USD Coin",
         "address": "0xcA459F4018f0a8F7155CCC7CE7Ad031550b6C9d3",
@@ -3112,7 +3138,8 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11368.png",
         "coingeckoId": null,
         "listedIn": [
-            "arbitrum_bridge"
+            "arbitrum_bridge",
+            "lifinance"
         ]
     },
     {
@@ -3166,9 +3193,33 @@
         ]
     },
     {
+        "symbol": "55auraBal-45wsteth",
+        "name": "AuraBal wstETH Pool",
+        "address": "0xc7FA3A3527435720f0e2a4c1378335324dd4F9b3",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "SY-PENDLE-ETH_Camelot",
         "name": "SY PENDLE-ETH_Camelot",
         "address": "0xc79d8a2AA6d769138E599D4DBC30569c9870a6Ee",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "sWETH-wUSD+",
+        "name": "Silo Finance Borrowable WETH Deposit in wUSD+ Silo",
+        "address": "0xc74F466B8597D88d418F5666e2B64db85eD1C16B",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -4228,14 +4279,15 @@
         ]
     },
     {
-        "symbol": "GME.d",
-        "name": "GameStop Corp. Class A - Dinari",
+        "symbol": "GMED",
+        "name": "Dinari GME",
         "address": "0xb415998A7bb6F11dC589e0eb20adf586BA32f12a",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/39619/thumb/Dinari-token-icon.png?1723148884",
+        "coingeckoId": "dinari-gme",
         "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -7326,6 +7378,18 @@
         ]
     },
     {
+        "symbol": "D2D",
+        "name": "Prime",
+        "address": "0xDD4AB36f31891fF25A69121FCCC732d93eB976Dd",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "cvxcrvUSDFRAX",
         "name": "crvUSD/Frax Convex Deposit",
         "address": "0xDD27101D5370a3BBF3Aa65B5AD24b23e191309B4",
@@ -8668,6 +8732,18 @@
         "symbol": "GM",
         "name": "GMX Market",
         "address": "0xC25cEf6061Cf5dE5eb761b50E4743c1F5D7E5407",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "WBTC-WETH Uniswap Neutral Narrow jLP",
+        "name": "WBTC-WETH Uniswap Neutral Narrow Jones LP Token",
+        "address": "0xC1e93C5f575092B787F0c0d596b2E3a83B16640F",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -11418,6 +11494,18 @@
         ]
     },
     {
+        "symbol": "RDDTD",
+        "name": "Dinari RDDT",
+        "address": "0x97Ec5DAdA8262BD922BfFd54a93F5A11EfE0B136",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/39618/thumb/Dinari-token-icon.png?1723148750",
+        "coingeckoId": "dinari-rddt",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "aGRAIL-WETH",
         "name": "aGRAIL-WETH",
         "address": "0x97D81162B96D57476CcF170595a39c1DC76676c9",
@@ -12874,6 +12962,18 @@
         ]
     },
     {
+        "symbol": "WBTC-WETH Camelot Neutral Narrow jLP",
+        "name": "WBTC-WETH Camelot Neutral Narrow Jones LP Token",
+        "address": "0x8B047Dad053320bA7860832441aab81616783B1d",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "BLS",
         "name": "BlueSale",
         "address": "0x8A66794E1aaEBC7018A7B75F61f384e30ae3b159",
@@ -13989,6 +14089,18 @@
         "decimals": 18,
         "chainId": 42161,
         "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x810cf1757b51963102e0b4fe9fdfcdf749dea98a/a865aeb45ede55545d6c60055312ea68.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "MBP-GHO-USDC-14",
+        "name": "Maverick BP-GHO-USDC-14",
+        "address": "0x80c1Bce70cc766D81A6b663D006f5634e3aA7521",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -19850,6 +19962,18 @@
         ]
     },
     {
+        "symbol": "WBTC-WETH Ramses Bull jLP",
+        "name": "WBTC-WETH Ramses Bull Jones LP Token",
+        "address": "0x4ca04db427C7ba5553a37409F6d660eD9eD90176",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "rWBTC",
         "name": "Radiant interest bearing WBTC",
         "address": "0x4cD44E6fCfA68bf797c65889c74B26b8C2e5d4d3",
@@ -20052,18 +20176,6 @@
         "chainId": 42161,
         "logoURI": "https://assets.coingecko.com/coins/images/8452/thumb/logo-edgeware.png?1696508638",
         "coingeckoId": "edgeware",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "NVDAD",
-        "name": "Dinari NVDA",
-        "address": "0x4DaFFfDDEa93DdF1e0e7B61E844331455053Ce5c",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/32401/thumb/token-icon.png?1698055556",
-        "coingeckoId": "dinari-nvda-dshares",
         "listedIn": [
             "coingecko"
         ]
@@ -20672,15 +20784,14 @@
         ]
     },
     {
-        "symbol": "COIND",
-        "name": "Dinari COIN",
+        "symbol": "COIN.d",
+        "name": "Coinbase Global, Inc. Class A Common Stock - Dinari",
         "address": "0x46b979440AC257151EE5a5bC9597B76386907FA1",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/32983/thumb/Frame_16189.png?1700091568",
-        "coingeckoId": "dinari-coin",
+        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x46b979440ac257151ee5a5bc9597b76386907fa1/b8e5fff7edac52fb18892dd7aa4fcd32.png",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "lifinance"
         ]
     },
@@ -24315,6 +24426,18 @@
         "symbol": "YMASK",
         "name": "yallmasking",
         "address": "0x24a145aA2F8EF44E779568fEB4a09976d0903503",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "xoLIT",
+        "name": "xoLIT",
+        "address": "0x24F21b1864d4747a5c99045c96dA11DBFDa378f7",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,

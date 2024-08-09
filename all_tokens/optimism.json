@@ -20,7 +20,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/38180/thumb/overpowered.png?1716788158",
         "coingeckoId": "overpowered",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -8183,6 +8184,18 @@
         ]
     },
     {
+        "symbol": "MMY",
+        "name": "MUMMY",
+        "address": "0x385719545Ef34d457A88e723504544A53F0Ad9BC",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x01e77288b38b416f972428d562454fb329350bac/e8954299ca5a53721602e2c5a3edd8cd.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "vAMMV2-USDV/WETH",
         "name": "VolatileV2 AMM - USDV/WETH",
         "address": "0x38160f7fcbf1e82A47c7aBc03A531ABDd48686f7",
@@ -8785,7 +8798,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/13178/thumb/unidx.png?1696512961",
         "coingeckoId": "unidex",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -9545,6 +9559,18 @@
         "name": "Iron Bank Wrapped Ether",
         "address": "0x17533a1bDe957979E3977EbbFBC31E6deeb25C7d",
         "decimals": 8,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "apxETH",
+        "name": "Autocompounding Pirex Ether OFT",
+        "address": "0x16Ed8E219cde31E14a80dCb6C9127A5EC6e88e46",
+        "decimals": 18,
         "chainId": 10,
         "logoURI": null,
         "coingeckoId": null,
