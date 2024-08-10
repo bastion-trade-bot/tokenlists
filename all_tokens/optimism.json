@@ -2293,7 +2293,8 @@
         "coingeckoId": "cartesi",
         "listedIn": [
             "coingecko",
-            "optimism"
+            "optimism",
+            "lifinance"
         ]
     },
     {
@@ -3084,6 +3085,18 @@
         "symbol": "RYETH",
         "name": "Real Yield ETH",
         "address": "0xC47bB288178Ea40bF520a91826a3DEE9e0DbFA4C",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "BTC3S",
+        "name": "BTC 3x Short",
+        "address": "0xC3e638002eD56db64C8e843975Cf143E64c38461",
         "decimals": 18,
         "chainId": 10,
         "logoURI": null,
@@ -4648,7 +4661,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/18111/thumb/Doge.png?1696517615",
         "coingeckoId": "the-doge-nft",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
