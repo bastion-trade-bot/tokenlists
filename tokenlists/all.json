@@ -561,6 +561,19 @@
             ]
         },
         {
+            "symbol": "LQTY",
+            "name": "Liquity",
+            "address": "0xfb9E5D956D889D91a82737B9bFCDaC1DCE3e1449",
+            "decimals": 18,
+            "chainId": 42161,
+            "logoURI": "https://assets.coingecko.com/coins/images/14665/thumb/200-lqty-icon.png?1696514340",
+            "coingeckoId": "liquity",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "PZT",
             "name": "Pizon",
             "address": "0xfb17d52F77Db6E32B5A082Ed4307FCFb0a86BEEE",
@@ -6606,19 +6619,6 @@
             ]
         },
         {
-            "symbol": "PSM",
-            "name": "Possum",
-            "address": "0x17A8541B82BF67e10B0874284b4Ae66858cb1fd5",
-            "decimals": 18,
-            "chainId": 42161,
-            "logoURI": "https://assets.coingecko.com/coins/images/33596/thumb/PSM.png?1702521046",
-            "coingeckoId": "possum",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "FRXETH",
             "name": "Frax Ether",
             "address": "0x178412e79c25968a32e89b11f63B33F733770c2A",
@@ -8382,6 +8382,19 @@
             "chainId": 56,
             "logoURI": "https://assets.coingecko.com/coins/images/13827/thumb/bnb48.png?1696513570",
             "coingeckoId": "bnb48-club-token",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "PLUP",
+            "name": "PoolUp",
+            "address": "0xe6D6928E5Ce18aA1A6b3653993678f291CbE2b0a",
+            "decimals": 18,
+            "chainId": 56,
+            "logoURI": "https://assets.coingecko.com/coins/images/37862/thumb/200x200.png?1715793467",
+            "coingeckoId": "poolup",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -11079,6 +11092,19 @@
             "listedIn": [
                 "coingecko",
                 "pancake",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "CRED",
+            "name": "CRED COIN PAY",
+            "address": "0xFc76ba9157Ee5D079De8c1e969ee54096Aaa6C9c",
+            "decimals": 18,
+            "chainId": 56,
+            "logoURI": "https://assets.coingecko.com/coins/images/29453/thumb/cred.png?1696528400",
+            "coingeckoId": "cred-coin-pay",
+            "listedIn": [
+                "coingecko",
                 "lifinance"
             ]
         },
@@ -24842,6 +24868,19 @@
             "chainId": 56,
             "logoURI": "https://assets.coingecko.com/coins/images/25140/thumb/KQkiY5pe_400x400.jpg?1696524289",
             "coingeckoId": "gode-chain",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "DNT",
+            "name": "Definder Network",
+            "address": "0x2456493e757fDeedF569781F053998A72adfad03",
+            "decimals": 6,
+            "chainId": 56,
+            "logoURI": "https://assets.coingecko.com/coins/images/2073/thumb/2aSL-Tvl_400x400.jpeg?1696503039",
+            "coingeckoId": "smartlands",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -48893,6 +48932,19 @@
             ]
         },
         {
+            "symbol": "USDC",
+            "name": "USD Coin - AnySwap",
+            "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+            "decimals": 6,
+            "chainId": 1285,
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg",
+            "coingeckoId": null,
+            "listedIn": [
+                "sushiswap",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "BEANS",
             "name": "MoonBeans",
             "address": "0xC2392DD3e3fED2c8Ed9f7f0bDf6026fcd1348453",
@@ -61153,6 +61205,7 @@
             "coingeckoId": null,
             "listedIn": [
                 "sushiswap",
+                "lifinance",
                 "xyfinance"
             ]
         },
@@ -64164,19 +64217,6 @@
             ]
         },
         {
-            "symbol": "SILK",
-            "name": "Spider Tanks",
-            "address": "0xB045f7f363fE4949954811b113bd56d208c67B23",
-            "decimals": 8,
-            "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/28057/thumb/SILK_Logo.png?1696527069",
-            "coingeckoId": "silk",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "STG",
             "name": "Stargate Finance",
             "address": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
@@ -67031,19 +67071,6 @@
             "chainId": 1,
             "logoURI": "https://assets.coingecko.com/coins/images/31887/thumb/wagmi_token_logo.png?1696530698",
             "coingeckoId": "wagmi-2",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "BRIDGE",
-            "name": "Cross Chain Bridge",
-            "address": "0x92868A5255C628dA08F550a858A802f5351C5223",
-            "decimals": 18,
-            "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/20223/thumb/0x92868A5255C628dA08F550a858A802f5351C5223.png?1696519632",
-            "coingeckoId": "cross-chain-bridge",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -85668,19 +85695,6 @@
             ]
         },
         {
-            "symbol": "CENT",
-            "name": "Centaurify",
-            "address": "0x08ba718F288c3b12B01146816bef9FA03cC635bc",
-            "decimals": 18,
-            "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/20512/thumb/Centaurify_Symbol_Black-01.png?1696519918",
-            "coingeckoId": "centaurify",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "LNDX",
             "name": "LandX Governance Token",
             "address": "0x08A1C30BBB26425c1031ee9E43FA0B9960742539",
@@ -86567,19 +86581,6 @@
             "chainId": 1,
             "logoURI": "https://assets.coingecko.com/coins/images/24536/thumb/8jYfKBTk_400x400.jpg?1696523713",
             "coingeckoId": "quantland",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "HGP",
-            "name": "Hourglass Protocol",
-            "address": "0x017073b9bAe99d2AFbB6D7e30D464f993ae9C741",
-            "decimals": 18,
-            "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/38590/thumb/hgp.jpg?1718091439",
-            "coingeckoId": "hourglass-protocol",
             "listedIn": [
                 "coingecko",
                 "lifinance"
