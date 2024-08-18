@@ -323,7 +323,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/32882/thumb/WETH_%281%29.png?1699716492",
         "coingeckoId": "aave-v3-weth",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -347,7 +348,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/10347/thumb/fuse.png?1696510348",
         "coingeckoId": "fuse-network-token",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -372,6 +374,18 @@
         "coingeckoId": "saakuru-labs",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "UP",
+        "name": "Position Up",
+        "address": "0xe0E2b5A5Cb26C978AcbF6a9f97FbF8db433f0da2",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -440,6 +454,18 @@
         ]
     },
     {
+        "symbol": "DOWN",
+        "name": "Position Down",
+        "address": "0xdAC4B6a65A5F5c86a58f0d11739D8C8090CF08Fe",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "TheDAO",
         "name": "TheDAO",
         "address": "0xd8f365c2c85648f9B89D9f1BF72C0aE4b1C36cFD",
@@ -497,7 +523,20 @@
         "coingeckoId": "paraswap",
         "listedIn": [
             "coingecko",
-            "optimism"
+            "optimism",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "S*SGETH",
+        "name": "Stargate Ether Vault-LP",
+        "address": "0xd22363e3762cA7339569F3d33EADe20127D5F98C",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -572,6 +611,18 @@
         "listedIn": [
             "coingecko",
             "optimism"
+        ]
+    },
+    {
+        "symbol": "weOP",
+        "name": "WOOFi Super Charger Optimism",
+        "address": "0xcA7184eA1cb4cF04d49Bf219c49a39231299dA26",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -667,7 +718,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/32597/thumb/319381e63428d3c2ab6e035d5f3abd76.png?1698682355",
         "coingeckoId": "staked-bifi",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -680,7 +732,8 @@
         "coingeckoId": "hop-protocol",
         "listedIn": [
             "coingecko",
-            "optimism"
+            "optimism",
+            "lifinance"
         ]
     },
     {
@@ -732,7 +785,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/27663/thumb/openx_BASE.png?1710472693",
         "coingeckoId": "openxswap",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -830,6 +884,18 @@
         "coingeckoId": "beethoven-x",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "WETH(Wormhole)",
+        "name": "Wrapped Ether",
+        "address": "0xb47bC3ed6D70F04fe759b2529c9bc7377889678f",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "https://static.debank.com/image/mtr_token/logo_url/0x79a61d3a28f8c8537a3df63092927cfa1150fb3c/61844453e63cf81301f845d7864236f6.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -1013,6 +1079,18 @@
         "coingeckoId": "mpendle",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "mUSDT",
+        "name": "Moonwell USDT",
+        "address": "0xa3A53899EE8f9f6E963437C5B3f805FEc538BF84",
+        "decimals": 8,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -1456,6 +1534,42 @@
         ]
     },
     {
+        "symbol": "hETH",
+        "name": "ETH Hop Token",
+        "address": "0xE38faf9040c7F09958c638bBDB977083722c5156",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "https://static.debank.com/image/coin/logo_url/eth/6443cdccced33e204d90cb723c632917.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "cWETHv3",
+        "name": "Compound WETH",
+        "address": "0xE36A30D249f7761327fd973001A32010b521b6Fd",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "S*USDC",
+        "name": "USD Coin-LP",
+        "address": "0xDecC0c09c3B5f6e92EF4184125D5648a66E35298",
+        "decimals": 6,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "ETH",
         "name": "Ether",
         "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
@@ -1640,6 +1754,18 @@
         "listedIn": [
             "coingecko",
             "optimism"
+        ]
+    },
+    {
+        "symbol": "mooAuraOPUSDC/USDCe/USDT/DAI",
+        "name": "Moo Aura OP USDC/USDCe/USDT/DAI",
+        "address": "0xC51e661EEf8d5F130Dc1bdD5Be28c1DBcE930D20",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -1849,7 +1975,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/37659/thumb/mim.png?1715165153",
         "coingeckoId": "magic-internet-money-optimism",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -1961,6 +2088,18 @@
         "coingeckoId": "aktionariat-carnault-ag-tokenized-shares",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "S*USDT",
+        "name": "USDT-LP",
+        "address": "0x9f58A79D81477130C0C6D74b96e1397db9765ab1",
+        "decimals": 6,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -2649,6 +2788,18 @@
         ]
     },
     {
+        "symbol": "soOP",
+        "name": "Sonne OP",
+        "address": "0x8cD6b19A07d754bF36AdEEE79EDF4F2134a8F571",
+        "decimals": 8,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "SUSD",
         "name": "sUSD  Optimism ",
         "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
@@ -2673,7 +2824,8 @@
         "coingeckoId": "dola-usd",
         "listedIn": [
             "coingecko",
-            "optimism"
+            "optimism",
+            "lifinance"
         ]
     },
     {
@@ -2820,7 +2972,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/WOO/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism"
+            "optimism",
+            "lifinance"
         ]
     },
     {
@@ -3598,7 +3751,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/T/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism"
+            "optimism",
+            "lifinance"
         ]
     },
     {
@@ -3703,6 +3857,18 @@
         ]
     },
     {
+        "symbol": "aOptSUSD",
+        "name": "Aave Optimism SUSD",
+        "address": "0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "https://static.debank.com/image/op_token/logo_url/0x6d80113e533a2c0fe82eabd35f1875dcea89ea97/cbd92d5e0358bb3d11db3547e3e05c3e.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "TBTC",
         "name": "tBTC",
         "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
@@ -3764,6 +3930,18 @@
         ]
     },
     {
+        "symbol": "S*ETH",
+        "name": "ETH-LP",
+        "address": "0x6Ea313859A5D9F6fF2a68f529e6361174bFD2225",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "OS",
         "name": "Ethereans",
         "address": "0x6AF3cb766D6cd37449bfD321D961A61B0515c1BC",
@@ -3798,7 +3976,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/39230/thumb/_MONEY200p.Logomark.png?1721209171",
         "coingeckoId": "defi-money",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -3828,6 +4007,7 @@
         "listedIn": [
             "coingecko",
             "optimism",
+            "lifinance",
             "xyfinance"
         ]
     },
@@ -3976,6 +4156,18 @@
         "coingeckoId": null,
         "listedIn": [
             "optimism"
+        ]
+    },
+    {
+        "symbol": "bpt-ethtri",
+        "name": "Ethereum Triplets",
+        "address": "0x5F8893506Ddc4C271837187d14A9C87964a074Dc",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -4249,6 +4441,18 @@
         ]
     },
     {
+        "symbol": "waWBTC",
+        "name": "ERC4626-Wrapped Aave v3 WBTC",
+        "address": "0x4F8424BA880b109C31ce8c5eefC4b82B8897Eec0",
+        "decimals": 8,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "USDGLO",
         "name": "Glo Dollar",
         "address": "0x4F604735c1cF31399C6E711D5962b2B3E0225AD3",
@@ -4488,7 +4692,8 @@
         "coingeckoId": "barnbridge",
         "listedIn": [
             "coingecko",
-            "optimism"
+            "optimism",
+            "lifinance"
         ]
     },
     {
@@ -4601,7 +4806,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/20685/thumb/kuji-200x200.png?1696520085",
         "coingeckoId": "kujira",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -4628,6 +4834,30 @@
         "coingeckoId": "masks",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "aOptUSDCn",
+        "name": "Aave Optimism USDCn",
+        "address": "0x38d693cE1dF5AaDF7bC62595A37D667aD57922e5",
+        "decimals": 6,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "DOWN",
+        "name": "Position Down",
+        "address": "0x38FCf9E872BAA0b1770b71B81C176Fc0B0B8924a",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -4666,6 +4896,18 @@
         "coingeckoId": "phemex",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "USDCx",
+        "name": "Super USD Coin",
+        "address": "0x35Adeb0638EB192755B6E52544650603Fe65A006",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -4853,7 +5095,8 @@
         "logoURI": "https://ethereum-optimism.github.io/data/sBTC/logo.svg",
         "coingeckoId": null,
         "listedIn": [
-            "optimism"
+            "optimism",
+            "lifinance"
         ]
     },
     {
