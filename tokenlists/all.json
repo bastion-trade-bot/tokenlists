@@ -120,12 +120,12 @@
         },
         {
             "symbol": "DAI",
-            "name": "Dai",
+            "name": "Celer Bridged DAI  Astar ",
             "address": "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
             "decimals": 18,
             "chainId": 592,
             "logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734",
-            "coingeckoId": "dai",
+            "coingeckoId": "celer-bridged-dai-astar",
             "listedIn": [
                 "coingecko",
                 "xyfinance"
@@ -2483,19 +2483,6 @@
             ]
         },
         {
-            "symbol": "EDE",
-            "name": "El Dorado Exchange  Arb ",
-            "address": "0xCCD3891c1452b7CB0E4632774B9365DC4eE24f20",
-            "decimals": 18,
-            "chainId": 42161,
-            "logoURI": "https://assets.coingecko.com/coins/images/29386/thumb/Z6eU0fpI_400x400.jpg?1696528332",
-            "coingeckoId": "el-dorado-exchange-arb",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "ALUSD",
             "name": "Alchemix USD",
             "address": "0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A",
@@ -4797,6 +4784,19 @@
             "chainId": 42161,
             "logoURI": "https://assets.coingecko.com/coins/images/35084/thumb/Token_GEM_AOFVERSE.png?1707317138",
             "coingeckoId": "army-of-fortune-gem",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "VCNT",
+            "name": "ViciCoin",
+            "address": "0x60bf4E7cF16Ff34513514b968483B54Beff42a81",
+            "decimals": 18,
+            "chainId": 42161,
+            "logoURI": "https://assets.coingecko.com/coins/images/31305/thumb/ViciCoin_-_small.png?1696530124",
+            "coingeckoId": "vicicoin",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -11954,19 +11954,6 @@
             ]
         },
         {
-            "symbol": "PEOPLE",
-            "name": "Maga People Token",
-            "address": "0xEa2F49A2e6E27b7B47cBEf50AFf5Af11350108D1",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://assets.coingecko.com/coins/images/39294/thumb/IMG_20240715_173746_441.png?1721622462",
-            "coingeckoId": "maga-people-token",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "FIU",
             "name": "beFITTER",
             "address": "0xEF7d50069406A2F5A53806f7250A6c0f17AD9dCD",
@@ -16626,6 +16613,19 @@
             ]
         },
         {
+            "symbol": "WORK",
+            "name": "Work X",
+            "address": "0x8888888837F84a7A82668E0320AC454f5945d0b9",
+            "decimals": 18,
+            "chainId": 56,
+            "logoURI": "https://assets.coingecko.com/coins/images/33449/thumb/Work_X.png?1701857236",
+            "coingeckoId": "work-x",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "XPE",
             "name": "Xpense",
             "address": "0x88691f292b76Bf4D2CAa5678A54515fAE77c33AF",
@@ -17685,19 +17685,6 @@
             "chainId": 56,
             "logoURI": "https://assets.coingecko.com/coins/images/15662/thumb/GoMining_Logo.png?1714757256",
             "coingeckoId": "gmt-token",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "JOLT",
-            "name": "Joltify",
-            "address": "0x7Db21353A0c4659B6A9a0519066aa8D52639Dfa5",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://assets.coingecko.com/coins/images/25262/thumb/NSj-jWHR_400x400.jpg?1696524402",
-            "coingeckoId": "joltify",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -24926,12 +24913,13 @@
             "address": "0x23CE9e926048273eF83be0A3A8Ba9Cb6D45cd978",
             "decimals": 6,
             "chainId": 56,
-            "logoURI": "https://tokens.pancakeswap.finance/images/0x23CE9e926048273eF83be0A3A8Ba9Cb6D45cd978.png",
+            "logoURI": "https://coin-images.coingecko.com/coins/images/19837/small/dar.png?1696519259",
             "coingeckoId": "mines-of-dalarnia",
             "listedIn": [
                 "coingecko",
                 "pancake",
-                "lifinance"
+                "lifinance",
+                "xyfinance"
             ]
         },
         {
@@ -35336,7 +35324,8 @@
             "coingeckoId": "geyser",
             "listedIn": [
                 "coingecko",
-                "sushiswap"
+                "sushiswap",
+                "lifinance"
             ]
         },
         {
@@ -36835,6 +36824,19 @@
             "chainId": 137,
             "logoURI": "https://assets.coingecko.com/coins/images/26246/thumb/ATSRA_Token.png?1696525331",
             "coingeckoId": "astrafer",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "MART",
+            "name": "ArtMeta",
+            "address": "0xDcfF29b7bd211Aaef6E4a3989e4d3F732cF5b4b6",
+            "decimals": 18,
+            "chainId": 137,
+            "logoURI": "https://assets.coingecko.com/coins/images/24458/thumb/image_%287%29.png?1696523638",
+            "coingeckoId": "artmeta",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -48101,7 +48103,8 @@
             "coingeckoId": "verified-usd-foundation-usdv",
             "listedIn": [
                 "coingecko",
-                "joe"
+                "joe",
+                "lifinance"
             ]
         },
         {
@@ -52537,12 +52540,12 @@
         },
         {
             "symbol": "DAI",
-            "name": "Dai",
+            "name": "OmniBridge Bridged DAI  Gnosis Chain ",
             "address": "0x44fA8E6f47987339850636F88629646662444217",
             "decimals": 18,
             "chainId": 100,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x44fA8E6f47987339850636F88629646662444217/logo.png",
-            "coingeckoId": "dai",
+            "coingeckoId": "omnibridge-bridged-dai-gnosis-chain",
             "listedIn": [
                 "coingecko",
                 "lifinance",
@@ -55611,6 +55614,19 @@
             ]
         },
         {
+            "symbol": "SOLVBTCBBN",
+            "name": "Solv Protocol SolvBTC BBN",
+            "address": "0xd9D920AA40f578ab794426F5C90F6C731D159DEf",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/unnamed.png?1721961640",
+            "coingeckoId": "solv-protocol-solvbtc-bbn",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "SHR",
             "name": "Share",
             "address": "0xd98F75b1A3261dab9eEd4956c93F33749027a964",
@@ -57419,13 +57435,14 @@
             "address": "0xba5BDe662c17e2aDFF1075610382B9B691296350",
             "decimals": 18,
             "chainId": 1,
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xba5BDe662c17e2aDFF1075610382B9B691296350/logo.png",
+            "logoURI": "https://coin-images.coingecko.com/coins/images/17753/small/RARE.png?1709598473",
             "coingeckoId": "superrare",
             "listedIn": [
                 "coingecko",
                 "uniswap",
                 "sushiswap",
-                "lifinance"
+                "lifinance",
+                "xyfinance"
             ]
         },
         {
@@ -59584,19 +59601,6 @@
             "chainId": 1,
             "logoURI": "https://assets.coingecko.com/coins/images/14368/thumb/edda.png?1696514061",
             "coingeckoId": "eddaswap",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "DDIM",
-            "name": "DuckDaoDime",
-            "address": "0xFbEEa1C75E4c4465CB2FCCc9c6d6afe984558E20",
-            "decimals": 18,
-            "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/12146/thumb/token_DDIM-01.png?1696511987",
-            "coingeckoId": "duckdaodime",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -66603,6 +66607,19 @@
             "chainId": 1,
             "logoURI": "https://assets.coingecko.com/coins/images/32565/thumb/image-200x200.jpg?1698546675",
             "coingeckoId": "jake-newman-enterprises",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "OXY",
+            "name": "Oxygen",
+            "address": "0x965697b4ef02F0DE01384D0d4F9F782B1670c163",
+            "decimals": 6,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/13509/thumb/8DjBZ79V_400x400.jpg?1696513271",
+            "coingeckoId": "oxygen",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -75702,19 +75719,6 @@
             ]
         },
         {
-            "symbol": "RASTO",
-            "name": "Rastopyry",
-            "address": "0x5408d3883EC28C2dE205064AE9690142B035fEd2",
-            "decimals": 9,
-            "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/38967/thumb/Rastopyry.jpg?1719711675",
-            "coingeckoId": "rastopyry",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "ANARCHY",
             "name": "Anarchy",
             "address": "0x53fD2342B43eCD24AEf1535BC3797F509616Ce8c",
@@ -79694,11 +79698,12 @@
             "address": "0x38E68A37E401F7271568CecaAc63c6B1e19130B4",
             "decimals": 18,
             "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/31744/thumb/bg-logo-coingecko-200.png?1716971024",
+            "logoURI": "https://coin-images.coingecko.com/coins/images/31744/small/bg-logo-coingecko-200.png?1716971024",
             "coingeckoId": "banana-gun",
             "listedIn": [
                 "coingecko",
-                "lifinance"
+                "lifinance",
+                "xyfinance"
             ]
         },
         {
@@ -81748,6 +81753,19 @@
             ]
         },
         {
+            "symbol": "ZKCRO",
+            "name": "Cronos zkEVM CRO",
+            "address": "0x28Ff2E4dD1B58efEB0fC138602A28D5aE81e44e2",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/39734/thumb/Screenshot_2024-08-16_at_10.42.41%E2%80%AFAM.png?1723776225",
+            "coingeckoId": "cronos-zkevm-cro",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "ARGO",
             "name": "ArGoApp",
             "address": "0x28Cca76f6e8eC81e4550ecd761f899110b060E97",
@@ -83270,19 +83288,6 @@
             "chainId": 1,
             "logoURI": "https://assets.coingecko.com/coins/images/27547/thumb/8SGgovDI_400x400.png?1696526584",
             "coingeckoId": "angola",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "BARRON",
-            "name": "Mini Donald",
-            "address": "0x1F70300BCe8c2302780BD0a153ebb75B8CA7efCb",
-            "decimals": 9,
-            "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/39157/thumb/BARRON200.jpg?1720775302",
-            "coingeckoId": "mini-donald",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -90115,7 +90120,7 @@
             "decimals": 18,
             "chainId": 8453,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb/logo.png",
-            "coingeckoId": "dai",
+            "coingeckoId": "l2-standard-bridged-dai-base",
             "listedIn": [
                 "uniswap",
                 "optimism",
@@ -90129,7 +90134,7 @@
             "decimals": 18,
             "chainId": 8453,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/base/0x4200000000000000000000000000000000000006/logo.png",
-            "coingeckoId": "weth",
+            "coingeckoId": "l2-standard-bridged-weth-base",
             "listedIn": [
                 "uniswap",
                 "optimism",
