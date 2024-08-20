@@ -1088,12 +1088,12 @@
     },
     {
         "symbol": "DAI",
-        "name": "Dai",
+        "name": "Avalanche Bridged DAI  Avalanche ",
         "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
         "decimals": 18,
         "chainId": 43114,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png",
-        "coingeckoId": "dai",
+        "coingeckoId": "avalanche-bridged-dai-avalanche",
         "listedIn": [
             "coingecko",
             "sushiswap",
@@ -1556,6 +1556,18 @@
             "lifinance",
             "xyfinance",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "VCNT",
+        "name": "ViciCoin",
+        "address": "0xc6BDFC4f2E90196738873E824a9eFa03F7c64176",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://assets.coingecko.com/coins/images/31305/thumb/ViciCoin_-_small.png?1696530124",
+        "coingeckoId": "vicicoin",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -5442,6 +5454,7 @@
         "coingeckoId": "degis",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "xyfinance"
         ]
     },
@@ -7203,6 +7216,18 @@
         "symbol": "mooAaveUSDT",
         "name": "Moo Aave USDT",
         "address": "0x813aB5B3FDc59B143C42284665864b24B794C324",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "CANS",
+        "name": "ToucansAvax404",
+        "address": "0x810A45ecaA8077C8d1fdbfe03E0cA96015cb79E2",
         "decimals": 18,
         "chainId": 43114,
         "logoURI": null,
@@ -13798,7 +13823,6 @@
         "coingeckoId": null,
         "listedIn": [
             "pangolin",
-            "lifinance",
             "elkfinance"
         ]
     },

@@ -26,6 +26,18 @@
         ]
     },
     {
+        "symbol": "milkTIA",
+        "name": "milkTIA",
+        "address": "0xfc59C4212122CBb52C9b22c9D59830Ab5b8E9c71",
+        "decimals": 6,
+        "chainId": 250,
+        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x4aa81d7ab59c775fe6f9f45e6941a0fb8cd692a6/4b77dc6b243b17fa689a2ea86fa3e20a.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "spLP",
         "name": "Spooky LP",
         "address": "0xfaC555103BD89b338F3E68F5c8cb54Ca8B256CD7",
@@ -719,18 +731,6 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap"
-        ]
-    },
-    {
-        "symbol": "ANDRE",
-        "name": "ANDRE",
-        "address": "0xcA0E2F19d88aC0256991Cc3fb3d2795DA14bF5E5",
-        "decimals": 18,
-        "chainId": 250,
-        "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0xca0e2f19d88ac0256991cc3fb3d2795da14bf5e5/27850b0b60fcf0a4136ee0952313ccb1.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
         ]
     },
     {
@@ -2477,7 +2477,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/22741/thumb/S0aENDh0_400x400.jpg?1696522046",
         "coingeckoId": "vedao",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -2644,12 +2645,12 @@
     },
     {
         "symbol": "DAI",
-        "name": "Dai",
+        "name": "Multichain Bridged DAI  Fantom ",
         "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://assets.spooky.fi/tokens/DAI.png",
-        "coingeckoId": "dai",
+        "coingeckoId": "multichain-bridged-dai-fantom",
         "listedIn": [
             "coingecko",
             "sushiswap",
@@ -4332,6 +4333,18 @@
         ]
     },
     {
+        "symbol": "aUSD",
+        "name": "aUSD",
+        "address": "0x41e3dF7f716aB5AF28c1497B354D79342923196a",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x41e3df7f716ab5af28c1497b354d79342923196a/cce33c0a9018f1794edb5221e9638609.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "SD",
         "name": "Stader",
         "address": "0x412a13C109aC30f0dB80AD3Bd1DeFd5D0A6c0Ac6",
@@ -4355,6 +4368,18 @@
         "listedIn": [
             "coingecko",
             "SpookySwap",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "Angel",
+        "name": "Fantom Angels",
+        "address": "0x3ea22B3bb815348120cFFdd84c3701311F2eDb72",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
