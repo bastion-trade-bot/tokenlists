@@ -2831,12 +2831,12 @@
     },
     {
         "symbol": "DAI",
-        "name": "Dai",
+        "name": "MakerDAO Optimism Bridged DAI  Optimism",
         "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
         "decimals": 18,
         "chainId": 10,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png",
-        "coingeckoId": "dai",
+        "coingeckoId": "makerdao-optimism-bridged-dai-optimism",
         "listedIn": [
             "coingecko",
             "optimism",
@@ -4296,6 +4296,18 @@
         "coingeckoId": "pika-protocol",
         "listedIn": [
             "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "DOWN",
+        "name": "Position Down",
+        "address": "0x99a4Bf8393D4D777Ee6c8c38893bf015e8EF4160",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
@@ -7089,6 +7101,18 @@
         ]
     },
     {
+        "symbol": "axlDAI",
+        "name": "Axelar Wrapped DAI",
+        "address": "0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x6b175474e89094c44da98b954eedeac495271d0f/549c4205dbb199f1b8b03af783f35e71.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "HOP-LP-ETH",
         "name": "Hop ETH LP Token",
         "address": "0x5C2048094bAaDe483D0b1DA85c3Da6200A88a849",
@@ -7477,6 +7501,18 @@
         ]
     },
     {
+        "symbol": "UP",
+        "name": "Position Up",
+        "address": "0x53b951162701bCc0bdf525e289996e4fB524e913",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "amuletToken",
         "name": "amuletToken",
         "address": "0x53DAC8d715350AFb3443D346aa3Abd73dA4534F0",
@@ -7854,6 +7890,18 @@
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "ORDER",
+        "name": "Orderly Network",
+        "address": "0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8 ​",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "https://assets.coingecko.com/coins/images/38501/thumb/Orderly_Network_Coingecko_200*200.png?1717751359",
+        "coingeckoId": "orderly-network",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
