@@ -381,14 +381,13 @@
     },
     {
         "symbol": "CLMRS",
-        "name": "Crolon Mars",
+        "name": "CLMRS",
         "address": "0xaAd00d36Dbc8343C3505Ba51418a43D3622D2964",
         "decimals": 18,
         "chainId": 25,
         "logoURI": "https://storage.googleapis.com/xy-finance-images/token-list/CLMRS.png",
-        "coingeckoId": "crolon-mars",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "xyfinance"
         ]
     },
@@ -562,10 +561,11 @@
         "address": "0xD50f5739A09f36C6f97cC9a4849C5462Ba6129A3",
         "decimals": 18,
         "chainId": 25,
-        "logoURI": "https://assets.coingecko.com/coins/images/39333/thumb/croginalcoin.png?1721793281",
+        "logoURI": "https://coin-images.coingecko.com/coins/images/39333/small/croginalcoin.png?1721793281",
         "coingeckoId": "croginal-cats",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "xyfinance"
         ]
     },
     {
@@ -1670,6 +1670,18 @@
         "chainId": 25,
         "logoURI": "https://assets.coingecko.com/coins/images/22062/thumb/Logo_Circle_720_%281%29.png?1696521405",
         "coingeckoId": "alethea-artificial-liquid-intelligence-token",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "ZKCLMRS",
+        "name": "Crolon Mars",
+        "address": "0x447A1296AB0b8470d90a74bb90d36Aff9B3a2EbA",
+        "decimals": 18,
+        "chainId": 25,
+        "logoURI": "https://assets.coingecko.com/coins/images/26385/thumb/resized-image-Promo-removebg-preview.png?1696525462",
+        "coingeckoId": "crolon-mars",
         "listedIn": [
             "coingecko"
         ]
