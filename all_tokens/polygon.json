@@ -5573,7 +5573,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/34066/thumb/pory_logo.jpg?1705258081",
         "coingeckoId": "porygon",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -10183,8 +10184,9 @@
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://1453456140-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FGbmVIsiJFchsVf8GkrQQ%2Fuploads%2FJFuzcTfT6VY07JRY5cX7%2FEURO3%20Black%20Logo.svg?alt=media&token=c3cdfe3d-e847-4ff2-a2fa-d738a1386453",
-        "coingeckoId": null,
+        "coingeckoId": "euro3",
         "listedIn": [
+            "coingecko",
             "quickswap"
         ]
     },
@@ -10762,6 +10764,18 @@
         ]
     },
     {
+        "symbol": "UFO",
+        "name": "UFO",
+        "address": "0x9C2b529ce042c2B53725C8Eb65BE86a70Def5C58",
+        "decimals": 7,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "RING",
         "name": "Darwinia Network",
         "address": "0x9C1C23E60B72Bc88a043bf64aFdb16A02540Ae8f",
@@ -10916,18 +10930,6 @@
         "name": "Staked Longinus",
         "address": "0x99a57E6C8558BC6689f894e068733ADf83C19725",
         "decimals": 9,
-        "chainId": 137,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "MYO",
-        "name": "MYO",
-        "address": "0x99A7D129a545B1A6699416f60E4A3D9447C4376D",
-        "decimals": 18,
         "chainId": 137,
         "logoURI": null,
         "coingeckoId": null,
@@ -17411,18 +17413,6 @@
         ]
     },
     {
-        "symbol": "METADEXDAO",
-        "name": "METADEXDAO",
-        "address": "0x5bC7c13dfb6dF70733565A4db41F5057606ed550",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "aWETH-AAVE",
         "name": "aWETH-AAVE",
         "address": "0x5bA383530Db75A22E028239dbc777C7Ee8CE4752",
@@ -17797,8 +17787,7 @@
         "coingeckoId": "jarvis-reward-token",
         "listedIn": [
             "coingecko",
-            "sushiswap",
-            "lifinance"
+            "sushiswap"
         ]
     },
     {
@@ -19147,11 +19136,11 @@
     {
         "symbol": "ORDER",
         "name": "Orderly Network",
-        "address": "0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8 ​",
+        "address": "0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8",
         "decimals": 16,
         "chainId": 137,
         "logoURI": "https://assets.coingecko.com/coins/images/38501/thumb/Orderly_Network_Coingecko_200*200.png?1717751359",
-        "coingeckoId": null,
+        "coingeckoId": "orderly-network",
         "listedIn": [
             "coingecko"
         ]
@@ -24081,7 +24070,8 @@
         "coingeckoId": "matrixswap",
         "listedIn": [
             "coingecko",
-            "dfyn"
+            "dfyn",
+            "lifinance"
         ]
     },
     {
@@ -24387,6 +24377,18 @@
         "symbol": "aWMATIC-USDC",
         "name": "aWMATIC-USDC",
         "address": "0x1cf4293125913cB3Dea4aD7f2bb4795B9e896CE9",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "SLP",
+        "name": "SushiSwap LP Token",
+        "address": "0x1cedA73C034218255F50eF8a2c282E6B4c301d60",
         "decimals": 18,
         "chainId": 137,
         "logoURI": null,
@@ -27350,6 +27352,18 @@
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "USD3",
+        "name": "Stable com USD3",
+        "address": "0x046029F68B0E00eBec2e394D17F70ec848fcf1d2",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/39865/thumb/2024-04-stable_com-usd3_coin.png?1724379520",
+        "coingeckoId": "stable-com-usd3",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {

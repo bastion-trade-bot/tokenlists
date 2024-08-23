@@ -3726,7 +3726,6 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/optimism/0xAed882F117b78034829E2cfFA11206706837B1b1/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -5267,18 +5266,6 @@
         "decimals": 18,
         "chainId": 10,
         "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "wstETH(wormhole)",
-        "name": "Wrapped liquid staked Ether 2.0",
-        "address": "0x855CFcEEe998c8ca34F9c914F584AbF72dC88B87",
-        "decimals": 18,
-        "chainId": 10,
-        "logoURI": "https://static.debank.com/image/op_token/logo_url/0x1f32b1c2345538c0c6f582fcb022739c4a194ebb/7e931af8cb34b6f5671ca2eb1b847849.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -7930,11 +7917,11 @@
     {
         "symbol": "ORDER",
         "name": "Orderly Network",
-        "address": "0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8 ​",
+        "address": "0x4E200fE2f3eFb977d5fd9c430A41531FB04d97B8",
         "decimals": 18,
         "chainId": 10,
         "logoURI": "https://assets.coingecko.com/coins/images/38501/thumb/Orderly_Network_Coingecko_200*200.png?1717751359",
-        "coingeckoId": null,
+        "coingeckoId": "orderly-network",
         "listedIn": [
             "coingecko"
         ]
@@ -9436,8 +9423,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/38298/thumb/ZUN_200x200.png?1717194404",
         "coingeckoId": "zunami-governance-token",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -11035,6 +11021,18 @@
         "listedIn": [
             "coingecko",
             "optimism"
+        ]
+    },
+    {
+        "symbol": "sAAVE",
+        "name": "Synth sAAVE",
+        "address": "0x00B8D5a5e1Ac97Cb4341c4Bc4367443c8776e8d9",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "https://static.debank.com/image/op_token/logo_url/0x00b8d5a5e1ac97cb4341c4bc4367443c8776e8d9/17e24fc5fd3c50dec1aa9e0adb87fbd3.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
