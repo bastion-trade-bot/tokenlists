@@ -845,7 +845,8 @@
         "coingeckoId": "0xdao",
         "listedIn": [
             "coingecko",
-            "SpookySwap"
+            "SpookySwap",
+            "lifinance"
         ]
     },
     {
@@ -1998,6 +1999,18 @@
         "name": "Tarot Borrowable",
         "address": "0xB320FA815A18Bf186c8894930AA787B381f30B8a",
         "decimals": 18,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "HODL",
+        "name": "HODL on Fantom",
+        "address": "0xB2Da66c4a89D0f93935D1efDB9C9c8D1d3Ba9343",
+        "decimals": 6,
         "chainId": 250,
         "logoURI": null,
         "coingeckoId": null,
@@ -4421,18 +4434,6 @@
         "listedIn": [
             "coingecko",
             "SpookySwap",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "Angel",
-        "name": "Fantom Angels",
-        "address": "0x3ea22B3bb815348120cFFdd84c3701311F2eDb72",
-        "decimals": 18,
-        "chainId": 250,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
             "lifinance"
         ]
     },
