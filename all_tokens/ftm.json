@@ -1269,8 +1269,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/23287/thumb/mgg.png?1696522506",
         "coingeckoId": "metagaming-guild",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -1998,6 +1997,18 @@
         "name": "Tarot Borrowable",
         "address": "0xB320FA815A18Bf186c8894930AA787B381f30B8a",
         "decimals": 18,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "HODL",
+        "name": "HODL on Fantom",
+        "address": "0xB2Da66c4a89D0f93935D1efDB9C9c8D1d3Ba9343",
+        "decimals": 6,
         "chainId": 250,
         "logoURI": null,
         "coingeckoId": null,
@@ -4191,6 +4202,7 @@
             "coingecko",
             "sushiswap",
             "SpookySwap",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -4836,6 +4848,18 @@
         "coingeckoId": "celsius-degree-token",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "SPECTER",
+        "name": "Specter Finance",
+        "address": "0x2B7c5841997275d2D548cE9b19D54B655725EBFc",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x2b7c5841997275d2d548ce9b19d54b655725ebfc/12a076f8ed2735639049999998681d02.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -5701,7 +5725,8 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/band.jpg",
         "coingeckoId": null,
         "listedIn": [
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
