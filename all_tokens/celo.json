@@ -669,13 +669,14 @@
     },
     {
         "symbol": "WETH",
-        "name": "Wrapped Ether (Wormhole)",
+        "name": "Wormhole Bridged WETH  Celo ",
         "address": "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207",
         "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_ETH.png",
-        "coingeckoId": null,
+        "coingeckoId": "wormhole-bridged-weth-celo",
         "listedIn": [
+            "coingecko",
             "lifinance",
             "ubeswap"
         ]
@@ -897,7 +898,6 @@
         "coingeckoId": "impactmarket-2",
         "listedIn": [
             "coingecko",
-            "lifinance",
             "ubeswap"
         ]
     },

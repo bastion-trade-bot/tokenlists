@@ -1222,8 +1222,7 @@
             "coingeckoId": null,
             "listedIn": [
                 "sushiswap",
-                "arbitrum_bridge",
-                "lifinance"
+                "arbitrum_bridge"
             ]
         },
         {
@@ -8094,19 +8093,6 @@
             ]
         },
         {
-            "symbol": "KLT",
-            "name": "Kamaleont",
-            "address": "0xecD17Cff5dA1eC867fec5FaEc97D1035727D7511",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://assets.coingecko.com/coins/images/26386/thumb/Dise%C3%B1o_sin_t%C3%ADtulo_%288%29.png?1696525463",
-            "coingeckoId": "kamaleont",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "VUSDC",
             "name": "Venus USDC",
             "address": "0xecA88125a5ADbe82614ffC12D0DB554E2e2867C8",
@@ -10694,7 +10680,6 @@
             "listedIn": [
                 "coingecko",
                 "pancake",
-                "lifinance",
                 "elkfinance"
             ]
         },
@@ -12546,6 +12531,19 @@
             "chainId": 56,
             "logoURI": "https://assets.coingecko.com/coins/images/33592/thumb/LUSD.jpg?1702471959",
             "coingeckoId": "lusd-2",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "MMGT",
+            "name": "MultiMoney Global",
+            "address": "0xD86A046ED8a235bea8773e804d4cC50F5676FE2c",
+            "decimals": 18,
+            "chainId": 56,
+            "logoURI": "https://assets.coingecko.com/coins/images/32145/thumb/HAt-DKMF3-200x200.png?1696595912",
+            "coingeckoId": "multimoney-global",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -17988,7 +17986,7 @@
             "address": "0x76A797A59Ba2C17726896976B7B3747BfD1d220f",
             "decimals": 9,
             "chainId": 56,
-            "logoURI": "https://assets.coingecko.com/coins/images/17980/thumb/DOG.png?1724593443",
+            "logoURI": "https://assets.coingecko.com/coins/images/17980/thumb/img-ton.jpg?1724681212",
             "coingeckoId": "the-open-network",
             "listedIn": [
                 "coingecko",
@@ -26271,7 +26269,7 @@
         },
         {
             "symbol": "GAMI",
-            "name": "GAMI World",
+            "name": "GAMI WORLD",
             "address": "0x1236a887ef31B4d32E1F0a2b5e4531F52CeC7E75",
             "decimals": 6,
             "chainId": 56,
@@ -31129,13 +31127,14 @@
         },
         {
             "symbol": "WETH",
-            "name": "Wrapped Ether (Wormhole)",
+            "name": "Wormhole Bridged WETH  Celo ",
             "address": "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207",
             "decimals": 18,
             "chainId": 42220,
             "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_ETH.png",
-            "coingeckoId": null,
+            "coingeckoId": "wormhole-bridged-weth-celo",
             "listedIn": [
+                "coingecko",
                 "lifinance",
                 "ubeswap"
             ]
@@ -31273,7 +31272,6 @@
             "coingeckoId": "impactmarket-2",
             "listedIn": [
                 "coingecko",
-                "lifinance",
                 "ubeswap"
             ]
         },
@@ -38331,6 +38329,19 @@
             ]
         },
         {
+            "symbol": "ROUTE",
+            "name": "Router Protocol",
+            "address": "0x93890f346C5D02C3863a06657bc72555dC72c527",
+            "decimals": 18,
+            "chainId": 137,
+            "logoURI": "https://assets.coingecko.com/coins/images/39474/thumb/router.jpg?1722425047",
+            "coingeckoId": "router-protocol-2",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "BRIDGE",
             "name": "Cross Chain Bridge",
             "address": "0x92868A5255C628dA08F550a858A802f5351C5223",
@@ -42650,6 +42661,19 @@
             ]
         },
         {
+            "symbol": "GEMS",
+            "name": "GEMS",
+            "address": "0x25eFae7B0b2866CaFB14E8eaD333a42eeb2A0b80",
+            "decimals": 6,
+            "chainId": 137,
+            "logoURI": "https://i.imgur.com/3KaxWm1.png",
+            "coingeckoId": null,
+            "listedIn": [
+                "quickswap",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "POOL",
             "name": "PoolTogether",
             "address": "0x25788a1a171ec66Da6502f9975a15B609fF54CF6",
@@ -42835,8 +42859,7 @@
             "coingeckoId": "matrixswap",
             "listedIn": [
                 "coingecko",
-                "dfyn",
-                "lifinance"
+                "dfyn"
             ]
         },
         {
@@ -43084,19 +43107,6 @@
                 "coingecko",
                 "sushiswap",
                 "quickswap",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "BLES",
-            "name": "Blind Boxes",
-            "address": "0x1B599bEB7b1F50807dD58Fd7e8fFcf073b435e71",
-            "decimals": 18,
-            "chainId": 137,
-            "logoURI": "https://assets.coingecko.com/coins/images/14537/thumb/BLES-Logo-BW.png?1696514221",
-            "coingeckoId": "blind-boxes",
-            "listedIn": [
-                "coingecko",
                 "lifinance"
             ]
         },
@@ -44335,7 +44345,6 @@
             "listedIn": [
                 "coingecko",
                 "pangolin",
-                "lifinance",
                 "elkfinance"
             ]
         },
@@ -51398,7 +51407,6 @@
             "coingeckoId": "daohaus",
             "listedIn": [
                 "coingecko",
-                "lifinance",
                 "elkfinance"
             ]
         },
@@ -54122,8 +54130,7 @@
             "coingeckoId": "daohaus",
             "listedIn": [
                 "coingecko",
-                "optimism",
-                "lifinance"
+                "optimism"
             ]
         },
         {
@@ -69437,8 +69444,9 @@
             "decimals": 18,
             "chainId": 1,
             "logoURI": "https://ethereum-optimism.github.io/data/TKN/logo.png",
-            "coingeckoId": null,
+            "coingeckoId": "token-name-service",
             "listedIn": [
+                "coingecko",
                 "optimism",
                 "lifinance"
             ]
@@ -70509,6 +70517,19 @@
             ]
         },
         {
+            "symbol": "SOLVBTC",
+            "name": "Solv Protocol SolvBTC",
+            "address": "0x7A56E1C57C7475CCf742a1832B028F0456652F97",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/36800/thumb/solvBTC.png?1719810684",
+            "coingeckoId": "solv-btc",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "MULLET",
             "name": "Project Mullet",
             "address": "0x7A569BFf9f87B526B39331Ca870516C1d93c0fDA",
@@ -70516,6 +70537,19 @@
             "chainId": 1,
             "logoURI": "https://assets.coingecko.com/coins/images/38488/thumb/logo.png?1717687385",
             "coingeckoId": "project-mullet",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "USDX",
+            "name": "Hex Trust USD",
+            "address": "0x7A486F809c952a6f8dEc8cb0Ff68173F2B8ED56c",
+            "decimals": 6,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/38997/thumb/USDX.png?1719809776",
+            "coingeckoId": "hex-trust-usdx",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -71168,7 +71202,7 @@
             "address": "0x745407c86DF8DB893011912d3aB28e68B62E49B0",
             "decimals": 18,
             "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/13404/thumb/MAHA_new_logo.jpg?1717541638",
+            "logoURI": "https://assets.coingecko.com/coins/images/13404/thumb/black.png?1724679606",
             "coingeckoId": "mahadao",
             "listedIn": [
                 "coingecko",
@@ -73127,19 +73161,6 @@
             "chainId": 1,
             "logoURI": "https://assets.coingecko.com/coins/images/17601/thumb/ticker_sunc_200_200.png?1696517134",
             "coingeckoId": "sunrise",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "USDZ",
-            "name": "ZAI Stablecoin",
-            "address": "0x69000405f9DcE69BD4Cbf4f2865b79144A69BFE0",
-            "decimals": 18,
-            "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/39733/thumb/Group_4.png?1723771588",
-            "coingeckoId": "zai-stablecoin",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -75826,19 +75847,6 @@
             "chainId": 1,
             "logoURI": "https://assets.coingecko.com/coins/images/3479/thumb/gen.png?1696504167",
             "coingeckoId": "daostack",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "RASTO",
-            "name": "Rastopyry",
-            "address": "0x5408d3883EC28C2dE205064AE9690142B035fEd2",
-            "decimals": 9,
-            "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/38967/thumb/Rastopyry.jpg?1719711675",
-            "coingeckoId": "rastopyry",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -85354,8 +85362,7 @@
             "listedIn": [
                 "coingecko",
                 "optimism",
-                "arbitrum_bridge",
-                "lifinance"
+                "arbitrum_bridge"
             ]
         },
         {

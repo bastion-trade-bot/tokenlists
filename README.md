@@ -42,7 +42,7 @@ Token counts are approximate and may vary as providers update their tokenlists.
 
 - Ethereum, 2532 tokens
 - Bsc, 1516 tokens
-- Polygon, 748 tokens
+- Polygon, 749 tokens
 - Arbitrum, 512 tokens
 - 101, 507 tokens
 - Avax, 346 tokens

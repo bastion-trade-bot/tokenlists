@@ -848,8 +848,7 @@
         "coingeckoId": "daohaus",
         "listedIn": [
             "coingecko",
-            "optimism",
-            "lifinance"
+            "optimism"
         ]
     },
     {
@@ -16163,8 +16162,9 @@
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://ethereum-optimism.github.io/data/TKN/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "token-name-service",
         "listedIn": [
+            "coingecko",
             "optimism",
             "lifinance"
         ]
@@ -17235,6 +17235,19 @@
         ]
     },
     {
+        "symbol": "SOLVBTC",
+        "name": "Solv Protocol SolvBTC",
+        "address": "0x7A56E1C57C7475CCf742a1832B028F0456652F97",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/36800/thumb/solvBTC.png?1719810684",
+        "coingeckoId": "solv-btc",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "MULLET",
         "name": "Project Mullet",
         "address": "0x7A569BFf9f87B526B39331Ca870516C1d93c0fDA",
@@ -17242,6 +17255,19 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/38488/thumb/logo.png?1717687385",
         "coingeckoId": "project-mullet",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "USDX",
+        "name": "Hex Trust USD",
+        "address": "0x7A486F809c952a6f8dEc8cb0Ff68173F2B8ED56c",
+        "decimals": 6,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/38997/thumb/USDX.png?1719809776",
+        "coingeckoId": "hex-trust-usdx",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -17894,7 +17920,7 @@
         "address": "0x745407c86DF8DB893011912d3aB28e68B62E49B0",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/13404/thumb/MAHA_new_logo.jpg?1717541638",
+        "logoURI": "https://assets.coingecko.com/coins/images/13404/thumb/black.png?1724679606",
         "coingeckoId": "mahadao",
         "listedIn": [
             "coingecko",
@@ -19853,19 +19879,6 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/17601/thumb/ticker_sunc_200_200.png?1696517134",
         "coingeckoId": "sunrise",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "USDZ",
-        "name": "ZAI Stablecoin",
-        "address": "0x69000405f9DcE69BD4Cbf4f2865b79144A69BFE0",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/39733/thumb/Group_4.png?1723771588",
-        "coingeckoId": "zai-stablecoin",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -22552,19 +22565,6 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/3479/thumb/gen.png?1696504167",
         "coingeckoId": "daostack",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "RASTO",
-        "name": "Rastopyry",
-        "address": "0x5408d3883EC28C2dE205064AE9690142B035fEd2",
-        "decimals": 9,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/38967/thumb/Rastopyry.jpg?1719711675",
-        "coingeckoId": "rastopyry",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -32080,8 +32080,7 @@
         "listedIn": [
             "coingecko",
             "optimism",
-            "arbitrum_bridge",
-            "lifinance"
+            "arbitrum_bridge"
         ]
     },
     {
