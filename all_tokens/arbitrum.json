@@ -12,18 +12,6 @@
         ]
     },
     {
-        "symbol": "ENS",
-        "name": "Ethereum Name Service",
-        "address": "0xfeA31d704DEb0975dA8e77Bf13E04239e70d7c28",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "KLP",
         "name": "KTC LP",
         "address": "0xfe4B623D04Cf08eB94635D52c230FFE266570bB8",
@@ -916,7 +904,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/29098/thumb/collab.png?1696528061",
         "coingeckoId": "collab-land",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -2513,13 +2502,26 @@
         "logoURI": "https://assets.coingecko.com/coins/images/35279/thumb/RosnetLogo200x200.png?1708054752",
         "coingeckoId": "rosnet",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
         "symbol": "USDT",
         "name": "Tether USD",
         "address": "0xd724eE02f49da010B7cAbD5B1EED443f612324A7",
+        "decimals": 6,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "oUSDC-DAI",
+        "name": "oUSDC-DAI",
+        "address": "0xd6ecEb3978bf2b76958b96E8A207246b98C7d639",
         "decimals": 6,
         "chainId": 42161,
         "logoURI": null,
@@ -3075,7 +3077,8 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
-            "arbitrum_bridge"
+            "arbitrum_bridge",
+            "lifinance"
         ]
     },
     {
@@ -8507,18 +8510,6 @@
         ]
     },
     {
-        "symbol": "OPXVESLIZ",
-        "name": "opxSliz",
-        "address": "0xD29F8a9e76Ef42ba9f749583ed07cAe7bFaEc389",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/29291/thumb/62833FE7-F28E-4D33-886E-9E4F8D72EEB7.png?1696528243",
-        "coingeckoId": "opxsliz",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "EURS",
         "name": "STASIS EURS Token",
         "address": "0xD22a58f79e9481D1a88e00c343885A588b34b68B",
@@ -11172,7 +11163,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/23592/thumb/ctok.jpg?1715904249",
         "coingeckoId": "codyfight",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -13824,8 +13816,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/28775/thumb/dusd_logo_200x200.png?1696527754",
         "coingeckoId": "davos-protocol",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -15639,6 +15630,18 @@
         "symbol": "mooBeefySushiWETH-USDC",
         "name": "Moo Beefy Sushi WETH-USDC",
         "address": "0x7d920D0B311F3897D4b862dBbe8CD8b759D9e1fe",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "OPLE",
+        "name": "Open Ledger",
+        "address": "0x7d8bA024fC055fE0620072Cab60AF84533CfaDbE",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -19817,8 +19820,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/37909/thumb/image_%281%29.png?1715934988",
         "coingeckoId": "davos-protocol-staked-dusd",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -20325,6 +20327,18 @@
         "name": "Balancer sUSDe/sFRAX",
         "address": "0x59743f1812bb85Db83e9e4EE061D124AAa642900",
         "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "oUSDC.e-USDC",
+        "name": "oUSDC.e-USDC",
+        "address": "0x59671Aa8F4E5adCcb26f4c88F0d6047B0ae7620b",
+        "decimals": 6,
         "chainId": 42161,
         "logoURI": null,
         "coingeckoId": null,
@@ -22963,18 +22977,6 @@
         "symbol": "ETHy",
         "name": "Ethereum Yield",
         "address": "0x43DA9b0aB53242c55A9Ff9c722FfC2a373D639c7",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "MTOSAI",
-        "name": "MomoAI",
-        "address": "0x43D81a60175B1CBB92656F0d5ea1C11d9b202977",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -27544,26 +27546,15 @@
         ]
     },
     {
-        "symbol": "Cake",
-        "name": "PancakeSwap Token",
+        "symbol": "CAKE",
+        "name": "PancakeSwap",
         "address": "0x1b896893dfc86bb67Cf57767298b9073D2c1bA2c",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x1b896893dfc86bb67cf57767298b9073d2c1ba2c/9003539eb61139bd494b7412b785d482.png",
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/12632/thumb/pancakeswap-cake-logo_%281%29.png?1696512440",
+        "coingeckoId": "pancakeswap-token",
         "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "ACDC",
-        "name": "Ac digital corp",
-        "address": "0x1b64e0F423513A41423A208297d50223856cD693",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -28454,7 +28445,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/33596/thumb/PSM.png?1702521046",
         "coingeckoId": "possum",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -30038,6 +30030,18 @@
         "coingeckoId": "prism-2",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "oUSDC.e-USDT",
+        "name": "oUSDC.e-USDT",
+        "address": "0x0B48540e214bc196e1D0954834876691fE19068D",
+        "decimals": 6,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
