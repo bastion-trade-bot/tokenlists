@@ -665,18 +665,6 @@
         ]
     },
     {
-        "symbol": "YSL",
-        "name": "YSL",
-        "address": "0xf5Db7C04BCeC3bEA25Bd4FDC501Cff0864F726E7",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/34512/thumb/YSL-Light_200px.png?1705288632",
-        "coingeckoId": "xenify-ysl",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "mooBeefySushiWETH-USDC",
         "name": "Moo Beefy Sushi WETH-USDC",
         "address": "0xf5C9c812fA046579D46Caf15133052eecDc9a8ce",
@@ -3005,18 +2993,6 @@
         ]
     },
     {
-        "symbol": "iBTCV",
-        "name": "Inverse BTC Volatility Index",
-        "address": "0xd14C03a985a7b09AF1a08640e5f6aff806Dc8249",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "mooBeefyUniswapcbETH-WETH",
         "name": "Moo Beefy Uniswap cbETH-WETH",
         "address": "0xd134De08D6874fE6A2ca3f2365881d720DCf85Ca",
@@ -4347,6 +4323,18 @@
         "name": "PT weETH 26SEP2024",
         "address": "0xb8b0a120F6A68Dd06209619F62429fB1a8e92feC",
         "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "spgUSDC",
+        "name": "Silo Finance Protected gUSDC Deposit",
+        "address": "0xb8a1B4428D09e9E977F7587A931217c0871D1786",
+        "decimals": 6,
         "chainId": 42161,
         "logoURI": null,
         "coingeckoId": null,
@@ -7622,6 +7610,18 @@
         ]
     },
     {
+        "symbol": "PT-weETH-26DEC2024",
+        "name": "PT weETH 26DEC2024",
+        "address": "0xE2B2D203577c7cb3D043E89cCf90b5E24d19b66f",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "TRADE",
         "name": "Polytrade",
         "address": "0xE22c452bd2AdE15DfC8ad98286bc6bDF0c9219b7",
@@ -8006,7 +8006,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/38157/thumb/Goddog_logo_for_Coingecko_200x200.png?1716669510",
         "coingeckoId": "goddog",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -9632,18 +9633,6 @@
         "symbol": "ALP",
         "name": "ApolloX LP",
         "address": "0xBc76B3FD0D18C7496C0B04aeA0Fe7C3Ed0e4d9C9",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "SWORLDT",
-        "name": "Seedworld",
-        "address": "0xBc6d61f0FEfE97555872ae4646ad9cd5068b4aE8",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -14929,15 +14918,14 @@
         ]
     },
     {
-        "symbol": "FXUSD",
+        "symbol": "fxUSD",
         "name": "handleUSD",
         "address": "0x8616E8EA83f048ab9A5eC513c9412Dd2993bcE3F",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/26954/thumb/fxUSDlogo.png?1696526009",
-        "coingeckoId": "handleusd",
+        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x8616e8ea83f048ab9a5ec513c9412dd2993bce3f/8db6899999d178a52cd0414507fa65e1.png",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "lifinance"
         ]
     },
@@ -19054,18 +19042,6 @@
         ]
     },
     {
-        "symbol": "BLUE",
-        "name": "Blue Chips",
-        "address": "0x66dC16eb705cfaff13fbceF94D7692A9FAC65349",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "mooEqb-rsETH_26SEP24",
         "name": "Moo Eqb rsETH_26SEP24",
         "address": "0x66d89d65046D8BC75E0fb14E704e50E8C7a07219",
@@ -20202,6 +20178,18 @@
         "coingeckoId": "pepex",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "aRDNT-WETH",
+        "name": "aRDNT-WETH",
+        "address": "0x5E2a78bAcDEE3b34aCc1242Dbc2daCEf794083Ea",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -23100,6 +23088,18 @@
         ]
     },
     {
+        "symbol": "GIZA",
+        "name": "Giza",
+        "address": "0x4617aBE141889935d92EC44b6941C384426CD867",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "CMLT-LP",
         "name": "Camelot LP",
         "address": "0x460c2c075340EbC19Cf4af68E5d83C194E7D21D0",
@@ -25409,8 +25409,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/35678/thumb/wstlink_logo.png?1709525182",
         "coingeckoId": "wrapped-staked-link",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -28579,6 +28578,18 @@
         ]
     },
     {
+        "symbol": "faRDNT-WETH",
+        "name": "FARM_aRDNT-WETH",
+        "address": "0x196a84018cAF01D2B43d87B69e0D8e839EAE9604",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "mooBeefyUniswapUSDC-USDT",
         "name": "Moo Beefy Uniswap USDC-USDT",
         "address": "0x195DE404648C4E9f8778816d1E31566272FBff6b",
@@ -28865,8 +28876,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/33596/thumb/PSM.png?1702521046",
         "coingeckoId": "possum",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -31818,7 +31828,7 @@
         "address": "0x00000000702749f73E5210B08b0a3D440078f888",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/22502/thumb/whiteicon.4a79cf8b.png?1696521826",
+        "logoURI": "https://assets.coingecko.com/coins/images/22502/thumb/Transparent-04_%281%29_%281%29.png?1725187885",
         "coingeckoId": "maia",
         "listedIn": [
             "coingecko",
@@ -31844,7 +31854,7 @@
         "address": "0x00000000000451f49c692Bfc24971cAcEA2dB678",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/24251/thumb/hermes.png?1696523436",
+        "logoURI": "https://assets.coingecko.com/coins/images/24251/thumb/Transparent-13_%281%29_%281%29.png?1725188033",
         "coingeckoId": "hermes-protocol",
         "listedIn": [
             "coingecko",
