@@ -686,18 +686,6 @@
         ]
     },
     {
-        "symbol": "ETHi",
-        "name": "ETHical Finance",
-        "address": "0xf4584D3067Ce2f1C3C0779D91bb960678f8fF1dE",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xf4584d3067ce2f1c3c0779d91bb960678f8ff1de/927fbc606c2e825fa04e2d9b4fba4470.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "UNI-V2",
         "name": "Uniswap V2",
         "address": "0xf41f4bbce9CC2ddF7472022505ecDc09ef430B19",
@@ -1246,6 +1234,18 @@
         ]
     },
     {
+        "symbol": "aPolMIMATIC",
+        "name": "Aave Polygon MIMATIC",
+        "address": "0xeBe517846d0F36eCEd99C735cbF6131e1fEB775D",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "LGNS",
         "name": "Origin LGNS",
         "address": "0xeB51D9A39AD5EEF215dC0Bf39a8821ff804A0F01",
@@ -1506,6 +1506,18 @@
         "coingeckoId": "abond",
         "listedIn": [
             "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "mooSushiFXS-FRAX",
+        "name": "Moo Sushi FXS-FRAX",
+        "address": "0xe62a0a25a0eCE622f795d5f1Be0F374485B64bf8",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
@@ -2315,7 +2327,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/51/thumb/potcoin.png?1696501447",
         "coingeckoId": "potcoin",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -2434,6 +2447,18 @@
         "name": "USDC",
         "address": "0xd69b31c3225728CC57ddaf9be532a4ee1620Be51",
         "decimals": 6,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "mWMATIC",
+        "name": "Mono interest bearing WMATIC",
+        "address": "0xd6169d5eFe1075A3DF0802F69Ef7950164FeB16b",
+        "decimals": 18,
         "chainId": 137,
         "logoURI": null,
         "coingeckoId": null,
@@ -3283,8 +3308,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/27501/thumb/CaltNDWu_400x400.jpeg?1696526541",
         "coingeckoId": "tamadoge",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -4240,6 +4264,18 @@
         "coingeckoId": "ebox",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "stataPolWETH",
+        "name": "Static Aave Polygon WETH",
+        "address": "0xb3D5Af0A52a35692D3FcbE37669b3B8C31dddE7D",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -7047,6 +7083,18 @@
         ]
     },
     {
+        "symbol": "SLP",
+        "name": "SushiSwap LP Token",
+        "address": "0xDf45B5B68d9dC84173DD963c763AeA8CAD3E24A6",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "PLAY",
         "name": "PLAY",
         "address": "0xDd24aA9166dCDf0B37D0Fca17D6Ea87748771dCC",
@@ -8027,6 +8075,18 @@
         ]
     },
     {
+        "symbol": "MSLP",
+        "name": "Meshswap LP MESH-AdMESH",
+        "address": "0xCD65DC16bC99FaE3fD3028911815E2757F5eBd62",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "OORT",
         "name": "Oort Digital",
         "address": "0xCCE87C5b269C94b31Ec437b1d7D85bF1413b7804",
@@ -8888,18 +8948,6 @@
         "decimals": 18,
         "chainId": 137,
         "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "BEAT",
-        "name": "METABEAT",
-        "address": "0xB78cf9aC0f47f1D69cBa861DedA29814d285C834",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xb78cf9ac0f47f1d69cba861deda29814d285c834/2a7462f6871fbd64578af16215f2e91b.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -10571,6 +10619,18 @@
         ]
     },
     {
+        "symbol": "SLP",
+        "name": "SushiSwap LP Token",
+        "address": "0x9F0c603476C3E41de989FC830E63961b23255332",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "XGT",
         "name": "Xion Finance",
         "address": "0x9EB8A789Ed1Bd38D281962b523349d5D17A37d47",
@@ -10996,6 +11056,18 @@
         "symbol": "WND",
         "name": "WND",
         "address": "0x982927c3933869a930f4c64138aDbd828F2D858f",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "stataPolWMATIC",
+        "name": "Static Aave Polygon WMATIC",
+        "address": "0x98254592408E389D1dd2dBa318656C2C5c305b4E",
         "decimals": 18,
         "chainId": 137,
         "logoURI": null,
@@ -12512,6 +12584,18 @@
         ]
     },
     {
+        "symbol": "CNGT",
+        "name": "CryptoNinja Governance Token",
+        "address": "0x8930568B98E48aA02cc660992a9223e596c528b8",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x8930568b98e48aa02cc660992a9223e596c528b8/8ac8ba306747548642c29e23c30a7361.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "ALTD",
         "name": "Altitude",
         "address": "0x8929e9DbD2785e3BA16175E596CDD61520feE0D1",
@@ -12943,6 +13027,30 @@
         ]
     },
     {
+        "symbol": "UNI-V2",
+        "name": "Uniswap V2",
+        "address": "0x853Ee4b2A13f8a742d64C8F088bE7bA2131f670d",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "mooStargateV2USDC",
+        "name": "Moo StargateV2 USDC",
+        "address": "0x8532cB33dD93e019913bC7b11324Aa19AAcF935D",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "COMP",
         "name": "Compound",
         "address": "0x8505b9d2254A7Ae468c0E9dd10Ccea3A837aef5c",
@@ -13066,6 +13174,18 @@
         "name": "KEOM (PoS) Dai Stablecoin",
         "address": "0x83f98471F6F5D0ad82b0FE99d2Ce26F65995Ef32",
         "decimals": 8,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "stataPolDAI",
+        "name": "Static Aave Polygon DAI",
+        "address": "0x83c59636e602787A6EEbBdA2915217B416193FcB",
+        "decimals": 18,
         "chainId": 137,
         "logoURI": null,
         "coingeckoId": null,
@@ -14619,6 +14739,18 @@
         ]
     },
     {
+        "symbol": "oMOOI",
+        "name": "Orbit Bridge Polygon MOOI",
+        "address": "0x746351AB4B9d4f802B7b770f33184d0A6B17363D",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x746351ab4b9d4f802b7b770f33184d0a6b17363d/59db9dc47f6e7c88084a62c26c63ad08.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "BAG",
         "name": "Bag",
         "address": "0x73b29199a8e4C146E893EB95f18dAc41738a88c6",
@@ -15479,18 +15611,6 @@
         ]
     },
     {
-        "symbol": "2brl (BRLA)",
-        "name": "2brl (BRLA)",
-        "address": "0x6a6525d88dE3c2434dC060f54EaEc8fdFa12869C",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "WETH",
         "name": "Wrapped Ether",
         "address": "0x6a5c59AB16268d2c872916054C50440B999e417C",
@@ -15513,6 +15633,18 @@
         "listedIn": [
             "coingecko",
             "quickswap",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "MSLP",
+        "name": "Meshswap LP WMATIC-USDC",
+        "address": "0x6Ffe747579eD4E807Dec9B40dBA18D15226c32dC",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
@@ -18714,7 +18846,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/8472/thumb/MicrosoftTeams-image_%286%29.png?1696508657",
         "coingeckoId": "brz",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -19340,6 +19473,18 @@
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://static.debank.com/image/zkfair_token/logo_url/zkfair/35ab0987153a8355a454223aae371ac7.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "SLP",
+        "name": "SushiSwap LP Token",
+        "address": "0x4B1F1e2435A9C96f7330FAea190Ef6A7C8D70001",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -20441,7 +20586,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14585/small/AcNx2x6P_400x400.jpg?1617153476",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn"
+            "dfyn",
+            "lifinance"
         ]
     },
     {
@@ -20946,8 +21092,7 @@
         "coingeckoId": "gib",
         "listedIn": [
             "coingecko",
-            "quickswap",
-            "lifinance"
+            "quickswap"
         ]
     },
     {
@@ -22505,6 +22650,18 @@
         ]
     },
     {
+        "symbol": "UNI-V2",
+        "name": "Uniswap V2",
+        "address": "0x2cF7252e74036d1Da831d11089D326296e64a728",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "STZ",
         "name": "99Starz",
         "address": "0x2c92a8A41f4b806a6f6F1F7C9D9DEc78DCd8c18e",
@@ -23081,6 +23238,18 @@
         "coingeckoId": "minebase",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "MSLP",
+        "name": "Meshswap LP WETH-USDC",
+        "address": "0x2915D57D076Ca2233F73B2E724Fea4F3DB967F9B",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -24719,6 +24888,18 @@
         ]
     },
     {
+        "symbol": "fxT",
+        "name": "Threshold Network Token (FXERC20)",
+        "address": "0x1D0AB64eD0F1ee4a886462146D26EffC6dd00d0B",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "KNC",
         "name": "Kyber Network Crystal",
         "address": "0x1C954E8fe737F99f68Fa1CCda3e51ebDB291948C",
@@ -26029,6 +26210,18 @@
         ]
     },
     {
+        "symbol": "stataPolUSDC",
+        "name": "Static Aave Polygon USDC",
+        "address": "0x1017F4a86Fc3A3c824346d0b8C5e96A5029bDAf9",
+        "decimals": 6,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "HND",
         "name": "Hundred Finance",
         "address": "0x10010078a54396F62c96dF8532dc2B4847d47ED3",
@@ -26587,7 +26780,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/26430/thumb/Project_Page_Icon.png?1696525504",
         "coingeckoId": "wombat",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
