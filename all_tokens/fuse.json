@@ -144,6 +144,30 @@
         ]
     },
     {
+        "symbol": "MATIC",
+        "name": "Matic Token",
+        "address": "0x861bF3D382593Ed848972cADFACBA9749AdCE101",
+        "decimals": 18,
+        "chainId": 122,
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0xfbdd194376de19a88118e84e279b977f165d01b8/0f047f368f8c0dc532085075956cdadc.png",
+        "coingeckoId": "bridged-matic-fuse",
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "LLP",
+        "name": "LogX LP",
+        "address": "0x8443b43677fde01e6f5a5aEAc15E9207F13D559E",
+        "decimals": 18,
+        "chainId": 122,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "DELTA",
         "name": "DeltaFuse",
         "address": "0x7ec73806F81B4044D64416468C4b05688f38E365",
@@ -271,6 +295,18 @@
         ]
     },
     {
+        "symbol": "WETH (Bridged)",
+        "name": "Wrapped Ether",
+        "address": "0x5622F6dC93e08a8b717B149677930C38d5d50682",
+        "decimals": 18,
+        "chainId": 122,
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/61844453e63cf81301f845d7864236f6.png",
+        "coingeckoId": "bridged-wrapped-ether-fuse",
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "CEUS",
         "name": "Coineus",
         "address": "0x4e69Ae0CD024754655b4eF74F24A8DCB39Ba07e8",
@@ -386,6 +422,18 @@
         ]
     },
     {
+        "symbol": "USDC (Bridged)",
+        "name": "USD Coin",
+        "address": "0x28C3d1cD466Ba22f6cae51b1a4692a831696391A",
+        "decimals": 6,
+        "chainId": 122,
+        "logoURI": "https://static.debank.com/image/coin/logo_url/usdc/e87790bfe0b3f2ea855dc29069b38818.png",
+        "coingeckoId": "bridged-usdc-fuse",
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "fUSD",
         "name": "Fuse Dollar",
         "address": "0x249BE57637D8B013Ad64785404b24aeBaE9B098B",
@@ -421,6 +469,7 @@
         "listedIn": [
             "sushiswap",
             "fuseswap",
+            "lifinance",
             "elkfinance"
         ]
     },
