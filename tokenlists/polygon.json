@@ -2359,13 +2359,14 @@
     },
     {
         "symbol": "BRLA",
-        "name": "BRLA Token",
+        "name": "BRLA Digital BRLA",
         "address": "0xE6A537a407488807F0bbeb0038B79004f19DDDFb",
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://storage.googleapis.com/xy-finance-images/token-list/BRLA.jpeg",
-        "coingeckoId": null,
+        "coingeckoId": "brla-digital-brla",
         "listedIn": [
+            "coingecko",
             "lifinance",
             "xyfinance"
         ]
@@ -4185,6 +4186,19 @@
         "chainId": 137,
         "logoURI": "https://assets.coingecko.com/coins/images/6398/thumb/auditchain.png?1696506764",
         "coingeckoId": "auditchain",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "PPC",
+        "name": "Peercoin",
+        "address": "0x91E7E32C710661C44ae44D10Aa86135d91C3Ed65",
+        "decimals": 6,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/4/thumb/peercoin-icon-green-transparent_6x.png?1696501402",
+        "coingeckoId": "peercoin",
         "listedIn": [
             "coingecko",
             "lifinance"
