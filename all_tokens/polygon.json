@@ -4180,18 +4180,6 @@
         ]
     },
     {
-        "symbol": "YVS",
-        "name": "YVS.Finance (PoS)",
-        "address": "0xb565CF70613ca464D68427106af80C67a8e4b801",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xb565cf70613ca464d68427106af80c67a8e4b801/f1a86d00a2f093b5f606265227886c28.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "SLP",
         "name": "SushiSwap LP Token",
         "address": "0xb556feD3B348634a9A010374C406824Ae93F0CF8",
@@ -5241,6 +5229,18 @@
         ]
     },
     {
+        "symbol": "xyETH",
+        "name": "xyETH",
+        "address": "0xFbe19956395baE1065206255bC333E493702f221",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880",
+        "coingeckoId": null,
+        "listedIn": [
+            "xyfinance"
+        ]
+    },
+    {
         "symbol": "BIFI",
         "name": "Beefy.finance",
         "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
@@ -5521,6 +5521,18 @@
         "listedIn": [
             "coingecko",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "Redeemable AutoS",
+        "name": "AutoS",
+        "address": "0xF98bfE69d069B40668D4F6aaeA22E73d1DC21A93",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://storage.googleapis.com/xy-finance-images/token-list/AutoS.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "xyfinance"
         ]
     },
     {
@@ -9228,6 +9240,18 @@
         ]
     },
     {
+        "symbol": "XY",
+        "name": "XY",
+        "address": "0xB107AD9CF74f7E23D58147bCe3d9A7069a460CF3",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/21541/small/xy.png?1639913622",
+        "coingeckoId": null,
+        "listedIn": [
+            "xyfinance"
+        ]
+    },
+    {
         "symbol": "DLP",
         "name": "(PoS) Tether USD_DODO_LP_TOKEN_",
         "address": "0xB0B417A00E1831DeF11b242711C3d251856AADe3",
@@ -10618,15 +10642,14 @@
         ]
     },
     {
-        "symbol": "XGT",
-        "name": "Xion Finance",
+        "symbol": "XGTv3",
+        "name": "Xion Global Token v3",
         "address": "0x9EB8A789Ed1Bd38D281962b523349d5D17A37d47",
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0x9EB8A789Ed1Bd38D281962b523349d5D17A37d47/logo.png",
-        "coingeckoId": "xion-finance",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "elkfinance"
         ]
     },
@@ -11568,18 +11591,6 @@
         ]
     },
     {
-        "symbol": "BTCP",
-        "name": "BitcoinPro",
-        "address": "0x939dbA50a98A0a4dA1BE61FF0C32Fd51c8c81627",
-        "decimals": 8,
-        "chainId": 137,
-        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x939dba50a98a0a4da1be61ff0c32fd51c8c81627/cae62839a8b503a543a6550f792ecba2.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "ROUTE",
         "name": "Router Protocol",
         "address": "0x93890f346C5D02C3863a06657bc72555dC72c527",
@@ -11748,8 +11759,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/4/thumb/peercoin-icon-green-transparent_6x.png?1696501402",
         "coingeckoId": "peercoin",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -13269,13 +13279,14 @@
     },
     {
         "symbol": "GGT",
-        "name": "GO GAME TOKEN",
+        "name": "Go Game Token",
         "address": "0x8349314651eDe274f8c5FeF01Aa65fF8da75E57c",
         "decimals": 8,
         "chainId": 137,
-        "logoURI": null,
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/40080/thumb/ggt.jpg?1725515957",
+        "coingeckoId": "go-game-token",
         "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -14168,7 +14179,20 @@
         "logoURI": "https://assets.coingecko.com/coins/images/34001/thumb/512_512_icon.jpg?1703601480",
         "coingeckoId": "oval3",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "Redeemable BLU",
+        "name": "BLU",
+        "address": "0x7C1C974367Ee28D3d7aBb088f5FCd748B3759EA4",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://storage.googleapis.com/xy-finance-images/token-list/BLU.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "xyfinance"
         ]
     },
     {
@@ -14384,18 +14408,6 @@
         "name": "KEOM MATIC",
         "address": "0x7854D4Cfa7d0B877E399bcbDFfb49536d7A14fc7",
         "decimals": 8,
-        "chainId": 137,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "KC",
-        "name": "Krasnalcoin",
-        "address": "0x784665471bB8B945b57A76a9200B109Ee214E789",
-        "decimals": 6,
         "chainId": 137,
         "logoURI": null,
         "coingeckoId": null,
@@ -17822,6 +17834,18 @@
         ]
     },
     {
+        "symbol": "Redeemable CANDY",
+        "name": "CANDY",
+        "address": "0x5Bd40e579Cb7D37784689044E6C7c333E2E300e6",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://storage.googleapis.com/xy-finance-images/token-list/CANDY.jpg",
+        "coingeckoId": null,
+        "listedIn": [
+            "xyfinance"
+        ]
+    },
+    {
         "symbol": "WETH",
         "name": "Wrapped Ether",
         "address": "0x5BCf8d8c097FbB35C371F921E3FF3e6F6Eb54B41",
@@ -20222,6 +20246,18 @@
         ]
     },
     {
+        "symbol": "DFYNLP",
+        "name": "Dfyn LP Token",
+        "address": "0x438D2fDe55e2441F45f7ED2AdDB354bd97D17c5C",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "KMON",
         "name": "KmonCoin",
         "address": "0x43636e633D037Bd1c87Ae93419076A885cE5b714",
@@ -21552,6 +21588,18 @@
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "NYA",
+        "name": "Nya",
+        "address": "0x38F9bf9dCe51833Ec7f03C9dC218197999999999",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/40082/thumb/nya.jpg?1725523655",
+        "coingeckoId": "nya",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -25716,6 +25764,18 @@
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "Redeemable LLT",
+        "name": "LLT",
+        "address": "0x141E379505C3b89C5BBE4Bd2353f12CA4681e3D2",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://storage.googleapis.com/xy-finance-images/token-list/LLT.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "xyfinance"
         ]
     },
     {

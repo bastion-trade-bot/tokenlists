@@ -644,7 +644,6 @@
         "listedIn": [
             "coingecko",
             "pancake",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -3551,18 +3550,6 @@
         ]
     },
     {
-        "symbol": "CB",
-        "name": "cashback",
-        "address": "0xe482dA40b7A457248a957cB313c0E2c4adF7e316",
-        "decimals": 9,
-        "chainId": 56,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "Cake-LP",
         "name": "Pancake LPs",
         "address": "0xe44c5902aF5B3D27715c28DF8f32586DF8dc0f1C",
@@ -5294,7 +5281,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/23107/thumb/17316.png?1696522396",
         "coingeckoId": "spellfire",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -17464,6 +17452,18 @@
         ]
     },
     {
+        "symbol": "WOOP",
+        "name": "Woonkly",
+        "address": "0xD686E8DFECFd976D80E5641489b7A18Ac16d965D",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "PACT",
         "name": "impactMarket  OLD ",
         "address": "0xD61eC800066d4B8b1b3609ef91d50817193E6056",
@@ -20638,18 +20638,6 @@
         ]
     },
     {
-        "symbol": "BBANK",
-        "name": "BaseBank",
-        "address": "0xBD01A5b92Ebef331f42D2ea99Ff087E5834621aC",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/31847/thumb/bbanklogo.png?1696530661",
-        "coingeckoId": "basebank",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "CHC",
         "name": "Cherish Credit",
         "address": "0xBCd192f38457619fbDEf609A194E8ab467Cc3A58",
@@ -23454,6 +23442,18 @@
         ]
     },
     {
+        "symbol": "KUR",
+        "name": "Kuro",
+        "address": "0xA6fB39D69b09ECdc1a8b5f829DF11a40B7742603",
+        "decimals": 9,
+        "chainId": 56,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "DRACE",
         "name": "DeathRoad",
         "address": "0xA6c897CaaCA3Db7fD6e2D2cE1a00744f40aB87Bb",
@@ -25243,12 +25243,12 @@
     },
     {
         "symbol": "MULTI",
-        "name": "Multichain",
+        "name": "Multichain  BSC ",
         "address": "0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/22087/thumb/1_Wyot-SDGZuxbjdkaOeT2-A.png?1696521430",
-        "coingeckoId": "multichain",
+        "logoURI": "https://assets.coingecko.com/coins/images/40081/thumb/multichain.jpg?1725517565",
+        "coingeckoId": "multichain-bsc",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -26126,18 +26126,6 @@
         ]
     },
     {
-        "symbol": "BNBCAT",
-        "name": "BNBcat",
-        "address": "0x99c4e6F7Eb366E0eC28210Eb206De1EdD3937352",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "CRSS",
         "name": "Crosswise V1.1 Token",
         "address": "0x99FEFBC5cA74cc740395D65D384EDD52Cb3088Bb",
@@ -26823,18 +26811,6 @@
         "coingeckoId": "moonpot-finance",
         "listedIn": [
             "coingecko"
-        ]
-    },
-    {
-        "symbol": "LyDwE",
-        "name": "LyDwE Coin",
-        "address": "0x96fE569e25a101aE2c12A2a93568321ebABfb796",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
         ]
     },
     {
@@ -27698,6 +27674,18 @@
         "listedIn": [
             "coingecko",
             "pancake",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "SYPEPE",
+        "name": "SaiyanPEPE",
+        "address": "0x9446107B3F2348Eb67aFFc6029660C1fc9aDe82C",
+        "decimals": 6,
+        "chainId": 56,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
@@ -32317,18 +32305,6 @@
         ]
     },
     {
-        "symbol": "Cake-LP",
-        "name": "Pancake LPs",
-        "address": "0x8394215d5A18Bb23AD77226c5e5090B7900998F5",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "ATLAS",
         "name": "Star Atlas (Wormhole)",
         "address": "0x83850D97018f665EB746FBb8f18351e977d1b0D6",
@@ -32647,6 +32623,18 @@
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "XY",
+        "name": "XY",
+        "address": "0x824e9e833167232bCf5e505038dd15b0F9BB1026",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/21541/small/xy.png?1639913622",
+        "coingeckoId": null,
+        "listedIn": [
+            "xyfinance"
         ]
     },
     {
@@ -38200,6 +38188,18 @@
         ]
     },
     {
+        "symbol": "From AI",
+        "name": "From AI",
+        "address": "0x6F7899e8C5306F4EC6246f2bAF6Cf57738310B75",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "ARPA",
         "name": "ARPA",
         "address": "0x6F769E65c14Ebd1f68817F5f1DcDb61Cfa2D6f7e",
@@ -38569,18 +38569,6 @@
         "listedIn": [
             "coingecko",
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "EMBR",
-        "name": "Embr",
-        "address": "0x6CB8065F96d63630425fd95A408A0D6cD697C662",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/20904/thumb/embr.png?1696520295",
-        "coingeckoId": "embr",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -42789,6 +42777,18 @@
         ]
     },
     {
+        "symbol": "Redeemable eYe",
+        "name": "eYe",
+        "address": "0x5Bd40e579Cb7D37784689044E6C7c333E2E300e6",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://storage.googleapis.com/xy-finance-images/token-list/eYe.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "xyfinance"
+        ]
+    },
+    {
         "symbol": "PDO",
         "name": "pDollar",
         "address": "0x5BCcFbd33873A5498F8406146868eDdd5E998962",
@@ -43546,6 +43546,18 @@
         "coingeckoId": "tosdis",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "xyETH",
+        "name": "xyETH",
+        "address": "0x57eA46759fed1B47C200a9859e576239A941df76",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880",
+        "coingeckoId": null,
+        "listedIn": [
+            "xyfinance"
         ]
     },
     {
@@ -49920,18 +49932,6 @@
         ]
     },
     {
-        "symbol": "BLC",
-        "name": "Blockscape",
-        "address": "0x419264d79b92b8DE3C710AB0cD3406Cd11990e02",
-        "decimals": 9,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/29914/thumb/BLC_logo.jpg?1696528842",
-        "coingeckoId": "blockscape",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "pCAKE",
         "name": "WePiggy CAKE",
         "address": "0x417FDfC74503d8008AeEB53248E5C0f1960c2C1d",
@@ -52165,6 +52165,18 @@
         ]
     },
     {
+        "symbol": "NYA",
+        "name": "Nya",
+        "address": "0x38F9bf9dCe51833Ec7f03C9dC218197999999999",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/40082/thumb/nya.jpg?1725523655",
+        "coingeckoId": "nya",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "FuzeX18",
         "name": "FuzeX18",
         "address": "0x38Ab004abefc5c72E9E6F28Ab2cd73E9B1E0359b",
@@ -52882,13 +52894,14 @@
     },
     {
         "symbol": "BTT",
-        "name": "Bittorrent",
+        "name": "BitTorrent",
         "address": "0x352Cb5E19b12FC216548a2677bD0fce83BaE434B",
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://tokens.pancakeswap.finance/images/0x352Cb5E19b12FC216548a2677bD0fce83BaE434B.png",
-        "coingeckoId": null,
+        "coingeckoId": "bittorrent",
         "listedIn": [
+            "coingecko",
             "pancake"
         ]
     },
@@ -53638,8 +53651,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/32371/thumb/AGII.png?1699534856",
         "coingeckoId": "agii",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -56837,18 +56849,6 @@
         "coingeckoId": "redfeg",
         "listedIn": [
             "coingecko"
-        ]
-    },
-    {
-        "symbol": "JPC",
-        "name": "JP CURRENCY",
-        "address": "0x25558D1884A57d43eB2b689b5BdE3673A42c179d",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
         ]
     },
     {

@@ -2906,10 +2906,11 @@
         "address": "0xE2E785E3fcB00F3d2f5E01291E7741635c54F140",
         "decimals": 18,
         "chainId": 10,
-        "logoURI": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance"
+            "lifinance",
+            "xyfinance"
         ]
     },
     {
@@ -5711,6 +5712,18 @@
         "decimals": 18,
         "chainId": 10,
         "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "wstETH(wormhole)",
+        "name": "Wrapped liquid staked Ether 2.0",
+        "address": "0x855CFcEEe998c8ca34F9c914F584AbF72dC88B87",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "https://static.debank.com/image/op_token/logo_url/0x1f32b1c2345538c0c6f582fcb022739c4a194ebb/7e931af8cb34b6f5671ca2eb1b847849.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -9338,6 +9351,18 @@
         ]
     },
     {
+        "symbol": "NYA",
+        "name": "Nya",
+        "address": "0x38F9bf9dCe51833Ec7f03C9dC218197999999999",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "https://assets.coingecko.com/coins/images/40082/thumb/nya.jpg?1725523655",
+        "coingeckoId": "nya",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "vAMMV2-USDV/WETH",
         "name": "VolatileV2 AMM - USDV/WETH",
         "address": "0x38160f7fcbf1e82A47c7aBc03A531ABDd48686f7",
@@ -10170,7 +10195,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/38298/thumb/ZUN_200x200.png?1717194404",
         "coingeckoId": "zunami-governance-token",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
