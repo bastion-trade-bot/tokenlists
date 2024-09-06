@@ -51,18 +51,6 @@
         ]
     },
     {
-        "symbol": "MGOLD",
-        "name": "Mgold",
-        "address": "0xfe596D8f73Ae03e3720DB419c6320E944838A073",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "CXETH",
         "name": "CelsiusX Wrapped ETH",
         "address": "0xfe4546feFe124F30788c4Cc1BB9AA6907A7987F9",
@@ -4333,15 +4321,14 @@
         ]
     },
     {
-        "symbol": "UBQ",
-        "name": "Ubiq",
+        "symbol": "WUBQ",
+        "name": "Wrapped Ubiq",
         "address": "0xb1c5C9b97B35592777091cD34fFff141ae866AbD",
         "decimals": 18,
         "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/181/thumb/ubiq.png?1696501553",
-        "coingeckoId": "ubiq",
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xb1c5c9b97b35592777091cd34ffff141ae866abd/c52cdc27889bd1ad5de401f3554e3223.png",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "lifinance"
         ]
     },
@@ -4905,8 +4892,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/32422/thumb/ARYZE_eUSD.png?1698118313",
         "coingeckoId": "aryze-eusd",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -5421,18 +5407,6 @@
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://raw.githubusercontent.com/superfluid-finance/assets/master/public/tokens/jpyc/icon.svg",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "ONB",
-        "name": "Onebit Ventures",
-        "address": "0xFB75a9aE5F2F64Ed09B68Cf1aF3e33DBDA9C3979",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xfb75a9ae5f2f64ed09b68cf1af3e33dbda9c3979/0b30cf7ef6309d5132ac31db766c95be.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -10863,7 +10837,8 @@
         "coingeckoId": "ambo",
         "listedIn": [
             "coingecko",
-            "quickswap"
+            "quickswap",
+            "lifinance"
         ]
     },
     {
@@ -14428,6 +14403,18 @@
         ]
     },
     {
+        "symbol": "KC",
+        "name": "Krasnalcoin",
+        "address": "0x784665471bB8B945b57A76a9200B109Ee214E789",
+        "decimals": 6,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "OPN",
         "name": "OPEN Ticketing Ecosystem",
         "address": "0x7844F79FC841E4F92d974C417031c76F8578c2D5",
@@ -16766,8 +16753,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/34527/thumb/lrs_200x200.png?1705306770",
         "coingeckoId": "larissa-blockchain",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -24197,7 +24183,7 @@
         "symbol": "SNPT",
         "name": "SNPIT TOKEN",
         "address": "0x22737f5Bbb7C5b5BA407b0c1C9a9cdf66CF25D7d",
-        "decimals": 19,
+        "decimals": 18,
         "chainId": 137,
         "logoURI": "https://assets.coingecko.com/coins/images/38820/thumb/SNPT.jpg?1719100061",
         "coingeckoId": "snpit-token",
@@ -26486,8 +26472,8 @@
         ]
     },
     {
-        "symbol": "WMATIC",
-        "name": "Wrapped Matic",
+        "symbol": "WPOL",
+        "name": "Wrapped POL",
         "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
         "decimals": 18,
         "chainId": 137,

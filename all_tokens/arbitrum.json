@@ -1378,18 +1378,6 @@
         ]
     },
     {
-        "symbol": "TEQ",
-        "name": "Theoriq AI",
-        "address": "0xeD11625C135799f6aCfec01fadEe636CAFA681Fb",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "cowPancakeWBTC-USDC",
         "name": "Cow Pancake WBTC-USDC",
         "address": "0xeCf2a4118a92A8257928D4d12e00f4844d74BB7E",
@@ -5300,6 +5288,18 @@
         ]
     },
     {
+        "symbol": "fFRAX",
+        "name": "FARM_FRAX",
+        "address": "0xaEF3C262569e56FB494755110ca6F481f8A2e353",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "DF",
         "name": "dForce",
         "address": "0xaE6aab43C4f3E0cea4Ab83752C278f8dEbabA689",
@@ -7963,6 +7963,18 @@
         ]
     },
     {
+        "symbol": "sfOLP",
+        "name": "Short-Term Fee OLP",
+        "address": "0xDb6F4AA12Ac37332CFb02df2B795550a38A44b9c",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "WETH-GMX Uniswap Neutral Wide jLP",
         "name": "WETH-GMX Uniswap Neutral Wide Jones LP Token",
         "address": "0xDb4a8C6b78973fFBA19096882fC4e70Bfd226B69",
@@ -8164,7 +8176,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/38157/thumb/Goddog_logo_for_Coingecko_200x200.png?1716669510",
         "coingeckoId": "goddog",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -17884,13 +17897,14 @@
     },
     {
         "symbol": "ETHFI",
-        "name": "ether.fi governance token",
+        "name": "Ether fi",
         "address": "0x7189fb5B6504bbfF6a852B13B7B82a3c118fDc27",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xfe0c30065b384f05761f15d0cc899d4f9f9cc0eb/51f0cde8e655b6dd4cc39f2495b60c1e.png",
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/35958/thumb/etherfi.jpeg?1710254562",
+        "coingeckoId": "ether-fi",
         "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -17975,7 +17989,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/39966/thumb/Dackie_USD_Stablecoin.png?1724957262",
         "coingeckoId": "dackie-usd",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -18929,6 +18944,18 @@
         "symbol": "mooStargateV2USDC",
         "name": "Moo StargateV2 USDC",
         "address": "0x6A4C4BAEa8B96a5221DdfFE8564e21507f728331",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "AST",
+        "name": "Assisterr AI",
+        "address": "0x6A3E0B03dD3677518fa2873cB85E951ebd5bB7B8",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -20317,6 +20344,18 @@
         "name": "Cream Tether USD",
         "address": "0x5eb35dAF9EF97E9e8cc33C486Bad884a62CAe9Ce",
         "decimals": 8,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "Omni X",
+        "name": "Omni X",
+        "address": "0x5eAf4126A129C5e078BbBebd7Dba64C4bd8a5d8A",
+        "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
         "coingeckoId": null,
@@ -22317,18 +22356,6 @@
         "decimals": 18,
         "chainId": 42161,
         "logoURI": "https://static.debank.com/image/project/logo_url/arb_dopex/0f169928f85e363222ef0c0f7a04a1fd.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "mWOM",
-        "name": "mWOM",
-        "address": "0x509FD25EE2AC7833a017f17Ee8A6Fb4aAf947876",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x509fd25ee2ac7833a017f17ee8a6fb4aaf947876/c7b422885fdf838e80d9011a37c1f9a4.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -31437,6 +31464,18 @@
         ]
     },
     {
+        "symbol": "sOLP",
+        "name": "Short-Term OLP",
+        "address": "0x07CfB9eBF06511862f3ad60A9513b4a8f33E6FA5",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "LYRA",
         "name": "Lyra Finance",
         "address": "0x079504b86d38119F859c4194765029F692b7B7aa",
@@ -32092,6 +32131,18 @@
         "coingeckoId": "hamachi-finance",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "cvxVSTFRAX-f",
+        "name": "Curve.fi Factory Plain Pool: VST+FRAX Convex Deposit",
+        "address": "0x01cEE975430f845BA5484ac5673F1BecA79D5801",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {

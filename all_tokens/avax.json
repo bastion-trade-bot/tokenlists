@@ -478,6 +478,18 @@
         ]
     },
     {
+        "symbol": "MQT",
+        "name": "MoveQuest",
+        "address": "0xef0cdae2FfEEeFA539a244a16b3f46ba75b8c810",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xef0cdae2ffeeefa539a244a16b3f46ba75b8c810/1c8b59cb3763f3cad4112b9a048ad5f3.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "CBIX7",
         "name": "CBI Index 7",
         "address": "0xeeD4DcDFaE91D39d2b851338433F0013AF5D1406",
@@ -4908,14 +4920,13 @@
     },
     {
         "symbol": "BOOFI",
-        "name": "Boo Finance",
+        "name": "Boo Finance Token",
         "address": "0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0",
         "decimals": 18,
         "chainId": 43114,
         "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0/logo_24.png",
-        "coingeckoId": "boo-finance",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "pangolin",
             "lifinance"
         ]
@@ -8136,6 +8147,7 @@
         "listedIn": [
             "coingecko",
             "pangolin",
+            "lifinance",
             "elkfinance"
         ]
     },
