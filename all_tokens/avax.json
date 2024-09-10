@@ -2463,14 +2463,15 @@
         ]
     },
     {
-        "symbol": "oldBUSD",
-        "name": "Old Binance USD",
+        "symbol": "BUSD(bridged)",
+        "name": "Binance USD",
         "address": "0xaEb044650278731Ef3DC244692AB9F64C78FfaEA",
         "decimals": 18,
         "chainId": 43114,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xaEb044650278731Ef3DC244692AB9F64C78FfaEA/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -6403,6 +6404,18 @@
         "decimals": 18,
         "chainId": 43114,
         "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x90fbe9dfe76f6ef971c7a297641dfa397099a13e/5bbe879d8b58f2d02e65191a3525add9.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "EMUN",
+        "name": "emun gun shoeta",
+        "address": "0x90D1ad4165E7aD06b0019782320131c295B66993",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -13557,8 +13570,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/18581/thumb/soul.jpg?1696518058",
         "coingeckoId": "soul-swap",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {

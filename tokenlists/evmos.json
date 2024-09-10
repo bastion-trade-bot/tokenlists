@@ -1,31 +1,5 @@
 [
     {
-        "symbol": "FXS",
-        "name": "Frax Share",
-        "address": "0xd8176865DD0D672c6Ab4A427572f80A72b4B4A9C",
-        "decimals": 18,
-        "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/13423/thumb/Frax_Shares_icon.png?1696513183",
-        "coingeckoId": "frax-share",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "CEWBTC",
-        "name": "Wrapped Bitcoin   Celer",
-        "address": "0xb98e169C37ce30Dd47Fdad1f9726Fb832191e60b",
-        "decimals": 8,
-        "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/25013/thumb/3717.png?1696524164",
-        "coingeckoId": "wrapped-bitcoin-celer",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "OSMO",
         "name": "Osmosis",
         "address": "0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864",
@@ -39,19 +13,6 @@
         ]
     },
     {
-        "symbol": "AXLWBTC",
-        "name": "axlWBTC",
-        "address": "0xF5b24c0093b65408ACE53df7ce86a02448d53b25",
-        "decimals": 8,
-        "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/28173/thumb/wbtc-satoshi_D_3x.png?1696986732",
-        "coingeckoId": "axlwbtc",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "EVMOS",
         "name": "Evmos",
         "address": "0xD4949664cD82660AaE99bEdc034a0deA8A0bd517",
@@ -61,8 +22,7 @@
         "coingeckoId": "evmos",
         "listedIn": [
             "coingecko",
-            "pangolin",
-            "lifinance"
+            "pangolin"
         ]
     },
     {
@@ -75,60 +35,7 @@
         "coingeckoId": "cosmos",
         "listedIn": [
             "coingecko",
-            "pangolin",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "TASHI",
-        "name": "Tashi",
-        "address": "0x98fAFD9F714CE0B4bB2870527076F2F314aAed82",
-        "decimals": 18,
-        "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/32999/thumb/Tashi-logo-B-200x200.png?1700115144",
-        "coingeckoId": "tashi",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "AXLETH",
-        "name": "Axelar Wrapped Ether",
-        "address": "0x50dE24B3f0B3136C50FA8A3B8ebc8BD80a269ce5",
-        "decimals": 18,
-        "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/28171/thumb/weth-wei_D_3x.png?1696527174",
-        "coingeckoId": "axlweth",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "SPACE",
-        "name": "SpaceFi  Evmos ",
-        "address": "0x4E2D4F33d759976381D9DeE04B197bF52F6bC1FC",
-        "decimals": 18,
-        "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/25643/thumb/SpaceFi.png?1696524776",
-        "coingeckoId": "spacefi",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "stEVMOS",
-        "name": "Stride Staked Evmos",
-        "address": "0x2C68D1d6aB986Ff4640b51e1F14C716a076E44C4",
-        "decimals": 18,
-        "chainId": 9001,
-        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/9001/0x2C68D1d6aB986Ff4640b51e1F14C716a076E44C4/logo_24.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "pangolin",
-            "lifinance"
+            "pangolin"
         ]
     },
     {
@@ -141,21 +48,7 @@
         "coingeckoId": "axlusdc",
         "listedIn": [
             "coingecko",
-            "pangolin",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "CEWETH",
-        "name": "Wrapped Ether   Celer",
-        "address": "0x153A59d48AcEAbedbDCf7a13F67Ae52b434B810B",
-        "decimals": 18,
-        "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/24827/thumb/weth.png?1696523984",
-        "coingeckoId": "wrapped-ether-celer",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
+            "pangolin"
         ]
     }
 ]
