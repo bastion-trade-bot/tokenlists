@@ -12,9 +12,69 @@
         ]
     },
     {
+        "symbol": "KLP",
+        "name": "KTC LP",
+        "address": "0xfe4B623D04Cf08eB94635D52c230FFE266570bB8",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "mDLP",
+        "name": "Magpie locked DLP",
+        "address": "0xfe14F790DA92971131544d915c4ADa6F1abce3Bd",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xfe14f790da92971131544d915c4ada6f1abce3bd/11d754c0b8e7c3e3b221c5f5ce6ab215.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "fsKLP",
         "name": "Fee + Staked KLP",
         "address": "0xfd624233741f86A7fAB57A5aDd8929422395b221",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "crAMM-FRAX/alUSD",
+        "name": "Correlated rAMM - FRAX/alUSD",
+        "address": "0xfd599DB360Cd9713657C95dF66650A427d213010",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "sHOP-LP-ETH",
+        "name": "freezing Hop ETH LP Token",
+        "address": "0xfd3573bebDc8bF323c65Edf2408Fd9a8412a8694",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "spWOETH",
+        "name": "Silo Finance Protected WOETH Deposit",
+        "address": "0xfd337a771A5B3d0a1233d5c135f620c3741a966A",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -33,6 +93,18 @@
         "coingeckoId": "bitci-doge",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "sUSDC-GRAI",
+        "name": "Silo Finance Borrowable USDC Deposit in GRAI Silo",
+        "address": "0xfce4C33c8d977e0ff9edA934F322DfBb75FEA71B",
+        "decimals": 6,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -196,6 +268,30 @@
         "coingeckoId": "wefi-finance",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "SLP",
+        "name": "SushiSwap LP Token",
+        "address": "0xfEbe4B29228C2c08bDa914436D5094386b101828",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "PT-MUXLP-26DEC2024",
+        "name": "PT MUXLP 26DEC2024",
+        "address": "0xfE49069d05d0d65559735FD74219460a11425bf0",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -474,6 +570,18 @@
         "symbol": "cvxcrvUSDT",
         "name": "crvUSD/USDT Convex Deposit",
         "address": "0xf74d4C9b0F49fb70D8Ff6706ddF39e3a16D61E67",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "WBTC-USDC Uniswap Neutral Narrow jLP",
+        "name": "WBTC-USDC Uniswap Neutral Narrow Jones LP Token",
+        "address": "0xf717D66C4F913a7b5B17b64b15739253831E609e",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -4584,18 +4692,6 @@
         ]
     },
     {
-        "symbol": "YAKS",
-        "name": "Yak DAO",
-        "address": "0xb50a8e92CB9782C9b8f3c88e4Ee8A1d0AA2221D7",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/36102/thumb/photo_2023-03-24_10-37-37.jpg?1710483450",
-        "coingeckoId": "yak-dao",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "HOLD",
         "name": "Hold VIP",
         "address": "0xb4bbfE92702730ef7F1d28e4b9E42381182F48a5",
@@ -5987,6 +6083,42 @@
         ]
     },
     {
+        "symbol": "sstEUR",
+        "name": "Silo Finance Borrowable stEUR Deposit",
+        "address": "0xFf00eE617638e2bd30D965b401072A352087f4F0",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "STEER_UNIV3_VAULT_3",
+        "name": "STEER_UNIV3_VAULT_3",
+        "address": "0xFe9Fd82c9e53C00CF729893f889C02c0A128b1d4",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "mDLP_RPT",
+        "name": "Radpie mDLP Receipt Token",
+        "address": "0xFe8E5879B2b01a3459e6A4cA6A0DA99BD32A41C9",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "NSWAP",
         "name": "Nulswap",
         "address": "0xFdad8EDC724277e975F4955d288C6EB5b20A3146",
@@ -5995,7 +6127,20 @@
         "logoURI": "https://assets.coingecko.com/coins/images/30099/thumb/nswap-circ_%283%29.png?1696529023",
         "coingeckoId": "nulswap",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "PENDLE-LPT",
+        "name": "Pendle Market",
+        "address": "0xFd8AeE8FCC10aac1897F8D5271d112810C79e022",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -6146,13 +6291,74 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "lifinance",
             "xyfinance"
+        ]
+    },
+    {
+        "symbol": "1L-ETH",
+        "name": "ETH Lend",
+        "address": "0xFEF4B50bcb968CFA4eb097d4321EBA35F4aE40Aa",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "CMLT-LP",
+        "name": "Camelot LP",
+        "address": "0xFE4Fa5932899C9a541E8E26b6e7e59506254ADEC",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "T-CVOL-LP",
+        "name": "Theta CVOL LP",
+        "address": "0xFDeB59a2B4891ea17610EE38665249acC9FCC506",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "cvcrvUSD-gauge",
+        "name": "Curve.fi cvcrvUSD Gauge Deposit",
+        "address": "0xFD632Fa4fe5c2e2aeF32BD973CE1A68A517De461",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
         "symbol": "mooSolidLizardARB-ETH",
         "name": "Moo SolidLizard ARB-ETH",
         "address": "0xFCb0101503f399B4752E5160ccd5EcE3a71719bd",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "WBTC-WETH Ramses Neutral Wide jLP",
+        "name": "WBTC-WETH Ramses Neutral Wide Jones LP Token",
+        "address": "0xFCE469Da6208DAf476b34ed67125B3C3DC587128",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -10026,6 +10232,18 @@
         ]
     },
     {
+        "symbol": "BENJI",
+        "name": "Franklin OnChain U S  Government Money ",
+        "address": "0xB9e4765BCE2609bC1949592059B17Ea72fEe6C6A",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/39660/thumb/FOBXX.jpg?1723523072",
+        "coingeckoId": "franklin-onchain-u-s-government-money-fund",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "vUSDT_Core",
         "name": "Venus USDT (Core)",
         "address": "0xB9F9117d4200dC296F9AcD1e8bE1937df834a2fD",
@@ -10760,7 +10978,6 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/arbitrum/0xAed882F117b78034829E2cfFA11206706837B1b1/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -11833,6 +12050,18 @@
         ]
     },
     {
+        "symbol": "ALOT",
+        "name": "Dexalot",
+        "address": "0x9d5A383581882750Ce27F84c72f017B378eDb736",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/24188/thumb/logo_200x200.png?1696523376",
+        "coingeckoId": "dexalot",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "SATS",
         "name": "Satoshi",
         "address": "0x9d36F8f62347538440a212e9162f534f797542df",
@@ -11962,6 +12191,18 @@
         "name": "Compound USDC",
         "address": "0x9c4ec768c28520B50860ea7a15bd7213a9fF58bf",
         "decimals": 6,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "AST",
+        "name": "Aspecta",
+        "address": "0x9c36e9A2f2E3C9b7254D1B412482e2a5A6a860Af",
+        "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
         "coingeckoId": null,
@@ -12569,6 +12810,18 @@
         ]
     },
     {
+        "symbol": "auraETHx/wstETH-vault",
+        "name": "Balancer ETHx/wstETH Aura Deposit Vault",
+        "address": "0x98Ff4A66Cc00E477316f1AFc82aCE8e45f31C7fb",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "CNT",
         "name": "Cryption Network Token",
         "address": "0x989D099d29F62b839C8CbD41c82c6554a5515752",
@@ -12790,6 +13043,18 @@
         "symbol": "cvx2CRV",
         "name": "Curve.fi USDC/USDT Convex Deposit",
         "address": "0x971E732B5c91A59AEa8aa5B0c763E6d648362CF8",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "WETH-ARB Uniswap Neutral Narrow jLP",
+        "name": "WETH-ARB Uniswap Neutral Narrow Jones LP Token",
+        "address": "0x96d631d3dfcC2a03d03aE2b3bf3aB0B633e9F7F1",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -13808,6 +14073,18 @@
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "MLN",
+        "name": "Enzyme",
+        "address": "0x8f5c1A99b1df736Ad685006Cb6ADCA7B7Ae4b514",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/605/thumb/Enzyme_Icon_Secondary.png?1696501803",
+        "coingeckoId": "melon",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -18579,6 +18856,18 @@
         ]
     },
     {
+        "symbol": "sUSX-USDC",
+        "name": "sUSX/USDC",
+        "address": "0x6E8E50f884Ac7e7814A8B0F7d5478Adcf11f50A4",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "ALP",
         "name": "Arbswap LP Token",
         "address": "0x6E8AEE8Ed658fDCBbb7447743fdD98152B3453A0",
@@ -18843,18 +19132,6 @@
         "symbol": "mooStargateV2USDC",
         "name": "Moo StargateV2 USDC",
         "address": "0x6A4C4BAEa8B96a5221DdfFE8564e21507f728331",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "AST",
-        "name": "Assisterr AI",
-        "address": "0x6A3E0B03dD3677518fa2873cB85E951ebd5bB7B8",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -30774,24 +31051,24 @@
         ]
     },
     {
-        "symbol": "ASTC",
-        "name": "Assisterr AI",
-        "address": "0x0Ff4Fd2fB1587A634851d02E64d0ca998cC1643A",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "LMR",
         "name": "Lumerin",
         "address": "0x0FC0c323Cf76E188654D63D62e668caBeC7a525b",
         "decimals": 8,
         "chainId": 42161,
         "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x0fc0c323cf76e188654d63d62e668cabec7a525b/81fe8e14485ed12e5f863f6a70414dd0.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "dgnETH",
+        "name": "DegenETH",
+        "address": "0x0F76De33a3679a6065D14780618b54584a3907D4",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
