@@ -4932,18 +4932,6 @@
         ]
     },
     {
-        "symbol": "XOC",
-        "name": "Xocolatl MXN Stablecoin",
-        "address": "0xa411c9Aa00E020e4f88Bc19996d29c5B7ADB4ACf",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "P-WBTC",
         "name": "Primex pToken (PoS) Wrapped BTC",
         "address": "0xa40d8aB18963eAfc1a4EadB0F916A828635268f7",
@@ -11707,7 +11695,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/20223/thumb/0x92868A5255C628dA08F550a858A802f5351C5223.png?1696519632",
         "coingeckoId": "cross-chain-bridge",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -21957,18 +21946,6 @@
         ]
     },
     {
-        "symbol": "XOCx",
-        "name": "Super Xocolatl MXN Stablecoin",
-        "address": "0x36d9a149895d905D117C38F3090f4344B76Ec9F4",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "aQUICK-USDC",
         "name": "aQUICK-USDC",
         "address": "0x36b511A006cAc909DC56C2c24eb69CA304f74999",
@@ -23719,7 +23696,6 @@
         "coingeckoId": "cartesi",
         "listedIn": [
             "coingecko",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -24555,6 +24531,18 @@
         "coingeckoId": null,
         "listedIn": [
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "oneBTC",
+        "name": "oneBTC",
+        "address": "0x1f194578e7510A350fb517a9ce63C40Fa1899427",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -26724,6 +26712,18 @@
         ]
     },
     {
+        "symbol": "STEERQV404",
+        "name": "STEER_QUICKSWAP_VAULT_404",
+        "address": "0x0FE4Cbd6ce903Ec1eA8e743972660AEcAB6Badf7",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "BART",
         "name": "Ballswapper Accelerator Reflection",
         "address": "0x0F893027AD53531D57ef3d165A04eD96c0F230ec",
@@ -27361,6 +27361,18 @@
         "coingeckoId": "aave-v3-wbtc",
         "listedIn": [
             "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "ARKES",
+        "name": "Arke Token (PoS)",
+        "address": "0x0784d958Ee09ff8e876A82d3c6e798912C0F0A11",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
