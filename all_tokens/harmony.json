@@ -174,18 +174,6 @@
         ]
     },
     {
-        "symbol": "USTC",
-        "name": "Wrapped USTC",
-        "address": "0xb82307fF75F0CD2cFc253BA2621851fd9123a818",
-        "decimals": 18,
-        "chainId": 1666600000,
-        "logoURI": "https://assets.coingecko.com/coins/images/15462/thumb/ust.png?1696515108",
-        "coingeckoId": null,
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "ENJ",
         "name": "Enjin Coin",
         "address": "0xadbd41bFb4389dE499535C14A8a3A12Fead8F66A",
@@ -1336,14 +1324,15 @@
         ]
     },
     {
-        "symbol": "UST",
-        "name": "TerraUSD",
+        "symbol": "USTC",
+        "name": "Wrapped USTC",
         "address": "0x224e64ec1BDce3870a6a6c777eDd450454068FEC",
         "decimals": 18,
         "chainId": 1666600000,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/harmony/0x224e64ec1BDce3870a6a6c777eDd450454068FEC/logo.png",
         "coingeckoId": "wrapped-ust",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "elkfinance"
         ]

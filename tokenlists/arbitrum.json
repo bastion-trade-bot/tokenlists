@@ -1414,6 +1414,19 @@
         ]
     },
     {
+        "symbol": "PLX",
+        "name": "PLEXUS",
+        "address": "0xFB853ACEa0E76f73F8274B521FE1611C888670Cc",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/29360/thumb/Token-Symbol_Main200.png?1696528308",
+        "coingeckoId": "plexus-app",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "EURA",
         "name": "EURA",
         "address": "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7",
@@ -1727,19 +1740,6 @@
         "chainId": 42161,
         "logoURI": "https://assets.coingecko.com/coins/images/34461/thumb/cgc.jpg?1725022711",
         "coingeckoId": "edge-matrix-computing",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "OOOOOO",
-        "name": "GODDOG",
-        "address": "0xDDf7d080C82b8048BAAe54e376a3406572429b4e",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/38157/thumb/Goddog_logo_for_Coingecko_200x200.png?1716669510",
-        "coingeckoId": "goddog",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -4758,19 +4758,6 @@
         ]
     },
     {
-        "symbol": "GMD",
-        "name": "GMD",
-        "address": "0x4945970EfeEc98D393b4b979b9bE265A3aE28A8B",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4945970EfeEc98D393b4b979b9bE265A3aE28A8B/logo.png",
-        "coingeckoId": "gmd-protocol",
-        "listedIn": [
-            "coingecko",
-            "joe"
-        ]
-    },
-    {
         "symbol": "FST",
         "name": "Futureswap",
         "address": "0x488cc08935458403a0458e45E20c0159c8AB2c92",
@@ -5619,8 +5606,7 @@
         "coingeckoId": "layer2dao",
         "listedIn": [
             "coingecko",
-            "joe",
-            "lifinance"
+            "joe"
         ]
     },
     {
