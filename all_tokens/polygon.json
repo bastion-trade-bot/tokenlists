@@ -88,6 +88,18 @@
         ]
     },
     {
+        "symbol": "SBC",
+        "name": "Stable Coin",
+        "address": "0xfdcC3dd6671eaB0709A4C0f3F53De9a333d80798",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xfdcc3dd6671eab0709a4c0f3f53de9a333d80798/015cca4eb53993735f18cdf1e3fc13a4.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "idleWETHYield",
         "name": "IdleWETH [Best yield]",
         "address": "0xfdA25D931258Df948ffecb66b5518299Df6527C4",
@@ -3307,7 +3319,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/27501/thumb/CaltNDWu_400x400.jpeg?1696526541",
         "coingeckoId": "tamadoge",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -3928,7 +3941,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/31799/thumb/depin.jpeg?1696530614",
         "coingeckoId": "xnet-mobile",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -6059,18 +6073,6 @@
         "coingeckoId": null,
         "listedIn": [
             "quickswap"
-        ]
-    },
-    {
-        "symbol": "ANML",
-        "name": "Animal Concerts Token (PoS)",
-        "address": "0xEcc4176B90613Ed78185f01bd1E42C5640C4F09d",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xecc4176b90613ed78185f01bd1e42c5640c4f09d/b3d2118e9b5af1c5031a484d97dab030.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
         ]
     },
     {
@@ -8571,8 +8573,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/34205/thumb/gbl.png?1704275447",
         "coingeckoId": "waweswaps-global-token",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -15732,6 +15733,18 @@
         "symbol": "MSLP",
         "name": "Meshswap LP WMATIC-USDC",
         "address": "0x6Ffe747579eD4E807Dec9B40dBA18D15226c32dC",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "UNI-V2",
+        "name": "Uniswap V2",
+        "address": "0x6Fdcf1F3a188484d3400B358d214FB932bb0E258",
         "decimals": 18,
         "chainId": 137,
         "logoURI": null,
@@ -27347,6 +27360,18 @@
         "coingeckoId": "aave-v3-wbtc",
         "listedIn": [
             "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "ARKES",
+        "name": "Arke Token (PoS)",
+        "address": "0x0784d958Ee09ff8e876A82d3c6e798912C0F0A11",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
