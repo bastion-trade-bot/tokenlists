@@ -2137,6 +2137,18 @@
         ]
     },
     {
+        "symbol": "ORBGUY",
+        "name": "Orbit Guy",
+        "address": "0xdd182BD5312d46548c7c0b6ACeD75F8ecc687De9",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xdd182bd5312d46548c7c0b6aced75f8ecc687de9/5811e7aa87fd424919b254c68e5ef784.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "PEUSD",
         "name": "peg eUSD",
         "address": "0xdce765f021410B3266aA0053c93Cb4535F1e12e0",
@@ -16610,7 +16622,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/28631/thumb/stfx.png?1696527615",
         "coingeckoId": "stfx",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -22227,18 +22240,6 @@
         ]
     },
     {
-        "symbol": "IGS",
-        "name": "iGameS",
-        "address": "0x51f9f9fF6cB2266D68c04eC289c7ABa81378a383",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x51f9f9ff6cb2266d68c04ec289c7aba81378a383/8543252231d6128e80890fd8029eba3c.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "PT(Ethena)USDe29AUG2024_PRT",
         "name": "PT(Ethena)USDe29AUG2024_PRT",
         "address": "0x51FF42a579EBfC18EF9e92050494028B4aF34FA5",
@@ -22987,13 +22988,14 @@
     },
     {
         "symbol": "QTLX",
-        "name": "Quantlytica Token",
+        "name": "Quantlytica",
         "address": "0x4D840b741bc05FDE325D4Ec0B4CFCD0CeA237e4E",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/50217/thumb/eebgcbNa_400x400.jpg?1726443400",
+        "coingeckoId": "quantlytica",
         "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -25180,6 +25182,18 @@
         "coingeckoId": "aave-v3-frax",
         "listedIn": [
             "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "mooCurveKNOX-eUSD-v2",
+        "name": "Moo Curve KNOX-eUSD-v2",
+        "address": "0x38Fb2BbedacDCC3490ee84a1e454324C16f31dae",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
@@ -27863,18 +27877,6 @@
         "coingeckoId": "moon",
         "listedIn": [
             "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "That Other GODDOG Token but on Arbitrum",
-        "name": "That Other Token That Goes Into GODDOG DOG Pod on Peapods Finance on Arbitrum that is actually paired to GODDOG on Uniswap V3 in",
-        "address": "0x243916aAa7c1fF92982604C28b8Ee84f05D84065",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
             "lifinance"
         ]
     },
