@@ -1007,9 +1007,33 @@
         ]
     },
     {
+        "symbol": "liquidETH",
+        "name": "Ether.Fi Liquid ETH",
+        "address": "0xf0bb20865277aBd641a307eCe5Ee04E79073416C",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "aUSD",
         "name": "StableCoins (0% Fee)",
         "address": "0xf0b183b4bA991Ee309308891267BE0bE3C087180",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "BCoW-50PENDLE-50wstETH",
+        "name": "Balancer CoW AMM 50 PENDLE 50 wstETH",
+        "address": "0xf061Ac79CA5e21d094a0e02EF3dF1Ee9ab6F0E0E",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -1882,6 +1906,18 @@
         "symbol": "GM",
         "name": "GMX Market",
         "address": "0xe2fEDb9e6139a182B98e7C2688ccFa3e9A53c665",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "mooBeefyUniswapUNI-USDT",
+        "name": "Moo Beefy Uniswap UNI-USDT",
+        "address": "0xe29B19aCadE6ebE1CbE40D1b8c71cFBec600989D",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -4193,18 +4229,6 @@
         ]
     },
     {
-        "symbol": "AIARE",
-        "name": "AIARENA",
-        "address": "0xba3BDe7e0422c243238D26CDD9E2554Da00B4591",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "PT-PENDLE-ETH_Camelot-27JUN2024",
         "name": "PT PENDLE-ETH_Camelot 27JUN2024",
         "address": "0xba1F509C6E5f1f6a529Ecc0913b27658a678B4b9",
@@ -4323,8 +4347,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/25598/thumb/USD24.png?1696524732",
         "coingeckoId": "fiat24-usd",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -9351,18 +9374,6 @@
         ]
     },
     {
-        "symbol": "oARB",
-        "name": "oARB Token",
-        "address": "0xCBED801b4162bf2A19B06968663438b5165A6A93",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "ALUSD",
         "name": "Alchemix USD",
         "address": "0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A",
@@ -12337,7 +12348,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/37379/thumb/superwalk.jpeg?1714213441",
         "coingeckoId": "superwalk-walk",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -13629,6 +13641,18 @@
         ]
     },
     {
+        "symbol": "BCoW-50ARB-50WETH",
+        "name": "Balancer CoW AMM 50 ARB 50 WETH",
+        "address": "0x94a5AFBf8f987d6EaDB1c0fe73366321c5Fe950b",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "AQ LP SolvBTC",
         "name": "Aqua LP: Solv BTC",
         "address": "0x94FeBdF8D9813928eA15Bc99d80632D59c190810",
@@ -14523,6 +14547,18 @@
         "symbol": "WEETH_rWEETH",
         "name": "WEETH_rWEETH",
         "address": "0x8c9c5d665b79123866Bf9DebE100D7baADcad203",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "OLAGG",
+        "name": "OLA Guild Games",
+        "address": "0x8c855956d3698377346C873B2922336fA665Af72",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -27934,18 +27970,6 @@
         "coingeckoId": "dfx-finance",
         "listedIn": [
             "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "ALCX",
-        "name": "Alchemix",
-        "address": "0x27b58D226fe8f792730a795764945Cf146815AA7",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xdbdb4d16eda451d0503b854cf79d55697f90c8df/b156bb5f7b191ff92f2c970ae2194329.png",
-        "coingeckoId": null,
-        "listedIn": [
             "lifinance"
         ]
     },
