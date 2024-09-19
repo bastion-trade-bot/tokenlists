@@ -26,18 +26,6 @@
         ]
     },
     {
-        "symbol": "milkTIA",
-        "name": "milkTIA",
-        "address": "0xfc59C4212122CBb52C9b22c9D59830Ab5b8E9c71",
-        "decimals": 6,
-        "chainId": 250,
-        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x4aa81d7ab59c775fe6f9f45e6941a0fb8cd692a6/4b77dc6b243b17fa689a2ea86fa3e20a.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "spLP",
         "name": "Spooky LP",
         "address": "0xfaC555103BD89b338F3E68F5c8cb54Ca8B256CD7",
@@ -1223,6 +1211,18 @@
         ]
     },
     {
+        "symbol": "VMO",
+        "name": "VIMO",
+        "address": "0xa43E4a98050BB912f04e2410ECc21076ee60cC1a",
+        "decimals": 6,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "PROTO",
         "name": "Protofi",
         "address": "0xa23c4e69e5Eaf4500F2f9301717f12B578b948FB",
@@ -1485,14 +1485,15 @@
         ]
     },
     {
-        "symbol": "lELK",
-        "name": "Elk Legacy",
+        "symbol": "ELK(old)",
+        "name": "Elk",
         "address": "0xE1C8f3d529BEa8E3fA1FAC5B416335a2f998EE1C",
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xE1C8f3d529BEa8E3fA1FAC5B416335a2f998EE1C/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -2246,6 +2247,18 @@
         "symbol": "rf-FTM-WBTC-l-s",
         "name": "FTM-WBTC Spirit LiquidV2 Crypt",
         "address": "0xA34276e30c4b793c4f6A5Bf77D3973B510CE63e3",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "iFUSD",
+        "name": "iFUSD",
+        "address": "0x9fC071cE771c7B27b7d9A57C32c0a84c18200F8a",
         "decimals": 18,
         "chainId": 250,
         "logoURI": null,
@@ -3414,6 +3427,18 @@
         ]
     },
     {
+        "symbol": "blobo",
+        "name": "blobo",
+        "address": "0x6B802271842db37CE207EEeC77044A4BcbAE24e5",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "sFTM",
         "name": "Staked FTM",
         "address": "0x69c744D3444202d35a2783929a0F930f2FBB05ad",
@@ -4068,6 +4093,18 @@
         "symbol": "axlWMAI",
         "name": "Axelar Wrapped WMAI",
         "address": "0x501e3d716A72E11E1e22eDcf0365556b357DA0c9",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "30USDC.e-70sFTMx",
+        "name": "Staked Fantom & Circle Symphony",
+        "address": "0x4fef3503BEE5d61485Bd19e461b6F313585E9202",
         "decimals": 18,
         "chainId": 250,
         "logoURI": null,
@@ -4754,18 +4791,6 @@
         "coingeckoId": "alium-finance",
         "listedIn": [
             "coingecko"
-        ]
-    },
-    {
-        "symbol": "MEGAMAN",
-        "name": "MEGAMAN",
-        "address": "0x382BC87ee1D4E2eC91975B1DAf720B33aFe55d7e",
-        "decimals": 18,
-        "chainId": 250,
-        "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x382bc87ee1d4e2ec91975b1daf720b33afe55d7e/2f9ca0e3a746d4f1b0714a2061b0a46d.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
         ]
     },
     {
@@ -5468,7 +5493,8 @@
         "coingeckoId": "devil-finance",
         "listedIn": [
             "coingecko",
-            "SpookySwap"
+            "SpookySwap",
+            "lifinance"
         ]
     },
     {

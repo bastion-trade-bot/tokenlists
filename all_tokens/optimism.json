@@ -4715,6 +4715,18 @@
         ]
     },
     {
+        "symbol": "USDGLOx",
+        "name": "Super Glo Dollar",
+        "address": "0x9F41d0AA24E599fd8D0c180Ee3C0F609dc41c622",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "sbtc-f",
         "name": "Curve.fi Factory Plain Pool: sBTC/wbtc",
         "address": "0x9F2fE3500B1a7E285FDc337acacE94c480e00130",
@@ -7352,14 +7364,15 @@
         ]
     },
     {
-        "symbol": "exaUSDC",
-        "name": "exactly USDC",
+        "symbol": "EXAUSDC",
+        "name": "Exactly USD Coin",
         "address": "0x6926B434CCe9b5b7966aE1BfEef6D0A7DCF3A8bb",
         "decimals": 6,
         "chainId": 10,
-        "logoURI": null,
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/50240/thumb/exaUSDC.png?1726676118",
+        "coingeckoId": "exactly-usd-coin",
         "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
