@@ -272,6 +272,18 @@
         ]
     },
     {
+        "symbol": "cUSD",
+        "name": "Celo Dollar (Wormhole)",
+        "address": "0xeF62E39e3deEa376D808150BD1192528d3428BC9",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "FMXEN",
         "name": "Xen Crypto  Fantom ",
         "address": "0xeF4B763385838FfFc708000f884026B8c0434275",
@@ -295,6 +307,18 @@
             "coingecko",
             "lifinance",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "tBTC",
+        "name": "tBTC v2",
+        "address": "0xeE27799cF29D7F64647B92f47d543B382B49f83E",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -552,6 +576,18 @@
             "SpookySwap",
             "lifinance",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "address": "0xd9E4C283d8A49Dc3767A6F5a4dFdc1d0cEf21604",
+        "decimals": 6,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -994,6 +1030,18 @@
         ]
     },
     {
+        "symbol": "WMATIC",
+        "name": "Wrapped Matic (Wormhole)",
+        "address": "0xb88A6064B1F3FF5B9AE4A82fFD52560b0dF9FBD3",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "INV",
         "name": "Inverse DAO",
         "address": "0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1",
@@ -1281,7 +1329,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/23287/thumb/mgg.png?1696522506",
         "coingeckoId": "metagaming-guild",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -1319,6 +1368,18 @@
         "listedIn": [
             "coingecko",
             "SpookySwap",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "USDC",
+        "name": "USD Coin (Wormhole)",
+        "address": "0xEfE7701cb2B80664385Be226d0300912CA92f66A",
+        "decimals": 6,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
@@ -1410,6 +1471,18 @@
         ]
     },
     {
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "address": "0xE8367853A0823515D37b1538331B4704089becb4",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "MCRT",
         "name": "MagicCraft",
         "address": "0xE705aF5f63fcaBDCDF5016aA838EAaac35D12890",
@@ -1472,14 +1545,15 @@
         ]
     },
     {
-        "symbol": "lELK",
-        "name": "Elk Legacy",
+        "symbol": "ELK(old)",
+        "name": "Elk",
         "address": "0xE1C8f3d529BEa8E3fA1FAC5B416335a2f998EE1C",
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xE1C8f3d529BEa8E3fA1FAC5B416335a2f998EE1C/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1816,6 +1890,18 @@
         ]
     },
     {
+        "symbol": "USDT",
+        "name": "Tether USD",
+        "address": "0xCD8f4e175B62BC537055839578dB7660a0628641",
+        "decimals": 6,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "GOAT",
         "name": "GOAT404",
         "address": "0xCD62f054eeE65c8D23fe2aDC8bae0443D4EC82dB",
@@ -1940,6 +2026,18 @@
         "coingeckoId": "holyheld-2",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "WGLMR",
+        "name": "Wrapped GLMR",
+        "address": "0xBF227E92D6754EB4BFE26C40cb299ff2809Da45f",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -2846,6 +2944,18 @@
         ]
     },
     {
+        "symbol": "WETH.e",
+        "name": "Wrapped Ether (Wormhole)",
+        "address": "0x86a09597fc91b116511B990D29CB46ddedC0fCb0",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "BRUSH",
         "name": "Paint Swap",
         "address": "0x85dec8c4B2680793661bCA91a8F129607571863d",
@@ -3061,6 +3171,18 @@
         "coingeckoId": null,
         "listedIn": [
             "SpookySwap"
+        ]
+    },
+    {
+        "symbol": "USDt",
+        "name": "TetherToken (Wormhole)",
+        "address": "0x7Cb2672FE85203F929525c339a1Ce1df12E9be36",
+        "decimals": 6,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -3292,6 +3414,18 @@
         "coingeckoId": "excalibur",
         "listedIn": [
             "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "USDC",
+        "name": "USD Coin (PoS) (Wormhole)",
+        "address": "0x6e0e8cf6Ad151e1260A4D398faaEDFC450A9f00a",
+        "decimals": 6,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
@@ -4001,6 +4135,18 @@
         ]
     },
     {
+        "symbol": "USDT",
+        "name": "Tether USD (Wormhole)",
+        "address": "0x53605aC7F1aA539524aB2e56A6E592dAA22aaf43",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "VEMP",
         "name": "VEMP",
         "address": "0x526f1DC408cFe7FC5330aB9f1e78474ceFF2a5dD",
@@ -4505,7 +4651,8 @@
         "coingeckoId": "stader",
         "listedIn": [
             "coingecko",
-            "SpookySwap"
+            "SpookySwap",
+            "lifinance"
         ]
     },
     {
@@ -4756,6 +4903,18 @@
         ]
     },
     {
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "address": "0x385b219f0C4fa2e84EfE5aaf9692a821C57B8248",
+        "decimals": 6,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "ALM",
         "name": "Alium Finance",
         "address": "0x38540b4613d2e57ECf190D3486Ae6f74591eb8A9",
@@ -4765,6 +4924,18 @@
         "coingeckoId": "alium-finance",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "WAVAX",
+        "name": "Wrapped AVAX (Wormhole)",
+        "address": "0x358CE030DC6116Cc296E8B9F002728e65459C146",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -5035,6 +5206,18 @@
         ]
     },
     {
+        "symbol": "WETH",
+        "name": "Wrapped Ether (Wormhole)",
+        "address": "0x2A126f043BDEBe5A0A9841c51915E562D9B07289",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "POOH",
         "name": "Pooh Token",
         "address": "0x29cfbAB01CA34864402F4c0F20837a5f05490D69",
@@ -5186,6 +5369,18 @@
         "listedIn": [
             "coingecko",
             "SpookySwap"
+        ]
+    },
+    {
+        "symbol": "USDbC",
+        "name": "USD Base Coin",
+        "address": "0x241f014DdF14a557C535957ba8E464DC68e191cC",
+        "decimals": 6,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -5559,6 +5754,18 @@
         ]
     },
     {
+        "symbol": "USDT",
+        "name": "Tether USD (Wormhole)",
+        "address": "0x14BCb86aEed6a74D3452550a25D37f1c30AA0A66",
+        "decimals": 6,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "yvUSDT",
         "name": "USDT yVault",
         "address": "0x148c05caf1Bb09B5670f00D511718f733C54bC4c",
@@ -5747,6 +5954,18 @@
         "coingeckoId": "speedy",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "USDC",
+        "name": "USD Coin (Wormhole)",
+        "address": "0x0FcbDAC44c67A43607D3E95886dB19871ADc985F",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -6041,6 +6260,18 @@
         "coingeckoId": "iron-bank",
         "listedIn": [
             "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "FXS",
+        "name": "Frax Share (Wormhole)",
+        "address": "0x004f25eB51d84BF298CEEf7E2FC133742E5436E9",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },

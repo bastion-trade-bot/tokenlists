@@ -302,6 +302,18 @@
         ]
     },
     {
+        "symbol": "UNI-V2",
+        "name": "Uniswap V2",
+        "address": "0xf3fe89650E170D4d54D8dDd41AfFDE7369cBc7d3",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "vAMMV2-EXA/WETH",
         "name": "VolatileV2 AMM - EXA/WETH",
         "address": "0xf3C45b45223Df6071a478851B9C17e0630fDf535",
@@ -3400,6 +3412,18 @@
         ]
     },
     {
+        "symbol": "PCM",
+        "name": "PCM",
+        "address": "0xD0CF4dE352aC8dccE00bD6B93EE73D3Cb272edC3",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "mooVeloV2STG-USDC",
         "name": "Moo VeloV2 STG-USDC",
         "address": "0xD09B5a0650d68Aae6B1666eE5E770a383d29A97C",
@@ -4290,18 +4314,6 @@
         "symbol": "PT-sw-uniBTC-1729123206",
         "name": "Principal Token: sw-uniBTC-1729123206",
         "address": "0xAD3deBad39C8E387F59fa025EDF16f10E7aa656f",
-        "decimals": 8,
-        "chainId": 10,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "duniBTC",
-        "name": "Silo Finance uniBTC Debt",
-        "address": "0xAD0661d8E39284963595585d0e8f00DB1c50215b",
         "decimals": 8,
         "chainId": 10,
         "logoURI": null,
@@ -5904,6 +5916,18 @@
         "decimals": 18,
         "chainId": 10,
         "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "wstETH(wormhole)",
+        "name": "Wrapped liquid staked Ether 2.0",
+        "address": "0x855CFcEEe998c8ca34F9c914F584AbF72dC88B87",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "https://static.debank.com/image/op_token/logo_url/0x1f32b1c2345538c0c6f582fcb022739c4a194ebb/7e931af8cb34b6f5671ca2eb1b847849.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -10461,7 +10485,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/38298/thumb/ZUN_200x200.png?1717194404",
         "coingeckoId": "zunami-governance-token",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {

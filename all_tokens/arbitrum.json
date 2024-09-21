@@ -2853,18 +2853,6 @@
         ]
     },
     {
-        "symbol": "SPHRI",
-        "name": "Spherium Token",
-        "address": "0xd54138789a671AcA43c6BA9122da031336bc9407",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xd54138789a671aca43c6ba9122da031336bc9407/fe3bb40b0c4594513a68c331a44e66ec.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "SUSHI",
         "name": "Sushi",
         "address": "0xd4d42F0b6DEF4CE0383636770eF773390d85c61A",
@@ -3504,8 +3492,7 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11368.png",
         "coingeckoId": null,
         "listedIn": [
-            "arbitrum_bridge",
-            "lifinance"
+            "arbitrum_bridge"
         ]
     },
     {
@@ -3598,6 +3585,18 @@
         "symbol": "SY-PENDLE-ETH_Camelot",
         "name": "SY PENDLE-ETH_Camelot",
         "address": "0xc79d8a2AA6d769138E599D4DBC30569c9870a6Ee",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "GLS",
+        "name": "Glacier",
+        "address": "0xc790296db0d0cDfda9cd9793e73d2C3873957756",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -3842,6 +3841,18 @@
         "symbol": "sUSDy",
         "name": "Synthetix USD Yield",
         "address": "0xc3198eb5102fB3335C0E911eF1DA4BC07e403Dd1",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "faARB-USDC",
+        "name": "FARM_aARB-USDC",
+        "address": "0xc2eEE8782B74289774Fe08DA85292fFD22198925",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -8974,6 +8985,18 @@
         ]
     },
     {
+        "symbol": "XPER",
+        "name": "XPER TOKEN",
+        "address": "0xD420583DD2F1E53C41C3433bE72b30202F5E51a3",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "cowUniswapArbitrumARB-ETH",
         "name": "Cow Uniswap Arbitrum ARB-ETH",
         "address": "0xD3d8d178AAeCDE5ba307c8806cB04346BB91E307",
@@ -8992,18 +9015,6 @@
         "decimals": 18,
         "chainId": 42161,
         "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x580a84c73811e1839f75d86d75d88cca0c241ff4/be77e8e47016b1e9d3f01b7edc9b8d4f.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "INTH",
-        "name": "Influence",
-        "address": "0xD30B7e1a7916DcBED996E188d11Df56C2bebac8a",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -10830,18 +10841,6 @@
         ]
     },
     {
-        "symbol": "OLE",
-        "name": "OpenLedger AI",
-        "address": "0xB4094b33252a188B1723D87A88b27C8192F6915f",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "PENDLE-WETH Camelot Neutral Wide jLP",
         "name": "PENDLE-WETH Camelot Neutral Wide Jones LP Token",
         "address": "0xB4084bDa3b1717B2C8914F0DFb7Da5Fc94A9B5c4",
@@ -11364,6 +11363,18 @@
         "coingeckoId": null,
         "listedIn": [
             "arbitrum_bridge"
+        ]
+    },
+    {
+        "symbol": "YT-sETH-wstEthSilo-26DEC2024",
+        "name": "YT sETH-wstEthSilo 26DEC2024",
+        "address": "0xAE602e0560Fd3aDE52d4E94D1cDbe63E61019693",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -12629,8 +12640,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/29748/thumb/abcram.jpg?1721629586",
         "coingeckoId": "the-ennead",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -16910,7 +16920,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/1532/thumb/Symbol-RigoblockRGB.png?1696502572",
         "coingeckoId": "rigoblock",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -19949,18 +19960,6 @@
         "coingeckoId": "dinari-arm",
         "listedIn": [
             "coingecko"
-        ]
-    },
-    {
-        "symbol": "ARBVISTA",
-        "name": "Arb Vista",
-        "address": "0x678Ecfc97256BCd85E7d2f1D19c647Da2FB133e4",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
         ]
     },
     {
@@ -24556,6 +24555,18 @@
         ]
     },
     {
+        "symbol": "GME.dw",
+        "name": "Wrapped GameStop Corp. Class A - Dinari",
+        "address": "0x43333771E8d5FD74E5491d10aeAc2BFdC23D19C8",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "HEGIC",
         "name": "Hegic",
         "address": "0x431402e8b9dE9aa016C743880e04E517074D8cEC",
@@ -26094,6 +26105,18 @@
         "symbol": "mooCurveCrvUSD-USDC.e",
         "name": "Moo Curve crvUSD-USDC.e",
         "address": "0x36295709Ebb6df19f6D78127F8D2e5580AE7336f",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "RBTC",
+        "name": "Rocky Rabbit",
+        "address": "0x361227e0021d0F209b2268fc280fc581596EE0e5",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -31627,6 +31650,18 @@
         "symbol": "spDPX",
         "name": "Silo Finance Protected DPX Deposit",
         "address": "0x0Ec53e9a9C923C29FD23B88AEAd63397B2222a01",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "yUSSD",
+        "name": "yield-bearing USSD",
+        "address": "0x0E8125Ffd845941EB5DB0B698B9C966C65623E80",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
