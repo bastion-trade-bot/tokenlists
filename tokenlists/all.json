@@ -1294,19 +1294,6 @@
             ]
         },
         {
-            "symbol": "NFD",
-            "name": "Feisty Doge NFT",
-            "address": "0xc9c2B86CD4cdbAB70cd65D22EB044574c3539F6c",
-            "decimals": 18,
-            "chainId": 42161,
-            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11368.png",
-            "coingeckoId": null,
-            "listedIn": [
-                "arbitrum_bridge",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "PLX",
             "name": "Parallax",
             "address": "0xc8CCBd97b96834b976C995a67BF46e5754e2C48E",
@@ -6024,6 +6011,19 @@
             "chainId": 42161,
             "logoURI": "https://assets.coingecko.com/coins/images/36121/thumb/sensay.jpeg?1710495398",
             "coingeckoId": "sensay",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "WSTLINK",
+            "name": "Wrapped Staked LINK",
+            "address": "0x3106E2e148525b3DB36795b04691D444c24972fB",
+            "decimals": 18,
+            "chainId": 42161,
+            "logoURI": "https://assets.coingecko.com/coins/images/35678/thumb/wstlink_logo.png?1709525182",
+            "coingeckoId": "wrapped-staked-link",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -25606,7 +25606,7 @@
             "address": "0x1C45366641014069114c78962bDc371F534Bc81c",
             "decimals": 18,
             "chainId": 56,
-            "logoURI": "https://assets.coingecko.com/coins/images/39854/thumb/binancedog.jpg?1724357980",
+            "logoURI": "https://assets.coingecko.com/coins/images/39854/thumb/GV6dGvmbQAAtX5p.png?1726991831",
             "coingeckoId": "binancedog-2",
             "listedIn": [
                 "coingecko",
@@ -26301,19 +26301,6 @@
             "chainId": 56,
             "logoURI": "https://assets.coingecko.com/coins/images/19841/thumb/DIKEY_NORMAL.png?1707406368",
             "coingeckoId": "gami-world",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "DKS",
-            "name": "DarkShield",
-            "address": "0x121235cfF4c59EEC80b14c1d38B44e7de3A18287",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://assets.coingecko.com/coins/images/21737/thumb/dks.jpg?1696521092",
-            "coingeckoId": "darkshield",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -29578,19 +29565,6 @@
             ]
         },
         {
-            "symbol": "ONI",
-            "name": "ONINO",
-            "address": "0x667c856f1A624BAeFE89fC4909C8701296C86c98",
-            "decimals": 18,
-            "chainId": 250,
-            "logoURI": "https://assets.coingecko.com/coins/images/9405/thumb/Oni_Round.png?1696509502",
-            "coingeckoId": "oni-token",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "WOO",
             "name": "WOO",
             "address": "0x6626c47c00F1D87902fc13EECfaC3ed06D5E8D8a",
@@ -29628,7 +29602,6 @@
             "listedIn": [
                 "coingecko",
                 "sushiswap",
-                "lifinance",
                 "elkfinance"
             ]
         },
@@ -41370,19 +41343,6 @@
             "listedIn": [
                 "coingecko",
                 "quickswap",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "FKRPRO",
-            "name": "FlickerPro",
-            "address": "0x433E39CE74aEF8F409182541269e417AD9B56011",
-            "decimals": 18,
-            "chainId": 137,
-            "logoURI": "https://assets.coingecko.com/coins/images/39130/thumb/logo.png?1720672148",
-            "coingeckoId": "flickerpro",
-            "listedIn": [
-                "coingecko",
                 "lifinance"
             ]
         },
@@ -56994,6 +56954,19 @@
             ]
         },
         {
+            "symbol": "STARS",
+            "name": "Mogul Productions  OLD ",
+            "address": "0xc55c2175E90A46602fD42e931f62B3Acc1A013Ca",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/14975/thumb/STARS_LOGO_PNG.png?1696514635",
+            "coingeckoId": "mogul-productions",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "MON",
             "name": "MON Protocol",
             "address": "0xc555D625828c4527d477e595fF1Dd5801B4a600e",
@@ -64613,6 +64586,19 @@
             ]
         },
         {
+            "symbol": "TRUCK",
+            "name": "Cybertruck",
+            "address": "0xAb5D6508E4726141D29c6074Ab366aFa03f4Ec8D",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/33168/thumb/TRUCK.jpg?1700908260",
+            "coingeckoId": "cybertruck",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "GF",
             "name": "GuildFi",
             "address": "0xAaEf88cEa01475125522e117BFe45cF32044E238",
@@ -69257,19 +69243,6 @@
             "chainId": 1,
             "logoURI": "https://assets.coingecko.com/coins/images/30621/thumb/LogoLilai_CoinGecko.png?1696529495",
             "coingeckoId": "lilai",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "MEMAGX",
-            "name": "Meta Masters Guild Games",
-            "address": "0x857dE36f92330E1B9a21e8745c692F2CE13866cb",
-            "decimals": 18,
-            "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/36899/thumb/1000039355.jpg?1712677645",
-            "coingeckoId": "meta-masters-guild-games",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -79707,19 +79680,6 @@
             ]
         },
         {
-            "symbol": "COIN",
-            "name": "BrianArmstrongTrumpYellenGTA6",
-            "address": "0x3E70F6806171873D17d4Bfc984a6f9d20f5A9018",
-            "decimals": 18,
-            "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/33839/thumb/0x3e70f6806171873d17d4bfc984a6f9d20f5a9018.png?1703108075",
-            "coingeckoId": "brianarmstrongtrumpyellen",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "XMT",
             "name": "MetalSwap",
             "address": "0x3E5D9D8a63CC8a88748f229999CF59487e90721e",
@@ -85176,19 +85136,6 @@
             ]
         },
         {
-            "symbol": "CAT",
-            "name": "Maxwell the spinning cat",
-            "address": "0x122303734c898e9d233afFc234271f04E42E77aD",
-            "decimals": 18,
-            "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/35859/thumb/maxwell-cg.png?1709896910",
-            "coingeckoId": "maxwell-the-spinning-cat",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "RVST",
             "name": "Revest Finance",
             "address": "0x120a3879da835A5aF037bB2d1456beBd6B54d4bA",
@@ -86083,19 +86030,6 @@
             "chainId": 1,
             "logoURI": "https://assets.coingecko.com/coins/images/26430/thumb/Project_Page_Icon.png?1696525504",
             "coingeckoId": "wombat",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "KABO",
-            "name": "KaboChan",
-            "address": "0x0C5cB676E38D6973837b9496F6524835208145a2",
-            "decimals": 18,
-            "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/34631/thumb/KaboChan.png?1705548332",
-            "coingeckoId": "kabochan",
             "listedIn": [
                 "coingecko",
                 "lifinance"
