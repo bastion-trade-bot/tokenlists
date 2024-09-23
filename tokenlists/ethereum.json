@@ -835,7 +835,8 @@
         "coingeckoId": "daohaus",
         "listedIn": [
             "coingecko",
-            "optimism"
+            "optimism",
+            "lifinance"
         ]
     },
     {
@@ -2261,7 +2262,7 @@
     },
     {
         "symbol": "USDS",
-        "name": "Sky Dollar",
+        "name": "USDS",
         "address": "0xdC035D45d973E3EC169d2276DDab16f1e407384F",
         "decimals": 18,
         "chainId": 1,
@@ -3195,6 +3196,19 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/33237/thumb/VCX_Token_200x200.png?1701147660",
         "coingeckoId": "vaultcraft",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "ATHENA",
+        "name": "Project Athena",
+        "address": "0xcDf6b7657B8f26C396293417D713b7fc6b8304d9",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/50301/thumb/darkathena.png?1727021650",
+        "coingeckoId": "project-athena",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -4515,6 +4529,19 @@
         ]
     },
     {
+        "symbol": "MBTC",
+        "name": "Babypie Wrapped BTC",
+        "address": "0xbDf245957992bfBC62B07e344128a1EEc7b7eE3f",
+        "decimals": 8,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/50314/thumb/mbtc_%281%29.png?1727079604",
+        "coingeckoId": "babypie-wrapped-btc",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "Sunder",
         "name": "Sunder Goverance Token",
         "address": "0xbDbf245c690d54b67C6e610A28486A2C6dE08bE6",
@@ -4950,6 +4977,19 @@
         "listedIn": [
             "coingecko",
             "uniswap",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "NIZA",
+        "name": "Niza Global",
+        "address": "0xb58E26ac9cc14c0422C2b419b0CA555Ee4DcB7CB",
+        "decimals": 9,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/32328/thumb/NizaCoin-logo-transaprent.png?1697451581",
+        "coingeckoId": "niza-global",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -7221,14 +7261,13 @@
     },
     {
         "symbol": "MTL",
-        "name": "Metal DAO",
+        "name": "Metal",
         "address": "0xF433089366899D83a9f26A773D59ec7eCF30355e",
         "decimals": 8,
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/763/thumb/Metal.png?1592195010",
-        "coingeckoId": "metal",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "uniswap",
             "lifinance"
         ]
@@ -8695,6 +8734,19 @@
         ]
     },
     {
+        "symbol": "CBK",
+        "name": "Cobak",
+        "address": "0xD85a6Ae55a7f33B0ee113C234d2EE308EdeAF7fD",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/13459/thumb/cbk-128-128.png?1696513222",
+        "coingeckoId": "cobak-token",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "LIQ",
         "name": "Liquis",
         "address": "0xD82fd4D6D62f89A1E50b1db69AD19932314aa408",
@@ -9602,6 +9654,19 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/14249/thumb/aREN.382be386.png?1696513963",
         "coingeckoId": "aave-ren",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "TERMINUS",
+        "name": "Terminus",
+        "address": "0xCBdE0453d4E7D748077c1b0Ac2216C011DD2f406",
+        "decimals": 9,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/50307/thumb/terminus.jpg?1727057343",
+        "coingeckoId": "terminus-2",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -10851,6 +10916,19 @@
             "coingecko",
             "optimism",
             "arbitrum_bridge",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "BORZOI",
+        "name": "Borzoi Coin",
+        "address": "0xB6dc73987848bA6CB3ce297562723C1A78f85Fce",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/34430/thumb/photo_2024-01-08_05-57-57.jpg?1704868051",
+        "coingeckoId": "borzoi-coin",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -14062,19 +14140,6 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/11797/thumb/WHALE.png?1696511673",
         "coingeckoId": "whale",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "STFX",
-        "name": "STFX",
-        "address": "0x9343e24716659A3551eB10Aff9472A2dcAD5Db2d",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/28631/thumb/stfx.png?1696527615",
-        "coingeckoId": "stfx",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -25543,6 +25608,19 @@
         ]
     },
     {
+        "symbol": "BISC",
+        "name": "Bidao Smart Chain",
+        "address": "0x4295c8556AFEE00264C0789dde2ddd2dba71AcFe",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/29825/thumb/bisc200.png?1696528753",
+        "coingeckoId": "bidao-smart-chain",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "RAEL",
         "name": "RealAliensEnjoyingLiquidity",
         "address": "0x428487AD75dc9197CCcB496629Ab516974329DC1",
@@ -34192,6 +34270,19 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/30546/thumb/infra-token-square.png?1696529418",
         "coingeckoId": "bware-infra",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "SKT",
+        "name": "Sukhavati Network",
+        "address": "0x012E0e6342308b247F36Ee500ECb14dc77a7a8C1",
+        "decimals": 8,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/17674/thumb/logo2.png?1696517204",
+        "coingeckoId": "sukhavati-network",
         "listedIn": [
             "coingecko",
             "lifinance"
