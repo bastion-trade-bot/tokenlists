@@ -1054,6 +1054,18 @@
         ]
     },
     {
+        "symbol": "USDC(wormhole)",
+        "name": "USD Coin (Wormhole)",
+        "address": "0xb8398DA4FB3BC4306B9D9d9d13d9573e7d0E299f",
+        "decimals": 6,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "TAROT",
         "name": "Tarot",
         "address": "0xb7C2ddB1EBAc1056231ef22c1b0A13988537a274",
@@ -1255,18 +1267,6 @@
         "coingeckoId": "boo-mirrorworld",
         "listedIn": [
             "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "VMO",
-        "name": "VIMO",
-        "address": "0xa43E4a98050BB912f04e2410ECc21076ee60cC1a",
-        "decimals": 6,
-        "chainId": 250,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
             "lifinance"
         ]
     },
@@ -1556,15 +1556,14 @@
         ]
     },
     {
-        "symbol": "ELK(old)",
-        "name": "Elk",
+        "symbol": "lELK",
+        "name": "Elk Legacy",
         "address": "0xE1C8f3d529BEa8E3fA1FAC5B416335a2f998EE1C",
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xE1C8f3d529BEa8E3fA1FAC5B416335a2f998EE1C/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
             "elkfinance"
         ]
     },
