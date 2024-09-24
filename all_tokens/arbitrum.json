@@ -505,18 +505,6 @@
         ]
     },
     {
-        "symbol": "osETH",
-        "name": "Staked ETH",
-        "address": "0xf7d4e7273E5015C96728A6b02f31C505eE184603",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xf1c9acdc66974dfb6decb12aa385b9cd01190e38/4b9f533a91f012c8b142dd3b0755adae.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "cowCamelotUSDT-WETH",
         "name": "Cow Camelot USDT-WETH",
         "address": "0xf7ac5f7F05fB27AB4974607aa9EBcD24BBD2192a",
@@ -1198,18 +1186,6 @@
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "WETH (Maia DAO)",
-        "name": "Wrapped Ethereum",
-        "address": "0xec32aAd0e8fc6851f4bA024B33dE09607190Ce9b",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/61844453e63cf81301f845d7864236f6.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -3598,18 +3574,6 @@
         "symbol": "SY-PENDLE-ETH_Camelot",
         "name": "SY PENDLE-ETH_Camelot",
         "address": "0xc79d8a2AA6d769138E599D4DBC30569c9870a6Ee",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "GLS",
-        "name": "Glacier",
-        "address": "0xc790296db0d0cDfda9cd9793e73d2C3873957756",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -7227,6 +7191,18 @@
         ]
     },
     {
+        "symbol": "Arb",
+        "name": "Active vault(Fee 0％)",
+        "address": "0xEecE33ACa6ff362D8f708842796820C7217D3412",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "O3",
         "name": "O3 Swap",
         "address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
@@ -7356,6 +7332,18 @@
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "RPLx",
+        "name": "Super Rocket Pool Protocol",
+        "address": "0xEFa54BE8D63FD0d95eDd7965d0bd7477C33995A8",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://raw.githubusercontent.com/superfluid-finance/assets/master/public/tokens/rpl/icon.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -10627,6 +10615,7 @@
         "coingeckoId": "rocket-pool",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "xyfinance"
         ]
     },
@@ -12641,7 +12630,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/29748/thumb/abcram.jpg?1721629586",
         "coingeckoId": "the-ennead",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -21031,6 +21021,18 @@
         ]
     },
     {
+        "symbol": "BAMA",
+        "name": "Bitbama",
+        "address": "0x5d4974F8543Bc78D43Fd1044ECFdB9D85482aA21",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/36686/thumb/photo_2024-03-31_14-20-41.jpg?1712073912",
+        "coingeckoId": "bitbama",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "USDE",
         "name": "Bridged USDe",
         "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
@@ -26004,18 +26006,6 @@
         ]
     },
     {
-        "symbol": "BAMA",
-        "name": "Bitbama",
-        "address": "0x375Da692C2743E3AA18c51fDCE139d08490BfA42",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/36686/thumb/photo_2024-03-31_14-20-41.jpg?1712073912",
-        "coingeckoId": "bitbama",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "SEAN",
         "name": "Starfish Finance",
         "address": "0x37596F20adEf5CC9618c8b6Ddfa9DCB6329CB0fD",
@@ -30466,6 +30456,18 @@
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "BTORO",
+        "name": "Bitoro Network",
+        "address": "0x16a0f7956CCdF3240F59701730EE0A47933CFb27",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/50334/thumb/_BTORO_Official_Token.png?1727164896",
+        "coingeckoId": "bitoro-network",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
