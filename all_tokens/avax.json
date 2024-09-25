@@ -396,6 +396,7 @@
         "listedIn": [
             "coingecko",
             "pangolin",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1907,7 +1908,7 @@
         "symbol": "SolvBTC",
         "name": "Solv BTC",
         "address": "0xbc78D84Ba0c46dFe32cf2895a19939c86b81a777",
-        "decimals": 8,
+        "decimals": 18,
         "chainId": 43114,
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos//logo.png",
         "coingeckoId": null,
@@ -4185,9 +4186,21 @@
         "symbol": "SolvBTC.BBN",
         "name": "SolvBTC Babylon",
         "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c",
-        "decimals": 8,
+        "decimals": 18,
         "chainId": 43114,
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xcc0966d8418d412c599a6421b760a847eb169a8c/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "joe"
+        ]
+    },
+    {
+        "symbol": "bIB01",
+        "name": "Backed IB01 $ Treasury Bond 0-1yr ",
+        "address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "joe"
@@ -5806,8 +5819,7 @@
         "coingeckoId": "chikn-fert",
         "listedIn": [
             "coingecko",
-            "joe",
-            "lifinance"
+            "joe"
         ]
     },
     {
@@ -5893,8 +5905,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/22765/thumb/gm.png?1696522068",
         "coingeckoId": "ghostmarket",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -7408,18 +7419,6 @@
         "coingeckoId": "hold-2",
         "listedIn": [
             "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "WTHT",
-        "name": "Wrapped Thought",
-        "address": "0x800BdCE6CaA3fE2bfDB738383321278536e258f8",
-        "decimals": 8,
-        "chainId": 43114,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
             "lifinance"
         ]
     },
@@ -10140,6 +10139,18 @@
             "pangolin",
             "lifinance",
             "xyfinance"
+        ]
+    },
+    {
+        "symbol": "PNIC",
+        "name": "Phoenic Token",
+        "address": "0x4f3c5C53279536fFcfe8bCafb78E612E933D53c6",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://assets.coingecko.com/coins/images/37667/thumb/IMG_20240506_181047_087.jpg?1715181260",
+        "coingeckoId": "phoenic-token",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
