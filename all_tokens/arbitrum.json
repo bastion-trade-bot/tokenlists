@@ -799,13 +799,13 @@
         ]
     },
     {
-        "symbol": "SENUSD",
-        "name": "Seneca USD",
-        "address": "0xf36a65fd3b7dF848860d174115f1864e6aa2dB5E",
+        "symbol": "USDX",
+        "name": "usdx money USDX",
+        "address": "0xf3527ef8dE265eAa3716FB312c12847bFBA66Cef",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/35621/thumb/senUSD_logo_200x200.png?1709288877",
-        "coingeckoId": "seneca-usd",
+        "logoURI": "https://assets.coingecko.com/coins/images/50360/thumb/USDX_100px.png?1727322749",
+        "coingeckoId": "usdx-money-usdx",
         "listedIn": [
             "coingecko"
         ]
@@ -1777,6 +1777,18 @@
         "coingeckoId": "kyber-network-crystal",
         "listedIn": [
             "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "auraECLP-GHO-AUSDC-vault",
+        "name": "Gyroscope ECLP GHO/AUSDC Aura Deposit Vault",
+        "address": "0xe48D1173EE577c1daE45C9CD2D29BD3DfaF02BD6",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
@@ -4198,7 +4210,7 @@
         "address": "0xba0Dda8762C24dA9487f5FA026a9B64b695A07Ea",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/35365/thumb/logo.png?1708395976",
+        "logoURI": "https://assets.coingecko.com/coins/images/35365/thumb/9.png?1727331352",
         "coingeckoId": "ox-fun",
         "listedIn": [
             "coingecko",
@@ -5391,7 +5403,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/29908/thumb/icon.png?1702507913",
         "coingeckoId": "noisegpt",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -11550,6 +11563,18 @@
         ]
     },
     {
+        "symbol": "sWETH-PT-weETH-26DEC2024",
+        "name": "Silo Finance Borrowable WETH Deposit in PT-weETH-26DEC2024 Silo",
+        "address": "0xAA8bFB79491748079210BF03A4f91144197bA0CB",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "MAL",
         "name": "My Alpha Leaderboard",
         "address": "0xAA086809EFA469631DD90D8C6cB267bAb107E958",
@@ -14106,6 +14131,18 @@
         ]
     },
     {
+        "symbol": "sUSDC-PT-weETH-26DEC2024",
+        "name": "Silo Finance Borrowable USDC Deposit in PT-weETH-26DEC2024 Silo",
+        "address": "0x914C6dCC7F10C5729e5182C44276D19b030Af423",
+        "decimals": 6,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "mooBeefySushiZRO-WETH",
         "name": "Moo Beefy Sushi ZRO-WETH",
         "address": "0x913fDfDac7d7f20FD7a6aFbe8a868BD963092566",
@@ -16240,6 +16277,18 @@
         "symbol": "ZRO-WETH Uniswap Bull jLP",
         "name": "ZRO-WETH Uniswap Bull Jones LP Token",
         "address": "0x822daaDCf9412486c3fb73D5B638D092a670ADe8",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "SY-sETH-ptezETHSilo",
+        "name": "SY sETH-ptezETHSilo",
+        "address": "0x821CAC5cB29C2D9C99c63Be153316a479D550d72",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -20851,6 +20900,18 @@
         ]
     },
     {
+        "symbol": "sWETH-PT-rsETH-26DEC2024",
+        "name": "Silo Finance Borrowable WETH Deposit in PT-rsETH-26DEC2024 Silo",
+        "address": "0x603062d7cCCc530266eC01A0d3DDaF87015c156e",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "PSI",
         "name": "TridentDAO",
         "address": "0x602Eb0D99A5e3e76D1510372C4d2020e12EaEa8a",
@@ -21601,6 +21662,18 @@
         ]
     },
     {
+        "symbol": "LP-WOM",
+        "name": "Wombat Wombat Token Asset",
+        "address": "0x59d8DCA660b71Ba97a16f781A40809a0fC350769",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "aura2CLP-AUSDC-USDC-vault",
         "name": "Gyroscope 2CLP AUSDC/USDC Aura Deposit Vault",
         "address": "0x59cAF46695700827cFD232603a18BD834D7ef266",
@@ -22312,18 +22385,6 @@
         "coingeckoId": null,
         "listedIn": [
             "arbitrum_bridge"
-        ]
-    },
-    {
-        "symbol": "AGE",
-        "name": "Aggregata AI",
-        "address": "0x556f24E47b9d1a7dc1B3a6177A549719CF200b03",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
         ]
     },
     {
@@ -26352,7 +26413,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/38298/thumb/ZUN_200x200.png?1717194404",
         "coingeckoId": "zunami-governance-token",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -27209,18 +27271,6 @@
         ]
     },
     {
-        "symbol": "mooEqb-sETH_eETHSilo_26SEP24",
-        "name": "Moo Eqb sETH_eETHSilo_26SEP24",
-        "address": "0x2be03278A177465220ef3C9424Acfd04ebf609b2",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "SOL",
         "name": "Wrapped SOL",
         "address": "0x2bcC6D6CdBbDC0a4071e48bb3B969b06B3330c07",
@@ -28057,18 +28107,6 @@
         "coingeckoId": "dfx-finance",
         "listedIn": [
             "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "ALCX",
-        "name": "Alchemix",
-        "address": "0x27b58D226fe8f792730a795764945Cf146815AA7",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xdbdb4d16eda451d0503b854cf79d55697f90c8df/b156bb5f7b191ff92f2c970ae2194329.png",
-        "coingeckoId": null,
-        "listedIn": [
             "lifinance"
         ]
     },
@@ -30974,6 +31012,18 @@
         "name": "Staked PendlePenpie: Etherfi Auto-Compounder",
         "address": "0x1333de5fC9C353ba81b30ebf6680f7F01B353F88",
         "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "sUSDC-PT-rsETH-26DEC2024",
+        "name": "Silo Finance Borrowable USDC Deposit in PT-rsETH-26DEC2024 Silo",
+        "address": "0x1333aef6e089DC9B3C5744E490E06fdf045ba388",
+        "decimals": 6,
         "chainId": 42161,
         "logoURI": null,
         "coingeckoId": null,
