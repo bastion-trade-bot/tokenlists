@@ -997,18 +997,6 @@
         ]
     },
     {
-        "symbol": "suniBTC",
-        "name": "Silo Finance Borrowable uniBTC Deposit",
-        "address": "0xd693bf078f5e6dEB57e8e96FC96F36a045565614",
-        "decimals": 8,
-        "chainId": 10,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "BICO",
         "name": "Biconomy Token",
         "address": "0xd6909e9e702024eb93312B989ee46794c0fB1C9D",
@@ -4371,18 +4359,6 @@
         ]
     },
     {
-        "symbol": "duniBTC",
-        "name": "Silo Finance uniBTC Debt",
-        "address": "0xAD0661d8E39284963595585d0e8f00DB1c50215b",
-        "decimals": 8,
-        "chainId": 10,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "bpt-dolausdc",
         "name": "Sonata for Two: DOLA & USDC",
         "address": "0xACfE9b4782910A853b68abbA60f3FD8049Ffe638",
@@ -5299,8 +5275,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455",
         "coingeckoId": "universal-btc",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -8284,6 +8259,18 @@
         "name": "Silo Finance Borrowable USDC Deposit in wUSDM Silo",
         "address": "0x58eA5075bea3ABd2fAC75F93b37925a67191DA17",
         "decimals": 6,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "vAMMV2-WETH/VELO",
+        "name": "VolatileV2 AMM - WETH/VELO",
+        "address": "0x58e6433A6903886E440Ddf519eCC573c4046a6b2",
+        "decimals": 18,
         "chainId": 10,
         "logoURI": null,
         "coingeckoId": null,
