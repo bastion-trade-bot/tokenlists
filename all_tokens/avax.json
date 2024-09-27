@@ -1,5 +1,17 @@
 [
     {
+        "symbol": "LVT(old)",
+        "name": "Louverture",
+        "address": "0xff579d6259dEDcc80488c9b89d2820bCb5609160",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xff579d6259dedcc80488c9b89d2820bcb5609160/abbd99fcb6bffed12084a4c77a1cdef4.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "NEXO",
         "name": "Nexo",
         "address": "0xfe87Aba89d58da09d5bC13b4A1dC873C1b901806",
@@ -625,8 +637,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/34663/thumb/LIZARD_LOGO_Final_3_BLK_BG_%281%29.png?1705652961",
         "coingeckoId": "lizard",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -1905,14 +1916,15 @@
         ]
     },
     {
-        "symbol": "SolvBTC",
-        "name": "Solv BTC",
+        "symbol": "SOLVBTC",
+        "name": "Solv Protocol SolvBTC",
         "address": "0xbc78D84Ba0c46dFe32cf2895a19939c86b81a777",
         "decimals": 18,
         "chainId": 43114,
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos//logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "solv-btc",
         "listedIn": [
+            "coingecko",
             "joe",
             "lifinance"
         ]
@@ -8635,6 +8647,7 @@
         "coingeckoId": "hakuswap",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -14258,7 +14271,8 @@
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "joe"
+            "joe",
+            "lifinance"
         ]
     },
     {
