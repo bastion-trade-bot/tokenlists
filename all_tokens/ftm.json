@@ -603,6 +603,18 @@
         ]
     },
     {
+        "symbol": "SOL",
+        "name": "Token Wrapped SOL (Wormhole)",
+        "address": "0xd99021C2A33e4Cf243010539c9e9b7c52E0236c1",
+        "decimals": 9,
+        "chainId": 250,
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "GEIST",
         "name": "Geist.Finance Protocol Token",
         "address": "0xd8321AA83Fb0a4ECd6348D4577431310A6E0814d",
@@ -5085,7 +5097,8 @@
         "coingeckoId": "dola-usd",
         "listedIn": [
             "coingecko",
-            "SpookySwap"
+            "SpookySwap",
+            "lifinance"
         ]
     },
     {
