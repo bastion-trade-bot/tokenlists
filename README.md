@@ -40,16 +40,16 @@ or in API.
 Here are chains presented in our tokenlists with current token count. You can find out more in `/tokenlists` folder.
 Token counts are approximate and may vary as providers update their tokenlists.
 
-- Ethereum, 2595 tokens
-- Bsc, 1516 tokens
-- Polygon, 728 tokens
+- Ethereum, 2591 tokens
+- Bsc, 1512 tokens
+- Polygon, 727 tokens
 - Arbitrum, 514 tokens
 - 101, 507 tokens
-- Avax, 352 tokens
+- Avax, 351 tokens
 - Ftm, 204 tokens
 - Optimism, 203 tokens
 - Gnosis, 173 tokens
-- Celo, 60 tokens
+- Celo, 59 tokens
 - Cronos, 54 tokens
 - Heco, 39 tokens
 - Harmony, 37 tokens
