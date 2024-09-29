@@ -3501,9 +3501,10 @@
         "address": "0xD0CF4dE352aC8dccE00bD6B93EE73D3Cb272edC3",
         "decimals": 18,
         "chainId": 10,
-        "logoURI": null,
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/50402/thumb/pcmlabs_32.png?1727591862",
+        "coingeckoId": "pcm",
         "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -5335,7 +5336,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455",
         "coingeckoId": "universal-btc",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -10300,6 +10302,18 @@
         "symbol": "bpt-stadue",
         "name": "Staked Duet",
         "address": "0x2a5139cd86C041aa3467e649F5Ee0880A5de2f2F",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "bpt-yieldconcerto",
+        "name": "Yield Concerto by FRAX",
+        "address": "0x2FEb76966459d7841fa8A7Ed0aa4bf574d6111Bf",
         "decimals": 18,
         "chainId": 10,
         "logoURI": null,

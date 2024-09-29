@@ -6896,19 +6896,6 @@
             ]
         },
         {
-            "symbol": "BOOP",
-            "name": "Boop",
-            "address": "0x13A7DeDb7169a17bE92B0E3C7C2315B46f4772B3",
-            "decimals": 18,
-            "chainId": 42161,
-            "logoURI": "https://assets.coingecko.com/coins/images/33874/thumb/Boop_resized.png?1703144302",
-            "coingeckoId": "boop-2",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "TAROT",
             "name": "Tarot",
             "address": "0x13278cD824D33A7aDB9f0a9A84ACA7C0D2DEEBf7",
@@ -10881,19 +10868,6 @@
             "listedIn": [
                 "coingecko",
                 "lifinance"
-            ]
-        },
-        {
-            "symbol": "WMX",
-            "name": "Wombex",
-            "address": "0xa75d9ca2a0a1D547409D82e1B06618EC284A2CeD",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://tokens.pancakeswap.finance/images/0xa75d9ca2a0a1D547409D82e1B06618EC284A2CeD.png",
-            "coingeckoId": "wombex",
-            "listedIn": [
-                "coingecko",
-                "pancake"
             ]
         },
         {
@@ -19028,19 +19002,6 @@
             ]
         },
         {
-            "symbol": "3TH",
-            "name": "Ethos",
-            "address": "0x6CCC8db8E3Fd5FFDd2E7B92Bd92e8e27baF704a8",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://assets.coingecko.com/coins/images/31823/thumb/cUOoVR18_400x400.jpg?1696530637",
-            "coingeckoId": "ethos-2",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "MEAN",
             "name": "Mean DAO",
             "address": "0x6C9297BE2e3Ce9C10c480A25B7157A43FD992942",
@@ -26063,6 +26024,19 @@
             ]
         },
         {
+            "symbol": "LUNC",
+            "name": "Terra Classic  Wormhole ",
+            "address": "0x156ab3346823B651294766e23e6Cf87254d68962",
+            "decimals": 6,
+            "chainId": 56,
+            "logoURI": "https://assets.coingecko.com/coins/images/22951/thumb/LUNA_wh_small.png?1696522247",
+            "coingeckoId": "luna-wormhole",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "JASMY",
             "name": "JasmyCoin",
             "address": "0x15669CF161946C09a8B207650BfBB00e3d8A2E3E",
@@ -32314,6 +32288,19 @@
             ]
         },
         {
+            "symbol": "PCM",
+            "name": "PCM",
+            "address": "0xD0CF4dE352aC8dccE00bD6B93EE73D3Cb272edC3",
+            "decimals": 18,
+            "chainId": 10,
+            "logoURI": "https://assets.coingecko.com/coins/images/50402/thumb/pcmlabs_32.png?1727591862",
+            "coingeckoId": "pcm",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "CHI",
             "name": "Chi USD",
             "address": "0xCa0E54b636DB823847B29F506BFFEE743F57729D",
@@ -32699,6 +32686,19 @@
             "chainId": 10,
             "logoURI": "https://assets.coingecko.com/coins/images/26618/thumb/icon_200.png?1696525691",
             "coingeckoId": "betswirl",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "UNIBTC",
+            "name": "Universal BTC",
+            "address": "0x93919784C523f39CACaa98Ee0a9d96c3F32b593e",
+            "decimals": 8,
+            "chainId": 10,
+            "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455",
+            "coingeckoId": "universal-btc",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -42623,7 +42623,8 @@
             "coingeckoId": "wrapped-terra",
             "listedIn": [
                 "coingecko",
-                "dfyn"
+                "dfyn",
+                "lifinance"
             ]
         },
         {
@@ -43458,6 +43459,19 @@
             "listedIn": [
                 "coingecko",
                 "lifinance"
+            ]
+        },
+        {
+            "symbol": "NOVA",
+            "name": "Nova DAO",
+            "address": "0x119fd89E56e3845B520644dCEDf4A86Cd0B66aA6",
+            "decimals": 18,
+            "chainId": 137,
+            "logoURI": "https://novadao.io/token/nova-128.png",
+            "coingeckoId": "nova-dao",
+            "listedIn": [
+                "coingecko",
+                "quickswap"
             ]
         },
         {
@@ -47038,7 +47052,6 @@
             "coingeckoId": "hakuswap",
             "listedIn": [
                 "coingecko",
-                "lifinance",
                 "elkfinance"
             ]
         },
@@ -56082,6 +56095,19 @@
             ]
         },
         {
+            "symbol": "LUNC",
+            "name": "Wrapped Terra Classic",
+            "address": "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/13628/thumb/wluna.png?1696513376",
+            "coingeckoId": "wrapped-terra",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "OMG",
             "name": "OMG Network",
             "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
@@ -57618,6 +57644,19 @@
             "chainId": 1,
             "logoURI": "https://assets.coingecko.com/coins/images/38484/thumb/USDL-Token-200px.png?1725022887",
             "coingeckoId": "lift-dollar",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "LUNC",
+            "name": "Terra Classic  Wormhole ",
+            "address": "0xbd31EA8212119f94A611FA969881CBa3EA06Fa3d",
+            "decimals": 6,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/22951/thumb/LUNA_wh_small.png?1696522247",
+            "coingeckoId": "luna-wormhole",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -69789,19 +69828,6 @@
             ]
         },
         {
-            "symbol": "NOVA",
-            "name": "Nova DAO",
-            "address": "0x82967568A57625675b260Ebab1294038C9ACcC6e",
-            "decimals": 18,
-            "chainId": 1,
-            "logoURI": "https://ethereum-optimism.github.io/data/NOVA/logo.png",
-            "coingeckoId": "nova-dao",
-            "listedIn": [
-                "coingecko",
-                "optimism"
-            ]
-        },
-        {
             "symbol": "ANKR",
             "name": "Ankr Network",
             "address": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
@@ -72055,7 +72081,7 @@
             "address": "0x724Af984b63FD53fDEdb5dEd17063001e3Afc3e5",
             "decimals": 18,
             "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/39046/thumb/BLACK_CI_%281%29_copy.png?1720103318",
+            "logoURI": "https://assets.coingecko.com/coins/images/39046/thumb/new_logo_rock_200x200.png?1727591245",
             "coingeckoId": "rock-3",
             "listedIn": [
                 "coingecko",
@@ -82282,6 +82308,19 @@
             "chainId": 1,
             "logoURI": "https://assets.coingecko.com/coins/images/39576/thumb/Constellation_Network_Logo.png?1723003801",
             "coingeckoId": "wrapped-dag",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "3AC",
+            "name": "Three Arrowz Capitel",
+            "address": "0x2De1218C31a04E1040fC5501b89e3A58793b3DDF",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/50392/thumb/3AC.jpg?1727582626",
+            "coingeckoId": "three-arrowz-capitel",
             "listedIn": [
                 "coingecko",
                 "lifinance"
