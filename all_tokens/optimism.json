@@ -1833,6 +1833,18 @@
         ]
     },
     {
+        "symbol": "mooBeefySushiWETH-WBTC",
+        "name": "Moo Beefy Sushi WETH-WBTC",
+        "address": "0xb9aa4A19A37A2b6d189c1f51037dB82fD52d8568",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "mooAuraOPrETH-ankrETH",
         "name": "Moo Aura OP rETH-ankrETH",
         "address": "0xb996DD8f4ec36A34CeDFD8687aDa991bC2397232",
@@ -3092,14 +3104,15 @@
         ]
     },
     {
-        "symbol": "pUSDC.e",
-        "name": "Prize USDC.e - Aave",
+        "symbol": "PUSDCE",
+        "name": "PoolTogether Prize USD Coin",
         "address": "0xE3B3a464ee575E8E25D2508918383b89c832f275",
         "decimals": 6,
         "chainId": 10,
-        "logoURI": "https://static.debank.com/image/op_token/logo_url/0xe3b3a464ee575e8e25d2508918383b89c832f275/99799f396286445885872529e4320289.png",
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/32455/thumb/prizeUSDCIcon_200.png?1698241065",
+        "coingeckoId": "pooltogether-prize-usdc",
         "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -7297,14 +7310,15 @@
         ]
     },
     {
-        "symbol": "aOptSUSD",
-        "name": "Aave Optimism SUSD",
+        "symbol": "ASUSD",
+        "name": "Aave v3 sUSD",
         "address": "0x6d80113e533a2C0fe82EaBD35f1875DcEA89Ea97",
         "decimals": 18,
         "chainId": 10,
-        "logoURI": "https://static.debank.com/image/op_token/logo_url/0x6d80113e533a2c0fe82eabd35f1875dcea89ea97/cbd92d5e0358bb3d11db3547e3e05c3e.png",
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/32918/thumb/asusd.png?1699825436",
+        "coingeckoId": "aave-v3-susd",
         "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -10524,18 +10538,6 @@
         ]
     },
     {
-        "symbol": "DOWN",
-        "name": "Position Down",
-        "address": "0x28A56F9F3EB812683e2A64FBB01a1560047fD2fa",
-        "decimals": 18,
-        "chainId": 10,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "mooBeefySushiWETH-OP",
         "name": "Moo Beefy Sushi WETH-OP",
         "address": "0x289b684EDaF901AE61b77BcFb0C7407424c92c30",
@@ -11015,6 +11017,18 @@
         "listedIn": [
             "coingecko",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "",
+        "name": "Nekocoin",
+        "address": "0x1F358b4d5781BB53f5b907567735d7E60a6b81d8",
+        "decimals": 6,
+        "chainId": 10,
+        "logoURI": "https://assets.coingecko.com/coins/images/50449/thumb/Token-160px.png?1727772379",
+        "coingeckoId": "nekocoin-2",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
