@@ -1826,8 +1826,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/26165/thumb/Untitled_%28200_%C3%97_200_px%29.png?1696525253",
         "coingeckoId": "chronicum",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -6386,18 +6385,6 @@
         ]
     },
     {
-        "symbol": "BioFi",
-        "name": "BioFi",
-        "address": "0x9366d30FeBA284E62900f6295BC28c9906f33172",
-        "decimals": 6,
-        "chainId": 43114,
-        "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x9366d30feba284e62900f6295bc28c9906f33172/f901c8f14c284003c1ae065e2a129e09.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "buidl",
         "name": "dfohub",
         "address": "0x933753c297aDe672D68fa3296FdafFD76Db7DFA2",
@@ -6594,6 +6581,7 @@
         "coingeckoId": "uniswap",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "xyfinance"
         ]
     },
@@ -6738,6 +6726,7 @@
         "listedIn": [
             "coingecko",
             "joe",
+            "lifinance",
             "xyfinance"
         ]
     },
@@ -6750,7 +6739,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/32917/thumb/mai.png?1699825303",
         "coingeckoId": "aave-v3-mai",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -8596,6 +8586,18 @@
         ]
     },
     {
+        "symbol": "stataAvaWAVAX",
+        "name": "Static Aave Avalanche WAVAX",
+        "address": "0x6A02C7a974F1F13A67980C80F774eC1d2eD8f98d",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "ZRO",
         "name": "LayerZero",
         "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
@@ -8658,7 +8660,8 @@
         "coingeckoId": "gogopool",
         "listedIn": [
             "coingecko",
-            "joe"
+            "joe",
+            "lifinance"
         ]
     },
     {
@@ -8695,7 +8698,44 @@
         "coingeckoId": "crypto-royale",
         "listedIn": [
             "coingecko",
-            "joe"
+            "joe",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "YRT",
+        "name": "Yield Yak: DeltaPrime USDC",
+        "address": "0x68D8108f6FB797e7eb0C8d9524ba08D98BF27Bcb",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "mooJoeWETH.e-WAVAX",
+        "name": "Moo Joe WETH.e-WAVAX",
+        "address": "0x68866acc5C940938B373F55F7009f824c7662F5B",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "avWBTC",
+        "name": "Aave Avalanche Market WBTC",
+        "address": "0x686bEF2417b6Dc32C50a3cBfbCC3bb60E1e9a15D",
+        "decimals": 8,
+        "chainId": 43114,
+        "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x686bef2417b6dc32c50a3cbfbcc3bb60e1e9a15d/006f3eb32acc39b792c876624c927c62.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -8707,7 +8747,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/28298/thumb/AUX-Coin_200.png?1696527297",
         "coingeckoId": "aux-coin",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -8775,6 +8816,18 @@
         ]
     },
     {
+        "symbol": "zUSDT",
+        "name": "zUSDT",
+        "address": "0x650CECaFE61f3f65Edd21eFacCa18Cc905EeF0B7",
+        "decimals": 6,
+        "chainId": 43114,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "NXRA",
         "name": "AllianceBlock Nexera",
         "address": "0x644192291cc835A93d6330b24EA5f5FEdD0eEF9e",
@@ -8783,7 +8836,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/29181/thumb/nxra.png?1712255778",
         "coingeckoId": "allianceblock-nexera",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -8829,6 +8883,18 @@
         ]
     },
     {
+        "symbol": "MASS",
+        "name": "Momentum",
+        "address": "0x63Dd6F87e8BD5008878E51DaF473DFB3105C7537",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "COOK",
         "name": "Cook",
         "address": "0x637afeff75ca669fF92e4570B14D6399A658902f",
@@ -8838,7 +8904,8 @@
         "coingeckoId": "cook",
         "listedIn": [
             "coingecko",
-            "pangolin"
+            "pangolin",
+            "lifinance"
         ]
     },
     {
@@ -8865,6 +8932,7 @@
         "listedIn": [
             "coingecko",
             "joe",
+            "lifinance",
             "xyfinance"
         ]
     },
@@ -8878,7 +8946,8 @@
         "coingeckoId": "beam-2",
         "listedIn": [
             "coingecko",
-            "joe"
+            "joe",
+            "lifinance"
         ]
     },
     {
@@ -8919,6 +8988,18 @@
         ]
     },
     {
+        "symbol": "celrMAI",
+        "name": "Celer-Pegged miMATIC",
+        "address": "0x61f85fF2a2f4289Be4bb9B72Fc7010B3142B5f41",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "FTR",
         "name": "Fautor",
         "address": "0x61f23250451305f6C4426E81C50aE535Edf94A02",
@@ -8940,6 +9021,7 @@
         "coingeckoId": null,
         "listedIn": [
             "pangolin",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -9002,6 +9084,18 @@
         "coingeckoId": null,
         "listedIn": [
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "USDCbs",
+        "name": "USD Coin (Wormhole)",
+        "address": "0x6145E8a910aE937913426BF32De2b26039728ACF",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://static.debank.com/image/coin/logo_url/usdc/e87790bfe0b3f2ea855dc29069b38818.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -9078,7 +9172,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/33682/thumb/ologo.jpg?1702719798",
         "coingeckoId": "ordbridge",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -9091,6 +9186,18 @@
         "coingeckoId": "omni404",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "β",
+        "name": "Multiswap",
+        "address": "0x5f1e8eD8468232Bab71EDa9F4598bDa3161F48eA",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -9163,7 +9270,8 @@
         "coingeckoId": "arrow-token",
         "listedIn": [
             "coingecko",
-            "joe"
+            "joe",
+            "lifinance"
         ]
     },
     {
@@ -9178,6 +9286,7 @@
             "coingecko",
             "RouterProtocol",
             "pangolin",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -9216,7 +9325,20 @@
         "listedIn": [
             "coingecko",
             "joe",
-            "pangolin"
+            "pangolin",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "ANGLE",
+        "name": "ANGLE_avalanche",
+        "address": "0x5EE94c25e3d5113CD055537340B9d19CFA4D9217",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://static.debank.com/image/project/logo_url/angle/306ffce483295499c5b62e264148d468.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -9240,7 +9362,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/31800/thumb/TAROT.jpg?1696530615",
         "coingeckoId": "tarot-2",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -9253,6 +9376,30 @@
         "coingeckoId": null,
         "listedIn": [
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "qiAVAX",
+        "name": "Benqi AVAX",
+        "address": "0x5C0401e81Bc07Ca70fAD469b451682c0d747Ef1c",
+        "decimals": 8,
+        "chainId": 43114,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "JLP",
+        "name": "Joe LP Token",
+        "address": "0x5B9Faf0feA95df4D4cB894Ef920704daFf656f3E",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -9303,7 +9450,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/863/thumb/0x.png?1696501996",
         "coingeckoId": "0x",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -9316,7 +9464,20 @@
         "coingeckoId": "gaj",
         "listedIn": [
             "coingecko",
-            "pangolin"
+            "pangolin",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "mooJoeAutoWAVAX-USDC",
+        "name": "Moo Joe Auto WAVAX-USDC",
+        "address": "0x595786A3848B1de66C6056C87BA91977935fBC46",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -9412,7 +9573,8 @@
         "coingeckoId": "vector-finance",
         "listedIn": [
             "coingecko",
-            "joe"
+            "joe",
+            "lifinance"
         ]
     },
     {
@@ -9460,7 +9622,8 @@
         "logoURI": "https://snowtrace.io/token/images/xjoe_32.png",
         "coingeckoId": null,
         "listedIn": [
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -9497,7 +9660,8 @@
         "coingeckoId": "bilira",
         "listedIn": [
             "coingecko",
-            "pangolin"
+            "pangolin",
+            "lifinance"
         ]
     },
     {
@@ -9534,7 +9698,8 @@
         "coingeckoId": "grape-finance",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -9547,6 +9712,18 @@
         "coingeckoId": null,
         "listedIn": [
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "stataAvaUSDT",
+        "name": "Static Aave Avalanche USDT",
+        "address": "0x5525Ee69BC1e354B356864187De486fab5AD67d7",
+        "decimals": 6,
+        "chainId": 43114,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -9586,6 +9763,18 @@
         ]
     },
     {
+        "symbol": "JLP",
+        "name": "Joe LP Token",
+        "address": "0x5472E98D22B0Fb7EC5C3e360788b8700419370b5",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "INSUR",
         "name": "InsurAce",
         "address": "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
@@ -9595,7 +9784,8 @@
         "coingeckoId": "insurace",
         "listedIn": [
             "coingecko",
-            "pangolin"
+            "pangolin",
+            "lifinance"
         ]
     },
     {
@@ -9608,6 +9798,18 @@
         "coingeckoId": "usd-coin-pos-wormhole",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "TRACTOR",
+        "name": "TRACTOR JOE",
+        "address": "0x542fA0B261503333B90fE60c78F2BeeD16b7b7fD",
+        "decimals": 9,
+        "chainId": 43114,
+        "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x542fa0b261503333b90fe60c78f2beed16b7b7fd/4678b04b561699480fc4da2022a6a933.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -9632,6 +9834,18 @@
         "coingeckoId": null,
         "listedIn": [
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "avWETH",
+        "name": "Aave Avalanche Market WETH",
+        "address": "0x53f7c5869a859F0AeC3D334ee8B4Cf01E3492f21",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x53f7c5869a859f0aec3d334ee8b4cf01e3492f21/6a3f68a6e815a1f847da20c5b769b280.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -9680,6 +9894,18 @@
         "coingeckoId": null,
         "listedIn": [
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "avUSDT",
+        "name": "Aave Avalanche Market USDT",
+        "address": "0x532E6537FEA298397212F09A61e03311686f548e",
+        "decimals": 6,
+        "chainId": 43114,
+        "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x532e6537fea298397212f09a61e03311686f548e/afcc6e8c91a0ce1270eae92a121dcf25.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -9753,7 +9979,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/32916/thumb/savax.png?1699825205",
         "coingeckoId": "aave-v3-savax",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -9765,7 +9992,20 @@
         "logoURI": "https://assets.coingecko.com/coins/images/18715/thumb/beta_finance.jpg?1696518183",
         "coingeckoId": "beta-finance",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "DLQ",
+        "name": "Deliq",
+        "address": "0x50c72103940D419FB64448F258f7EAbbA784F84B",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x50c72103940d419fb64448f258f7eabba784f84b/621df18eae0f00697e193639896accb5.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -9795,7 +10035,20 @@
         "logoURI": "https://assets.coingecko.com/coins/images/25242/thumb/metaderby.png?1696524383",
         "coingeckoId": "metaderby",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "CROWD",
+        "name": "CrowdToken Wrapper",
+        "address": "0x5032fB113dBe54037825d7059740314edE131004",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x5032fb113dbe54037825d7059740314ede131004/97aea5972113c9d6b7fec944c9a28bb0.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -9808,7 +10061,8 @@
         "coingeckoId": "hatchypocket",
         "listedIn": [
             "coingecko",
-            "joe"
+            "joe",
+            "lifinance"
         ]
     },
     {
@@ -9847,6 +10101,7 @@
         "coingeckoId": null,
         "listedIn": [
             "pangolin",
+            "lifinance",
             "xyfinance"
         ]
     },
@@ -9859,7 +10114,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/37667/thumb/IMG_20240506_181047_087.jpg?1715181260",
         "coingeckoId": "phoenic-token",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -9872,6 +10128,54 @@
         "coingeckoId": "juggernaut",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "JLP",
+        "name": "Joe LP Token",
+        "address": "0x4dC5291cdc7Ad03342994E35D0Ccc76De065A566",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "JLP",
+        "name": "Joe LP Token",
+        "address": "0x4d7450da3abc67663c6C3989B4c84F35e5D0B5fC",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "JLP",
+        "name": "Joe LP Token",
+        "address": "0x4cd20F3e2894Ed1A0F4668d953a98E689c647bfE",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "JLP",
+        "name": "Joe LP Token",
+        "address": "0x4b946c91C2B1a7d7C40FB3C130CdfBaf8389094d",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -9901,6 +10205,18 @@
         ]
     },
     {
+        "symbol": "stataAvaSAVAX",
+        "name": "Static Aave Avalanche SAVAX",
+        "address": "0x4F059cA8a2a5BF8895Ee731f2E901cCB769FB95f",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "LST",
         "name": "Lendroid Support Token",
         "address": "0x4E0226a638adCBB43C99131c743B9Aba15Ff3040",
@@ -9923,7 +10239,8 @@
         "listedIn": [
             "coingecko",
             "joe",
-            "pangolin"
+            "pangolin",
+            "lifinance"
         ]
     },
     {
@@ -9951,6 +10268,18 @@
         ]
     },
     {
+        "symbol": "PGL",
+        "name": "Pangolin Liquidity",
+        "address": "0x4Cd84075f9277060087aF3692bE29532637C2B4d",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "LYD",
         "name": "Lydia Finance",
         "address": "0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084",
@@ -9961,6 +10290,7 @@
         "listedIn": [
             "coingecko",
             "pangolin",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -9973,7 +10303,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/21440/thumb/new-order-icon-256px.png?1696520803",
         "coingeckoId": "new-order",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -9997,7 +10328,8 @@
         "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x4Afc7838167b77530278483c3d8c1fFe698a912E/logo_24.png",
         "coingeckoId": null,
         "listedIn": [
-            "pangolin"
+            "pangolin",
+            "lifinance"
         ]
     },
     {
@@ -10045,7 +10377,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/22496/thumb/BSGG_Token_Updated.png?1706248804",
         "coingeckoId": "betswap-gg",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -10092,6 +10425,18 @@
         ]
     },
     {
+        "symbol": "axlFRAX",
+        "name": "Axelar Wrapped FRAX",
+        "address": "0x4914886dBb8aAd7A7456D471EAab10b06d42348D",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x853d955acef822db058eb8505911ed77f175b99e/4f323e33bfffa864c577e7bd2a3257c9.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "PLAYMATES",
         "name": "PLAYMATES",
         "address": "0x490bf3ABcAb1fB5c88533d850F2a8d6D38298465",
@@ -10113,7 +10458,8 @@
         "coingeckoId": "colony-avalanche-index",
         "listedIn": [
             "coingecko",
-            "joe"
+            "joe",
+            "lifinance"
         ]
     },
     {
@@ -10126,6 +10472,7 @@
         "coingeckoId": null,
         "listedIn": [
             "pangolin",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -10188,8 +10535,21 @@
         "coingeckoId": null,
         "listedIn": [
             "pangolin",
+            "lifinance",
             "xyfinance",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "avDAI",
+        "name": "Aave Avalanche Market DAI",
+        "address": "0x47AFa96Cdc9fAb46904A55a6ad4bf6660B53c38a",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x47afa96cdc9fab46904a55a6ad4bf6660b53c38a/b7c341dbaeaf05177abbbb32556e3628.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -10205,6 +10565,30 @@
         ]
     },
     {
+        "symbol": "CRV",
+        "name": "Curve DAO Token",
+        "address": "0x47536F17F4fF30e64A96a7555826b8f9e66ec468",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x47536f17f4ff30e64a96a7555826b8f9e66ec468/42e8c4eb3a83479f172dd56c67eb7e88.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "zUSDC",
+        "name": "zUSDC",
+        "address": "0x474Bb79C3e8E65DcC6dF30F9dE68592ed48BBFDb",
+        "decimals": 6,
+        "chainId": 43114,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "RAE",
         "name": "RAE Token",
         "address": "0x4732Cc19937e4DaF4BDcA6698f2552b2E9F04813",
@@ -10214,6 +10598,18 @@
         "coingeckoId": null,
         "listedIn": [
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "WVENOM",
+        "name": "Wrapped VENOM",
+        "address": "0x46F84DC6564Cdd93922F7BFb88B03D35308D87C9",
+        "decimals": 9,
+        "chainId": 43114,
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x46f84dc6564cdd93922f7bfb88b03d35308d87c9/fc3450bd3cf8b7773f112f51c4ddcb72.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -11511,7 +11907,8 @@
         "coingeckoId": "verified-usd-foundation-usdv",
         "listedIn": [
             "coingecko",
-            "joe"
+            "joe",
+            "lifinance"
         ]
     },
     {
@@ -12847,8 +13244,7 @@
         "listedIn": [
             "coingecko",
             "joe",
-            "pangolin",
-            "lifinance"
+            "pangolin"
         ]
     },
     {
