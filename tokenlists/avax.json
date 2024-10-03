@@ -64,7 +64,8 @@
         "coingeckoId": "nft-soccer-games",
         "listedIn": [
             "coingecko",
-            "pangolin"
+            "pangolin",
+            "lifinance"
         ]
     },
     {
@@ -82,6 +83,45 @@
         ]
     },
     {
+        "symbol": "NEMO",
+        "name": "NEMO",
+        "address": "0xf538030Ba4B39E35A3576bD6698cfcc6AC34A81f",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://assets.coingecko.com/coins/images/27473/thumb/NEMO_logo.png?1696526512",
+        "coingeckoId": "nemo",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "UNI(old avax bridge)",
+        "name": "Uniswap",
+        "address": "0xf39f9671906d8630812f9d9863bBEf5D523c84Ab",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xf39f9671906d8630812f9d9863bBEf5D523c84Ab/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "AAAVE",
+        "name": "Aave v3 AAVE",
+        "address": "0xf329e36C7bF6E5E86ce2150875a84Ce77f477375",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://assets.coingecko.com/coins/images/32887/thumb/aave.png?1699773604",
+        "coingeckoId": "aave-v3-aave",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "KACY",
         "name": "Kassandra",
         "address": "0xf32398dae246C5f672B52A54e9B413dFFcAe1A44",
@@ -92,6 +132,7 @@
         "listedIn": [
             "coingecko",
             "pangolin",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -105,7 +146,8 @@
         "coingeckoId": "matic-wormhole",
         "listedIn": [
             "coingecko",
-            "joe"
+            "joe",
+            "lifinance"
         ]
     },
     {
@@ -118,6 +160,7 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -131,7 +174,8 @@
         "coingeckoId": "ydragon",
         "listedIn": [
             "coingecko",
-            "pangolin"
+            "pangolin",
+            "lifinance"
         ]
     },
     {
@@ -146,6 +190,7 @@
             "coingecko",
             "joe",
             "pangolin",
+            "lifinance",
             "xyfinance"
         ]
     },
@@ -159,6 +204,7 @@
         "coingeckoId": "elk-finance",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -173,6 +219,7 @@
         "listedIn": [
             "coingecko",
             "pangolin",
+            "lifinance",
             "xyfinance",
             "elkfinance"
         ]
@@ -966,7 +1013,47 @@
         "coingeckoId": "yield-yak-avax",
         "listedIn": [
             "coingecko",
-            "joe"
+            "joe",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "$SICKO",
+        "name": "ACID404: THE SICKOS ",
+        "address": "0xF6C95C3A750CC7f6a8C96d9b08CC132A44c7Bd72",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf6c95c3a750cc7f6a8c96d9b08cc132a44c7bd72/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "joe",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "NXUSD",
+        "name": "NXUSD",
+        "address": "0xF14f4CE569cB3679E99d5059909E23B07bd2F387",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://assets.coingecko.com/coins/images/25101/thumb/nxusd-logo.png?1696524253",
+        "coingeckoId": "nxusd",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "USDTSO",
+        "name": "Bridged Tether  Wormhole ",
+        "address": "0xF0FF231e3F1A50F83136717f287ADAB862f89431",
+        "decimals": 6,
+        "chainId": 43114,
+        "logoURI": "https://assets.coingecko.com/coins/images/22881/thumb/USDTso_wh_small.png?1696522179",
+        "coingeckoId": "tether-usd-wormhole",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -980,7 +1067,8 @@
         "listedIn": [
             "coingecko",
             "joe",
-            "pangolin"
+            "pangolin",
+            "lifinance"
         ]
     },
     {
@@ -2153,7 +2241,6 @@
         "coingeckoId": null,
         "listedIn": [
             "pangolin",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -2236,19 +2323,6 @@
         "listedIn": [
             "coingecko",
             "joe"
-        ]
-    },
-    {
-        "symbol": "WTF",
-        "name": "Waterfall Governance",
-        "address": "0x873801Ae2ff12d816Db9a7B082F5796BEC64C82C",
-        "decimals": 18,
-        "chainId": 43114,
-        "logoURI": "https://assets.coingecko.com/coins/images/19189/thumb/wtf_icon_avatar_200x200.png?1696518637",
-        "coingeckoId": "waterfall-governance-token",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
         ]
     },
     {
