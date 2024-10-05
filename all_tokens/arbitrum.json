@@ -5428,8 +5428,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/29908/thumb/icon.png?1702507913",
         "coingeckoId": "noisegpt",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -6115,7 +6114,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/37854/thumb/KakaoTalk_Image_2024-05-14-16-50-31.png?1715781999",
         "coingeckoId": "hippop",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -7115,9 +7115,33 @@
         ]
     },
     {
+        "symbol": "DXB",
+        "name": "Dubai",
+        "address": "0xF1F67e7fAf599A1a967f36bA64790dDcA6d5CD22",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "WETH-USDC Camelot Neutral Narrow jLP",
         "name": "WETH-USDC Camelot Neutral Narrow Jones LP Token",
         "address": "0xF1C9D085Ac5965e522cde4Ba192BA2B25Cc2760d",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "agETH",
+        "name": "agETHWrapper",
+        "address": "0xF1A88250532a4A66A2420a8cbB434Da82E1E2cA1",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -12623,6 +12647,18 @@
         "symbol": "PT-weETH-25APR2024",
         "name": "PT weETH 25APR2024",
         "address": "0x9bEcd6b4Fb076348A455518aea23d3799361FE95",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "PENDLE-LPT",
+        "name": "Pendle Market",
+        "address": "0x9bC62257Ffe7D0f7c52A019E6Fc0AF3102F8F44E",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -22872,6 +22908,18 @@
         ]
     },
     {
+        "symbol": "BABY",
+        "name": "BabySwap Token",
+        "address": "0x53E562b9B7E5E94b81f10e96Ee70Ad06df3D2657",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657/5b051d9f3b75aa664d8f6e79aeedccac.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "MAGIC",
         "name": "Magic",
         "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
@@ -24581,14 +24629,15 @@
         ]
     },
     {
-        "symbol": "COIN.d",
-        "name": "Coinbase Global, Inc. Class A Common Stock - Dinari",
+        "symbol": "COIND",
+        "name": "Dinari COIN",
         "address": "0x46b979440AC257151EE5a5bC9597B76386907FA1",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x46b979440ac257151ee5a5bc9597b76386907fa1/b8e5fff7edac52fb18892dd7aa4fcd32.png",
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/32983/thumb/Frame_16189.png?1700091568",
+        "coingeckoId": "dinari-coin",
         "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -29474,6 +29523,18 @@
         ]
     },
     {
+        "symbol": "SPE",
+        "name": "Sapien",
+        "address": "0x1f1E37649299DfA2A605e261a59EC1D0a75f0DbA",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "WETH-ARB Ramses Bull jLP",
         "name": "WETH-ARB Ramses Bull Jones LP Token",
         "address": "0x1ed204450BF3241156A59e6C43C102F48770D17F",
@@ -29774,6 +29835,18 @@
         ]
     },
     {
+        "symbol": "agETH",
+        "name": "Kelp Gain",
+        "address": "0x1bD0Fe8E92a157D3ef66C9FB9e38621252b407c2",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "HOME",
         "name": "OtterHome",
         "address": "0x1bD013bD089C2B6b2D30a0e0B545810a5844E761",
@@ -30008,6 +30081,18 @@
         "symbol": "vrAMM-WETH/RAM",
         "name": "Volatile rAMM - WETH/RAM",
         "address": "0x1E50482e9185D9DAC418768D14b2F2AC2b4DAF39",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "USDM",
+        "name": "USD Molten",
+        "address": "0x1E0aa9B3345727979665FcC838d76324cBA22253",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
