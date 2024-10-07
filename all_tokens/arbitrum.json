@@ -433,18 +433,6 @@
         ]
     },
     {
-        "symbol": "LGO",
-        "name": "Level Governance Token",
-        "address": "0xf8ec3c8625F9fC8034C8eA62c5Ae71dCBE073214",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xbe2b6c5e31f292009f495ddbda88e28391c9815e/551d0420515ca4579582064039fe03d9.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "mooPenpie-dUSDC_26SEP24",
         "name": "Moo Penpie dUSDC_26SEP24",
         "address": "0xf8934BDFe5424D3e8101A73dBAb30f73335106Ea",
@@ -518,15 +506,14 @@
         ]
     },
     {
-        "symbol": "SVETH",
+        "symbol": "svETH",
         "name": "Savvy ETH",
         "address": "0xf7728582002ef82908c8242CF552E969BA863Ffa",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xf7728582002ef82908c8242CF552E969BA863Ffa/logo.png",
-        "coingeckoId": "savvy-eth",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "joe"
         ]
     },
@@ -1428,6 +1415,18 @@
         "symbol": "PTrsETH25APR24_PRT",
         "name": "PTrsETH25APR24 Penpie Receipt Token",
         "address": "0xeC9224319c5d7A36A3DF68485a1F37F1BdC10635",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "RBAX",
+        "name": "Rebel Bots",
+        "address": "0xeBeDa591BD168D11f9E4a400b22FeB59b566B60a",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -5047,18 +5046,6 @@
         ]
     },
     {
-        "symbol": "LEGE",
-        "name": "AUTO LEGENDS",
-        "address": "0xb0345B46cDE4E8F724915871a4a93B4A1A8DB8a8",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "sUSDC-WOETH",
         "name": "Silo Finance Borrowable USDC Deposit in WOETH Silo",
         "address": "0xb02a83A156BaD7dEdeaDB9dD289d8E54f49Ce6c2",
@@ -5452,7 +5439,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/29908/thumb/icon.png?1702507913",
         "coingeckoId": "noisegpt",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -6139,7 +6127,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/37854/thumb/KakaoTalk_Image_2024-05-14-16-50-31.png?1715781999",
         "coingeckoId": "hippop",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -10325,6 +10314,18 @@
         ]
     },
     {
+        "symbol": "ebFOX",
+        "name": "ebFOX",
+        "address": "0xBFa48897fCF0cCf3a26165FBfB8997d3Cf3051C8",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "cvxcrvUSDC",
         "name": "crvUSD/USDC Convex Deposit",
         "address": "0xBFEE9F3E015adC754066424AEd535313dc764116",
@@ -12791,6 +12792,18 @@
         ]
     },
     {
+        "symbol": "UP",
+        "name": "Position Up",
+        "address": "0x9FbAcbA4Bb85b651f8903402AdEc295279E82512",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "MULTI",
         "name": "Multichain",
         "address": "0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3",
@@ -14936,6 +14949,18 @@
         "symbol": "sWETH-GMX",
         "name": "Silo Finance Borrowable WETH Deposit in GMX Silo",
         "address": "0x8Fa1d55eA822Cb113D8fB1c016df1AB22F218F72",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "auracbETH/rETH/wstETH-vault",
+        "name": "Balancer cbETH/rETH/wstETH CSP Aura Deposit Vault",
+        "address": "0x8FFD26d63724AEa6A4208f2704d7EbEBaA790f46",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -17212,7 +17237,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/1532/thumb/Symbol-RigoblockRGB.png?1696502572",
         "coingeckoId": "rigoblock",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -21391,18 +21417,6 @@
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "BAMA",
-        "name": "Bitbama",
-        "address": "0x5d4974F8543Bc78D43Fd1044ECFdB9D85482aA21",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/36686/thumb/photo_2024-03-31_14-20-41.jpg?1712073912",
-        "coingeckoId": "bitbama",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -26249,18 +26263,6 @@
         ]
     },
     {
-        "symbol": "Marlboro",
-        "name": "Church of Marlboro",
-        "address": "0x39111Eb183306cB0d8AB27a5bc989aF25e84f84f",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "STEERCV250",
         "name": "STEER_CAMELOT_VAULT_250",
         "address": "0x390fe48F15c6A664E6f7BBF697f4EeF249f4858D",
@@ -29534,6 +29536,18 @@
         ]
     },
     {
+        "symbol": "HEME",
+        "name": "Hemera",
+        "address": "0x20FAcDCB261fA25fa3eDB713945814c6e639C300",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "oLP",
         "name": "ostiumLP",
         "address": "0x20D419a8e12C45f88fDA7c5760bb6923Cee27F98",
@@ -32722,6 +32736,18 @@
         "symbol": "aArbDAI",
         "name": "Avalon Avalon DAI",
         "address": "0x09586F5EEF369909F321F9A313B6D51db1946119",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "T",
+        "name": "Threshold Network Token",
+        "address": "0x0945Cae3ae47cb384b2d47BC448Dc6A9dEC21F55",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
