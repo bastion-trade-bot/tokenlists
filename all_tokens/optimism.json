@@ -229,6 +229,18 @@
         ]
     },
     {
+        "symbol": "UTU",
+        "name": "UTU Coin",
+        "address": "0xf7dC37493e2e375dFDEbec75E71D555af68648Bf",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "https://assets.coingecko.com/coins/images/12831/thumb/Aa5nmbkJ_400x400.png?1696512622",
+        "coingeckoId": "utu-coin",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "UP",
         "name": "Position Up",
         "address": "0xf7b31DE79bb91657a72F25f3A31317F7b40eEe4f",
@@ -922,6 +934,18 @@
         "coingeckoId": "zunami-usd",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "mooCompoundOptimismWETH",
+        "name": "Moo Compound Optimism WETH",
+        "address": "0xdAFdaD30D21DEB0235F549C2E2D5e39486D088D0",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -2715,6 +2739,18 @@
         "symbol": "HOP-LP-USDT",
         "name": "Hop USDT LP Token",
         "address": "0xF753A50fc755c6622BBCAa0f59F0522f264F006e",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "sAMMV2-msOP/OP",
+        "name": "StableV2 AMM - msOP/OP",
+        "address": "0xF6fFB55bFb4f149B725211E7eF1CC9F3A67c5b01",
         "decimals": 18,
         "chainId": 10,
         "logoURI": null,
@@ -6469,6 +6505,18 @@
         ]
     },
     {
+        "symbol": "vAMMV2-WETH/fBOMB",
+        "name": "VolatileV2 AMM - WETH/fBOMB",
+        "address": "0x814e2d6E8f7477329BB6C196111A08464ABE11DD",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "vAMMV2-USDC/VELO",
         "name": "VolatileV2 AMM - USDC/VELO",
         "address": "0x8134A2fDC127549480865fB8E5A9E8A8a95a54c5",
@@ -7295,18 +7343,6 @@
         ]
     },
     {
-        "symbol": "UP",
-        "name": "Position Up",
-        "address": "0x701306eB62b3A48222AC2A09B94fFA6484Dd13E4",
-        "decimals": 18,
-        "chainId": 10,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "UNI",
         "name": "Uniswap",
         "address": "0x6fd9d7AD17242c41f7131d257212c54A0e816691",
@@ -7958,6 +7994,18 @@
         "symbol": "vAMM-USDC/O3",
         "name": "VolatileV1 AMM - USDC/O3",
         "address": "0x6508D6c62519342F5fFbE28443bC7A6918FB0B59",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "mooCompoundOptimismUSDC",
+        "name": "Moo Compound Optimism USDC",
+        "address": "0x64ceF7ac6e206944fBF50d9E50Fe934cEd9FdF5F",
         "decimals": 18,
         "chainId": 10,
         "logoURI": null,
@@ -8637,6 +8685,18 @@
         "name": "VolatileV2 AMM - STG/USDC",
         "address": "0x56770b94279539416855fe29Ef14b26438B5e421",
         "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "miuniBTC",
+        "name": "Mitosis uniBTC",
+        "address": "0x5616Fe2762687Cd8a9158c27F62aff84E36821Be",
+        "decimals": 8,
         "chainId": 10,
         "logoURI": null,
         "coingeckoId": null,
@@ -9814,8 +9874,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/36240/thumb/lernitas.jpg?1710920218",
         "coingeckoId": "lernitas",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -11201,6 +11260,30 @@
         ]
     },
     {
+        "symbol": "mooVeloV2pxETH-alETH",
+        "name": "Moo VeloV2 pxETH-alETH",
+        "address": "0x1a3354b0F52A40F262913078B8982441eBC6Fc28",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "mooBeefyVelotBTC-WBTC",
+        "name": "Moo Beefy Velo tBTC-WBTC",
+        "address": "0x1FCB20fc86bA1D054F8E6aF0384f5Cd128e26247",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "TAROT",
         "name": "Tarot",
         "address": "0x1F514A61bcde34F94Bc39731235690ab9da737F7",
@@ -11848,6 +11931,18 @@
         "coingeckoId": null,
         "listedIn": [
             "optimism"
+        ]
+    },
+    {
+        "symbol": "rsETH/wETH",
+        "name": "Balancer rsETH/wETH",
+        "address": "0x10D89732C7e3c5b548e766805b40bC0ECdca4499",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {

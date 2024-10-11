@@ -1583,6 +1583,18 @@
         ]
     },
     {
+        "symbol": "bIB01",
+        "name": "Backed IB01 $ Treasury Bond 0-1yr",
+        "address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xca30c93b02514f86d5c86a6e375e3a330b435fb5/d4230bfbdfe3be34bd81ca0b0dc84c1b.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "spWXDAI",
         "name": "Spark WXDAI",
         "address": "0xC9Fe2D32E96Bb364c7d29f3663ed3b27E30767bB",
@@ -3203,18 +3215,6 @@
         ]
     },
     {
-        "symbol": "AJNA",
-        "name": "AjnaToken from Mainnet",
-        "address": "0x67Ee2155601e168F7777F169Cd74f3E22BB5E0cE",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "FORTH",
         "name": "Ampleforth Governance on xDai",
         "address": "0x679922D1edCA00D2F41Ec9aEb023CcC1d58d045f",
@@ -4445,6 +4445,7 @@
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x3581cc6A09DE85e9B91Ef93F2a5eF837706b84a5/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },

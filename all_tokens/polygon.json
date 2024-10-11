@@ -1949,6 +1949,18 @@
         ]
     },
     {
+        "symbol": "mUSDT",
+        "name": "Mono interest bearing USDT",
+        "address": "0xde1A661B6b140D3A3989e56EE88f81eADdb1D2D5",
+        "decimals": 6,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "EDAT",
         "name": "EnviDa",
         "address": "0xdd9bA3B2571BEA0854beb0508CE10FeD0eCa7e3e",
@@ -2384,7 +2396,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/51/thumb/potcoin.png?1696501447",
         "coingeckoId": "potcoin",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -3377,7 +3390,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/27501/thumb/CaltNDWu_400x400.jpeg?1696526541",
         "coingeckoId": "tamadoge",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -4261,18 +4275,6 @@
         ]
     },
     {
-        "symbol": "YVS",
-        "name": "YVS.Finance (PoS)",
-        "address": "0xb565CF70613ca464D68427106af80C67a8e4b801",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xb565cf70613ca464d68427106af80c67a8e4b801/f1a86d00a2f093b5f606265227886c28.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "SLP",
         "name": "SushiSwap LP Token",
         "address": "0xb556feD3B348634a9A010374C406824Ae93F0CF8",
@@ -4858,8 +4860,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/12521/thumb/rjQjTU3c_400x400.jpg?1696512335",
         "coingeckoId": "permission-coin",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -8044,6 +8045,18 @@
         ]
     },
     {
+        "symbol": "ABC",
+        "name": "ABCToken",
+        "address": "0xCe899f5fcF55B0c1d7478910f812Cfe68C5bcf0f",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xce899f5fcf55b0c1d7478910f812cfe68c5bcf0f/8808853f9dafaf0f5d40b05d63ec979b.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "VCHF",
         "name": "VNX Swiss Franc",
         "address": "0xCdB3867935247049e87c38eA270edD305D84c9AE",
@@ -8759,6 +8772,18 @@
             "dfyn",
             "lifinance",
             "xyfinance"
+        ]
+    },
+    {
+        "symbol": "CPAY",
+        "name": "CIPHEREPAY",
+        "address": "0xBb4e25C1F0FbCB60A0d1245683241265F1F64F61",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -11597,8 +11622,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/2606/thumb/decentralized-universal-basic-income.png?1696503407",
         "coingeckoId": "decentralized-universal-basic-income",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -13797,18 +13821,6 @@
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x80ae3b3847e4e8bd27a389f7686486cac9c3f3e8/95c186fba99854ffc99982cd945f30f3.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "PAE",
-        "name": "Ripae",
-        "address": "0x8063037ea50E4a066bF1430EA1E3e609CD5cEf6B",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -16074,18 +16086,6 @@
         ]
     },
     {
-        "symbol": "SBAR",
-        "name": "Selfbar",
-        "address": "0x6C526368e1185e4Cd8A50468Eb3429c5AeB674f3",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/20599/thumb/sbar-icon.png?1696520005",
-        "coingeckoId": "selfbar",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "APW",
         "name": "Spectra",
         "address": "0x6C0AB120dBd11BA701AFF6748568311668F63FE0",
@@ -17132,8 +17132,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/17983/thumb/tech.png?1696517501",
         "coingeckoId": "cryptomeda",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -17499,8 +17498,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/34074/thumb/BitStarters_LOGO.jpg?1703906674",
         "coingeckoId": "bitstarters",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -25399,6 +25397,18 @@
         ]
     },
     {
+        "symbol": "LUI",
+        "name": "Scooter",
+        "address": "0x1C0Aaf256F581774E21d1faE64244C6676bFf04c",
+        "decimals": 8,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "DRAX",
         "name": "Drax",
         "address": "0x1Ba3510A9ceEb72E5CdBa8bcdDe9647E1f20fB4b",
@@ -28230,6 +28240,18 @@
             "coingecko",
             "lifinance",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "APE-LP",
+        "name": "ApeSwapFinance LPs",
+        "address": "0x034293F21F1cCE5908BC605CE5850dF2b1059aC0",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
