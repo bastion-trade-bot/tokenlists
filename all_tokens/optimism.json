@@ -84,18 +84,6 @@
         ]
     },
     {
-        "symbol": "BeVELO",
-        "name": "Beefy Velo",
-        "address": "0xfDeFFc7Ad816BF7867C642dF7eBC2CC5554ec265",
-        "decimals": 18,
-        "chainId": 10,
-        "logoURI": "https://static.debank.com/image/op_token/logo_url/0xfdeffc7ad816bf7867c642df7ebc2cc5554ec265/ad10421675a6980031fcf55e41206c9a.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "GRAIN",
         "name": "Granary",
         "address": "0xfD389Dc9533717239856190F42475d3f263a270d",
@@ -112,6 +100,18 @@
         "symbol": "mooBeefyUniswapwstETH-ezETH",
         "name": "Moo Beefy Uniswap wstETH-ezETH",
         "address": "0xfCb36EC9cA09522d584263A5Bee4e793146ee74f",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "amuletToken",
+        "name": "amuletToken",
+        "address": "0xfCB69E5E535e04A809dC8Af7eba59c2FED4b2868",
         "decimals": 18,
         "chainId": 10,
         "logoURI": null,
@@ -1207,6 +1207,18 @@
         "name": "Sonne SUSD",
         "address": "0xd14451E0Fa44B18f08aeB1E4a4d092B823CaCa68",
         "decimals": 8,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "drETH",
+        "name": "Silo Finance rETH Debt",
+        "address": "0xd0d476E84c8639d608Db8bbFB9669530D2A6d205",
+        "decimals": 18,
         "chainId": 10,
         "logoURI": null,
         "coingeckoId": null,
@@ -4318,18 +4330,6 @@
         ]
     },
     {
-        "symbol": "weWETH",
-        "name": "WOOFi Super Charger Wrapped Ether",
-        "address": "0xB54e1d90d845d888d39dcaCBd54a3EEc0d8853B2",
-        "decimals": 18,
-        "chainId": 10,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "RGT",
         "name": "Rari Governance Token",
         "address": "0xB548f63D4405466B36C0c0aC3318a22fDcec711a",
@@ -5045,6 +5045,18 @@
         "symbol": "mooSiloOpWETH(wstETH)",
         "name": "Moo Silo Op WETH (wstETH)",
         "address": "0x9F18a883209095CB3a5E600BBAa22be3F0f8880a",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "dWETH-tBTC",
+        "name": "Silo Finance WETH Debt in tBTC Silo",
+        "address": "0x9Ee0593613690387C86Eab6958b3943E29e289d4",
         "decimals": 18,
         "chainId": 10,
         "logoURI": null,
@@ -6060,7 +6072,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/36713/thumb/Ionic-icon-green.png?1712127547",
         "coingeckoId": "ionic-protocol",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -10851,6 +10864,18 @@
         ]
     },
     {
+        "symbol": "dUSDC-ezETH",
+        "name": "Silo Finance USDC Debt in ezETH Silo",
+        "address": "0x2610A59b1f46cF45C9360a3EdB9464610580b653",
+        "decimals": 6,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "mooSiloOpOP(OP)",
         "name": "Moo Silo Op OP (OP)",
         "address": "0x25fC7cE70Ba167ec6290834d3297205ba86539A9",
@@ -11568,18 +11593,6 @@
         ]
     },
     {
-        "symbol": "weUSDC",
-        "name": "WOOFi Super Charger USD Coin",
-        "address": "0x18aa88bb25b8f15FDbE329f789dD000bf679753E",
-        "decimals": 18,
-        "chainId": 10,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "cowUniswapOpZRO-USDT",
         "name": "Cow Uniswap Op ZRO-USDT",
         "address": "0x18A2688494cFa036C8Bc28595336639a9eb9FA53",
@@ -12040,6 +12053,18 @@
         "coingeckoId": "hundred-finance",
         "listedIn": [
             "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "iUSDCn",
+        "name": "dForce USDC Native",
+        "address": "0x0fD11B5ED5B82Ef454BEe2516D1b23d1b07b6c46",
+        "decimals": 6,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
