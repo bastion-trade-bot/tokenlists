@@ -3351,7 +3351,8 @@
         "coingeckoId": "bilira",
         "listedIn": [
             "coingecko",
-            "pangolin"
+            "pangolin",
+            "lifinance"
         ]
     },
     {
@@ -3378,7 +3379,8 @@
         "coingeckoId": "insurace",
         "listedIn": [
             "coingecko",
-            "pangolin"
+            "pangolin",
+            "lifinance"
         ]
     },
     {
@@ -3393,6 +3395,19 @@
             "coingecko",
             "pangolin",
             "xyfinance"
+        ]
+    },
+    {
+        "symbol": "ASAVAX",
+        "name": "Aave v3 sAVAX",
+        "address": "0x513c7E3a9c69cA3e22550eF58AC1C0088e918FFf",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://assets.coingecko.com/coins/images/32916/thumb/savax.png?1699825205",
+        "coingeckoId": "aave-v3-savax",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -3421,8 +3436,22 @@
             "sushiswap",
             "joe",
             "pangolin",
+            "lifinance",
             "xyfinance",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "DBY",
+        "name": "Metaderby",
+        "address": "0x5085434227aB73151fAd2DE546210Cbc8663dF96",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://assets.coingecko.com/coins/images/25242/thumb/metaderby.png?1696524383",
+        "coingeckoId": "metaderby",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -3435,7 +3464,8 @@
         "coingeckoId": "hatchypocket",
         "listedIn": [
             "coingecko",
-            "joe"
+            "joe",
+            "lifinance"
         ]
     },
     {
@@ -3448,7 +3478,8 @@
         "coingeckoId": "teddy-dollar",
         "listedIn": [
             "coingecko",
-            "pangolin"
+            "pangolin",
+            "lifinance"
         ]
     },
     {
@@ -3461,7 +3492,21 @@
         "coingeckoId": null,
         "listedIn": [
             "pangolin",
+            "lifinance",
             "xyfinance"
+        ]
+    },
+    {
+        "symbol": "PNIC",
+        "name": "Phoenic Token",
+        "address": "0x4f3c5C53279536fFcfe8bCafb78E612E933D53c6",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://assets.coingecko.com/coins/images/37667/thumb/IMG_20240506_181047_087.jpg?1715181260",
+        "coingeckoId": "phoenic-token",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -3489,7 +3534,8 @@
         "listedIn": [
             "coingecko",
             "joe",
-            "pangolin"
+            "pangolin",
+            "lifinance"
         ]
     },
     {
@@ -3503,7 +3549,34 @@
         "listedIn": [
             "coingecko",
             "pangolin",
+            "lifinance",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "NEWO",
+        "name": "New Order",
+        "address": "0x4Bfc90322dD638F81F034517359BD447f8E0235a",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://assets.coingecko.com/coins/images/21440/thumb/new-order-icon-256px.png?1696520803",
+        "coingeckoId": "new-order",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "Balln",
+        "name": "Balln Chikn",
+        "address": "0x4Afc7838167b77530278483c3d8c1fFe698a912E",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x4Afc7838167b77530278483c3d8c1fFe698a912E/logo_24.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "pangolin",
+            "lifinance"
         ]
     },
     {
@@ -3560,7 +3633,8 @@
         "coingeckoId": "colony-avalanche-index",
         "listedIn": [
             "coingecko",
-            "joe"
+            "joe",
+            "lifinance"
         ]
     },
     {
@@ -3573,6 +3647,7 @@
         "coingeckoId": null,
         "listedIn": [
             "pangolin",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -3599,6 +3674,7 @@
         "coingeckoId": null,
         "listedIn": [
             "pangolin",
+            "lifinance",
             "xyfinance",
             "elkfinance"
         ]
@@ -3613,7 +3689,8 @@
         "coingeckoId": "bloodloop",
         "listedIn": [
             "coingecko",
-            "joe"
+            "joe",
+            "lifinance"
         ]
     },
     {
@@ -4624,19 +4701,6 @@
         "chainId": 43114,
         "logoURI": "https://assets.coingecko.com/coins/images/20676/thumb/jYw3kgsY_400x400.png?1696520076",
         "coingeckoId": "space-token-bsc",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "IBEX",
-        "name": "Impermax",
-        "address": "0x089d3dAF549f99553C2182DB24bC4336A4F0C824",
-        "decimals": 18,
-        "chainId": 43114,
-        "logoURI": "https://assets.coingecko.com/coins/images/27606/thumb/IqwOmX-c_400x400.jpeg?1696526637",
-        "coingeckoId": "impermax-2",
         "listedIn": [
             "coingecko",
             "lifinance"
