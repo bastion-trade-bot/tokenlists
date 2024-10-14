@@ -100,6 +100,18 @@
         ]
     },
     {
+        "symbol": "STEERQV631",
+        "name": "STEER_QUICKSWAP_VAULT_631",
+        "address": "0xfdbe9f4abbeefB4382d4BE2D074E806fB8Bb539D",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "idleWETHYield",
         "name": "IdleWETH [Best yield]",
         "address": "0xfdA25D931258Df948ffecb66b5518299Df6527C4",
@@ -829,7 +841,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/23388/thumb/MATIC2x-FLI.png?1696522602",
         "coingeckoId": "index-coop-matic-2x-flexible-leverage-index",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -1560,18 +1573,6 @@
         "symbol": "mooSushiFXS-FRAX",
         "name": "Moo Sushi FXS-FRAX",
         "address": "0xe62a0a25a0eCE622f795d5f1Be0F374485B64bf8",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "ARRC",
-        "name": "Arrland Coin",
-        "address": "0xe5fBa6ddD3767175AE7125C334c665A2e018F785",
         "decimals": 18,
         "chainId": 137,
         "logoURI": null,
@@ -4884,8 +4885,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/12521/thumb/rjQjTU3c_400x400.jpg?1696512335",
         "coingeckoId": "permission-coin",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -5020,18 +5020,6 @@
         "decimals": 8,
         "chainId": 137,
         "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "LEAP",
-        "name": "LEAP Token",
-        "address": "0xa47150F5c615dcf4f2e47aad1862a0f2b54C3973",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xa47150f5c615dcf4f2e47aad1862a0f2b54c3973/95ea30160cd3d4892b4a39729dde31b3.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -5797,6 +5785,18 @@
         "coingeckoId": null,
         "listedIn": [
             "uniswap"
+        ]
+    },
+    {
+        "symbol": "eurs-usdc",
+        "name": "EURS (POLY-V1)",
+        "address": "0xF80b3a8977d34A443a836a380B2FCe69A1A4e819",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -11648,7 +11648,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/2606/thumb/decentralized-universal-basic-income.png?1696503407",
         "coingeckoId": "decentralized-universal-basic-income",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -11808,8 +11809,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/39474/thumb/router.jpg?1722425047",
         "coingeckoId": "router-protocol-2",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -13854,18 +13854,6 @@
         ]
     },
     {
-        "symbol": "PAE",
-        "name": "Ripae",
-        "address": "0x8063037ea50E4a066bF1430EA1E3e609CD5cEf6B",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "BAL-VISION-LP",
         "name": "BALVISLP",
         "address": "0x805cA3cCC61cc231851DEE2Da6aABFF0a7714aa7",
@@ -14585,6 +14573,18 @@
         "coingeckoId": "social-good-project",
         "listedIn": [
             "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "P",
+        "name": "Peronio",
+        "address": "0x78a486306D15E7111cca541F2f1307a1cFCaF5C4",
+        "decimals": 6,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
@@ -17812,18 +17812,6 @@
         ]
     },
     {
-        "symbol": "METADEXDAO",
-        "name": "METADEXDAO",
-        "address": "0x5bC7c13dfb6dF70733565A4db41F5057606ed550",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "aWETH-AAVE",
         "name": "aWETH-AAVE",
         "address": "0x5bA383530Db75A22E028239dbc777C7Ee8CE4752",
@@ -18599,6 +18587,18 @@
         ]
     },
     {
+        "symbol": "tryb-usdc",
+        "name": "BiLira (POLY-V1)",
+        "address": "0x55BDf7f0223e8B1D509141a8D852Dd86B3553d59",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "NSTARS",
         "name": "Nafstars Tokens",
         "address": "0x559f80C6f05322067455DeF52114109150F5F19C",
@@ -19119,6 +19119,18 @@
             "sushiswap",
             "lifinance",
             "xyfinance"
+        ]
+    },
+    {
+        "symbol": "xsgd-usdc",
+        "name": "XSGD (POLY-V1)",
+        "address": "0x509aACb7746166252eCb0d62BfBA097CC9731e20",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -20980,8 +20992,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14585/small/AcNx2x6P_400x400.jpg?1617153476",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn",
-            "lifinance"
+            "dfyn"
         ]
     },
     {
@@ -21732,8 +21743,7 @@
         "logoURI": "https://i.imgur.com/rjH0eOe.png",
         "coingeckoId": null,
         "listedIn": [
-            "quickswap",
-            "lifinance"
+            "quickswap"
         ]
     },
     {
