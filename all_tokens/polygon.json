@@ -2930,7 +2930,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/7237/thumb/Opacity.jpg?1696507532",
         "coingeckoId": "opacity",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -4122,8 +4123,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/11797/thumb/WHALE.png?1696511673",
         "coingeckoId": "whale",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -5377,7 +5377,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/35834/thumb/BloodCrystalToken_200x200.png?1709888447",
         "coingeckoId": "blood-crystal",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -11685,8 +11686,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/2606/thumb/decentralized-universal-basic-income.png?1696503407",
         "coingeckoId": "decentralized-universal-basic-income",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -17234,8 +17234,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/17983/thumb/tech.png?1696517501",
         "coingeckoId": "cryptomeda",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -17313,13 +17312,15 @@
     },
     {
         "symbol": "TRKX",
-        "name": "Trakx Token",
+        "name": "Trakx",
         "address": "0x61bf130d973D59c69d3227f1668d534d83119860",
         "decimals": 18,
         "chainId": 137,
-        "logoURI": null,
-        "coingeckoId": null,
+        "logoURI": "https://i.imgur.com/bNic6rA.jpeg",
+        "coingeckoId": "trakx",
         "listedIn": [
+            "coingecko",
+            "quickswap",
             "lifinance"
         ]
     },
@@ -19406,6 +19407,18 @@
         "coingeckoId": "opticash",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "CRMS",
+        "name": "Cryptomus",
+        "address": "0x4d47b90FB03B5c35960eBCdcCFe30b1e48e36589",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x4d47b90fb03b5c35960ebcdccfe30b1e48e36589/2aa4b719fde1919e6143f41aa3d180da.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -23466,7 +23479,8 @@
         "coingeckoId": "dogami",
         "listedIn": [
             "coingecko",
-            "quickswap"
+            "quickswap",
+            "lifinance"
         ]
     },
     {
@@ -23931,11 +23945,11 @@
     },
     {
         "symbol": "MIND",
-        "name": "Morpheus Labs",
+        "name": "Morpheus Infrastructure Node",
         "address": "0x280053C54006A624C26989CB8354Fa4cB86f14D1",
         "decimals": 18,
         "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/3164/thumb/mitx.png?1696503886",
+        "logoURI": "https://assets.coingecko.com/coins/images/3164/thumb/x-avatar.png?1729069128",
         "coingeckoId": "morpheus-labs",
         "listedIn": [
             "coingecko"
@@ -26664,8 +26678,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/23510/thumb/v3PAPERLogo-01.png?1696522719",
         "coingeckoId": "paper-fantom",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -26778,6 +26791,18 @@
         "coingeckoId": "lif3-2",
         "listedIn": [
             "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "weUSDC",
+        "name": "WOOFi Super Charger USD Coin",
+        "address": "0x1109E03516eB25eAb2150D0b274B8D4F5F3cF549",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
