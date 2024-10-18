@@ -870,19 +870,6 @@
         ]
     },
     {
-        "symbol": "VEMP",
-        "name": "VEMP",
-        "address": "0xeDF3ce4Dd6725650a8e9398e5C6398D061Fa7955",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/18074/thumb/PFP.jpeg?1723649781",
-        "coingeckoId": "vempire-ddao",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "PBTC",
         "name": "pTokens BTC  OLD ",
         "address": "0xeD28A457A5A76596ac48d87C0f577020F6Ea1c4C",
@@ -5542,19 +5529,6 @@
         ]
     },
     {
-        "symbol": "DON",
-        "name": "TheDonato Token",
-        "address": "0xCe2194Ef6CD74aC3Fc21e5E02524F990eC31e3fD",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/37460/thumb/200x200_DON_Logo.png?1714450348",
-        "coingeckoId": "thedonato-token",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "LIVETHE",
         "name": "Liquid Driver liveTHE",
         "address": "0xCdC3A010A3473c0C4b2cB03D8489D6BA387B83CD",
@@ -6676,6 +6650,19 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/25353/thumb/youwho_200.png?1696524487",
         "coingeckoId": "youwho",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "OMNIA",
+        "name": "Omnia Protocol",
+        "address": "0xB53cc8303943582949b9a23f0556b0f0C41Fec98",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/24380/thumb/OMNIA-Logomark-white-transparent-BG.png?1728959886",
+        "coingeckoId": "omnia",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -10191,7 +10178,8 @@
         "coingeckoId": "babypie-wrapped-btc",
         "listedIn": [
             "coingecko",
-            "pancake"
+            "pancake",
+            "lifinance"
         ]
     },
     {
@@ -14937,19 +14925,6 @@
         ]
     },
     {
-        "symbol": "GROKCAT",
-        "name": "Grok Cat",
-        "address": "0x4615C8E2db74517a34712C9BdEA5C418D999014B",
-        "decimals": 9,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/36797/thumb/0x4615c8e2db74517a34712c9bdea5c418d999014b_%281%29.png?1712434697",
-        "coingeckoId": "grok-cat",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "TOKO",
         "name": "Tokoin",
         "address": "0x45f7967926e95FD161E56ED66B663c9114C5226f",
@@ -16124,19 +16099,6 @@
         ]
     },
     {
-        "symbol": "APAD",
-        "name": "Anypad",
-        "address": "0x366d71ab095735b7Dae83ce2b82D5262ef655F10",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/18385/thumb/vxBgiYKj_400x400.png?1696517876",
-        "coingeckoId": "anypad",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "DFI",
         "name": "DeFiChain",
         "address": "0x361C60b7c2828fCAb80988d00D1D542c83387b50",
@@ -16631,10 +16593,11 @@
         "address": "0x304B5845b9114182ECb4495Be4C91a273b74B509",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/50352/thumb/ynBNB.png?1727280594",
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x304B5845b9114182ECb4495Be4C91a273b74B509.png",
         "coingeckoId": "yieldnest-restaked-bnb",
         "listedIn": [
             "coingecko",
+            "pancake",
             "lifinance"
         ]
     },

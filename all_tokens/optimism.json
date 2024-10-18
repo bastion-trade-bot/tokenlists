@@ -5162,6 +5162,18 @@
         ]
     },
     {
+        "symbol": "sAMMV2-USDC/WETH",
+        "name": "StableV2 AMM - USDC/WETH",
+        "address": "0x9DA396B1406b4AAe76fF703D74EC79468D5E9f59",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "BUSD",
         "name": "Binance Peg BUSD",
         "address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
@@ -9696,18 +9708,6 @@
         ]
     },
     {
-        "symbol": "UP",
-        "name": "Position Up",
-        "address": "0x4205074A0A1654730591F9ebc938A59f5df8b995",
-        "decimals": 18,
-        "chainId": 10,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "EVO",
         "name": "EVO",
         "address": "0x42006Ab57701251B580bDFc24778C43c9ff589A1",
@@ -9935,7 +9935,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/31970/thumb/OVN.png?1696959174",
         "coingeckoId": "overnight-finance",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
