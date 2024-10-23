@@ -393,14 +393,15 @@
         ]
     },
     {
-        "symbol": "stBTC",
+        "symbol": "STBTC",
         "name": "Lorenzo stBTC",
         "address": "0xf6718b2701D4a6498eF77D7c152b2137Ab28b8A3",
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://tokens.pancakeswap.finance/images/0xf6718b2701D4a6498eF77D7c152b2137Ab28b8A3.png",
-        "coingeckoId": null,
+        "coingeckoId": "lorenzo-stbtc",
         "listedIn": [
+            "coingecko",
             "pancake",
             "lifinance"
         ]
@@ -4809,6 +4810,19 @@
         ]
     },
     {
+        "symbol": "HLT",
+        "name": "Huanghuali Token",
+        "address": "0xE52a736828c782C2a4A345bBE8052aed010fc82D",
+        "decimals": 2,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/50920/thumb/1000058676.jpg?1729580912",
+        "coingeckoId": "huanghuali-token",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "SPARTA",
         "name": "SPARTAN PROTOCOL TOKEN",
         "address": "0xE4Ae305ebE1AbE663f261Bc00534067C80ad677C",
@@ -6162,8 +6176,7 @@
         "coingeckoId": "level-governance",
         "listedIn": [
             "coingecko",
-            "pancake",
-            "lifinance"
+            "pancake"
         ]
     },
     {
@@ -9515,6 +9528,19 @@
         ]
     },
     {
+        "symbol": "CAL",
+        "name": "FitBurn",
+        "address": "0x859C940F080B197659b3EfFc804fD622Df66f0a1",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/29876/thumb/Logo_%283%29.png?1696528801",
+        "coingeckoId": "calorie",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "BTTOLD",
         "name": "BitTorrent  OLD ",
         "address": "0x8595F9dA7b868b1822194fAEd312235E43007b49",
@@ -9988,19 +10014,6 @@
         ]
     },
     {
-        "symbol": "DEOD",
-        "name": "Decentrawood",
-        "address": "0x7f4B7431a4E1B9f375EF0A94224eA4Ef09B4F668",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/29308/thumb/LOGO.png?1696528259",
-        "coingeckoId": "decentrawood",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "GST",
         "name": "Gunstar Metaverse",
         "address": "0x7eDC0eC89F987ECd85617b891c44fE462a325869",
@@ -10384,19 +10397,6 @@
         ]
     },
     {
-        "symbol": "BABYNEIRO",
-        "name": "BABY NEIRO",
-        "address": "0x7B7af2F5414Fb6daeEa39e811CF288380323F889",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/50706/thumb/photo_2024-10-11_00.26.32.png?1728788051",
-        "coingeckoId": "baby-neiro",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "CHAPZ",
         "name": "Chappyz",
         "address": "0x7B56748A3Ef9970A5bAe99c58aD8bC67b26c525F",
@@ -10774,6 +10774,19 @@
         ]
     },
     {
+        "symbol": "BABYCZHAO",
+        "name": "Baby Czhao",
+        "address": "0x74D7d34DfE7B5E6A437823E7f38A6Fb87c55A879",
+        "decimals": 9,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/50960/thumb/photo_2024-10-21_09.52.47.png?1729592253",
+        "coingeckoId": "baby-czhao",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "DOGGY",
         "name": "Doggy",
         "address": "0x74926B3d118a63F6958922d3DC05eB9C6E6E00c6",
@@ -10994,19 +11007,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/2699/thumb/garlicoin.png?1696503483",
         "coingeckoId": "garlicoin",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "NAWS",
-        "name": "NAWS AI",
-        "address": "0x726a54E04f394b6e44e58a2D7CB0fEc61361D10E",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/50559/thumb/naws_token_200x200.png?1728586411",
-        "coingeckoId": "naws-ai",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -11640,19 +11640,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/21872/thumb/Katana_Inu512.png?1696521226",
         "coingeckoId": "katana-inu",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "3TH",
-        "name": "Ethos",
-        "address": "0x6CCC8db8E3Fd5FFDd2E7B92Bd92e8e27baF704a8",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/31823/thumb/cUOoVR18_400x400.jpg?1696530637",
-        "coingeckoId": "ethos-2",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -18732,19 +18719,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/15943/thumb/73Gfsv9M_400x400.jpg?1696515555",
         "coingeckoId": "itc",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "CORX",
-        "name": "CorionX",
-        "address": "0x141383CDB8158982fB3469C3e49cC82F8026d968",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/13129/thumb/x_log.png?1696512916",
-        "coingeckoId": "corionx",
         "listedIn": [
             "coingecko",
             "lifinance"

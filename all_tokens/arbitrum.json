@@ -421,18 +421,6 @@
         ]
     },
     {
-        "symbol": "LGO",
-        "name": "Level Governance Token",
-        "address": "0xf8ec3c8625F9fC8034C8eA62c5Ae71dCBE073214",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xbe2b6c5e31f292009f495ddbda88e28391c9815e/551d0420515ca4579582064039fe03d9.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "mooPenpie-dUSDC_26SEP24",
         "name": "Moo Penpie dUSDC_26SEP24",
         "address": "0xf8934BDFe5424D3e8101A73dBAb30f73335106Ea",
@@ -671,7 +659,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/20598/thumb/TheStandard-logo_variation-01.png?1696520005",
         "coingeckoId": "standard-token",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -2192,6 +2181,18 @@
         "coingeckoId": null,
         "listedIn": [
             "joe",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "SRTDX",
+        "name": "SpartaDexERC20",
+        "address": "0xdd90A3DA9688ccCa100dd4DA1786677bC459f069",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
@@ -4414,6 +4415,18 @@
         "symbol": "fARB",
         "name": "Fluid Arbitrum",
         "address": "0xbE3860FD4c3facDf8ad57Aa8c1A36D6dc4390a49",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "ZKC",
+        "name": "ZKC",
+        "address": "0xbE11ae1ae5D3db90091BC477081Cb0C45C306D66",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -9094,6 +9107,18 @@
         ]
     },
     {
+        "symbol": "CBL",
+        "name": "Credbull",
+        "address": "0xD6b3d81868770083307840F513A3491960b95cb6",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/39396/thumb/IMG_20240725_012931_836.jpg?1721978651",
+        "coingeckoId": "credbull",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "auraplsRDNT-Stable-vault",
         "name": "Balancer plsRDNT StablePool Aura Deposit Vault",
         "address": "0xD6E16a1724427032e2C9F7538f9B4Cc977B5be88",
@@ -9796,7 +9821,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/31755/thumb/b-IB01-200x200.png?1696530574",
         "coingeckoId": "backed-ib01-treasury-bond-0-1yr",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -14137,11 +14163,11 @@
     },
     {
         "symbol": "STYLE",
-        "name": "STYLE Protocol",
+        "name": "STYLE Token",
         "address": "0x9500Ba777560daf9d3AB148ea1cf1ED39Df9eBDb",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/37507/thumb/style.jpeg?1714618775",
+        "logoURI": "https://assets.coingecko.com/coins/images/37507/thumb/Token_Logo__STYLE.png?1729579902",
         "coingeckoId": "style-protocol-2",
         "listedIn": [
             "coingecko",
@@ -14617,6 +14643,18 @@
         "symbol": "cowUniswapArbFRAX-USDT",
         "name": "Cow Uniswap Arb FRAX-USDT",
         "address": "0x92058bF6685A73D96c3919a8431fC3f4E348B0af",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "Escher",
+        "name": "Ringfence",
+        "address": "0x91EB9aF49aA694422eBA343Ee85aBf984f99dA4f",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -15353,7 +15391,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/32428/thumb/token-icon.png?1698120046",
         "coingeckoId": "dinari-googl-dshares",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -16710,6 +16749,18 @@
             "coingecko",
             "sushiswap",
             "arbitrum_bridge",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "GURIX",
+        "name": "Gurix",
+        "address": "0x82bFfBd38821159714a78664842036cd81De8223",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
@@ -18202,6 +18253,18 @@
         "symbol": "cowPancakeUSDC-USDT",
         "name": "Cow Pancake USDC-USDT",
         "address": "0x784a14a4034e490efeff1638dC30Ea5bA440156F",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "DOWN",
+        "name": "Position Down",
+        "address": "0x78286727dbe61A0AacDEDc38Fd85AF762A59F85F",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -25720,18 +25783,6 @@
         ]
     },
     {
-        "symbol": "DOWN",
-        "name": "Position Down",
-        "address": "0x42B753De0C0B6182F80dbf8Bc708754C2250EfC8",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "TGT",
         "name": "THORWallet DEX",
         "address": "0x429fEd88f10285E61b12BDF00848315fbDfCC341",
@@ -26759,6 +26810,18 @@
         "name": "Lodestar Pendle",
         "address": "0x39c27DfdC9364a976926a820c8CAA8Fd035D0727",
         "decimals": 8,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "TEA-PL-WBTC-uniBTC-100",
+        "name": "PL-WBTC-uniBTC-100",
+        "address": "0x39F2B711637b305672c8AC46B970412ff3D49AD5",
+        "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
         "coingeckoId": null,
@@ -28542,6 +28605,18 @@
         ]
     },
     {
+        "symbol": "USDs",
+        "name": "The Standard USD",
+        "address": "0x2Ea0bE86990E8Dac0D09e4316Bb92086F304622d",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "fUSDC",
         "name": "FARM_USDC",
         "address": "0x2EC0160246461F0ce477887DdE2C931Ee8233de7",
@@ -30081,6 +30156,18 @@
         "symbol": "mooEqb-ezETH_26SEP24",
         "name": "Moo Eqb ezETH_26SEP24",
         "address": "0x218337d7DAe070e219c44783A64cA107dffc533e",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "GUSTAVO",
+        "name": "GUSTAVO",
+        "address": "0x217fcFeDea5829F5ec7C7e82F21919B23d6C44E9",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
