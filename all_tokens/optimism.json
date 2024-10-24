@@ -1503,8 +1503,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/31305/thumb/ViciCoin_-_small.png?1696530124",
         "coingeckoId": "vicicoin",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -9049,6 +9048,18 @@
         "symbol": "ionWETH",
         "name": "Ionic Wrapped Ether",
         "address": "0x53b1D15b24d93330b2fD359C798dE7183255e7f2",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "cowUniswapOpWETH-DAI",
+        "name": "Cow Uniswap Op WETH-DAI",
+        "address": "0x53F42Ee2feb58035e6c43B3FF796b17D9650cF4b",
         "decimals": 18,
         "chainId": 10,
         "logoURI": null,
