@@ -1503,7 +1503,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/31305/thumb/ViciCoin_-_small.png?1696530124",
         "coingeckoId": "vicicoin",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -2180,6 +2181,18 @@
         "coingeckoId": "ionic-tether-usd",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "variableDebtUSDC",
+        "name": "Granary variable debt bearing USDC",
+        "address": "0xb271973b367E50fcDE5Ee5e426944C37045Dd0bf",
+        "decimals": 6,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -5479,6 +5492,18 @@
         ]
     },
     {
+        "symbol": "dfmcrvUSD",
+        "name": "crvUSD/MONEY Curve LP",
+        "address": "0x95e0A2a90De52C0f03Ba17A0b218442f4f42A78e",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "SOL1X",
         "name": "SOL 1X",
         "address": "0x95FFfb13856D2BE739a862f9b645573e5C838bdD",
@@ -7756,6 +7781,18 @@
         "coingeckoId": null,
         "listedIn": [
             "optimism",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "vOP_Core",
+        "name": "Venus OP (Core)",
+        "address": "0x6b846E3418455804C1920fA4CC7a31A51C659A2D",
+        "decimals": 8,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
