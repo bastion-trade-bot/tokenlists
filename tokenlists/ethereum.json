@@ -183,19 +183,6 @@
         ]
     },
     {
-        "symbol": "WEFI",
-        "name": "Wefi",
-        "address": "0xfFA188493C15DfAf2C206c97D8633377847b6a52",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/30540/thumb/wefi.png?1696529412",
-        "coingeckoId": "wefi-finance",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "BABY",
         "name": "Dancing Baby",
         "address": "0xfF931a7946d2fA11CF9123EF0dc6F6C7c6cB60C4",
@@ -1281,6 +1268,19 @@
         ]
     },
     {
+        "symbol": "FNX",
+        "name": "FinNexus",
+        "address": "0xeF9Cd7882c067686691B6fF49e650b43AFBBCC6B",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xeF9Cd7882c067686691B6fF49e650b43AFBBCC6B/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "ELK",
         "name": "Elk Finance",
         "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -1578,6 +1578,19 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/13299/thumb/val-gold-256.png?1696513070",
         "coingeckoId": "sora-validator-token",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "BONES",
+        "name": "Bones",
+        "address": "0xe7c8537F92b4fEEFdc19bd6b4023dFe79400cb30",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/32232/thumb/IMG_20231008_075551_623_%281%29.jpg?1696936788",
+        "coingeckoId": "bones",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -3844,15 +3857,14 @@
         ]
     },
     {
-        "symbol": "YVE-CRVDAO",
-        "name": "veCRV DAO yVault",
+        "symbol": "yveCRV-DAO",
+        "name": "veCRV-DAO yVault",
         "address": "0xc5bDdf9843308380375a611c18B50Fb9341f502A",
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/yvecrvdao.jpg",
-        "coingeckoId": "vecrv-dao-yvault",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "sushiswap",
             "lifinance"
         ]
@@ -3893,6 +3905,7 @@
         "coingeckoId": "game-stop",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "xyfinance"
         ]
     },
@@ -7956,19 +7969,6 @@
         ]
     },
     {
-        "symbol": "QKC",
-        "name": "QuarkChain",
-        "address": "0xEA26c4aC16D4a5A106820BC8AEE85fd0b7b2b664",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/3849/thumb/quarkchain.png?1696504513",
-        "coingeckoId": "quark-chain",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "QTO",
         "name": "Qtoken",
         "address": "0xEA01906843Ea8D910658a2c485ffCe7C104AB2b6",
@@ -9176,19 +9176,6 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/33618/thumb/macke-icon.png?1702528445",
         "coingeckoId": "mackerel-2",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "UBDN",
-        "name": "UBD Network",
-        "address": "0xD624E5C89466A15812c1D45Ce1533be1F16C1702",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/33678/thumb/UBDN-2.png?1715886062",
-        "coingeckoId": "ubd-network",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -11286,6 +11273,19 @@
             "coingecko",
             "optimism",
             "arbitrum_bridge",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "BORZOI",
+        "name": "Borzoi Coin",
+        "address": "0xB6dc73987848bA6CB3ce297562723C1A78f85Fce",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/34430/thumb/photo_2024-01-08_05-57-57.jpg?1704868051",
+        "coingeckoId": "borzoi-coin",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -13542,19 +13542,6 @@
         ]
     },
     {
-        "symbol": "QSP",
-        "name": "Quantstamp",
-        "address": "0x99ea4dB9EE77ACD40B119BD1dC4E33e1C070b80d",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/1219/thumb/0_E0kZjb4dG4hUnoDD_.png?1604815917",
-        "coingeckoId": null,
-        "listedIn": [
-            "uniswap",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "MEGA",
         "name": "MEGALODON",
         "address": "0x99cFFb50aaD37D17955253F3a4070556b5127a0b",
@@ -15301,19 +15288,6 @@
         ]
     },
     {
-        "symbol": "BLOCKS",
-        "name": "BLOCKS",
-        "address": "0x8a6D4C8735371EBAF8874fBd518b56Edd66024eB",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8a6D4C8735371EBAF8874fBd518b56Edd66024eB/logo.png",
-        "coingeckoId": "blocks",
-        "listedIn": [
-            "coingecko",
-            "sushiswap"
-        ]
-    },
-    {
         "symbol": "FYDE",
         "name": "Fyde",
         "address": "0x8a462E6a0051d006E33152FBEaDFB9A14198DE30",
@@ -16539,6 +16513,19 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/30621/thumb/LogoLilai_CoinGecko.png?1696529495",
         "coingeckoId": "lilai",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "MEMAGX",
+        "name": "Meta Masters Guild Games",
+        "address": "0x857dE36f92330E1B9a21e8745c692F2CE13866cb",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/36899/thumb/1000039355.jpg?1712677645",
+        "coingeckoId": "meta-masters-guild-games",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -19430,19 +19417,6 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/36847/thumb/zeusdog.jpg?1713034053",
         "coingeckoId": "zeuspepesdog",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "UDS",
-        "name": "Undeads Games",
-        "address": "0x712bd4Beb54C6B958267d9dB0259abdBb0BFF606",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/36308/thumb/01_avatar.jpg?1711090303",
-        "coingeckoId": "undeads-games",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -24867,7 +24841,8 @@
         "coingeckoId": "selfkey",
         "listedIn": [
             "coingecko",
-            "uniswap"
+            "uniswap",
+            "lifinance"
         ]
     },
     {
@@ -28893,19 +28868,6 @@
         ]
     },
     {
-        "symbol": "GBYTE",
-        "name": "Obyte",
-        "address": "0x31F69dE127C8A0fF10819C0955490a4Ae46fcc2a",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/561/thumb/byteball.png?1696501768",
-        "coingeckoId": "byteball",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "OJEE",
         "name": "VIMworld OJEE",
         "address": "0x31C5DEc1F10Dc084B95c239734dEa0ADb9C97C9C",
@@ -30886,8 +30848,7 @@
         "coingeckoId": "genomesdao",
         "listedIn": [
             "coingecko",
-            "sushiswap",
-            "lifinance"
+            "sushiswap"
         ]
     },
     {
@@ -31782,6 +31743,19 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/29023/thumb/OUSG.png?1696527993",
         "coingeckoId": "ousg",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "INTBTC",
+        "name": "Inception Restaked tBTC",
+        "address": "0x1AEe5EC60fc79B669f11FE368fDe789E267649e2",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/50752/thumb/intBTC.png?1728959398",
+        "coingeckoId": "inception-restaked-tbtc",
         "listedIn": [
             "coingecko",
             "lifinance"

@@ -158,7 +158,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/13783/thumb/BITT_Logo_256pixels.png?1696513523",
         "coingeckoId": "bittoken",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -273,8 +274,7 @@
         "coingeckoId": "wefi-finance",
         "listedIn": [
             "coingecko",
-            "quickswap",
-            "lifinance"
+            "quickswap"
         ]
     },
     {
@@ -8131,6 +8131,18 @@
         "coingeckoId": "axelar-usdt",
         "listedIn": [
             "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "ABC",
+        "name": "ABCToken",
+        "address": "0xCe899f5fcF55B0c1d7478910f812Cfe68C5bcf0f",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xce899f5fcf55b0c1d7478910f812cfe68c5bcf0f/8808853f9dafaf0f5d40b05d63ec979b.png",
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
@@ -18449,18 +18461,6 @@
         ]
     },
     {
-        "symbol": "TXAG",
-        "name": "tSILVER",
-        "address": "0x57fCbd6503C8BE3B1AbAD191Bc7799ef414A5b31",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/27829/thumb/tSILVER_token_2D.jpg?1696526848",
-        "coingeckoId": "tsilver",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "NPM",
         "name": "Neptune Mutual",
         "address": "0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4",
@@ -21075,7 +21075,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14585/small/AcNx2x6P_400x400.jpg?1617153476",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn"
+            "dfyn",
+            "lifinance"
         ]
     },
     {
@@ -21925,18 +21926,6 @@
         "symbol": "Collect-LP",
         "name": "CoinCollect LPs",
         "address": "0x3Ad14c5fB4F8D2f09CDd1434473eD97fc8C7A62e",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "ALPHA",
-        "name": "AlphaToken (PoS)",
-        "address": "0x3AE490db48d74B1bC626400135d4616377D0109f",
         "decimals": 18,
         "chainId": 137,
         "logoURI": null,
@@ -23693,7 +23682,7 @@
         "address": "0x2Ad2934d5BFB7912304754479Dd1f096D5C807Da",
         "decimals": 18,
         "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/34256/thumb/Argocoin.png?1704343655",
+        "logoURI": "https://assets.coingecko.com/coins/images/34256/thumb/Argocoin.jpg?1729941668",
         "coingeckoId": "argocoin",
         "listedIn": [
             "coingecko",
@@ -25516,6 +25505,18 @@
         "coingeckoId": "space-token-bsc",
         "listedIn": [
             "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "fxT",
+        "name": "Threshold Network Token (FXERC20)",
+        "address": "0x1D0AB64eD0F1ee4a886462146D26EffC6dd00d0B",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
