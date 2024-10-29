@@ -63,15 +63,14 @@
         ]
     },
     {
-        "symbol": "CXETH",
+        "symbol": "cxETH",
         "name": "CelsiusX Wrapped ETH",
         "address": "0xfe4546feFe124F30788c4Cc1BB9AA6907A7987F9",
         "decimals": 18,
         "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/23682/thumb/k6iYoed.png?1696522884",
-        "coingeckoId": "celsiusx-wrapped-eth",
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xfe4546fefe124f30788c4cc1bb9aa6907a7987f9/17e9d31f5bf16ffae4572d7b3015d53a.png",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "lifinance"
         ]
     },
@@ -158,8 +157,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/13783/thumb/BITT_Logo_256pixels.png?1696513523",
         "coingeckoId": "bittoken",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -274,7 +272,8 @@
         "coingeckoId": "wefi-finance",
         "listedIn": [
             "coingecko",
-            "quickswap"
+            "quickswap",
+            "lifinance"
         ]
     },
     {
@@ -15589,6 +15588,18 @@
         ]
     },
     {
+        "symbol": "CZB",
+        "name": "Coinzeb",
+        "address": "0x701E8F44322390C9dFfa0beB327731d3DF39aE5D",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "POLI",
         "name": "Polinate",
         "address": "0x6fb54Ffe60386aC33b722be13d2549dd87BF63AF",
@@ -18332,7 +18343,8 @@
         "coingeckoId": "jarvis-reward-token",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -18753,6 +18765,18 @@
         "coingeckoId": "modern-innovation-network-token",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "TRYAN",
+        "name": "Tryan",
+        "address": "0x550F908e06d1DA4FFEe6B1FB63730F88eCc4d230",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -20275,18 +20299,6 @@
         "coingeckoId": "bundles",
         "listedIn": [
             "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "mDXN",
-        "name": "DBXen Token on Polygon",
-        "address": "0x47DD60FA40A050c0677dE19921Eb4cc512947729",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x47dd60fa40a050c0677de19921eb4cc512947729/f67be9ea65c1e30b67606de891eebea2.png",
-        "coingeckoId": null,
-        "listedIn": [
             "lifinance"
         ]
     },
@@ -21947,6 +21959,18 @@
         ]
     },
     {
+        "symbol": "ALPHA",
+        "name": "AlphaToken (PoS)",
+        "address": "0x3AE490db48d74B1bC626400135d4616377D0109f",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "ZENF",
         "name": "Zenland",
         "address": "0x3A79241a92a4F06952107308057da1991792D372",
@@ -22044,18 +22068,6 @@
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "DYST",
-        "name": "Dystopia",
-        "address": "0x39aB6574c289c3Ae4d88500eEc792AB5B947A5Eb",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/25786/thumb/dystopialogo.jpg?1696524872",
-        "coingeckoId": "dystopia",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -22253,7 +22265,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/17901/thumb/logo-round-200.png?1696517421",
         "coingeckoId": "dao-invest",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -23599,6 +23612,18 @@
         ]
     },
     {
+        "symbol": "UNI-V2",
+        "name": "Uniswap V2",
+        "address": "0x2D252D4A903a450AfA9daC54cb696F0690259a62",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "RAYS",
         "name": "RAYS",
         "address": "0x2D027E55B85429e9F205930A8afF6D8E6C8c3021",
@@ -24658,18 +24683,6 @@
         ]
     },
     {
-        "symbol": "MNI",
-        "name": "Map Node",
-        "address": "0x22F991E509102ED4C2bABd82424c46bd3D203Bd3",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/33013/thumb/logo_mapnode.png?1700124539",
-        "coingeckoId": "map-node",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "BPTx",
         "name": "Super BlackPool Token (PoS)",
         "address": "0x229c5D13452dc302499B5C113768A0db0c9D5c05",
@@ -25085,6 +25098,18 @@
         "coingeckoId": null,
         "listedIn": [
             "dfyn"
+        ]
+    },
+    {
+        "symbol": "UNI-V2",
+        "name": "Uniswap V2",
+        "address": "0x1e5CfDCE96758B3c2cB192F7dE2798A3531B27A9",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -28189,7 +28214,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831",
         "coingeckoId": "wild-goat-coin-2",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {

@@ -27,19 +27,6 @@
         ]
     },
     {
-        "symbol": "CXETH",
-        "name": "CelsiusX Wrapped ETH",
-        "address": "0xfe4546feFe124F30788c4Cc1BB9AA6907A7987F9",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/23682/thumb/k6iYoed.png?1696522884",
-        "coingeckoId": "celsiusx-wrapped-eth",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "ZEE",
         "name": "ZeroSwap",
         "address": "0xfd4959c06FbCc02250952DAEbf8e0Fb38cF9FD8C",
@@ -50,19 +37,6 @@
         "listedIn": [
             "coingecko",
             "dfyn",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "BITT",
-        "name": "BITT",
-        "address": "0xfd0cbdDec28a93bB86B9db4A62258F5EF25fEfdE",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/13783/thumb/BITT_Logo_256pixels.png?1696513523",
-        "coingeckoId": "bittoken",
-        "listedIn": [
-            "coingecko",
             "lifinance"
         ]
     },
@@ -130,7 +104,8 @@
         "coingeckoId": "wefi-finance",
         "listedIn": [
             "coingecko",
-            "quickswap"
+            "quickswap",
+            "lifinance"
         ]
     },
     {
@@ -6344,7 +6319,8 @@
         "coingeckoId": "jarvis-reward-token",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -7602,6 +7578,19 @@
             "lifinance",
             "xyfinance",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "VEST",
+        "name": "DAO Invest",
+        "address": "0x381caf412B45dAc0f62FBEeC89DE306D3eABE384",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/17901/thumb/logo-round-200.png?1696517421",
+        "coingeckoId": "dao-invest",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -9575,6 +9564,19 @@
         "chainId": 137,
         "logoURI": "https://assets.coingecko.com/coins/images/25171/thumb/JNBofoc.png?1696524316",
         "coingeckoId": "dragonmaster-token",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "WGC",
+        "name": "Wild Goat Coin",
+        "address": "0x04565fE9AA3ae571ada8e1bEBF8282C4e5247b2A",
+        "decimals": 6,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831",
+        "coingeckoId": "wild-goat-coin-2",
         "listedIn": [
             "coingecko",
             "lifinance"

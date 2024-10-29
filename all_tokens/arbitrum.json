@@ -255,7 +255,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/30540/thumb/wefi.png?1696529412",
         "coingeckoId": "wefi-finance",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -1840,6 +1841,18 @@
         ]
     },
     {
+        "symbol": "WOJACK",
+        "name": "Wojack Coin",
+        "address": "0xe4642fa13C164e57d9F46Dc88593BfBd608eDC4A",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "CRC",
         "name": "CrazyRabbit",
         "address": "0xe4177C1400A8Eee1799835DcDe2489c6f0D5d616",
@@ -2198,6 +2211,18 @@
         "symbol": "SY-ARB-GRAIL_Camelot",
         "name": "SY ARB-GRAIL_Camelot",
         "address": "0xdd4C7313Fe4C92e043B9B7dFE433e239BcD05A0D",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "LAA",
+        "name": "LOCKON Active Index Arbitrum",
+        "address": "0xdd4850E856dDb373F723F34e7fE26901a3fF3FaC",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -2767,13 +2792,14 @@
     },
     {
         "symbol": "CBPAY",
-        "name": "CBPAY",
+        "name": "CoinbarPay",
         "address": "0xd6cF874E24A9F5f43075142101A6b13735CDD424",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xd6cf874e24a9f5f43075142101a6b13735cdd424/cd9df9e360f85a3216a51092af1fd154.png",
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/38794/thumb/cbpay-icon_resized2.png?1729148991",
+        "coingeckoId": "coinbarpay",
         "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -4300,18 +4326,6 @@
         ]
     },
     {
-        "symbol": "Kuroro",
-        "name": "KURORO",
-        "address": "0xbb16995418f14741CF01C1656efFd0012E6e5239",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "CMLT-LP",
         "name": "Camelot LP",
         "address": "0xbb1554b79D49327F6f000fb8057a972BFee4Afca",
@@ -4717,6 +4731,18 @@
         "symbol": "CWETHLP",
         "name": "Connext WETH StableSwap LP",
         "address": "0xb86AF5eB59A8e871bfA573FA656123ea86F47c3a",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "weETH",
+        "name": "Wrapped eETH",
+        "address": "0xb86842EE581339f5B8aC5061b5D5F6881cEC6df9",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -6367,7 +6393,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/37854/thumb/KakaoTalk_Image_2024-05-14-16-50-31.png?1715781999",
         "coingeckoId": "hippop",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -7686,6 +7713,18 @@
         ]
     },
     {
+        "symbol": "TSTI2",
+        "name": "Test Index2",
+        "address": "0xEb76f7a0Ae91094eCf7e61D5cCEE217bfd0d1b7f",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "kUSDT",
         "name": "Karak-Tether USD",
         "address": "0xEb2E4aA269Dc5Ba5a98dA22D424947b3612205d0",
@@ -7713,6 +7752,18 @@
         "symbol": "cowUniswapArbLDO-USDC",
         "name": "Cow Uniswap Arb LDO-USDC",
         "address": "0xEa8a87E0C28A62770E300e6b692f2b8Bb52795C8",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "UP",
+        "name": "Position Up",
+        "address": "0xEa512358A61AA05C2548C9918E0AFE8A36483679",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -8435,18 +8486,6 @@
         "coingeckoId": "parifi-usdc",
         "listedIn": [
             "coingecko"
-        ]
-    },
-    {
-        "symbol": "DOWN",
-        "name": "Position Down",
-        "address": "0xE0dE6daFc2fC541FCc79f33446bbFc6196C22972",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
         ]
     },
     {
@@ -13784,6 +13823,18 @@
         ]
     },
     {
+        "symbol": "kETHFI",
+        "name": "Karak-Ether.Fi Governance Token",
+        "address": "0x98f79b07DA6358D14a0226c1C5f58273b2BdbC9c",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "Redeemable DBC",
         "name": "DBC",
         "address": "0x98b5067949e0821a52Ec2aC9A3BaaCc9b315ec21",
@@ -15231,6 +15282,18 @@
         ]
     },
     {
+        "symbol": "CRUX",
+        "name": "CRUSADE",
+        "address": "0x8f097292f2aDE291585C67c06a802A887a2041E1",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "MAGNET",
         "name": "Magnethereum",
         "address": "0x8eD4191F81F1e1D24a8a1195267D024d9358c9d7",
@@ -15535,14 +15598,13 @@
     },
     {
         "symbol": "LSETH",
-        "name": "Liquid Staked ETH",
+        "name": "LSETH",
         "address": "0x8FfD9F31980f26Fbf4ac693678Db700f1d8C51f6",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": "https://storage.googleapis.com/xy-finance-images/token-list/LSETH.webp",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
             "xyfinance"
         ]
     },
@@ -20748,18 +20810,6 @@
         ]
     },
     {
-        "symbol": "BVM",
-        "name": "BVM",
-        "address": "0x694A7eF60ACe282E2a55a9bc6AdD56730e5Ee8B6",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x694a7ef60ace282e2a55a9bc6add56730e5ee8b6/08e5b9c6d3fc0b044951566b01ab42f6.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "sWETH-LUSD",
         "name": "Silo Finance Borrowable WETH Deposit in LUSD Silo",
         "address": "0x694841D4461ae928b1cC1A28Ec18100de72bAB80",
@@ -23817,18 +23867,6 @@
         ]
     },
     {
-        "symbol": "GUNA",
-        "name": "Gunzilla Games",
-        "address": "0x5368E8e55a095628ABCb689E18979926472ce1B6",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "UNI-V2",
         "name": "Uniswap V2",
         "address": "0x5347000C8B6c1965372A55d226870ab8277448C8",
@@ -25063,6 +25101,18 @@
         "name": "Mazzuma AI",
         "address": "0x4C46D23d71d7D6f7b599E4419B4F14EEBe5D8445",
         "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "address": "0x4C14A8d716cc4a66c72FEC5EBF03c35Fb688a860",
+        "decimals": 6,
         "chainId": 42161,
         "logoURI": null,
         "coingeckoId": null,
@@ -28252,6 +28302,18 @@
         ]
     },
     {
+        "symbol": "FNXAI",
+        "name": "Finanx AI",
+        "address": "0x3088E120b220E67a2e092F5dA8cdf02ea0170F6A",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/51119/thumb/200x200.png?1730126766",
+        "coingeckoId": "finanx-ai",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "RDNT",
         "name": "Radiant Capital",
         "address": "0x3082CC23568eA640225c2467653dB90e9250AaA0",
@@ -28946,6 +29008,18 @@
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "GDX",
+        "name": "Gridex",
+        "address": "0x2F27118E3D2332aFb7d165140Cf1bB127eA6975d",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x2f27118e3d2332afb7d165140cf1bb127ea6975d/f22ce89515d91d2e348f5044fd3bec57.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -31858,6 +31932,18 @@
         "symbol": "CMLT-LP",
         "name": "Camelot LP",
         "address": "0x184fb097196a4E2Be8Dfd44b341cB7D13b41Ea7E",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "Bezant",
+        "name": "Bezant AI",
+        "address": "0x184ee8Cd6FD1DD4980E11E9526cA116Cfb68aD3A",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
