@@ -1472,14 +1472,15 @@
         ]
     },
     {
-        "symbol": "sGYD",
-        "name": "Savings GYD",
+        "symbol": "SGYD",
+        "name": "sGYD",
         "address": "0xeA50f402653c41cAdbaFD1f788341dB7B7F37816",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/51171/thumb/sGYD_Logo_Large.png?1730268578",
+        "coingeckoId": "sgyd",
         "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -5213,18 +5214,6 @@
         "coingeckoId": "a3s",
         "listedIn": [
             "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "zARBnM-USD",
-        "name": "zARB nonMTM (USDC)",
-        "address": "0xb0FC80431fEEb7cB19eFAA41cC72e09f942b15C2",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
             "lifinance"
         ]
     },
@@ -11503,7 +11492,7 @@
         "address": "0xB59c8912c83157a955f9D715E556257F432C35D7",
         "decimals": 15,
         "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/36642/thumb/TRUF_Token_Logo_Blue.png?1712034385",
+        "logoURI": "https://assets.coingecko.com/coins/images/36642/thumb/e52f62a0-96a1-11ef-b151-8e2df017c507.jpg?1730305274",
         "coingeckoId": "truflation",
         "listedIn": [
             "coingecko",
@@ -12808,6 +12797,18 @@
         ]
     },
     {
+        "symbol": "DOWN",
+        "name": "Position Down",
+        "address": "0xA14208f8F9e2C6c99EA1d6eb8A31a79a134c0c22",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "srETH",
         "name": "Silo Finance Borrowable rETH Deposit",
         "address": "0xA138B2FAb524e94aef1D6A961b9B0a3aB09D321f",
@@ -13407,18 +13408,6 @@
         ]
     },
     {
-        "symbol": "Talus",
-        "name": "Talus Network",
-        "address": "0x9b0eC40Ac3A7495ab5c083821e6923632A5628A6",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "VOLTA",
         "name": "Volta Club",
         "address": "0x9b06F3C5de42D4623D7A2Bd940EC735103c68A76",
@@ -13642,6 +13631,18 @@
         "symbol": "PT-dUSDC-26SEP2024",
         "name": "PT Dolomite USDC 26SEP2024",
         "address": "0x9D17d67dDA1256c5dF78035ce6c8795eA3136E89",
+        "decimals": 6,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "address": "0x9Cc35c014A62976106fA870F5Ef48e6A68552025",
         "decimals": 6,
         "chainId": 42161,
         "logoURI": null,
@@ -15818,6 +15819,18 @@
         ]
     },
     {
+        "symbol": "kwstETH",
+        "name": "Karak-Wrapped liquid staked Ether 2.0",
+        "address": "0x8DF4d1Ff6a58139F66ba19ABd5679AbAbe658fa5",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "pTSLA",
         "name": "Poison.Finance Tesla Potion",
         "address": "0x8DCD3393a6e48E898A60e05baeC0d568df128F89",
@@ -15861,6 +15874,18 @@
         "name": "USDT-LP",
         "address": "0x8D66Ff1845b1baCC6E87D867CA4680d05A349cA8",
         "decimals": 6,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "kezETH",
+        "name": "Karak-Renzo Restaked ETH",
+        "address": "0x8D3BE554c20AF629bc9C8152673Ba277E4328f0E",
+        "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
         "coingeckoId": null,
@@ -18157,8 +18182,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/28631/thumb/stfx.png?1696527615",
         "coingeckoId": "stfx",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -18863,6 +18887,18 @@
         "coingeckoId": "unibit",
         "listedIn": [
             "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "CanYon",
+        "name": "CanYon Network",
+        "address": "0x769a7e5ABc5d1dB1fAd3D5F95c6246c532f1a6FE",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
@@ -19614,6 +19650,18 @@
         "coingeckoId": "diment-dollar",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "kARB",
+        "name": "Karak-Arbitrum",
+        "address": "0x71B7aA618D39FdAd29FE7cF65aCE2a2899F91f5d",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -25159,18 +25207,6 @@
         ]
     },
     {
-        "symbol": "MAZZUMA",
-        "name": "Mazzuma AI",
-        "address": "0x4C46D23d71d7D6f7b599E4419B4F14EEBe5D8445",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "USDC",
         "name": "USD Coin",
         "address": "0x4C14A8d716cc4a66c72FEC5EBF03c35Fb688a860",
@@ -25330,6 +25366,18 @@
         "symbol": "osyksushiWETH-USDC",
         "name": "osyksushiWETH-USDC",
         "address": "0x49F60f02B45087ed99EcC4dE63D0337db0d0c6BF",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "DOWN",
+        "name": "Position Down",
+        "address": "0x49B5939391a6A6881D6541e4f0900505AB62828B",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -27513,18 +27561,6 @@
         "decimals": 18,
         "chainId": 42161,
         "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x3789be915951e0f0a676588c99e7357d3fdb586b/f025ce16f7059f9fb9de1828c79e5eab.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "SUN",
-        "name": "SUN",
-        "address": "0x378585830D92BA7197E2f5c8B780c1e8a547Ab44",
-        "decimals": 9,
-        "chainId": 42161,
-        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x378585830d92ba7197e2f5c8b780c1e8a547ab44/a6a2942081fbff83319d7d5a5745cf9a.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -32495,18 +32531,6 @@
         ]
     },
     {
-        "symbol": "Gradient",
-        "name": "OpenGradient",
-        "address": "0x14dF029A8ea0bBE417D5b935A68ae4BcC820F0bd",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "djUSDC",
         "name": "Dolomite Isolation: Jones USDC",
         "address": "0x14c60cB8301E879dfb9eecbEbc013353b7e33012",
@@ -32682,6 +32706,18 @@
         "name": "PT-HLP-27JUN2024 Penpie Receipt Token",
         "address": "0x1386713B5AaDcefb1FA8CBB3Fa0359617F979E13",
         "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "PT-dUSDC-26JUN2025",
+        "name": "PT Dolomite USDC 26JUN2025",
+        "address": "0x137f793505e7884CB70Ee5933c83447E85B1BD17",
+        "decimals": 6,
         "chainId": 42161,
         "logoURI": null,
         "coingeckoId": null,
@@ -33458,6 +33494,18 @@
         "symbol": "s-ARB-USDC-Sa",
         "name": "Swaap ARB-USDC Safeguard",
         "address": "0x0c0ADd0f4D8858516075ebAF8Cb1B98d1b33741a",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "PENDLE-LPT",
+        "name": "Pendle Market",
+        "address": "0x0bD6890b3Bb15f16430546147734b254d0B03059",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
