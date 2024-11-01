@@ -4918,13 +4918,14 @@
     },
     {
         "symbol": "STICK",
-        "name": "STICK",
+        "name": "Stick",
         "address": "0xB44B645b5058F7e393F3AE6Af58A4CEf67006196",
         "decimals": 18,
         "chainId": 43114,
-        "logoURI": null,
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB44B645b5058F7e393F3AE6Af58A4CEf67006196/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "joe",
             "lifinance"
         ]
     },
@@ -5016,8 +5017,7 @@
         "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C/logo_24.png",
         "coingeckoId": null,
         "listedIn": [
-            "pangolin",
-            "lifinance"
+            "pangolin"
         ]
     },
     {
@@ -6962,7 +6962,6 @@
         "coingeckoId": null,
         "listedIn": [
             "pangolin",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -7176,8 +7175,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/19189/thumb/wtf_icon_avatar_200x200.png?1696518637",
         "coingeckoId": "waterfall-governance-token",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -7463,6 +7461,18 @@
         "symbol": "JLP",
         "name": "Joe LP Token",
         "address": "0x80f034Ee55393A0669aB834CE37583b4BF32A1f7",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "XSEED",
+        "name": "MXS Games",
+        "address": "0x80E19921E0E5C2384dc31b1C885e25E3e6c344D4",
         "decimals": 18,
         "chainId": 43114,
         "logoURI": null,
@@ -8079,18 +8089,6 @@
         "coingeckoId": null,
         "listedIn": [
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "NOBEL",
-        "name": "Nobelium",
-        "address": "0x75EcfC5825DC0f1b346dB945D5c463d212CDf2a3",
-        "decimals": 18,
-        "chainId": 43114,
-        "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x75ecfc5825dc0f1b346db945d5c463d212cdf2a3/15097244fa77316e2b7c136bed569f21.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
         ]
     },
     {
