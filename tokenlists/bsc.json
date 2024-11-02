@@ -1504,6 +1504,19 @@
         ]
     },
     {
+        "symbol": "STAKELAYER",
+        "name": "StakeLayer",
+        "address": "0xdE8e272ed57488C817B9023C1b2d3e1923CCaB86",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/50635/thumb/20241009_112455_0000.png?1728546877",
+        "coingeckoId": "stakelayer",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "DLC",
         "name": "Diamond Launch",
         "address": "0xdE83180dD1166D4f8E5c2b7De14A2163b1Bb4a87",
@@ -10001,19 +10014,6 @@
         ]
     },
     {
-        "symbol": "DEOD",
-        "name": "Decentrawood",
-        "address": "0x7f4B7431a4E1B9f375EF0A94224eA4Ef09B4F668",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/29308/thumb/LOGO.png?1696528259",
-        "coingeckoId": "decentrawood",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "GST",
         "name": "Gunstar Metaverse",
         "address": "0x7eDC0eC89F987ECd85617b891c44fE462a325869",
@@ -13498,19 +13498,6 @@
         ]
     },
     {
-        "symbol": "CAPY",
-        "name": "capybara",
-        "address": "0x55Bde08Af72cd693d1284b531F3F97dc81ecC334",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/50408/thumb/y1UFAUxp_400x400.jpg?1727664151",
-        "coingeckoId": "capybara-2",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "BCPI",
         "name": "Cryptopia",
         "address": "0x557805BbE627Ad81adEcF4A94Ef028141cEbABDF",
@@ -15997,6 +15984,19 @@
         ]
     },
     {
+        "symbol": "TUA",
+        "name": "Atua AI",
+        "address": "0x36b2269FD151208a4bfc3DEA503E0a6F2485fA78",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/50532/thumb/5.png?1728298820",
+        "coingeckoId": "atua-ai",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "RWA",
         "name": "Xend Finance",
         "address": "0x36FE11B6d5c9421F68d235694Fe192B35e803903",
@@ -16777,6 +16777,19 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/31870/thumb/b-C3-M-200x200.png?1696530682",
         "coingeckoId": "backed-govies-0-6-months-euro",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "LEMX",
+        "name": "Lemon",
+        "address": "0x2Da91257961b87e69Fa13b2e20931D517dc97597",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/51243/thumb/LEMON.png?1730449225",
+        "coingeckoId": "lemon-2",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -17937,13 +17950,13 @@
         ]
     },
     {
-        "symbol": "WNEAR",
-        "name": "Wrapped Near",
+        "symbol": "NEAR",
+        "name": "Binance Peg NEAR Protocol",
         "address": "0x1Fa4a73a3F0133f0025378af00236f3aBDEE5D63",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/18280/thumb/EX4mrWMW_400x400.jpg?1696517773",
-        "coingeckoId": "wrapped-near",
+        "logoURI": "https://assets.coingecko.com/coins/images/51252/thumb/NEAR.JPG?1730470269",
+        "coingeckoId": "binance-peg-near-protocol",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -18348,19 +18361,6 @@
         ]
     },
     {
-        "symbol": "DSLA",
-        "name": "DSLA Protocol",
-        "address": "0x1861C9058577C3b48e73d91d6f25C18B17FBFFE0",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/6694/thumb/dsla_logo-squared_200x200.png?1696507035",
-        "coingeckoId": "stacktical",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "TRIAS",
         "name": "TriasLab",
         "address": "0x184cff0e719826b966025F93e05d8C8b0a79b3F9",
@@ -18457,13 +18457,14 @@
     },
     {
         "symbol": "XTZ",
-        "name": "Tezos Token",
+        "name": "Binance Peg Tezos Token",
         "address": "0x16939ef78684453bfDFb47825F8a5F714f12623a",
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x16939ef78684453bfDFb47825F8a5F714f12623a/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "binance-peg-tezos-token",
         "listedIn": [
+            "coingecko",
             "sushiswap",
             "pancake",
             "lifinance",
@@ -18534,19 +18535,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/12893/thumb/logo_%2818%29.png?1696512681",
         "coingeckoId": "cashbackpro",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "DEDA",
-        "name": "DedaCoin",
-        "address": "0x15F9EB4b9BEaFa9Db35341c5694c0b6573809808",
-        "decimals": 8,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/40133/thumb/DEDA_%281%29.jpg?1725968896",
-        "coingeckoId": "dedacoin",
         "listedIn": [
             "coingecko",
             "lifinance"

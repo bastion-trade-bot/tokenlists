@@ -1415,19 +1415,6 @@
         ]
     },
     {
-        "symbol": "AMI",
-        "name": "Avax Meme Index",
-        "address": "0xC139Aa91399600f6b72975AC3317b6d49Cb30a69",
-        "decimals": 18,
-        "chainId": 43114,
-        "logoURI": "https://raw.githubusercontent.com/traderjoe-xys/joe-tokenlists/main/logos/0xC139Aa91399600f6b72975AC3317b6d49Cb30a69/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "joe",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "SNX",
         "name": "Synthetix Network",
         "address": "0xBeC243C995409E6520D7C41E404da5dEba4b209B",
@@ -1491,8 +1478,9 @@
         "decimals": 18,
         "chainId": 43114,
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB44B645b5058F7e393F3AE6Af58A4CEf67006196/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "stick",
         "listedIn": [
+            "coingecko",
             "joe",
             "lifinance"
         ]
@@ -2756,7 +2744,6 @@
         "listedIn": [
             "coingecko",
             "pangolin",
-            "lifinance",
             "elkfinance"
         ]
     },
