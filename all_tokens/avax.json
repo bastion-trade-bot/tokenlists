@@ -98,8 +98,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/16185/thumb/Pera-Finance-200x200.png?1696515787",
         "coingeckoId": "pera-finance",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -1464,6 +1463,18 @@
         ]
     },
     {
+        "symbol": "DOG",
+        "name": "Cat",
+        "address": "0xcA990CFc27f540960280818a47f4733C3551dD71",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "GLDB",
         "name": "BiAltin",
         "address": "0xcA220F1e486A8e35d6F1DCD62073Ad8DD04659ED",
@@ -2311,10 +2322,11 @@
         "address": "0xb2F85b7AB3c2b6f62DF06dE6aE7D09c010a5096E",
         "decimals": 6,
         "chainId": 43114,
-        "logoURI": "https://assets.coingecko.com/coins/images/12832/thumb/StraitsX_Singapore_Dollar_%28XSGD%29_Token_Logo.png?1696512623",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb2F85b7AB3c2b6f62DF06dE6aE7D09c010a5096E/logo.png",
         "coingeckoId": "xsgd",
         "listedIn": [
             "coingecko",
+            "joe",
             "lifinance"
         ]
     },
@@ -4555,7 +4567,8 @@
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xys/joe-tokenlists/main/logos/0xC139Aa91399600f6b72975AC3317b6d49Cb30a69/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "joe"
+            "joe",
+            "lifinance"
         ]
     },
     {
@@ -4981,8 +4994,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/23019/thumb/USDCet_wh_small.png?1696522314",
         "coingeckoId": "usd-coin-wormhole-from-ethereum",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -5269,9 +5281,8 @@
         "decimals": 18,
         "chainId": 43114,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xAE4AA155D2987B454C29450ef4f862CF00907B61/logo.png",
-        "coingeckoId": "thorus",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "lifinance",
             "elkfinance"
         ]
@@ -8982,6 +8993,18 @@
         "symbol": "MASS",
         "name": "Momentum",
         "address": "0x63Dd6F87e8BD5008878E51DaF473DFB3105C7537",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "ASS",
+        "name": "Access",
+        "address": "0x63B240a08222DAe3DDA7E1795F0CC2Eafc059E23",
         "decimals": 18,
         "chainId": 43114,
         "logoURI": null,
@@ -13174,8 +13197,7 @@
         "coingeckoId": "dogeon",
         "listedIn": [
             "coingecko",
-            "pangolin",
-            "lifinance"
+            "pangolin"
         ]
     },
     {
@@ -14095,18 +14117,6 @@
         "listedIn": [
             "pangolin",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "CAT",
-        "name": "CAT",
-        "address": "0x094BFaC9894d2A2A35771D0BD6d2447689190F32",
-        "decimals": 18,
-        "chainId": 43114,
-        "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x094bfac9894d2a2a35771d0bd6d2447689190f32/c8d81566cca7b11eddf777f47ec1c3ca.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
         ]
     },
     {

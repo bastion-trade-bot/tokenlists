@@ -42,19 +42,6 @@
         ]
     },
     {
-        "symbol": "PERA",
-        "name": "Pera Finance",
-        "address": "0xfDA866CFEcE71F4C17b4a5e5f9A00ac08C72Eadc",
-        "decimals": 18,
-        "chainId": 43114,
-        "logoURI": "https://assets.coingecko.com/coins/images/16185/thumb/Pera-Finance-200x200.png?1696515787",
-        "coingeckoId": "pera-finance",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "NFSG",
         "name": "NFT Soccer Games",
         "address": "0xf69c2fcd9128d49DfA22348C69177f9380438eB8",
@@ -751,10 +738,11 @@
         "address": "0xb2F85b7AB3c2b6f62DF06dE6aE7D09c010a5096E",
         "decimals": 6,
         "chainId": 43114,
-        "logoURI": "https://assets.coingecko.com/coins/images/12832/thumb/StraitsX_Singapore_Dollar_%28XSGD%29_Token_Logo.png?1696512623",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb2F85b7AB3c2b6f62DF06dE6aE7D09c010a5096E/logo.png",
         "coingeckoId": "xsgd",
         "listedIn": [
             "coingecko",
+            "joe",
             "lifinance"
         ]
     },
@@ -1415,6 +1403,19 @@
         ]
     },
     {
+        "symbol": "AMI",
+        "name": "Avax Meme Index",
+        "address": "0xC139Aa91399600f6b72975AC3317b6d49Cb30a69",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xys/joe-tokenlists/main/logos/0xC139Aa91399600f6b72975AC3317b6d49Cb30a69/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "joe",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "SNX",
         "name": "Synthetix Network",
         "address": "0xBeC243C995409E6520D7C41E404da5dEba4b209B",
@@ -1502,19 +1503,6 @@
             "lifinance",
             "xyfinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "USDCET",
-        "name": "Bridged USD Coin  Wormhole Ethereum ",
-        "address": "0xB24CA28D4e2742907115fECda335b40dbda07a4C",
-        "decimals": 6,
-        "chainId": 43114,
-        "logoURI": "https://assets.coingecko.com/coins/images/23019/thumb/USDCet_wh_small.png?1696522314",
-        "coingeckoId": "usd-coin-wormhole-from-ethereum",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
         ]
     },
     {
@@ -1621,9 +1609,8 @@
         "decimals": 18,
         "chainId": 43114,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xAE4AA155D2987B454C29450ef4f862CF00907B61/logo.png",
-        "coingeckoId": "thorus",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "lifinance",
             "elkfinance"
         ]
@@ -4354,8 +4341,7 @@
         "coingeckoId": "dogeon",
         "listedIn": [
             "coingecko",
-            "pangolin",
-            "lifinance"
+            "pangolin"
         ]
     },
     {

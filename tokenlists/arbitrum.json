@@ -29,6 +29,19 @@
         ]
     },
     {
+        "symbol": "LQTY",
+        "name": "Liquity",
+        "address": "0xfb9E5D956D889D91a82737B9bFCDaC1DCE3e1449",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/14665/thumb/logo_V2.png?1725437146",
+        "coingeckoId": "liquity",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "PZT",
         "name": "Pizon",
         "address": "0xfb17d52F77Db6E32B5A082Ed4307FCFb0a86BEEE",
@@ -120,6 +133,19 @@
         "chainId": 42161,
         "logoURI": "https://assets.coingecko.com/coins/images/32887/thumb/aave.png?1699773604",
         "coingeckoId": "aave-v3-aave",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "COLLAB",
+        "name": "Collab Land",
+        "address": "0xf18C263EC50CC211EF3F172228549B6618F10613",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/29098/thumb/collab.png?1696528061",
+        "coingeckoId": "collab-land",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -346,19 +372,6 @@
         "chainId": 42161,
         "logoURI": "https://assets.coingecko.com/coins/images/14899/thumb/RwdVsGcw_400x400.jpg?1696514562",
         "coingeckoId": "kyber-network-crystal",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "CRC",
-        "name": "CrazyRabbit",
-        "address": "0xe4177C1400A8Eee1799835DcDe2489c6f0D5d616",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/33468/thumb/logo-no-background.png?1701943008",
-        "coingeckoId": "crazyrabbit",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -1024,6 +1037,19 @@
         ]
     },
     {
+        "symbol": "USDX",
+        "name": "Synthetix USDx",
+        "address": "0xb2F30A7C980f052f02563fb518dcc39e6bf38175",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/51047/thumb/USDX.jpg?1729845921",
+        "coingeckoId": "synthetix-usdx",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "CRX",
         "name": "MIND Games CORTEX",
         "address": "0xb21Be1Caf592A5DC1e75e418704d1B6d50B0d083",
@@ -1329,19 +1355,6 @@
             "arbitrum_bridge",
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "HIP",
-        "name": "HIPPOP",
-        "address": "0xa0995d43901551601060447f9aBf93ebc277cEC2",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/37854/thumb/KakaoTalk_Image_2024-05-14-16-50-31.png?1715781999",
-        "coingeckoId": "hippop",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
         ]
     },
     {
@@ -2571,13 +2584,13 @@
         ]
     },
     {
-        "symbol": "KEI",
-        "name": "KEI Finance",
-        "address": "0xA06D505EC28FD9756a200D2B503A66103dB98d09",
+        "symbol": "FRM",
+        "name": "Ferrum Network",
+        "address": "0x9f6AbbF0Ba6B5bfa27f4deb6597CC6Ec20573FDA",
         "decimals": 18,
         "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/29840/thumb/200x200.png?1696528767",
-        "coingeckoId": "kei-finance",
+        "logoURI": "https://assets.coingecko.com/coins/images/8251/thumb/FRM.png?1696508455",
+        "coingeckoId": "ferrum-network",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -3575,6 +3588,19 @@
         ]
     },
     {
+        "symbol": "USDL",
+        "name": "Lift Dollar",
+        "address": "0x7F850b0aB1988Dd17B69aC564c1E2857949e4dEe",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/38484/thumb/USDL-Token-200px.png?1725022887",
+        "coingeckoId": "lift-dollar",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "ARC",
         "name": "Arcadeum",
         "address": "0x7F465507f058e17Ad21623927a120ac05CA32741",
@@ -3589,19 +3615,6 @@
         ]
     },
     {
-        "symbol": "GRG",
-        "name": "RigoBlock",
-        "address": "0x7F4638A58C0615037deCc86f1daE60E55fE92874",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/1532/thumb/Symbol-RigoblockRGB.png?1696502572",
-        "coingeckoId": "rigoblock",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "EGP",
         "name": "Eigenpie",
         "address": "0x7E7a7C916c19a45769f6BDAF91087f93c6C12F78",
@@ -3609,6 +3622,19 @@
         "chainId": 42161,
         "logoURI": "https://assets.coingecko.com/coins/images/37810/thumb/eigenpie.jpeg?1715597613",
         "coingeckoId": "eigenpie",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "DSLA",
+        "name": "DSLA Protocol",
+        "address": "0x7CE746B45eaBD0C4321538DeC1B849c79A9A8476",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/6694/thumb/dsla_logo-squared_200x200.png?1696507035",
+        "coingeckoId": "stacktical",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -4012,6 +4038,19 @@
         ]
     },
     {
+        "symbol": "DOLA",
+        "name": "DOLA",
+        "address": "0x6A7661795C374c0bFC635934efAddFf3A7Ee23b6",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/14287/thumb/dola.png?1696513984",
+        "coingeckoId": "dola-usd",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "DODO",
         "name": "DODO",
         "address": "0x69Eb4FA4a2fbd498C257C57Ea8b7655a2559A581",
@@ -4263,6 +4302,19 @@
         "chainId": 42161,
         "logoURI": "https://assets.coingecko.com/coins/images/35084/thumb/Token_GEM_AOFVERSE.png?1707317138",
         "coingeckoId": "army-of-fortune-gem",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "VCNT",
+        "name": "ViciCoin",
+        "address": "0x60bf4E7cF16Ff34513514b968483B54Beff42a81",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/31305/thumb/ViciCoin_-_small.png?1696530124",
+        "coingeckoId": "vicicoin",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -5615,6 +5667,19 @@
         ]
     },
     {
+        "symbol": "WSTLINK",
+        "name": "Wrapped Staked LINK",
+        "address": "0x3106E2e148525b3DB36795b04691D444c24972fB",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/35678/thumb/wstlink_logo.png?1709525182",
+        "coingeckoId": "wrapped-staked-link",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "YDF",
         "name": "Yieldification",
         "address": "0x30dcBa0405004cF124045793E1933C798Af9E66a",
@@ -6333,6 +6398,19 @@
             "coingecko",
             "lifinance",
             "xyfinance"
+        ]
+    },
+    {
+        "symbol": "UMJA",
+        "name": "Umoja",
+        "address": "0x16A500Aec6c37F84447ef04E66c57cfC6254cF92",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/38328/thumb/Umoja_Logo.png?1717639928",
+        "coingeckoId": "umoja",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
