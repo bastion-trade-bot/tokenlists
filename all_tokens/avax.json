@@ -2623,18 +2623,6 @@
         ]
     },
     {
-        "symbol": "USDS",
-        "name": "SpiceUSD",
-        "address": "0xaB05b04743E0aeAF9D2cA81E5D3b8385e4BF961e",
-        "decimals": 18,
-        "chainId": 43114,
-        "logoURI": "https://assets.coingecko.com/coins/images/25697/thumb/USDS.png?1696524824",
-        "coingeckoId": "spiceusd",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "QKC",
         "name": "QuarkChain Token",
         "address": "0xa9B41c348717F755101189b907F37Ee4ec703E8C",
@@ -4275,7 +4263,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/33428/thumb/GYD-gradient_resized_transparent.png?1702316822",
         "coingeckoId": "gyroscope-gyd",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -5969,18 +5958,6 @@
         ]
     },
     {
-        "symbol": "SHACK",
-        "name": "Shack",
-        "address": "0x9AD274e20a153451775Ff29D546949a254C4a1bc",
-        "decimals": 18,
-        "chainId": 43114,
-        "logoURI": "https://assets.coingecko.com/coins/images/25699/thumb/shack_no_bg_no_pad3.png?1696524826",
-        "coingeckoId": "shack",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "MAGICK",
         "name": "Cosmic Universe Magick",
         "address": "0x9A8E0217cD870783c3f2317985C57Bf570969153",
@@ -7476,18 +7453,6 @@
         "symbol": "mooAaveUSDT",
         "name": "Moo Aave USDT",
         "address": "0x813aB5B3FDc59B143C42284665864b24B794C324",
-        "decimals": 18,
-        "chainId": 43114,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "CANS",
-        "name": "ToucansAvax404",
-        "address": "0x810A45ecaA8077C8d1fdbfe03E0cA96015cb79E2",
         "decimals": 18,
         "chainId": 43114,
         "logoURI": null,
@@ -9439,8 +9404,7 @@
         "coingeckoId": "arrow-token",
         "listedIn": [
             "coingecko",
-            "joe",
-            "lifinance"
+            "joe"
         ]
     },
     {
@@ -11357,6 +11321,18 @@
         ]
     },
     {
+        "symbol": "USDC.eUSDC-f",
+        "name": "Curve.fi Factory Plain Pool: USD Coin",
+        "address": "0x3a43A5851A3e3E0e25A3c1089670269786be1577",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "TRND",
         "name": "Trendering",
         "address": "0x3a2d191AE83223ed0668d9AAF180Be147Ec05ad3",
@@ -12099,7 +12075,8 @@
         "coingeckoId": "verified-usd-foundation-usdv",
         "listedIn": [
             "coingecko",
-            "joe"
+            "joe",
+            "lifinance"
         ]
     },
     {

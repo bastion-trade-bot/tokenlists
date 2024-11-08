@@ -435,6 +435,18 @@
         ]
     },
     {
+        "symbol": "WCT",
+        "name": "WalletConnect",
+        "address": "0xeF4461891DfB3AC8572cCf7C794664A8DD927945",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "https://ethereum-optimism.github.io/data/WCT/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "ELK",
         "name": "Elk",
         "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -2696,18 +2708,6 @@
         "symbol": "OP+",
         "name": "Aloe Optimism ⚭ [USDC]",
         "address": "0xFc75778a68FB4Eee17AF2A19e6dd89A3f63010A4",
-        "decimals": 18,
-        "chainId": 10,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "DOWN",
-        "name": "Position Down",
-        "address": "0xFbb114853b8ad11c824Cbe9677e521fC79661e96",
         "decimals": 18,
         "chainId": 10,
         "logoURI": null,
@@ -7014,13 +7014,14 @@
     },
     {
         "symbol": "STONE",
-        "name": "StakeStone Ether",
+        "name": "StakeStone ETH",
         "address": "0x80137510979822322193FC997d400D5A6C747bf7",
-        "decimals": 18,
+        "decimals": 17,
         "chainId": 10,
-        "logoURI": "https://static.debank.com/image/b2_token/logo_url/0x7537c1f80c9e157ed7afd93a494be3e1f04f1462/670162c2c0d81b3d1790e60c78e136e1.png",
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/33103/thumb/200_200.png?1702602672",
+        "coingeckoId": "stakestone-ether",
         "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -7742,18 +7743,6 @@
         ]
     },
     {
-        "symbol": "USDC(portal)",
-        "name": "USD Coin",
-        "address": "0x711e53D031ea9B0bb0C24dD506df11b41AEA419e",
-        "decimals": 6,
-        "chainId": 10,
-        "logoURI": "https://static.debank.com/image/coin/logo_url/usdc/e87790bfe0b3f2ea855dc29069b38818.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "USDD",
         "name": "Decentralized USD",
         "address": "0x7113370218f31764C1B6353BDF6004d86fF6B9cc",
@@ -8362,18 +8351,6 @@
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "SHACK",
-        "name": "Shack",
-        "address": "0x66e8617d1Df7ab523a316a6c01D16Aa5beD93681",
-        "decimals": 18,
-        "chainId": 10,
-        "logoURI": "https://assets.coingecko.com/coins/images/25699/thumb/shack_no_bg_no_pad3.png?1696524826",
-        "coingeckoId": "shack",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -12516,18 +12493,6 @@
         ]
     },
     {
-        "symbol": "PEPE (unknown)",
-        "name": "PEPE Optimism",
-        "address": "0x12ff4a259e14D4DCd239C447D23C9b00F7781d8F",
-        "decimals": 18,
-        "chainId": 10,
-        "logoURI": "https://static.debank.com/image/op_token/logo_url/0x12ff4a259e14d4dcd239c447d23c9b00f7781d8f/85cf5fa381d5d064e112c713295701c7.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "mooVeloV2WETH-weETH",
         "name": "Moo VeloV2 WETH-weETH",
         "address": "0x12fBf29ebab68ed27db7f1a3A3b733692f566535",
@@ -12827,18 +12792,6 @@
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "WCT",
-        "name": "WalletConnect",
-        "address": "0x0b432610c50aB5794ED030708a811a7EA71df58f",
-        "decimals": 18,
-        "chainId": 10,
-        "logoURI": "https://ethereum-optimism.github.io/data/WCT/logo.svg",
-        "coingeckoId": null,
-        "listedIn": [
-            "optimism"
         ]
     },
     {
@@ -13321,18 +13274,6 @@
         "symbol": "vAMMV2-WETH/USDC",
         "name": "VolatileV2 AMM - WETH/USDC",
         "address": "0x0493Bf8b6DBB159Ce2Db2E0E8403E753Abd1235b",
-        "decimals": 18,
-        "chainId": 10,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "UP",
-        "name": "Position Up",
-        "address": "0x048E56d297501Fed9CaeEe3B830Ab444Bd921021",
         "decimals": 18,
         "chainId": 10,
         "logoURI": null,

@@ -551,7 +551,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/39585/thumb/wbtc.png?1723014144",
         "coingeckoId": "mulitchain-bridged-wbtc-moonbeam",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -564,7 +565,20 @@
         "coingeckoId": "nomad-bridged-usdc-moonbeam",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "axlWBTC",
+        "name": "Axelar Wrapped WBTC",
+        "address": "0x8e9a09bc94689c157Cd7f6aB5d4577ED6f44Ba1E",
+        "decimals": 8,
+        "chainId": 1284,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -604,6 +618,18 @@
         ]
     },
     {
+        "symbol": "WMATIC(Wormhole)",
+        "name": "Wrapped Matic",
+        "address": "0x82DbDa803bb52434B1f4F41A6F0Acb1242A7dFa3",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270/f6e604ba0324726a3d687c618aa4f163.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "HPO",
         "name": "Hippo Wallet",
         "address": "0x823d826d3aB6956ba934893f325e7c323fAAF6Ca",
@@ -613,6 +639,18 @@
         "coingeckoId": "hippopotamus",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "USDT",
+        "name": "Tether USD (Celer)",
+        "address": "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
+        "decimals": 6,
+        "chainId": 1284,
+        "logoURI": "https://static.debank.com/image/coin/logo_url/usdt/23af7472292cb41dc39b3f1146ead0fe.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -629,6 +667,18 @@
         ]
     },
     {
+        "symbol": "USDC(Wormhole)",
+        "name": "USD Coin",
+        "address": "0x7f433E22366E03a3758CE22cCf82887d828078f8",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://static.debank.com/image/coin/logo_url/usdc/e87790bfe0b3f2ea855dc29069b38818.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "DAI",
         "name": "Multichain Bridged DAI  Moonbeam ",
         "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
@@ -641,6 +691,30 @@
         ]
     },
     {
+        "symbol": "mUSDC.wh",
+        "name": "Moonwell USDC.wh",
+        "address": "0x744b1756e7651c6D57f5311767EAFE5E931D615b",
+        "decimals": 8,
+        "chainId": 1284,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "USDC(Wormhole)",
+        "name": "USD Coin",
+        "address": "0x7143e8EA96e158381057a58AfdDF44601c7e532C",
+        "decimals": 6,
+        "chainId": 1284,
+        "logoURI": "https://static.debank.com/image/coin/logo_url/usdc/e87790bfe0b3f2ea855dc29069b38818.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "CEUSDC",
         "name": "Bridged USD Coin  Celer ",
         "address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
@@ -649,7 +723,68 @@
         "logoURI": "https://assets.coingecko.com/coins/images/24823/thumb/usdc.png?1696523981",
         "coingeckoId": "usd-coin-celer",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "WETH(from Base)",
+        "name": "Wrapped Ether",
+        "address": "0x6C6f83366A42fcA4D30a2D3f1914284de995Ac3a",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://static.debank.com/image/coin/logo_url/eth/6443cdccced33e204d90cb723c632917.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "BUSD",
+        "name": "BUSD Token",
+        "address": "0x692C57641fc054c2Ad6551Ccc6566EbA599de1BA",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0x692c57641fc054c2ad6551ccc6566eba599de1ba/352d3f0eef1e6ec91a867a26be27955d.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "BEANS",
+        "name": "MoonBeans",
+        "address": "0x65b09ef8c5A096C5Fd3A80f1F7369E56eB932412",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0x65b09ef8c5a096c5fd3a80f1f7369e56eb932412/3a1cd2dc2076a9e18ea3317df15af50c.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "stGLINT",
+        "name": "Staked GLINT",
+        "address": "0x63d43D0EDda7DE4B5ed9B2F2AA855f81FBd71697",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "axlFRAX",
+        "name": "Axelar Wrapped FRAX",
+        "address": "0x61C82805453a989E99B544DFB7031902e9bac448",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x853d955acef822db058eb8505911ed77f175b99e/4f323e33bfffa864c577e7bd2a3257c9.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -673,7 +808,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/35286/thumb/Cp200.jpg?1708055711",
         "coingeckoId": "cypress",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -702,6 +838,18 @@
         ]
     },
     {
+        "symbol": "stella-tripool",
+        "name": "StellaSwap Tripool",
+        "address": "0x4FB1b0452341ebB0DF325a8286763447dd6F15fF",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "WAVAX",
         "name": "Wrapped AVAX",
         "address": "0x4792C1EcB969B036eb51330c63bD27899A13D84e",
@@ -710,7 +858,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/15075/thumb/wrapped-avax.png?1696514734",
         "coingeckoId": "wrapped-avax",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -722,7 +871,80 @@
         "logoURI": "https://assets.coingecko.com/coins/images/27277/thumb/V-65_xQ1_400x400.jpeg?1696526329",
         "coingeckoId": "axelar",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "USDC(Wormhole)",
+        "name": "USD Coin",
+        "address": "0x4415BfBDee669446550d55c749007EF60B520FC8",
+        "decimals": 6,
+        "chainId": 1284,
+        "logoURI": "https://static.debank.com/image/coin/logo_url/usdc/e87790bfe0b3f2ea855dc29069b38818.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "mxcUSDT",
+        "name": "Moonwell xcUSDT",
+        "address": "0x42A96C0681B74838eC525AdbD13c37f66388f289",
+        "decimals": 8,
+        "chainId": 1284,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "ZLK",
+        "name": "Zenlink Network Token",
+        "address": "0x3Fd9b6C9A24E09F67b7b706d72864aEbb439100C",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0x3fd9b6c9a24e09f67b7b706d72864aebb439100c/14e6bf44bbfdd64e63d80fbd69159eaa.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "QI(old)",
+        "name": "QiDao",
+        "address": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0x3f56e0c36d275367b8c502090edf38289b3dea0d/c0524dfb9be687e8e26191eed8774fd3.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "CELR",
+        "name": "Celer Network",
+        "address": "0x3795C36e7D12A8c252A20C5a7B455f7c57b60283",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0x3795c36e7d12a8c252a20c5a7b455f7c57b60283/1eb9c8f251098ea22a2cb30a877da86a.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "STELLA LP",
+        "name": "Stella LP",
+        "address": "0x367c36dAE9ba198A4FEe295c22bC98cB72f77Fe1",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -734,7 +956,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/polygon.png?1698233745",
         "coingeckoId": "matic-network",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -774,7 +997,8 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg",
         "coingeckoId": null,
         "listedIn": [
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -787,6 +1011,42 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap"
+        ]
+    },
+    {
+        "symbol": "frxETH",
+        "name": "frxETH",
+        "address": "0x29C795559e4Db87054Ba70fafC454214c20aDbD4",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.coingecko.com/coins/images/28284/standard/frxETH_icon.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "axlATOM",
+        "name": "Axelar Wrapped ATOM",
+        "address": "0x27292cf0016E5dF1d8b37306B2A98588aCbD6fCA",
+        "decimals": 6,
+        "chainId": 1284,
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x0eb3a705fc54725037cc9e008bdede697f62f335/b91685db7e70217cf1c7f1bb7993ab40.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "USDT(Wormhole)",
+        "name": "(PoS) Tether USD",
+        "address": "0x269E5Ef0A521b30E65DF68E671BAF3aCcb788ac8",
+        "decimals": 6,
+        "chainId": 1284,
+        "logoURI": "https://static.debank.com/image/coin/logo_url/usdt/23af7472292cb41dc39b3f1146ead0fe.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -810,7 +1070,56 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg",
         "coingeckoId": null,
         "listedIn": [
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "wstDOT",
+        "name": "Wrapped liquid staked DOT",
+        "address": "0x191cf2602Ca2e534c5Ccae7BCBF4C46a704bb949",
+        "decimals": 10,
+        "chainId": 1284,
+        "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0x191cf2602ca2e534c5ccae7bcbf4c46a704bb949/7d3849669fdd4ce5e8a4ccdbf3a4608e.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "BOBA",
+        "name": "BOBA Token",
+        "address": "0x18D17A9fD652D7d6a59903E23792ab97F832Ed6C",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "WETH(Wormhole)",
+        "name": "Wrapped Ether",
+        "address": "0x18872b45c603eD2EbC508b9C5514a85c2e2791FB",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x82af49447d8a07e3bd95bd0d56f35241523fbab1/61844453e63cf81301f845d7864236f6.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "OSEA",
+        "name": "Omnisea",
+        "address": "0x16b26B9328b1B64e4Aad6326C7cb94B2e8A96B4e",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xc72633f995e98ac3bb8a89e6a9c4af335c3d6e44/b09dea9881c0ca288bd27edde8c8a821.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -826,6 +1135,18 @@
         ]
     },
     {
+        "symbol": "axlDAI",
+        "name": "Axelar Wrapped DAI",
+        "address": "0x14dF360966a1c4582d2b18EDbdae432EA0A27575",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x6b175474e89094c44da98b954eedeac495271d0f/549c4205dbb199f1b8b03af783f35e71.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "STELLA",
         "name": "StellaSwap",
         "address": "0x0E358838ce72d5e61E0018a2ffaC4bEC5F4c88d2",
@@ -834,7 +1155,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/22801/thumb/stellaswap.jpg?1696522104",
         "coingeckoId": "stellaswap",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -846,7 +1168,20 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ust.jpg",
         "coingeckoId": null,
         "listedIn": [
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "xStella",
+        "name": "XStella",
+        "address": "0x06A3b410b681c82417A906993aCeFb91bAB6A080",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {

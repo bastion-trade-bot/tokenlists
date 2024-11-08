@@ -2721,6 +2721,19 @@
         ]
     },
     {
+        "symbol": "SBR",
+        "name": "STRATEGIC BITCOIN RESERVE",
+        "address": "0xd6203889C22D9fe5e938a9200f50FDFFE9dD8e02",
+        "decimals": 9,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/51391/thumb/IMG_5232.jpeg?1731008925",
+        "coingeckoId": "strategic-bitcoin-reserve",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "METH",
         "name": "Mantle Staked Ether",
         "address": "0xd5F7838F5C461fefF7FE49ea5ebaF7728bB0ADfa",
@@ -3573,22 +3586,10 @@
             "coingecko",
             "uniswap",
             "sushiswap",
+            "optimism",
             "arbitrum_bridge",
             "xyfinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "AI",
-        "name": "Multiverse",
-        "address": "0xc91B523A59ACC63A64f61fc7bBfB4bfc82DD25f2",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/16329/thumb/multiverse_logo_full_color_rgb_200px_72ppi.png?1696515930",
-        "coingeckoId": "multiverse",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
         ]
     },
     {
@@ -3761,8 +3762,7 @@
         "coingeckoId": "crypto-perx",
         "listedIn": [
             "coingecko",
-            "sushiswap",
-            "lifinance"
+            "sushiswap"
         ]
     },
     {
@@ -3906,7 +3906,6 @@
         "coingeckoId": "game-stop",
         "listedIn": [
             "coingecko",
-            "lifinance",
             "xyfinance"
         ]
     },
@@ -5599,6 +5598,19 @@
         ]
     },
     {
+        "symbol": "DOUGH",
+        "name": "PieDAO",
+        "address": "0xad32A8e6220741182940c5aBF610bDE99E737b2D",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xad32A8e6220741182940c5aBF610bDE99E737b2D/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "KEI",
         "name": "KEI Finance",
         "address": "0xac87d4Cbb82ce7F4bCF31dBDC0024306cfd3Ec5A",
@@ -5693,6 +5705,19 @@
             "sushiswap",
             "lifinance",
             "xyfinance"
+        ]
+    },
+    {
+        "symbol": "HSAI",
+        "name": "HealthSci AI",
+        "address": "0xaa3ACc21D184cEF6F7fC3385FBdB79575231aFbA",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/51384/thumb/logo-200.jpg?1730967315",
+        "coingeckoId": "healthsci-ai",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -7962,7 +7987,7 @@
         "address": "0xEA26c4aC16D4a5A106820BC8AEE85fd0b7b2b664",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/3849/thumb/quarkchain.png?1696504513",
+        "logoURI": "https://assets.coingecko.com/coins/images/3849/thumb/QuarkChain.jpg?1730964236",
         "coingeckoId": "quark-chain",
         "listedIn": [
             "coingecko",
@@ -10306,6 +10331,19 @@
         ]
     },
     {
+        "symbol": "PSL",
+        "name": "Pastel",
+        "address": "0xC775C0C30840Cb9F51e21061B054ebf1A00aCC29",
+        "decimals": 5,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/14293/thumb/A4qGwEij_400x400.jpg?1696513990",
+        "coingeckoId": "pastel",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "OSEA",
         "name": "Omnisea",
         "address": "0xC72633F995e98Ac3BB8a89e6a9C4Af335C3D6E44",
@@ -10924,6 +10962,19 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/34832/thumb/logo-256_%281%29.png?1710244462",
         "coingeckoId": "bitscrunch-token",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "STEAKETH",
+        "name": "Steakhouse ETH Morpho Vault",
+        "address": "0xBEEf050ecd6a16c4e7bfFbB52Ebba7846C4b8cD4",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/51382/thumb/ethereum.png?1730966831",
+        "coingeckoId": "steakhouse-eth-morpho-vault",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -13067,10 +13118,11 @@
         "address": "0x9a96ec9B57Fb64FbC60B423d1f4da7691Bd35079",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/30187/thumb/AJNA-Icon-200.png?1696529105",
+        "logoURI": "https://ethereum-optimism.github.io/data/AJNA/logo.svg",
         "coingeckoId": "ajna-protocol",
         "listedIn": [
             "coingecko",
+            "optimism",
             "lifinance"
         ]
     },
@@ -15022,10 +15074,11 @@
         "address": "0x906c012fa4C30d580537c2b72d1789F56F488a80",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/37524/thumb/pog.jpeg?1714637890",
+        "logoURI": "https://ethereum-optimism.github.io/data/POGS/logo.svg",
         "coingeckoId": "pog-digital",
         "listedIn": [
             "coingecko",
+            "optimism",
             "lifinance"
         ]
     },
@@ -16479,19 +16532,6 @@
         ]
     },
     {
-        "symbol": "SWAG",
-        "name": "Swag Finance",
-        "address": "0x87eDfFDe3E14c7a66c9b9724747a1C5696b742e6",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x87eDfFDe3E14c7a66c9b9724747a1C5696b742e6/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "sushiswap",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "NFTX",
         "name": "NFTX",
         "address": "0x87d73E916D7057945c9BcD8cdd94e42A6F47f776",
@@ -16759,6 +16799,19 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/30621/thumb/LogoLilai_CoinGecko.png?1696529495",
         "coingeckoId": "lilai",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "MEMAGX",
+        "name": "Meta Masters Guild Games",
+        "address": "0x857dE36f92330E1B9a21e8745c692F2CE13866cb",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/36899/thumb/1000039355.jpg?1712677645",
+        "coingeckoId": "meta-masters-guild-games",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -19760,6 +19813,19 @@
         ]
     },
     {
+        "symbol": "STONE",
+        "name": "StakeStone ETH",
+        "address": "0x7122985656e38BDC0302Db86685bb972b145bD3C",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/33103/thumb/200_200.png?1702602672",
+        "coingeckoId": "stakestone-ether",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "SOURCE",
         "name": "ReSource Protocol",
         "address": "0x7118057ff0F4Fd0994fb9d2D94de8231d5cca79E",
@@ -22421,19 +22487,6 @@
         ]
     },
     {
-        "symbol": "EON",
-        "name": "Hyper",
-        "address": "0x60158131416F5e53D55D73A11BE2E203cB26Abcc",
-        "decimals": 8,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/35247/thumb/EON_Token_200_x_200.png?1707987981",
-        "coingeckoId": "hyper-3",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "SHAKE",
         "name": "Spaceswap SHAKE",
         "address": "0x6006FC2a849fEdABa8330ce36F5133DE01F96189",
@@ -23843,19 +23896,6 @@
         ]
     },
     {
-        "symbol": "BGB",
-        "name": "Bitget Token",
-        "address": "0x54D2252757e1672EEaD234D27B1270728fF90581",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/11610/thumb/icon_colour.png?1696511504",
-        "coingeckoId": "bitget-token",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "SIDUS",
         "name": "Sidus",
         "address": "0x549020a9Cb845220D66d3E9c6D9F9eF61C981102",
@@ -24331,19 +24371,6 @@
             "lifinance",
             "xyfinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "KSETH",
-        "name": "Kernel Staked ETH",
-        "address": "0x513D27c94C0D81eeD9DC2a88b4531a69993187cF",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/39085/thumb/ksETH.png?1720993025",
-        "coingeckoId": "kernel-staked-eth",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
         ]
     },
     {
@@ -29203,6 +29230,19 @@
         ]
     },
     {
+        "symbol": "GBYTE",
+        "name": "Obyte",
+        "address": "0x31F69dE127C8A0fF10819C0955490a4Ae46fcc2a",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/561/thumb/byteball.png?1696501768",
+        "coingeckoId": "byteball",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "OJEE",
         "name": "VIMworld OJEE",
         "address": "0x31C5DEc1F10Dc084B95c239734dEa0ADb9C97C9C",
@@ -31479,6 +31519,19 @@
         ]
     },
     {
+        "symbol": "MEH",
+        "name": "Meh",
+        "address": "0x1f38d22F4eC3479C8268C85476b9418716bdB115",
+        "decimals": 9,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/51393/thumb/IMG_3247.jpeg?1731010993",
+        "coingeckoId": "meh-3",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "IOEN",
         "name": "Internet of Energy Network",
         "address": "0x1e4E46b7BF03ECE908c88FF7cC4975560010893A",
@@ -31497,10 +31550,11 @@
         "address": "0x1e4746dC744503b53b4A082cB3607B169a289090",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/28373/thumb/IPOR-token-200x200.png?1696527376",
+        "logoURI": "https://ethereum-optimism.github.io/data/IPOR/logo.svg",
         "coingeckoId": "ipor",
         "listedIn": [
             "coingecko",
+            "optimism",
             "lifinance"
         ]
     },
@@ -33605,8 +33659,7 @@
         "coingeckoId": "web-3-dollar",
         "listedIn": [
             "coingecko",
-            "optimism",
-            "lifinance"
+            "optimism"
         ]
     },
     {
@@ -33763,19 +33816,6 @@
         ]
     },
     {
-        "symbol": "KUSD",
-        "name": "Kernel USD",
-        "address": "0x0bB9aB78aAF7179b7515e6753d89822b91e670C4",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/39086/thumb/Kernel_USD.png?1720457004",
-        "coingeckoId": "kernel-usd",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "API3",
         "name": "API3",
         "address": "0x0b38210ea11411557c13457D4dA7dC6ea731B88a",
@@ -33824,6 +33864,19 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/17847/thumb/200_200_%281%29_%281%29.png?1696790226",
         "coingeckoId": "x-world-games",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "SWELL",
+        "name": "Swell",
+        "address": "0x0a6E7Ba5042B38349e437ec6Db6214AEC7B35676",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/28777/thumb/swell1.png?1727899715",
+        "coingeckoId": "swell-network",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -33886,19 +33939,6 @@
             "lifinance",
             "xyfinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "OTACON",
-        "name": "Otacon AI",
-        "address": "0x0F17eeCcc84739b9450C88dE0429020e2DEC05eb",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/32475/thumb/otacon_logo-square_200x200.png?1698285813",
-        "coingeckoId": "otacon-ai",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
         ]
     },
     {
