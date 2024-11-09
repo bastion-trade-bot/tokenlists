@@ -1024,14 +1024,13 @@
     },
     {
         "symbol": "ALP",
-        "name": "Arbitrove ALP",
+        "name": "ALP",
         "address": "0xb49B6A3Fd1F4bB510Ef776de7A88A9e65904478A",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xb49B6A3Fd1F4bB510Ef776de7A88A9e65904478A/logo.png",
-        "coingeckoId": "arbitrove-alp",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "joe",
             "lifinance"
         ]
@@ -3132,19 +3131,6 @@
         ]
     },
     {
-        "symbol": "LSETH",
-        "name": "Liquid Staked ETH",
-        "address": "0x8FfD9F31980f26Fbf4ac693678Db700f1d8C51f6",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://storage.googleapis.com/xy-finance-images/token-list/LSETH.webp",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance",
-            "xyfinance"
-        ]
-    },
-    {
         "symbol": "ARETH",
         "name": "Aave v3 rETH",
         "address": "0x8Eb270e296023E9D92081fdF967dDd7878724424",
@@ -4334,6 +4320,19 @@
         ]
     },
     {
+        "symbol": "VCNT",
+        "name": "ViciCoin",
+        "address": "0x60bf4E7cF16Ff34513514b968483B54Beff42a81",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/31305/thumb/ViciCoin_-_small.png?1696530124",
+        "coingeckoId": "vicicoin",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "IZI",
         "name": "iZUMi Finance",
         "address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
@@ -5139,19 +5138,6 @@
         ]
     },
     {
-        "symbol": "BEBE",
-        "name": "BEBE DOG",
-        "address": "0x406d59819Bc2AeF682F4Ff2769085c98a264F97b",
-        "decimals": 6,
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/37555/thumb/new_logo.jpg?1723247635",
-        "coingeckoId": "bebe-dog",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "MYRC",
         "name": "Blox MYRC",
         "address": "0x3eD03E95DD894235090B3d4A49E0C3239EDcE59e",
@@ -5594,7 +5580,7 @@
         "decimals": 18,
         "chainId": 42161,
         "logoURI": "https://assets.coingecko.com/coins/images/34382/thumb/M_PNG_200x200_copy.png?1704779326",
-        "coingeckoId": "florence-finance-medici",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko",
             "lifinance"
