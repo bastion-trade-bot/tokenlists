@@ -2038,10 +2038,10 @@
         ]
     },
     {
-        "symbol": "LODE",
-        "name": "LODE Token",
+        "symbol": "LOD3",
+        "name": "LOD3 Token",
         "address": "0xbBAAA0420D474B34Be197f95A323C2fF3829E811",
-        "decimals": 18,
+        "decimals": 17,
         "chainId": 43114,
         "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xbBAAA0420D474B34Be197f95A323C2fF3829E811/logo_24.png",
         "coingeckoId": "lode-token",
@@ -2606,7 +2606,8 @@
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xys/joe-tokenlists/main/logos/0xaBe7a9dFDA35230ff60D1590a929aE0644c47DC1/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "joe"
+            "joe",
+            "lifinance"
         ]
     },
     {
@@ -3470,6 +3471,18 @@
         "coingeckoId": null,
         "listedIn": [
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "DC_sAVAX",
+        "name": "DefaultCollateral_Staked AVAX",
+        "address": "0xE3C983013B8c5830D866F550a28fD7Ed4393d5B7",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -6144,6 +6157,18 @@
         ]
     },
     {
+        "symbol": "APEX (apexdefi.xyz)",
+        "name": "APEX",
+        "address": "0x98B172A09102869adD73116FC92A0A60BFF4778F",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x98b172a09102869add73116fc92a0a60bff4778f/3124bcfe350a0aead33f473df70614ab.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "BAT",
         "name": "Basic Attention",
         "address": "0x98443B96EA4b0858FDF3219Cd13e98C7A4690588",
@@ -6582,8 +6607,7 @@
         "coingeckoId": "xave-token",
         "listedIn": [
             "coingecko",
-            "joe",
-            "lifinance"
+            "joe"
         ]
     },
     {
@@ -7453,6 +7477,18 @@
         "symbol": "mooAaveUSDT",
         "name": "Moo Aave USDT",
         "address": "0x813aB5B3FDc59B143C42284665864b24B794C324",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "CANS",
+        "name": "ToucansAvax404",
+        "address": "0x810A45ecaA8077C8d1fdbfe03E0cA96015cb79E2",
         "decimals": 18,
         "chainId": 43114,
         "logoURI": null,
@@ -8352,6 +8388,7 @@
         "listedIn": [
             "coingecko",
             "pangolin",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -12075,8 +12112,7 @@
         "coingeckoId": "verified-usd-foundation-usdv",
         "listedIn": [
             "coingecko",
-            "joe",
-            "lifinance"
+            "joe"
         ]
     },
     {
