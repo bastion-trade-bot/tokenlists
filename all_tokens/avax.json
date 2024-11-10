@@ -395,6 +395,7 @@
         "listedIn": [
             "coingecko",
             "pangolin",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -623,7 +624,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/34663/thumb/LIZARD_LOGO_Final_3_BLK_BG_%281%29.png?1705652961",
         "coingeckoId": "lizard",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -2618,8 +2620,7 @@
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xys/joe-tokenlists/main/logos/0xaBe7a9dFDA35230ff60D1590a929aE0644c47DC1/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "joe",
-            "lifinance"
+            "joe"
         ]
     },
     {
@@ -2632,6 +2633,18 @@
         "coingeckoId": "woo-network",
         "listedIn": [
             "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "YRT",
+        "name": "Yield Yak: Aave AVAX",
+        "address": "0xaAc0F2d0630d1D09ab2B5A400412a4840B866d95",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
@@ -3220,6 +3233,18 @@
         "decimals": 8,
         "chainId": 43114,
         "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "BRIG",
+        "name": "Brig Finance",
+        "address": "0xF2CfC11093edB5A2DC7F49e70A3a3a9cd4F4FeE4",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xf2cfc11093edb5a2dc7f49e70a3a3a9cd4f4fee4/d926cdee06c69016f11bc65c6f79ce1f.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -5351,6 +5376,18 @@
         ]
     },
     {
+        "symbol": "xPHAR",
+        "name": "Escrowed PHARAOH Token",
+        "address": "0xAAAE58986b24e422740C8F22B3efB80BCbD68159",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xaaae58986b24e422740c8f22b3efb80bcbd68159/a393d45a145bd7cf6ac55fd38e30f87e.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "PHAR",
         "name": "Pharaoh",
         "address": "0xAAAB9D12A30504559b0C5a9A5977fEE4A6081c6b",
@@ -5967,7 +6004,8 @@
         "coingeckoId": "chikn-fert",
         "listedIn": [
             "coingecko",
-            "joe"
+            "joe",
+            "lifinance"
         ]
     },
     {
@@ -8786,13 +8824,14 @@
     },
     {
         "symbol": "HAKU",
-        "name": "Haku Swap",
+        "name": "HakuSwap Token",
         "address": "0x695Fa794d59106cEbd40ab5f5cA19F458c723829",
         "decimals": 18,
         "chainId": 43114,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0x695Fa794d59106cEbd40ab5f5cA19F458c723829/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -10588,6 +10627,18 @@
         ]
     },
     {
+        "symbol": "WOOF",
+        "name": "WoofDog",
+        "address": "0x49dF7cE3270884A70C27277bd4B2197834E68e7A",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x49df7ce3270884a70c27277bd4b2197834e68e7a/36cdf38b5572ca0a6ff75298c3aa5aed.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "WETH",
         "name": "Avalanche Bridged WETH  Avalanche ",
         "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
@@ -11674,6 +11725,7 @@
         "listedIn": [
             "coingecko",
             "pangolin",
+            "lifinance",
             "elkfinance"
         ]
     },
