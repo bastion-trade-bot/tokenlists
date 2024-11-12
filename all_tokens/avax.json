@@ -1048,6 +1048,18 @@
         ]
     },
     {
+        "symbol": "bnUSD",
+        "name": "Balanced Dollar",
+        "address": "0xdBDd50997361522495EcFE57EBb6850dA0E4C699",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xdBDd50997361522495EcFE57EBb6850dA0E4C699/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "joe"
+        ]
+    },
+    {
         "symbol": "MORE",
         "name": "Moremoney Finance",
         "address": "0xd9D90f882CDdD6063959A9d837B05Cb748718A05",
@@ -7573,18 +7585,6 @@
         ]
     },
     {
-        "symbol": "XSEED",
-        "name": "MXS Games",
-        "address": "0x80E19921E0E5C2384dc31b1C885e25E3e6c344D4",
-        "decimals": 18,
-        "chainId": 43114,
-        "logoURI": "https://assets.coingecko.com/coins/images/36916/thumb/mxs_logo_icon_black_%281%29_%281%29.png?1712769505",
-        "coingeckoId": null,
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "axlATOM",
         "name": "Axelar Wrapped ATOM",
         "address": "0x80D18b1c9Ab0c9B5D6A6d5173575417457d00a12",
@@ -9979,10 +9979,11 @@
         "address": "0x5478B121ceB140F8114E16B16D1752F3b29d514f",
         "decimals": 18,
         "chainId": 43114,
-        "logoURI": "https://assets.coingecko.com/coins/images/51464/thumb/finelogo.jpg?1731321281",
+        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x5478B121ceB140F8114E16B16D1752F3b29d514f/logo.png",
         "coingeckoId": "fine-2",
         "listedIn": [
             "coingecko",
+            "joe",
             "lifinance"
         ]
     },
@@ -12191,7 +12192,8 @@
         "coingeckoId": "verified-usd-foundation-usdv",
         "listedIn": [
             "coingecko",
-            "joe"
+            "joe",
+            "lifinance"
         ]
     },
     {
@@ -12550,18 +12552,6 @@
         "decimals": 18,
         "chainId": 43114,
         "logoURI": "https://static.debank.com/image/canto_token/logo_url/0xc71aaf8e486e3f33841bb56ca3fd2ac3fa8d29a8/ba9510019b6fe342763515973115cc3c.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "SURV",
-        "name": "SurvToken",
-        "address": "0x2B6A85CD35D15691357eea61d88cB3f401A92FC3",
-        "decimals": 18,
-        "chainId": 43114,
-        "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -14023,18 +14013,6 @@
         ]
     },
     {
-        "symbol": "BLZZ",
-        "name": "Blizz.Finance Protocol Token",
-        "address": "0x0f34919404a290e71fc6A510cB4a6aCb8D764b24",
-        "decimals": 18,
-        "chainId": 43114,
-        "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x0f34919404a290e71fc6a510cb4a6acb8d764b24/83e8b7be218d09d2380cd0d8af519a1b.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "OOE",
         "name": "OpenOcean",
         "address": "0x0ebd9537A25f56713E34c45b38F421A1e7191469",
@@ -14248,13 +14226,14 @@
     },
     {
         "symbol": "XSEED",
-        "name": "MXS GAMES",
+        "name": "MXS Games",
         "address": "0x0A10D108E2d81ccC793E37b56206C84bF96ddc57",
         "decimals": 18,
         "chainId": 43114,
         "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0A10D108E2d81ccC793E37b56206C84bF96ddc57/logo.png",
         "coingeckoId": "mxs-games",
         "listedIn": [
+            "coingecko",
             "joe",
             "lifinance"
         ]

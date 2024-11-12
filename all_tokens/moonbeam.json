@@ -159,18 +159,6 @@
         ]
     },
     {
-        "symbol": "BNB",
-        "name": "BNB",
-        "address": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
-        "decimals": 18,
-        "chainId": 1284,
-        "logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png?1547034615",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "USDT(Wormhole)",
         "name": "Tether USD",
         "address": "0xc30E9cA94CF52f3Bf5692aaCF81353a27052c46f",
@@ -688,6 +676,18 @@
         "coingeckoId": "multichain-bridged-usdc-moonbeam",
         "listedIn": [
             "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "CONV",
+        "name": "Convergence",
+        "address": "0x8006320739fC281da67Ee62eB9b4Ef8ADD5C903a",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0x8006320739fc281da67ee62eb9b4ef8add5c903a/d91f93fc6e003a6a59dc781082c3f2db.png",
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
