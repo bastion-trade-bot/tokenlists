@@ -9712,6 +9712,18 @@
         ]
     },
     {
+        "symbol": "SY-stk-EPendle",
+        "name": "SY Staked ePENDLE",
+        "address": "0xD302d7fD2c9375a433018fDfA5613Be6Ad3f18E3",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "CMLT-LP",
         "name": "Camelot LP",
         "address": "0xD2A7084369cC93672b2CA868757a9f327e3677a4",
@@ -15960,13 +15972,14 @@
     },
     {
         "symbol": "LSETH",
-        "name": "LSETH",
+        "name": "Liquid Staked ETH",
         "address": "0x8FfD9F31980f26Fbf4ac693678Db700f1d8C51f6",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": "https://storage.googleapis.com/xy-finance-images/token-list/LSETH.webp",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "xyfinance"
         ]
     },
@@ -17276,6 +17289,18 @@
         ]
     },
     {
+        "symbol": "pEUR",
+        "name": "Poison.Finance Euro Potion",
+        "address": "0x845C29AFf2a2C94a54a7f93cB6dA00cA12D36184",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "fUSDT",
         "name": "fUSDT",
         "address": "0x84394C03C9b2d90CC7dC01312c35CdA20ebf3532",
@@ -17405,6 +17430,18 @@
         "decimals": 18,
         "chainId": 42161,
         "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x83bb68a7437b02ebbe1ab2a0e8b464cc5510aafe/e33e3f7b1a1346c09354e341612aa573.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "YT-stk-EPendle-26DEC2024",
+        "name": "YT Staked ePENDLE 26DEC2024",
+        "address": "0x836997Ae68e92F59Da33e8F4A0Ad9f3943193820",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -22514,18 +22551,6 @@
         ]
     },
     {
-        "symbol": "Kelp",
-        "name": "Kelp",
-        "address": "0x605A8f39e4283e60978c4AA2A6C387e09A4B5DE8",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "sWETH-PT-rsETH-26DEC2024",
         "name": "Silo Finance Borrowable WETH Deposit in PT-rsETH-26DEC2024 Silo",
         "address": "0x603062d7cCCc530266eC01A0d3DDaF87015c156e",
@@ -27046,8 +27071,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/37555/thumb/new_logo.jpg?1723247635",
         "coingeckoId": "bebe-dog",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -29847,9 +29871,9 @@
         ]
     },
     {
-        "symbol": "USD0++",
-        "name": "USD0 Liquid Bond",
-        "address": "0x2B65F9d2e4B84a2dF6ff0525741b75d1276a9C2F",
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "address": "0x2B490A737263e99172A35EF85b2B533c3dCCF4E4",
         "decimals": 18,
         "chainId": 42161,
         "logoURI": null,
@@ -29859,10 +29883,10 @@
         ]
     },
     {
-        "symbol": "WETH",
-        "name": "Wrapped Ether",
-        "address": "0x2B490A737263e99172A35EF85b2B533c3dCCF4E4",
-        "decimals": 18,
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "address": "0x2B1A2AF7B0f180119E190E5D74F1eE501f639C56",
+        "decimals": 6,
         "chainId": 42161,
         "logoURI": null,
         "coingeckoId": null,
@@ -34268,7 +34292,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/51366/thumb/1000233806.png?1730910977",
         "coingeckoId": "rcge",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {

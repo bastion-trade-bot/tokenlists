@@ -438,7 +438,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/18581/thumb/soul.jpg?1696518058",
         "coingeckoId": "soul-swap",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -589,7 +590,8 @@
         "logoURI": "https://assets.spooky.fi/tokens/GEIST.png",
         "coingeckoId": null,
         "listedIn": [
-            "SpookySwap"
+            "SpookySwap",
+            "lifinance"
         ]
     },
     {
@@ -653,6 +655,7 @@
         "listedIn": [
             "coingecko",
             "SpookySwap",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -914,6 +917,7 @@
             "coingecko",
             "sushiswap",
             "SpookySwap",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -953,6 +957,7 @@
             "coingecko",
             "sushiswap",
             "SpookySwap",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -978,6 +983,18 @@
         "coingeckoId": "curve-fi-usd-stablecoin-stargate",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "COMB",
+        "name": "Comb Finance",
+        "address": "0xaE45a827625116d6C0C40B5D7359EcF68F8e9AFD",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0xae45a827625116d6c0c40b5d7359ecf68f8e9afd/3106eceed97d27b7d88efe6bb5ee5d5f.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -1279,14 +1296,15 @@
         ]
     },
     {
-        "symbol": "lELK",
-        "name": "Elk Legacy",
+        "symbol": "ELK(old)",
+        "name": "Elk",
         "address": "0xE1C8f3d529BEa8E3fA1FAC5B416335a2f998EE1C",
         "decimals": 18,
         "chainId": 250,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xE1C8f3d529BEa8E3fA1FAC5B416335a2f998EE1C/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1902,7 +1920,8 @@
         "coingeckoId": "bridged-trueusd",
         "listedIn": [
             "coingecko",
-            "SpookySwap"
+            "SpookySwap",
+            "lifinance"
         ]
     },
     {
@@ -2024,7 +2043,8 @@
         "logoURI": "https://assets.spooky.fi/tokens/DAI.png",
         "coingeckoId": null,
         "listedIn": [
-            "SpookySwap"
+            "SpookySwap",
+            "lifinance"
         ]
     },
     {
@@ -2334,6 +2354,7 @@
         "listedIn": [
             "coingecko",
             "SpookySwap",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -2762,6 +2783,7 @@
         "listedIn": [
             "coingecko",
             "SpookySwap",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -2786,7 +2808,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/28965/thumb/mpx_logo_256.png?1696527938",
         "coingeckoId": "mpx",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -2935,6 +2958,18 @@
         "coingeckoId": "octofi",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "sWETH_l",
+        "name": "sWETH_l",
+        "address": "0x62c8359b2734E5DD6AdB528AD2c78159a3f2607E",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x62c8359b2734e5dd6adb528ad2c78159a3f2607e/c719386e1e56a2b19ff745112a84994b.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -3516,7 +3551,8 @@
         "logoURI": "https://assets.spooky.fi/tokens/wBTC.png",
         "coingeckoId": null,
         "listedIn": [
-            "SpookySwap"
+            "SpookySwap",
+            "lifinance"
         ]
     },
     {
@@ -3640,7 +3676,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/50223/thumb/0X3D52BAA6B38F2F61D7F1499AA00F1EB86E916150.png?1726519116",
         "coingeckoId": "crosscurve-stable",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -3726,7 +3763,8 @@
         "logoURI": "https://assets.spooky.fi/tokens/SHADE.png",
         "coingeckoId": null,
         "listedIn": [
-            "SpookySwap"
+            "SpookySwap",
+            "lifinance"
         ]
     },
     {
@@ -3739,6 +3777,18 @@
         "coingeckoId": "geist-ftm",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "PLUS",
+        "name": "PLUS",
+        "address": "0x39551b1c26ce03714E4661833B0FA730174bd7e9",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x39551b1c26ce03714e4661833b0fa730174bd7e9/16e08f53d124b10fac19daecccd841c9.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -4159,6 +4209,7 @@
             "coingecko",
             "sushiswap",
             "SpookySwap",
+            "lifinance",
             "elkfinance"
         ]
     },
