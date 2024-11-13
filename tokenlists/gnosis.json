@@ -62,7 +62,6 @@
         "coingeckoId": "elk-finance",
         "listedIn": [
             "coingecko",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -345,19 +344,6 @@
         ]
     },
     {
-        "symbol": "BCOIN",
-        "name": "Backed Coinbase Global",
-        "address": "0xbbcb0356bB9e6B3Faa5CbF9E5F36185d53403Ac9",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/31872/thumb/b-COIN-200x200.png?1696530684",
-        "coingeckoId": "backed-coinbase-global",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "BNSD",
         "name": "bns.finance on xDai",
         "address": "0xbDB90BDAdae84Af0b07abf4cEFcC7989F909f9bD",
@@ -513,19 +499,6 @@
         "listedIn": [
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "OSGNO",
-        "name": "StakeWise Staked GNO",
-        "address": "0xF490c80aAE5f2616d3e3BDa2483E30C4CB21d1A0",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/39458/thumb/stakewiseosgno_32.webp?1722390395",
-        "coingeckoId": "stakewise-staked-gno-2",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
         ]
     },
     {
@@ -719,19 +692,6 @@
         ]
     },
     {
-        "symbol": "GYD",
-        "name": "Gyroscope GYD",
-        "address": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/33428/thumb/GYD-gradient_resized_transparent.png?1702316822",
-        "coingeckoId": "gyroscope-gyd",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "AMPL",
         "name": "Ampleforth on xDai",
         "address": "0xC84DD5B971521B6C9fA5E10d25E6428b19710e05",
@@ -870,19 +830,6 @@
         "chainId": 100,
         "logoURI": "https://assets.coingecko.com/coins/images/32928/thumb/gno.png?1699826574",
         "coingeckoId": "aave-v3-gno",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "JEUR",
-        "name": "Jarvis Synthetic Euro",
-        "address": "0x9fB1d52596c44603198fB0aee434fac3a679f702",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/15725/thumb/jEUR.png?1696515352",
-        "coingeckoId": "jarvis-synthetic-euro",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -1513,19 +1460,6 @@
         ]
     },
     {
-        "symbol": "NEXT",
-        "name": "Everclear",
-        "address": "0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/31293/thumb/photo_2024-06-03_12-14-59.png?1717638614",
-        "coingeckoId": "connext",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "PTF",
         "name": "PowerTrade Fuel Token on xDai",
         "address": "0x53ef00be819A062533a0E699077c621a28EADEd1",
@@ -1993,6 +1927,19 @@
         ]
     },
     {
+        "symbol": "NPXS",
+        "name": "Pundi X Token on xDai",
+        "address": "0x26dD64bdCB2FaF4F7E49A73145752e8d9cb34C94",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x26dD64bdCB2FaF4F7E49A73145752e8d9cb34C94/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "NEXO",
         "name": "Nexo on xDai",
         "address": "0x26DC03E492763068CCfE7C39B93A22442807C360",
@@ -2072,19 +2019,6 @@
         ]
     },
     {
-        "symbol": "STABAL3",
-        "name": "Balancer Stable USD",
-        "address": "0x2086f52651837600180dE173B09470F54EF74910",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/32112/thumb/bal3.png?1696561317",
-        "coingeckoId": "balancer-stable-usd",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "XMOON",
         "name": "xMOON on xDai",
         "address": "0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A",
@@ -2096,19 +2030,6 @@
             "sushiswap",
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "SPACE",
-        "name": "Space Token",
-        "address": "0x1D1498166DDCEeE616a6d99868e1E0677300056f",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/20676/thumb/jYw3kgsY_400x400.png?1696520076",
-        "coingeckoId": "space-token-bsc",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
         ]
     },
     {
