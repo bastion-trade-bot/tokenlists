@@ -1967,18 +1967,6 @@
         ]
     },
     {
-        "symbol": "AUDF",
-        "name": "Forte AUD",
-        "address": "0xd2a530170D71a9Cfe1651Fb468E2B98F7Ed7456b",
-        "decimals": 6,
-        "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/37837/thumb/Logo_emblem_blue.png?1715742171",
-        "coingeckoId": "forte-aud",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "THAT",
         "name": "THAT",
         "address": "0xd2E57e7019a8faea8b3E4a3738Ee5B269975008A",
@@ -8756,7 +8744,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/4/thumb/peercoin-icon-green-transparent_6x.png?1696501402",
         "coingeckoId": "peercoin",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -20311,9 +20300,8 @@
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://assets.coingecko.com/coins/images/19580/small/13211.png?1635469023",
-        "coingeckoId": "algebra",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "sushiswap",
             "quickswap"
         ]
