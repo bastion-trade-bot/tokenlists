@@ -8670,6 +8670,18 @@
         ]
     },
     {
+        "symbol": "aEthLidosUSDe",
+        "name": "Aave Ethereum Lido sUSDe",
+        "address": "0xc2015641564a5914A17CB9A92eC8d8feCfa8f2D0",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "PAX",
         "name": "PayperEx",
         "address": "0xc1D204d77861dEf49b6E769347a883B15EC397Ff",
@@ -9163,6 +9175,7 @@
         "coingeckoId": "aethir",
         "listedIn": [
             "coingecko",
+            "uniswap",
             "lifinance",
             "xyfinance"
         ]
@@ -19098,8 +19111,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/39083/thumb/Kernel.png?1720456906",
         "coingeckoId": "kernel",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -23419,7 +23431,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/25935/thumb/CHO_%282%29.png?1721039541",
         "coingeckoId": "choise",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -28843,7 +28856,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/31043/thumb/WJyGMMxM_400x400.jpg?1696529878",
         "coingeckoId": "arise-chikun",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -32518,6 +32532,18 @@
         "coingeckoId": "higher-imo",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "LABS",
+        "name": "LABS Group",
+        "address": "0x8b0E42F366bA502d787BB134478aDfAE966C8798",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x8b0e42f366ba502d787bb134478adfae966c8798/9c6d33a0ab2870bbc32338e8683ddf58.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -42423,7 +42449,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/37197/thumb/Hoppy_200x200_.png?1724175711",
         "coingeckoId": "hoppy-meme",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -42537,7 +42564,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/39341/thumb/dinero.jpg?1721807902",
         "coingeckoId": "dinero-2",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -45434,10 +45462,11 @@
         "address": "0x643C4E15d7d62Ad0aBeC4a9BD4b001aA3Ef52d66",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/51232/thumb/IMG_7420.png?1730831572",
+        "logoURI": "https://assets.coingecko.com/coins/images/51232/standard/IMG_7420.png?1730831572",
         "coingeckoId": "syrup",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "uniswap"
         ]
     },
     {
@@ -48473,6 +48502,7 @@
         "coingeckoId": "apu-s-club",
         "listedIn": [
             "coingecko",
+            "uniswap",
             "optimism",
             "lifinance"
         ]
@@ -51657,6 +51687,18 @@
         ]
     },
     {
+        "symbol": "MITx",
+        "name": "Morpheus Infrastructure Token",
+        "address": "0x4a527d8fc13C5203AB24BA0944F4Cb14658D1Db6",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6/541ffccc1febff84bab6ffc9d6e004fc.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "QNT",
         "name": "Quant",
         "address": "0x4a220E6096B25EADb88358cb44068A3248254675",
@@ -52693,6 +52735,18 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/40017/thumb/orangeLogo..png?1725344586",
         "coingeckoId": "resolv-rlp",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "DOGECAST",
+        "name": "Dogecast",
+        "address": "0x4955f6641bf9C8C163604c321f4B36E988698f75",
+        "decimals": 9,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/51768/thumb/DogeCast_Logo.jpg?1731935881",
+        "coingeckoId": "dogecast",
         "listedIn": [
             "coingecko"
         ]
@@ -55114,6 +55168,18 @@
         "coingeckoId": "towelie",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "DOGE",
+        "name": "Dogecoin",
+        "address": "0x4206931337dc273a630d328dA6441786BfaD668f",
+        "decimals": 8,
+        "chainId": 1,
+        "logoURI": "https://static.debank.com/image/brise_token/logo_url/0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844/cdf855bb80112fa7da4fd2354e27a1ca.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -64494,7 +64560,8 @@
         "coingeckoId": "genomesdao",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -66741,7 +66808,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/38051/thumb/popotrans.jpg?1716403044",
         "coingeckoId": "popo",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -74382,6 +74450,18 @@
         "coingeckoId": "asterix",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "GST2",
+        "name": "Gastoken.io",
+        "address": "0x0000000000b3F879cb30FE243b4Dfee438691c04",
+        "decimals": 2,
+        "chainId": 1,
+        "logoURI": "https://static.debank.com/image/token/logo_url/0x0000000000b3f879cb30fe243b4dfee438691c04/628c8a560339f732c2bc869c19de3173.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
