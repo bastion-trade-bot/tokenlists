@@ -101,8 +101,7 @@
         "coingeckoId": "real-smurf-cat",
         "listedIn": [
             "coingecko",
-            "optimism",
-            "lifinance"
+            "optimism"
         ]
     },
     {
@@ -117,6 +116,7 @@
             "coingecko",
             "uniswap",
             "sushiswap",
+            "optimism",
             "lifinance",
             "xyfinance",
             "elkfinance"
@@ -2922,6 +2922,19 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "VMPX",
+        "name": "VMPX",
+        "address": "0xb48Eb8368c9C6e9b0734de1Ef4ceB9f484B80b9C",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/32001/thumb/vmpx.jpg?1732098171",
+        "coingeckoId": "vmpx-erc20",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -13426,19 +13439,6 @@
         ]
     },
     {
-        "symbol": "XTP",
-        "name": "Tap",
-        "address": "0x6368e1E18c4C419DDFC608A0BEd1ccb87b9250fc",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/10291/thumb/0_3SJYkk_400x400.jpg?1696510296",
-        "coingeckoId": "tap",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "DHV",
         "name": "DeHive",
         "address": "0x62Dc4817588d53a056cBbD18231d91ffCcd34b2A",
@@ -16867,10 +16867,11 @@
         "address": "0x3D3D35bb9bEC23b06Ca00fe472b50E7A4c692C30",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/12219/thumb/VIDYA_TOKEN.png?1696512053",
+        "logoURI": "https://ethereum-optimism.github.io/data/VIDYA/logo.svg",
         "coingeckoId": "vidya",
         "listedIn": [
             "coingecko",
+            "optimism",
             "lifinance"
         ]
     },
@@ -19091,6 +19092,7 @@
         "coingeckoId": "ovr",
         "listedIn": [
             "coingecko",
+            "optimism",
             "arbitrum_bridge",
             "lifinance"
         ]
@@ -19118,7 +19120,8 @@
         "coingeckoId": "genomesdao",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -19731,19 +19734,6 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/24163/thumb/steth.jpg?1696523352",
         "coingeckoId": "aave-interest-bearing-steth",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "POPO",
-        "name": "POPO",
-        "address": "0x195bE8ee12AA1591902C4232B5B25017A9cBBDeA",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/38051/thumb/popotrans.jpg?1716403044",
-        "coingeckoId": "popo",
         "listedIn": [
             "coingecko",
             "lifinance"

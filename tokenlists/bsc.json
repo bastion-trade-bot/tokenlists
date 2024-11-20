@@ -908,7 +908,8 @@
         "coingeckoId": "froyo-games",
         "listedIn": [
             "coingecko",
-            "pancake"
+            "pancake",
+            "lifinance"
         ]
     },
     {
@@ -8001,6 +8002,19 @@
         ]
     },
     {
+        "symbol": "LBL",
+        "name": "LABEL AI",
+        "address": "0x77edFaE59a7948d66E9911A30cC787d2172343d4",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/19202/thumb/ava-black-on-white.jpg?1718761857",
+        "coingeckoId": "label-foundation",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "LAZIO",
         "name": "Lazio Fan Token",
         "address": "0x77d547256A2cD95F32F67aE0313E450Ac200648d",
@@ -8526,6 +8540,19 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/27131/thumb/seedify.jpg?1696526183",
         "coingeckoId": "snfts-seedify-nft-space",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "BRG",
+        "name": "Bridge Oracle",
+        "address": "0x6e4a971B81CA58045a2AA982EaA3d50C4Ac38F42",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/12512/thumb/brg.png?1696512327",
+        "coingeckoId": "bridge-oracle",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -9059,19 +9086,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/33522/thumb/seed_%28200_x_200_px%29.png?1702133922",
         "coingeckoId": "seed-photo",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "USDCPO",
-        "name": "Bridged USD Coin  Wormhole POS ",
-        "address": "0x672147dD47674757C457eB155BAA382cc10705Dd",
-        "decimals": 6,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/22945/thumb/USDCpo_wh_small.png?1696522242",
-        "coingeckoId": "usd-coin-pos-wormhole",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -12267,14 +12281,13 @@
     },
     {
         "symbol": "TAP",
-        "name": "Tap Fantasy",
+        "name": "TAP Coin",
         "address": "0x35bEdBF9291b22218a0dA863170dcC9329Ef2563",
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17718.png",
-        "coingeckoId": "tap-fantasy",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "lifinance",
             "xyfinance"
         ]
