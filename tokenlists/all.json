@@ -884,8 +884,20 @@
             "coingeckoId": null,
             "listedIn": [
                 "sushiswap",
-                "arbitrum_bridge",
-                "lifinance"
+                "arbitrum_bridge"
+            ]
+        },
+        {
+            "symbol": "CBBTC",
+            "name": "Coinbase Wrapped BTC",
+            "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+            "decimals": 8,
+            "chainId": 42161,
+            "logoURI": "https://assets.coingecko.com/coins/images/40143/large/cbbtc.webp",
+            "coingeckoId": "coinbase-wrapped-btc",
+            "listedIn": [
+                "coingecko",
+                "uniswap"
             ]
         },
         {
@@ -6601,19 +6613,6 @@
             ]
         },
         {
-            "symbol": "PCA",
-            "name": "Purchasa",
-            "address": "0xe700BA35998faD8e669e3CCa7b3A350F1FDcACF8",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://assets.coingecko.com/coins/images/28951/thumb/PCA.png?1696527924",
-            "coingeckoId": "purchasa",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "KOGE",
             "name": "KOGE",
             "address": "0xe6DF05CE8C8301223373CF5B969AFCb1498c5528",
@@ -9509,6 +9508,19 @@
             ]
         },
         {
+            "symbol": "H2ON",
+            "name": "H2O Securities",
+            "address": "0xE0E81c29A68bFDd7c48072fD94e7c58F1f0146C1",
+            "decimals": 18,
+            "chainId": 56,
+            "logoURI": "https://assets.coingecko.com/coins/images/26326/thumb/H2ON_logo_200_200.png?1696525408",
+            "coingeckoId": "h2o-securities",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "BAKE",
             "name": "BakerySwap",
             "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
@@ -12229,6 +12241,19 @@
             "chainId": 56,
             "logoURI": "https://assets.coingecko.com/coins/images/26618/thumb/icon_200.png?1696525691",
             "coingeckoId": "betswirl",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "DRF",
+            "name": "Drife  OLD ",
+            "address": "0x9400Aa8eb5126d20CDE45C7822836BFB70F19878",
+            "decimals": 18,
+            "chainId": 56,
+            "logoURI": "https://assets.coingecko.com/coins/images/17566/thumb/DRIFE_Logo_2_4x.png?1724789292",
+            "coingeckoId": "drife",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -26891,6 +26916,19 @@
             ]
         },
         {
+            "symbol": "MUT",
+            "name": "MUT",
+            "address": "0xe4FeAb21b42919C5C960ed2B4BdFFc521E26881f",
+            "decimals": 18,
+            "chainId": 137,
+            "logoURI": "https://assets.coingecko.com/coins/images/51817/thumb/logotipo_MUT_Aid01_fundo.png?1732034596",
+            "coingeckoId": "mut",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "DODO",
             "name": "DODO",
             "address": "0xe4Bf2864ebeC7B7fDf6Eeca9BaCAe7cDfDAffe78",
@@ -30359,19 +30397,6 @@
             "chainId": 137,
             "logoURI": "https://assets.coingecko.com/coins/images/26618/thumb/icon_200.png?1696525691",
             "coingeckoId": "betswirl",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "ROUTE",
-            "name": "Router Protocol",
-            "address": "0x93890f346C5D02C3863a06657bc72555dC72c527",
-            "decimals": 18,
-            "chainId": 137,
-            "logoURI": "https://assets.coingecko.com/coins/images/39474/thumb/router.jpg?1722425047",
-            "coingeckoId": "router-protocol-2",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -37880,19 +37905,6 @@
             ]
         },
         {
-            "symbol": "OH",
-            "name": "Oh  Finance",
-            "address": "0x937E077aBaEA52d3abf879c9b9d3f2eBd15BAA21",
-            "decimals": 18,
-            "chainId": 43114,
-            "logoURI": "https://assets.coingecko.com/coins/images/19493/thumb/oh-token-logo-200.png?1696518929",
-            "coingeckoId": "oh-finance",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "SLOT",
             "name": "Snowtomb LOT",
             "address": "0x924157B5dbB387A823719916B25256410a4Ad470",
@@ -38894,7 +38906,8 @@
             "coingeckoId": "arrow-token",
             "listedIn": [
                 "coingecko",
-                "joe"
+                "joe",
+                "lifinance"
             ]
         },
         {
@@ -40011,8 +40024,7 @@
             "listedIn": [
                 "coingecko",
                 "joe",
-                "pangolin",
-                "lifinance"
+                "pangolin"
             ]
         },
         {
@@ -45681,7 +45693,7 @@
             "address": "0xe50E009Ddb1A4d8Ec668EAc9D8b2dF1F96348707",
             "decimals": 18,
             "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/50886/thumb/_CTRL.png?1729499837",
+            "logoURI": "https://assets.coingecko.com/coins/images/50886/thumb/_CTRL_%282%29.png?1732046254",
             "coingeckoId": "ctrl-wallet",
             "listedIn": [
                 "coingecko",
@@ -49993,6 +50005,19 @@
             "chainId": 1,
             "logoURI": "https://assets.coingecko.com/coins/images/13459/thumb/cbk-128-128.png?1696513222",
             "coingeckoId": "cobak-token",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "KERN",
+            "name": "Kernel",
+            "address": "0xD7fC610F6595b3aA6E24466b5cA166D10a0fbdcb",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/39083/thumb/Kernel.png?1720456906",
+            "coingeckoId": "kernel",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -65445,8 +65470,7 @@
             "listedIn": [
                 "coingecko",
                 "optimism",
-                "arbitrum_bridge",
-                "lifinance"
+                "arbitrum_bridge"
             ]
         },
         {

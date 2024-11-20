@@ -456,8 +456,20 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
-            "arbitrum_bridge",
-            "lifinance"
+            "arbitrum_bridge"
+        ]
+    },
+    {
+        "symbol": "CBBTC",
+        "name": "Coinbase Wrapped BTC",
+        "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+        "decimals": 8,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/40143/large/cbbtc.webp",
+        "coingeckoId": "coinbase-wrapped-btc",
+        "listedIn": [
+            "coingecko",
+            "uniswap"
         ]
     },
     {
