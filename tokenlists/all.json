@@ -3511,6 +3511,19 @@
             ]
         },
         {
+            "symbol": "UNIBTC",
+            "name": "Universal BTC",
+            "address": "0x6B2a01A5f79dEb4c2f3c0eDa7b01DF456FbD726a",
+            "decimals": 8,
+            "chainId": 42161,
+            "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455",
+            "coingeckoId": "universal-btc",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "DOLA",
             "name": "DOLA",
             "address": "0x6A7661795C374c0bFC635934efAddFf3A7Ee23b6",
@@ -5022,19 +5035,6 @@
             ]
         },
         {
-            "symbol": "DERI",
-            "name": "Deri Protocol",
-            "address": "0x21E60EE73F17AC0A411ae5D690f908c3ED66Fe12",
-            "decimals": 18,
-            "chainId": 42161,
-            "logoURI": "https://assets.coingecko.com/coins/images/13931/thumb/200vs200.jpg?1696513670",
-            "coingeckoId": "deri-protocol",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "BDT",
             "name": "BlackDragon",
             "address": "0x21CCbc5e7f353EC43b2F5b1Fb12c3E9D89D30Dca",
@@ -5697,6 +5697,19 @@
             "chainId": 42161,
             "logoURI": "https://assets.coingecko.com/coins/images/32883/thumb/wbtc.png?1699719908",
             "coingeckoId": "aave-v3-wbtc",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "SMURFCAT",
+            "name": "Real Smurf Cat",
+            "address": "0x06e90A57D1ECe8752d6CE92D1aD348EaD5Eae4f4",
+            "decimals": 18,
+            "chainId": 42161,
+            "logoURI": "https://assets.coingecko.com/coins/images/31751/thumb/SMURFCAT.png?1708079642",
+            "coingeckoId": "real-smurf-cat",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -8070,6 +8083,19 @@
             ]
         },
         {
+            "symbol": "FAML",
+            "name": "FAML",
+            "address": "0xb1eE6FdD6ECEC9EEBB8368839684f9BCF2F52076",
+            "decimals": 18,
+            "chainId": 56,
+            "logoURI": "https://assets.coingecko.com/coins/images/51916/thumb/IMG_20241120_181215_920.jpg?1732178889",
+            "coingeckoId": "faml",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "AAST",
             "name": "AASToken",
             "address": "0xb1E998b346DDDacD06f01db50645bE52DafB93db",
@@ -10379,8 +10405,7 @@
             "coingeckoId": "level-governance",
             "listedIn": [
                 "coingecko",
-                "pancake",
-                "lifinance"
+                "pancake"
             ]
         },
         {
@@ -13168,11 +13193,11 @@
         },
         {
             "symbol": "SERSH",
-            "name": "Serenity Shield",
+            "name": "Serenity",
             "address": "0x84affEEf925Cdce87f8A99B7b2E540dA5140Fc09",
             "decimals": 18,
             "chainId": 56,
-            "logoURI": "https://assets.coingecko.com/coins/images/33744/thumb/Serenity_Shield_-_Full_Colour_-_Brand_Mark_%281%29.png?1702906970",
+            "logoURI": "https://assets.coingecko.com/coins/images/33744/thumb/LogoSerenity.png?1732186312",
             "coingeckoId": "serenity-shield",
             "listedIn": [
                 "coingecko",
@@ -14667,14 +14692,15 @@
             ]
         },
         {
-            "symbol": "uniBTC",
-            "name": "uniBTC",
+            "symbol": "UNIBTC",
+            "name": "Universal BTC",
             "address": "0x6B2a01A5f79dEb4c2f3c0eDa7b01DF456FbD726a",
             "decimals": 8,
             "chainId": 56,
             "logoURI": "https://tokens.pancakeswap.finance/images/0x6B2a01A5f79dEb4c2f3c0eDa7b01DF456FbD726a.png",
-            "coingeckoId": null,
+            "coingeckoId": "universal-btc",
             "listedIn": [
+                "coingecko",
                 "pancake",
                 "lifinance"
             ]
@@ -18075,6 +18101,19 @@
             "chainId": 56,
             "logoURI": "https://assets.coingecko.com/coins/images/27065/thumb/%E8%93%9D%E8%89%B21.png?1726165468",
             "coingeckoId": "genesis-universe",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "APAD",
+            "name": "Anypad",
+            "address": "0x366d71ab095735b7Dae83ce2b82D5262ef655F10",
+            "decimals": 18,
+            "chainId": 56,
+            "logoURI": "https://assets.coingecko.com/coins/images/18385/thumb/vxBgiYKj_400x400.png?1696517876",
+            "coingeckoId": "anypad",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -22892,15 +22931,14 @@
             ]
         },
         {
-            "symbol": "XTAROT",
+            "symbol": "xTAROT",
             "name": "Staked TAROT",
             "address": "0x74D1D2A851e339B8cB953716445Be7E8aBdf92F4",
             "decimals": 18,
             "chainId": 250,
             "logoURI": "https://assets.spooky.fi/tokens/xTAROT.png",
-            "coingeckoId": "staked-tarot",
+            "coingeckoId": null,
             "listedIn": [
-                "coingecko",
                 "SpookySwap",
                 "lifinance"
             ]
@@ -23064,19 +23102,6 @@
             "chainId": 250,
             "logoURI": "https://assets.coingecko.com/coins/images/28965/thumb/mpx_logo_256.png?1696527938",
             "coingeckoId": "mpx",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "GOGLZ",
-            "name": "GOGGLES",
-            "address": "0x662B3d319e693aA578EDd4BD8a5c9395BC49e9F4",
-            "decimals": 18,
-            "chainId": 250,
-            "logoURI": "https://assets.coingecko.com/coins/images/50715/thumb/goglz.png?1728792679",
-            "coingeckoId": "goggles",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -34258,6 +34283,19 @@
             ]
         },
         {
+            "symbol": "AXIAV3",
+            "name": "Axia",
+            "address": "0x49690541E3f6E933A9aa3cFFEe6010a7BB5B72d7",
+            "decimals": 18,
+            "chainId": 137,
+            "logoURI": "https://assets.coingecko.com/coins/images/12906/thumb/axia_200x200.png?1696512694",
+            "coingeckoId": "axia",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "MEAN",
             "name": "Mean DAO",
             "address": "0x4867B60aD7C6aDc98653f661f1AEA31740986bA5",
@@ -36371,7 +36409,8 @@
             "coingeckoId": "milk",
             "listedIn": [
                 "coingecko",
-                "quickswap"
+                "quickswap",
+                "lifinance"
             ]
         },
         {
@@ -44719,6 +44758,19 @@
             ]
         },
         {
+            "symbol": "GEAR(Bitgear)",
+            "name": "Bitgear on xDai",
+            "address": "0x6f09CF96558d44584dB07f8477Dd3490599aA63E",
+            "decimals": 18,
+            "chainId": 100,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x6f09CF96558d44584dB07f8477Dd3490599aA63E/logo.png",
+            "coingeckoId": null,
+            "listedIn": [
+                "lifinance",
+                "elkfinance"
+            ]
+        },
+        {
             "symbol": "DOUGH",
             "name": "PieDAO DOUGH v2 on xDai",
             "address": "0x6d237bb2248d3b40b1a54F3417667B2f39984fC8",
@@ -45815,7 +45867,8 @@
             "coingeckoId": "real-smurf-cat",
             "listedIn": [
                 "coingecko",
-                "optimism"
+                "optimism",
+                "lifinance"
             ]
         },
         {
@@ -48627,6 +48680,19 @@
             ]
         },
         {
+            "symbol": "NIZA",
+            "name": "Niza Global",
+            "address": "0xb58E26ac9cc14c0422C2b419b0CA555Ee4DcB7CB",
+            "decimals": 9,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/32328/thumb/NizaCoin-logo-transaprent.png?1697451581",
+            "coingeckoId": "niza-global",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "YETI",
             "name": "Yearn Ecosystem Token Index",
             "address": "0xb4bebD34f6DaaFd808f73De0d10235a92Fbb6c3D",
@@ -48975,6 +49041,19 @@
             "listedIn": [
                 "coingecko",
                 "optimism",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "DOV",
+            "name": "Dovu  OLD ",
+            "address": "0xac3211a5025414Af2866FF09c23FC18bc97e79b1",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/1072/thumb/dove.png?1696502174",
+            "coingeckoId": "dovu",
+            "listedIn": [
+                "coingecko",
                 "lifinance"
             ]
         },
@@ -53441,6 +53520,19 @@
             ]
         },
         {
+            "symbol": "THEOS",
+            "name": "Theos",
+            "address": "0x9e10f61749c4952C320412A6B26901605Ff6Da1d",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/18150/thumb/theos_logo.png?1696517652",
+            "coingeckoId": "theos",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "YVBOOST",
             "name": "Yearn Compounding veCRV yVault",
             "address": "0x9d409a0A012CFbA9B15F6D4B36Ac57A46966Ab9a",
@@ -55819,7 +55911,8 @@
             "listedIn": [
                 "coingecko",
                 "sushiswap",
-                "arbitrum_bridge"
+                "arbitrum_bridge",
+                "lifinance"
             ]
         },
         {
@@ -58887,7 +58980,7 @@
             "address": "0x669c01CAF0eDcaD7c2b8Dc771474aD937A7CA4AF",
             "decimals": 18,
             "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/29011/thumb/CoinGeko_icon_%28500x500%29.png?1696527982",
+            "logoURI": "https://assets.coingecko.com/coins/images/29011/thumb/wM.png?1732174336",
             "coingeckoId": "wrapped-minima",
             "listedIn": [
                 "coingecko",
@@ -65644,6 +65737,19 @@
             ]
         },
         {
+            "symbol": "YPIE",
+            "name": "PieDAO Yearn Ecosystem Pie",
+            "address": "0x17525E4f4Af59fbc29551bC4eCe6AB60Ed49CE31",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ypie.jpg",
+            "coingeckoId": null,
+            "listedIn": [
+                "sushiswap",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "TCAP",
             "name": "Total Crypto Market Cap Token",
             "address": "0x16c52CeeCE2ed57dAd87319D91B5e3637d50aFa4",
@@ -66776,6 +66882,19 @@
             "listedIn": [
                 "coingecko",
                 "sushiswap",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "DOS",
+            "name": "DOS Network",
+            "address": "0x0A913beaD80F321E7Ac35285Ee10d9d922659cB7",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/7991/thumb/DOS.png?1696508217",
+            "coingeckoId": "dos-network",
+            "listedIn": [
+                "coingecko",
                 "lifinance"
             ]
         },
