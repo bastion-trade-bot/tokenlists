@@ -897,7 +897,8 @@
             "coingeckoId": "coinbase-wrapped-btc",
             "listedIn": [
                 "coingecko",
-                "uniswap"
+                "uniswap",
+                "lifinance"
             ]
         },
         {
@@ -11417,19 +11418,6 @@
             "chainId": 56,
             "logoURI": "https://assets.coingecko.com/coins/images/33734/thumb/photo_2023-12-16_02-16-34.jpg?1702891393",
             "coingeckoId": "truth-pay",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "BHIVE",
-            "name": "bHIVE",
-            "address": "0x9faF07D1FBC130D698e227E50D1Fb72657c0A342",
-            "decimals": 3,
-            "chainId": 56,
-            "logoURI": "https://assets.coingecko.com/coins/images/27596/thumb/hive.png?1696526627",
-            "coingeckoId": "bhive",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -28535,6 +28523,19 @@
             ]
         },
         {
+            "symbol": "TAMA",
+            "name": "Tamadoge",
+            "address": "0xc61f39418cd27820b5D4E9Ba4a7197eefAEB8b05",
+            "decimals": 18,
+            "chainId": 137,
+            "logoURI": "https://assets.coingecko.com/coins/images/27501/thumb/CaltNDWu_400x400.jpeg?1696526541",
+            "coingeckoId": "tamadoge",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "HOP",
             "name": "Hop Protocol",
             "address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
@@ -33733,19 +33734,6 @@
             ]
         },
         {
-            "symbol": "BOBC",
-            "name": "Bobcoin",
-            "address": "0x590eb2920486486c2D9Bb3EB651f73b81df87bcf",
-            "decimals": 18,
-            "chainId": 137,
-            "logoURI": "https://assets.coingecko.com/coins/images/24264/thumb/bobc.png?1696523448",
-            "coingeckoId": "bobcoin",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "NEXT",
             "name": "Everclear",
             "address": "0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8",
@@ -34270,19 +34258,6 @@
             ]
         },
         {
-            "symbol": "AXIAV3",
-            "name": "Axia",
-            "address": "0x49690541E3f6E933A9aa3cFFEe6010a7BB5B72d7",
-            "decimals": 18,
-            "chainId": 137,
-            "logoURI": "https://assets.coingecko.com/coins/images/12906/thumb/axia_200x200.png?1696512694",
-            "coingeckoId": "axia",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "MEAN",
             "name": "Mean DAO",
             "address": "0x4867B60aD7C6aDc98653f661f1AEA31740986bA5",
@@ -34747,8 +34722,7 @@
             "coingeckoId": "krida-fans",
             "listedIn": [
                 "coingecko",
-                "dfyn",
-                "lifinance"
+                "dfyn"
             ]
         },
         {
@@ -37302,6 +37276,19 @@
                 "coingecko",
                 "pangolin",
                 "xyfinance"
+            ]
+        },
+        {
+            "symbol": "UNI(old avax bridge)",
+            "name": "Uniswap",
+            "address": "0xf39f9671906d8630812f9d9863bBEf5D523c84Ab",
+            "decimals": 18,
+            "chainId": 43114,
+            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/avax/0xf39f9671906d8630812f9d9863bBEf5D523c84Ab/logo.png",
+            "coingeckoId": null,
+            "listedIn": [
+                "lifinance",
+                "elkfinance"
             ]
         },
         {
@@ -41104,8 +41091,7 @@
             "listedIn": [
                 "coingecko",
                 "joe",
-                "pangolin",
-                "lifinance"
+                "pangolin"
             ]
         },
         {
@@ -41567,7 +41553,6 @@
             "coingeckoId": "riverboat",
             "listedIn": [
                 "coingecko",
-                "lifinance",
                 "elkfinance"
             ]
         },
@@ -53914,7 +53899,7 @@
             "address": "0x9ABFc0f085C82Ec1Be31D30843965FCC63053fFe",
             "decimals": 9,
             "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/33177/thumb/C33809C9-D900-437D-A78A-52A8C48423AA.jpeg?1700924002",
+            "logoURI": "https://assets.coingecko.com/coins/images/33177/thumb/Icon.Color1.jpg?1732134044",
             "coingeckoId": "qstar",
             "listedIn": [
                 "coingecko",
@@ -65655,19 +65640,6 @@
             "coingeckoId": "gambex",
             "listedIn": [
                 "coingecko",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "YPIE",
-            "name": "PieDAO Yearn Ecosystem Pie",
-            "address": "0x17525E4f4Af59fbc29551bC4eCe6AB60Ed49CE31",
-            "decimals": 18,
-            "chainId": 1,
-            "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ypie.jpg",
-            "coingeckoId": null,
-            "listedIn": [
-                "sushiswap",
                 "lifinance"
             ]
         },
