@@ -2433,8 +2433,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/27501/thumb/CaltNDWu_400x400.jpeg?1696526541",
         "coingeckoId": "tamadoge",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -2872,7 +2871,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/15727/thumb/jCHF.png?1696515353",
         "coingeckoId": "jarvis-synthetic-swiss-franc",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -3868,7 +3868,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/35834/thumb/BloodCrystalToken_200x200.png?1709888447",
         "coingeckoId": "blood-crystal",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -4166,6 +4167,7 @@
         "coingeckoId": null,
         "listedIn": [
             "dfyn",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -4985,6 +4987,18 @@
         "coingeckoId": "jugni",
         "listedIn": [
             "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "jCHFx",
+        "name": "Super jCHF",
+        "address": "0xE2d04ab74eed9627c828B3fc10e5fC96FAE70348",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://raw.githubusercontent.com/superfluid-finance/assets/master/public/tokens/jchf/icon.svg",
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
@@ -10043,6 +10057,7 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -12996,7 +13011,8 @@
         "coingeckoId": "jarvis-reward-token",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -17010,6 +17026,18 @@
         ]
     },
     {
+        "symbol": "EvoX",
+        "name": "Evo Exchange(PoS)",
+        "address": "0x2746C4637926577ad53092656f4c4525dd111794",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "CTSI",
         "name": "Cartesi",
         "address": "0x2727Ab1c2D22170ABc9b595177B2D5C6E1Ab7B7B",
@@ -20130,6 +20158,7 @@
         "listedIn": [
             "coingecko",
             "dfyn",
+            "lifinance",
             "elkfinance"
         ]
     },
