@@ -999,13 +999,14 @@
     },
     {
         "symbol": "ZUT",
-        "name": "ZeroUtility",
+        "name": "ZeroUtility (PoS)",
         "address": "0xe86E8beb7340659DDDCE61727E500e3A5aD75a90",
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xe86E8beb7340659DDDCE61727E500e3A5aD75a90/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -2860,6 +2861,18 @@
         "coingeckoId": "glitch-protocol",
         "listedIn": [
             "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "FRACTION",
+        "name": "Own a fraction",
+        "address": "0xbD80CFA9d93A87D1bb895f810ea348E496611cD4",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
@@ -10855,7 +10868,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/21691/thumb/DBD-icon_200x200_%281%29.png?1696521046",
         "coingeckoId": "day-by-day",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -13987,18 +14001,6 @@
         ]
     },
     {
-        "symbol": "FXY",
-        "name": "Floxypay",
-        "address": "0x4Ec465D5DB20A01Bc8404dc84f33bb7A398B8335",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/30702/thumb/mNfZxsg__400x400.jpg?1696529574",
-        "coingeckoId": "floxypay",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "ibBTC",
         "name": "Interest-Bearing BTC",
         "address": "0x4EaC4c4e9050464067D673102F8E24b2FccEB350",
@@ -15081,8 +15083,7 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x3f717919deF69f81d17b80839bf8af35697ccbFa/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "sushiswap",
-            "lifinance"
+            "sushiswap"
         ]
     },
     {
