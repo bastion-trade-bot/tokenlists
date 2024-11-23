@@ -441,13 +441,14 @@
         "address": "0xdc301622e621166BD8E82f2cA0A26c13Ad0BE355",
         "decimals": 18,
         "chainId": 250,
-        "logoURI": "https://assets.spooky.fi/tokens/FRAX.png",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xdc301622e621166bd8e82f2ca0a26c13ad0be355/logo.png",
         "coingeckoId": "frax",
         "listedIn": [
             "coingecko",
             "sushiswap",
             "SpookySwap",
-            "lifinance"
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
@@ -908,18 +909,6 @@
         "coingeckoId": "wagmi-2",
         "listedIn": [
             "coingecko"
-        ]
-    },
-    {
-        "symbol": "FRAX",
-        "name": "Frax",
-        "address": "0xaf319E5789945197e365E7f7fbFc56B130523B33",
-        "decimals": 18,
-        "chainId": 250,
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xaf319E5789945197e365E7f7fbFc56B130523B33/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "elkfinance"
         ]
     },
     {
@@ -1462,6 +1451,7 @@
         "coingeckoId": null,
         "listedIn": [
             "SpookySwap",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -4011,7 +4001,8 @@
         "logoURI": "https://assets.spooky.fi/tokens/SHADE.png",
         "coingeckoId": null,
         "listedIn": [
-            "SpookySwap"
+            "SpookySwap",
+            "lifinance"
         ]
     },
     {
@@ -4639,6 +4630,18 @@
             "SpookySwap",
             "lifinance",
             "elkfinance"
+        ]
+    },
+    {
+        "symbol": "MUNNY",
+        "name": "Munny",
+        "address": "0x195FE0c899434fB47Cd6c1A09ba9DA56A1Cca12C",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {

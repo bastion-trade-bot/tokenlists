@@ -201,13 +201,14 @@
         "address": "0xdc301622e621166BD8E82f2cA0A26c13Ad0BE355",
         "decimals": 18,
         "chainId": 250,
-        "logoURI": "https://assets.spooky.fi/tokens/FRAX.png",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0xdc301622e621166bd8e82f2ca0a26c13ad0be355/logo.png",
         "coingeckoId": "frax",
         "listedIn": [
             "coingecko",
             "sushiswap",
             "SpookySwap",
-            "lifinance"
+            "lifinance",
+            "elkfinance"
         ]
     },
     {
@@ -694,6 +695,7 @@
         "coingeckoId": null,
         "listedIn": [
             "SpookySwap",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1935,6 +1937,19 @@
         "coingeckoId": "equalizer-dex",
         "listedIn": [
             "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "SHADE",
+        "name": "ShadeToken",
+        "address": "0x3A3841f5fa9f2c283EA567d5Aeea3Af022dD2262",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://assets.spooky.fi/tokens/SHADE.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "SpookySwap",
             "lifinance"
         ]
     },

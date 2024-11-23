@@ -342,6 +342,18 @@
         ]
     },
     {
+        "symbol": "INANKRETH",
+        "name": "Inception ankrETH",
+        "address": "0xfa2629B9cF3998D52726994E0FcdB750224D8B9D",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/34952/thumb/ankrETH.png?1706772250",
+        "coingeckoId": "inception-restaked-ankreth",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "LUN",
         "name": "Lunyr",
         "address": "0xfa05A73FfE78ef8f1a739473e462c54bae6567D9",
@@ -617,18 +629,6 @@
         "listedIn": [
             "coingecko",
             "uniswap",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "ONS",
-        "name": "OnX onStable Token",
-        "address": "0xfC97C0c12438B6E4CF246cD831b02FeF4950DCAD",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
             "lifinance"
         ]
     },
@@ -7437,8 +7437,7 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xcBc1065255cBc3aB41a6868c22d1f1C573AB89fd/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "sushiswap",
-            "lifinance"
+            "sushiswap"
         ]
     },
     {
@@ -10771,7 +10770,7 @@
         "address": "0xb48Eb8368c9C6e9b0734de1Ef4ceB9f484B80b9C",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/32001/thumb/vmpx.jpg?1732098171",
+        "logoURI": "https://assets.coingecko.com/coins/images/32001/thumb/VMPX_ICON_2.png?1732309699",
         "coingeckoId": "vmpx-erc20",
         "listedIn": [
             "coingecko",
@@ -15106,6 +15105,18 @@
         ]
     },
     {
+        "symbol": "SUSDN",
+        "name": "seed USDN",
+        "address": "0xF67e2dC041b8A3c39d066037d29f500757b1e886",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/51987/thumb/usdn-logo.webp?1732293624",
+        "coingeckoId": "seed-usdn",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "XIDO",
         "name": "Xido Finance",
         "address": "0xF6650117017FFD48B725B4EC5A00B414097108A7",
@@ -15936,6 +15947,18 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/38136/thumb/bomeney_logo_final.jpg?1717288676",
         "coingeckoId": "b-money",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "SLAP",
+        "name": "CatSlap",
+        "address": "0xF107edABF59ba696E38DE62Ad5327415Bd4D4236",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/51985/thumb/Cat_Slap_200x200_Logo_1.png?1732292609",
+        "coingeckoId": "catslap",
         "listedIn": [
             "coingecko"
         ]
@@ -19715,7 +19738,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14084/thumb/polkamarkets.jpg?1696513807",
         "coingeckoId": "polkamarkets",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -21527,7 +21551,8 @@
         "coingeckoId": "arc",
         "listedIn": [
             "coingecko",
-            "optimism"
+            "optimism",
+            "lifinance"
         ]
     },
     {
@@ -22484,18 +22509,6 @@
         "coingeckoId": "titan-2",
         "listedIn": [
             "coingecko"
-        ]
-    },
-    {
-        "symbol": "onETH",
-        "name": "OnX Ethereum Stablecoin",
-        "address": "0xC1330aCBbcE97cb9695B7ee161c0F95B875a8b0F",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
         ]
     },
     {
@@ -23525,8 +23538,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/16429/thumb/Tjq3pXEH_400x400.jpg?1696516025",
         "coingeckoId": "boringdao",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -28507,6 +28519,18 @@
         "decimals": 18,
         "chainId": 1,
         "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x9d0b65a76274645b29e4cc41b8f23081fa09f4a3/66c6d4ff4ad2c7b98a87da123569824e.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "TEE (meme from teeheehe.xyz)",
+        "name": "Tee_Hee_He",
+        "address": "0x9D09bCF1784eC43f025d3ee071e5b632679a01bA",
+        "decimals": 9,
+        "chainId": 1,
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x9d09bcf1784ec43f025d3ee071e5b632679a01ba/3cd53e4ad13f0e9d57d66fbfda576864.png",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -33989,18 +34013,6 @@
         ]
     },
     {
-        "symbol": "vETH2",
-        "name": "validator-Eth2",
-        "address": "0x898BAD2774EB97cF6b94605677F43b41871410B1",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "LEMON",
         "name": "Lemonrocks",
         "address": "0x898843Fb909e3562C82F2B96F4e3d0693Af041Df",
@@ -34181,8 +34193,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/39214/thumb/1000008640.jpg?1721107633",
         "coingeckoId": "movemovecoin",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -35337,7 +35348,7 @@
         ]
     },
     {
-        "symbol": "DECENTRALIZATIONOBL",
+        "symbol": "DOPE",
         "name": "Decentralization obligatory  practicali",
         "address": "0x85122dc2c0AC24e8aAcafF4a4cCFcbdf36e80f60",
         "decimals": 9,
@@ -39827,6 +39838,18 @@
         ]
     },
     {
+        "symbol": "INSLISBNB",
+        "name": "Inception Restaked slisBNB",
+        "address": "0x74D1984A64F447371Be4019920180b52A33aDAdD",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/51973/thumb/inslisBNB.png?1732282282",
+        "coingeckoId": "inception-restaked-slisbnb",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "GBTC",
         "name": "GBTC6900",
         "address": "0x74Ab072c91bF33479f959ce70561e785fd7391FD",
@@ -41878,6 +41901,18 @@
         ]
     },
     {
+        "symbol": "CULTUR",
+        "name": "CULTUR",
+        "address": "0x6cb25129314123BCD5aDCdc844cEaEEAd65A0896",
+        "decimals": 9,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/51977/thumb/-Cultur_Logo.jpg?1732287043",
+        "coingeckoId": "cultur",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "CITADEL",
         "name": "The Citadel",
         "address": "0x6caDf6ABBCeb53e631C288778DAAcF125481C1BB",
@@ -42482,8 +42517,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/11982/thumb/unitrade.PNG?1696511840",
         "coingeckoId": "unitrade",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -46984,7 +47018,7 @@
     },
     {
         "symbol": "DXI",
-        "name": "Dacxi Coin",
+        "name": "Dacxi",
         "address": "0x5e29CF3E3fEd4df50aCab95f8268e9ee26Ea36f2",
         "decimals": 18,
         "chainId": 1,
@@ -48864,6 +48898,18 @@
         ]
     },
     {
+        "symbol": "DDBAM",
+        "name": "Didi Bam Bam",
+        "address": "0x5832Fbf930DacbDd9a1697dCA7b3C518277FF0b0",
+        "decimals": 8,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/51976/thumb/Didi_Bam_Bam.png?1732284869",
+        "coingeckoId": "didi-bam-bam",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "ST-YETH",
         "name": "Staked Yearn Ether",
         "address": "0x583019fF0f430721aDa9cfb4fac8F06cA104d0B4",
@@ -49833,7 +49879,7 @@
         "address": "0x5485a469fAEa1492191Cfce7528AB6E58135aA4d",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/51526/thumb/OSMI_Icon_-_Black.png?1731497258",
+        "logoURI": "https://assets.coingecko.com/coins/images/51526/thumb/OSMI_Social_Icon_-_Twitter__Instagram_etc_-_Black.png?1732311681",
         "coingeckoId": "osmi",
         "listedIn": [
             "coingecko"
@@ -50351,6 +50397,18 @@
         "listedIn": [
             "coingecko",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "RTBL",
+        "name": "Rolling T bill",
+        "address": "0x526Be1c610616be0e8e69893fC6766FddfBaDA61",
+        "decimals": 6,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/51979/thumb/rTBL_Icon.png?1732288771",
+        "coingeckoId": "rolling-t-bill",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -51043,6 +51101,18 @@
         ]
     },
     {
+        "symbol": "INSFRAX",
+        "name": "Inception Restaked sFRAX",
+        "address": "0x50253dc4a01c6408Fab9646e804FCbFDb74e3E4c",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/51972/thumb/insFRAX.png?1732282141",
+        "coingeckoId": "inception-restaked-sfrax",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "PAC(unknown)",
         "name": "America Pac",
         "address": "0x4fc1B049960adAA89E462c95474BD6C5a43f969a",
@@ -51102,6 +51172,18 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/24084/thumb/k8qjP9t9_400x400.jpg?1696523277",
         "coingeckoId": "xave-coin",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "WALLY",
+        "name": "Emotional Support Alligator",
+        "address": "0x4f7d2D728ce137dd01ec63EF7B225805C7b54575",
+        "decimals": 9,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/51993/thumb/1000493062.jpg?1732295841",
+        "coingeckoId": "emotional-support-alligator",
         "listedIn": [
             "coingecko"
         ]
@@ -66930,6 +67012,18 @@
         ]
     },
     {
+        "symbol": "LAIKA",
+        "name": "La ka",
+        "address": "0x19E1F2f837a3b90EBd0730cb6111189Be0E1b6D6",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/39364/thumb/logo_laika.jpg?1721895773",
+        "coingeckoId": "laikachain",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "BBADGER",
         "name": "Badger Sett Badger",
         "address": "0x19D97D8fA813EE2f51aD4B4e04EA08bAf4DFfC28",
@@ -67050,7 +67144,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/38051/thumb/popotrans.jpg?1716403044",
         "coingeckoId": "popo",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -71052,7 +71147,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14106/thumb/Public_Mint_Icon_200x200.png?1696513827",
         "coingeckoId": "public-mint",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
