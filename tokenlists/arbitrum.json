@@ -72,19 +72,6 @@
         ]
     },
     {
-        "symbol": "ARBS",
-        "name": "Arbswap",
-        "address": "0xf50874f8246776CA4B89eEF471E718F70f38458F",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/30565/thumb/Arb-Logo_Circle_DARK_LOGO_ONLY.png?1696529436",
-        "coingeckoId": "arbswap",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "CREAM",
         "name": "Cream",
         "address": "0xf4D48Ce3ee1Ac3651998971541bAdbb9A14D7234",
@@ -412,19 +399,6 @@
         "chainId": 42161,
         "logoURI": "https://assets.coingecko.com/coins/images/8903/thumb/200x200.png?1706115827",
         "coingeckoId": "marlin",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "ROSNET",
-        "name": "Rosnet",
-        "address": "0xd79Bb960Dc8a206806c3a428b31bCA49934d18D7",
-        "decimals": 9,
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/35279/thumb/RosnetLogo200x200.png?1708054752",
-        "coingeckoId": "rosnet",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -2335,19 +2309,6 @@
         ]
     },
     {
-        "symbol": "MLN",
-        "name": "Enzyme",
-        "address": "0x8f5c1A99b1df736Ad685006Cb6ADCA7B7Ae4b514",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/605/thumb/Enzyme_Icon_Secondary.png?1696501803",
-        "coingeckoId": "melon",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "GOA",
         "name": "Goat Protocol",
         "address": "0x8c6Bd546fB8B53fE371654a0E54D7a5bD484b319",
@@ -3250,32 +3211,6 @@
         ]
     },
     {
-        "symbol": "AUSDCE",
-        "name": "Aave v3 USDC e",
-        "address": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
-        "decimals": 6,
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/32911/thumb/usdc.png?1699824302",
-        "coingeckoId": "aave-v3-usdc-e",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "APEX",
-        "name": "ApeX",
-        "address": "0x61A1ff55C5216b636a294A07D77C6F4Df10d3B56",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/25266/thumb/CxpMECpk_400x400_%281%29.png?1696524406",
-        "coingeckoId": "apex-token-2",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "IZI",
         "name": "iZUMi Finance",
         "address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
@@ -3638,8 +3573,7 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "arbitrum_bridge",
-            "lifinance"
+            "arbitrum_bridge"
         ]
     },
     {
@@ -4050,19 +3984,6 @@
         ]
     },
     {
-        "symbol": "TIG",
-        "name": "Tigris",
-        "address": "0x3A33473d7990a605a88ac72A78aD4EFC40a54ADB",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/30641/thumb/logo.png?1696529513",
-        "coingeckoId": "tigris",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "KUJI",
         "name": "Kujira",
         "address": "0x3A18dcC9745eDcD1Ef33ecB93b0b6eBA5671e7Ca",
@@ -4237,7 +4158,6 @@
             "sushiswap",
             "arbitrum_bridge",
             "joe",
-            "lifinance",
             "xyfinance"
         ]
     },
@@ -4279,8 +4199,7 @@
         "coingeckoId": "verified-usd-foundation-usdv",
         "listedIn": [
             "coingecko",
-            "joe",
-            "lifinance"
+            "joe"
         ]
     },
     {
@@ -4874,6 +4793,19 @@
         ]
     },
     {
+        "symbol": "PSM",
+        "name": "Possum",
+        "address": "0x17A8541B82BF67e10B0874284b4Ae66858cb1fd5",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/33596/thumb/PSM.png?1702521046",
+        "coingeckoId": "possum",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "FRXETH",
         "name": "Frax Ether",
         "address": "0x178412e79c25968a32e89b11f63B33F733770c2A",
@@ -4924,6 +4856,19 @@
         "listedIn": [
             "coingecko",
             "sushiswap"
+        ]
+    },
+    {
+        "symbol": "CHR",
+        "name": "Chronos Finance",
+        "address": "0x15b2fb8f08E4Ac1Ce019EADAe02eE92AeDF06851",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/29622/thumb/chronos_icono-01.png?1696528558",
+        "coingeckoId": "chronos-finance",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {

@@ -203,7 +203,6 @@
             "coingecko",
             "uniswap",
             "optimism",
-            "lifinance",
             "xyfinance"
         ]
     },
@@ -218,7 +217,6 @@
         "listedIn": [
             "coingecko",
             "uniswap",
-            "lifinance",
             "xyfinance"
         ]
     },
@@ -1286,6 +1284,19 @@
         ]
     },
     {
+        "symbol": "WITCH",
+        "name": "Witch Token",
+        "address": "0xdc524e3c6910257744C1F93Cf15E9F472b5bD236",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/17205/thumb/download_%2829%29.png?1696516761",
+        "coingeckoId": "witch-token",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "MEDIA",
         "name": "Media Network",
         "address": "0xdb726152680eCe3c9291f1016f1d36f3995f6941",
@@ -1509,6 +1520,19 @@
         ]
     },
     {
+        "symbol": "SOLVBTCBBN",
+        "name": "Solv Protocol SolvBTC BBN",
+        "address": "0xd9D920AA40f578ab794426F5C90F6C731D159DEf",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/unnamed.png?1721961640",
+        "coingeckoId": "solv-protocol-solvbtc-bbn",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "SHR",
         "name": "Share",
         "address": "0xd98F75b1A3261dab9eEd4956c93F33749027a964",
@@ -1661,6 +1685,19 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/20911/thumb/trvl.jpeg?1696520301",
         "coingeckoId": "dtravel",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "MNW",
+        "name": "Morpheus Network",
+        "address": "0xd3E4Ba569045546D09CF021ECC5dFe42b1d7f6E4",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/2379/thumb/MRPH_CoinGecko.png?1696503245",
+        "coingeckoId": "morpheus-network",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -2065,6 +2102,7 @@
             "sushiswap",
             "optimism",
             "arbitrum_bridge",
+            "lifinance",
             "xyfinance",
             "elkfinance"
         ]
@@ -2790,7 +2828,6 @@
             "sushiswap",
             "optimism",
             "arbitrum_bridge",
-            "lifinance",
             "xyfinance"
         ]
     },
@@ -3139,19 +3176,6 @@
         "coingeckoId": "ceek",
         "listedIn": [
             "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "FLOAT",
-        "name": "Float FLOAT",
-        "address": "0xb05097849BCA421A3f51B249BA6CCa4aF4b97cb9",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xb05097849BCA421A3f51B249BA6CCa4aF4b97cb9/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "sushiswap",
             "lifinance"
         ]
     },
@@ -4113,6 +4137,19 @@
         ]
     },
     {
+        "symbol": "WAI",
+        "name": "WienerAI",
+        "address": "0xFE8526A77A2c3590E5973bA81308B90BEA21FBFF",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/37786/thumb/wiener.jpg?1722843644",
+        "coingeckoId": "wienerai",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "NEXT",
         "name": "Everclear",
         "address": "0xFE67A4450907459c3e1FFf623aA927dD4e28c67a",
@@ -4355,19 +4392,6 @@
         "listedIn": [
             "coingecko",
             "uniswap",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "ASIA",
-        "name": "Asia Coin",
-        "address": "0xF519381791C03DD7666C142D4E49Fd94d3536011",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/18589/thumb/Ou7mp_R1TQ5B9vsBiZ8oQnSv36M6hiA2hESxV_7YSw0.png?1696518065",
-        "coingeckoId": "asia-coin",
-        "listedIn": [
-            "coingecko",
             "lifinance"
         ]
     },
@@ -5916,7 +5940,8 @@
         "listedIn": [
             "coingecko",
             "uniswap",
-            "optimism"
+            "optimism",
+            "lifinance"
         ]
     },
     {
@@ -8205,7 +8230,8 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
-            "arbitrum_bridge"
+            "arbitrum_bridge",
+            "lifinance"
         ]
     },
     {
@@ -11099,19 +11125,6 @@
         ]
     },
     {
-        "symbol": "VXV",
-        "name": "Vectorspace AI",
-        "address": "0x7D29A64504629172a429e64183D6673b9dAcbFCe",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/2063/thumb/vectorspace-ai-logo.jpeg?1696503029",
-        "coingeckoId": "vectorspace",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "MATIC",
         "name": "Polygon",
         "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
@@ -11162,19 +11175,6 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/797/thumb/santiment-network-token.png?1696501947",
         "coingeckoId": "santiment-network-token",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "ICETH",
-        "name": "Interest Compounding ETH Index",
-        "address": "0x7C07F7aBe10CE8e33DC6C5aD68FE033085256A84",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/24483/thumb/icETH-token-logo.png?1696523661",
-        "coingeckoId": "interest-compounding-eth-index",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -11459,6 +11459,7 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "lifinance",
             "xyfinance"
         ]
     },
@@ -11835,6 +11836,19 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/399/thumb/agrs.png?1696501692",
         "coingeckoId": "agoras-currency-of-tau",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "JGN",
+        "name": "Juggernaut",
+        "address": "0x73374Ea518De7adDD4c2B624C0e8B113955ee041",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/12761/thumb/juggernaut_logo.png?1696512558",
+        "coingeckoId": "juggernaut",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -15049,6 +15063,19 @@
         ]
     },
     {
+        "symbol": "WALLY",
+        "name": "Emotional Support Alligator",
+        "address": "0x4f7d2D728ce137dd01ec63EF7B225805C7b54575",
+        "decimals": 9,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/51993/thumb/1000493062.jpg?1732295841",
+        "coingeckoId": "emotional-support-alligator",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "ORE",
         "name": "ORE Network",
         "address": "0x4f640F2529ee0cF119A2881485845FA8e61A782A",
@@ -15870,6 +15897,19 @@
         "coingeckoId": "kanga-exchange",
         "listedIn": [
             "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "GMI",
+        "name": "Bankless DeFi Innovation Index",
+        "address": "0x47110d43175f7f2C2425E7d15792acC5817EB44f",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x47110d43175f7f2C2425E7d15792acC5817EB44f/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap",
             "lifinance"
         ]
     },
@@ -18236,6 +18276,7 @@
         "coingeckoId": "hex",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "xyfinance"
         ]
     },
@@ -19091,8 +19132,7 @@
         "listedIn": [
             "coingecko",
             "uniswap",
-            "optimism",
-            "lifinance"
+            "optimism"
         ]
     },
     {
@@ -20715,7 +20755,8 @@
         "coingeckoId": "wrapped-nxm",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
