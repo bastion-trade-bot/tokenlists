@@ -2286,7 +2286,8 @@
         "logoURI": "https://tokens.pancakeswap.finance/images/0xe552Fb52a4F19e44ef5A967632DBc320B0820639.png",
         "coingeckoId": null,
         "listedIn": [
-            "pancake"
+            "pancake",
+            "lifinance"
         ]
     },
     {
@@ -4708,8 +4709,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14547/thumb/CCAKElogo.png?1696514230",
         "coingeckoId": "cheesecakeswap",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -11989,8 +11989,7 @@
         "coingeckoId": "primal-b3099cd0-995a-4311-80d5-9c133153b38e",
         "listedIn": [
             "coingecko",
-            "pancake",
-            "lifinance"
+            "pancake"
         ]
     },
     {
@@ -15708,18 +15707,6 @@
         ]
     },
     {
-        "symbol": "STOC",
-        "name": "STO Cash",
-        "address": "0xA42F745B71b03a309ed070378c5865077025a6FD",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/39148/thumb/STO_Cash%28STOC%29_logo200x200_New.png?1720767733",
-        "coingeckoId": null,
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "BTCZ",
         "name": "Bitcoin Bridged ZED20",
         "address": "0xA4156cc61dc7796faA24278a0F9F229B15e298cb",
@@ -16298,10 +16285,11 @@
         "address": "0x9eC02756A559700d8D9e79ECe56809f7bcC5dC27",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/36812/thumb/output-onlinepngtools.png?1712548697",
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x9eC02756A559700d8D9e79ECe56809f7bcC5dC27.png",
         "coingeckoId": "why",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "pancake"
         ]
     },
     {
@@ -19734,6 +19722,18 @@
         ]
     },
     {
+        "symbol": "CST",
+        "name": "CoinStrat Token",
+        "address": "0x8F0A66BeDD597A633b41626DF04af9F41b304b48",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "BECOIN",
         "name": "bePAY Finance",
         "address": "0x8F081Eb884Fd47b79536D28E2DD9d4886773F783",
@@ -19894,18 +19894,6 @@
         "coingeckoId": "kira-network",
         "listedIn": [
             "coingecko"
-        ]
-    },
-    {
-        "symbol": "ECC",
-        "name": "Etherconnect Coin",
-        "address": "0x8D047F4F57A190C96c8b9704B39A1379E999D82B",
-        "decimals": 8,
-        "chainId": 56,
-        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x8d047f4f57a190c96c8b9704b39a1379e999d82b/204309abd35d0e19f8f8a52d5b0a4cbf.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
         ]
     },
     {
@@ -21000,6 +20988,18 @@
         ]
     },
     {
+        "symbol": "STOC",
+        "name": "STO Cash",
+        "address": "0x85c6C4E3ff977Ce05de71103fb74ad4467CaC5Ef",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/39148/thumb/STO_Cash%28STOC%29_logo200x200_New.png?1720767733",
+        "coingeckoId": "sto-cash",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "KEY",
         "name": "MoMo Key",
         "address": "0x85c128eE1feEb39A59490c720A9C563554B51D33",
@@ -21265,8 +21265,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/25212/thumb/batkXqm.png?1696524355",
         "coingeckoId": "dot-dot-finance",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -23318,6 +23317,18 @@
             "coingecko",
             "pancake",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "STARDOGE",
+        "name": "StarDOGE",
+        "address": "0x784F5377278Be3319b26CE984A21c66B539322f9",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/52123/thumb/IMG_1297.JPG?1732606924",
+        "coingeckoId": "stardoge",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -26114,18 +26125,6 @@
         ]
     },
     {
-        "symbol": "AN",
-        "name": "AANN ai",
-        "address": "0x68D806380CE01e994f7583D796D0aEA9aB470219",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/38149/thumb/AN_purple_bg.png?1716664555",
-        "coingeckoId": "aann-ai",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "MTG",
         "name": "MagnetGold",
         "address": "0x68D10dFe87a838D63BbEf6c9A0D0b44beB799DC1",
@@ -26710,7 +26709,6 @@
         "listedIn": [
             "coingecko",
             "pancake",
-            "lifinance",
             "elkfinance"
         ]
     },
@@ -28531,8 +28529,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/13440/thumb/DLP_Duck_Token.png?1696513204",
         "coingeckoId": "dlp-duck-token",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -29682,6 +29679,18 @@
             "coingecko",
             "lifinance",
             "xyfinance"
+        ]
+    },
+    {
+        "symbol": "Cake-LP",
+        "name": "Pancake LPs",
+        "address": "0x55C49d1cd54126C69F22C2e9eEBd1EFeF5e620FA",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -32622,6 +32631,18 @@
         "coingeckoId": null,
         "listedIn": [
             "xyfinance"
+        ]
+    },
+    {
+        "symbol": "LONGEVITY",
+        "name": "longevity",
+        "address": "0x45DbaeDCCa40313912C998C558C690A3d36319AE",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/52108/thumb/logo.jpeg?1732594393",
+        "coingeckoId": "longevity",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -41732,18 +41753,6 @@
         ]
     },
     {
-        "symbol": "XOX",
-        "name": "XOX Labs",
-        "address": "0x0f5C78f152152dDA52a2ea45B0a8C10733010748",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x0f5c78f152152dda52a2ea45b0a8c10733010748/1fdaa6be1ab038dd216a791360deeb2a.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "GIGS",
         "name": "Climate101",
         "address": "0x0f34810810DD05D2BCAEF091d54497AD40801Ff2",
@@ -44044,18 +44053,6 @@
         "coingeckoId": "iotec-finance",
         "listedIn": [
             "coingecko"
-        ]
-    },
-    {
-        "symbol": "mWOM",
-        "name": "mWOM",
-        "address": "0x027a9d301FB747cd972CFB29A63f3BDA551DFc5c",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x027a9d301fb747cd972cfb29a63f3bda551dfc5c/ad55b3656960ba3a109e1206f34cb1f0.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
         ]
     },
     {
