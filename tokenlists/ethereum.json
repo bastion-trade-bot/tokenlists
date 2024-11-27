@@ -733,12 +733,13 @@
         "address": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mln.jpg",
+        "logoURI": "https://ethereum-optimism.github.io/data/MLN/logo.svg",
         "coingeckoId": "melon",
         "listedIn": [
             "coingecko",
             "uniswap",
             "sushiswap",
+            "optimism",
             "lifinance"
         ]
     },
@@ -1057,7 +1058,7 @@
         "address": "0xe50E009Ddb1A4d8Ec668EAc9D8b2dF1F96348707",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/50886/thumb/_CTRL_%282%29.png?1732046254",
+        "logoURI": "https://assets.coingecko.com/coins/images/50886/thumb/_CTRL_logo_.png?1732678338",
         "coingeckoId": "ctrl-wallet",
         "listedIn": [
             "coingecko",
@@ -3512,19 +3513,6 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/3269/thumb/Twitter-Profile-01.png?1714005625",
         "coingeckoId": "noia-network",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "UNQT",
-        "name": "Unique Utility",
-        "address": "0xa80f2C8f61c56546001f5FC2eb8D6E4e72c45d4C",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/23382/thumb/UniqueCoin_Logo.jpeg?1708335635",
-        "coingeckoId": "unique-utility-token",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -7159,7 +7147,7 @@
     },
     {
         "symbol": "MAGIC",
-        "name": "Magic",
+        "name": "Treasure",
         "address": "0xB0c7a3Ba49C7a6EaBa6cD4a96C55a1391070Ac9A",
         "decimals": 18,
         "chainId": 1,
@@ -10094,19 +10082,6 @@
         ]
     },
     {
-        "symbol": "ZIK",
-        "name": "Ziktalk",
-        "address": "0x88303FeD02b31dB9C7a9eafB711dA9eF4A03e5D3",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/8991/thumb/ziktalk.logo.jpeg?1696509132",
-        "coingeckoId": "zik-token",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "00",
         "name": "00 Token",
         "address": "0x881Ba05de1E78f549cC63a8f6Cabb1d4AD32250D",
@@ -10227,7 +10202,8 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "arbitrum_bridge"
+            "arbitrum_bridge",
+            "lifinance"
         ]
     },
     {
@@ -13955,6 +13931,19 @@
         ]
     },
     {
+        "symbol": "YES",
+        "name": "Yes Chad",
+        "address": "0x5da42c37dEa61d1C31E7a810E7d2aFf736A41643",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/51610/thumb/Yes-Chad-Token-Logo.png?1731611338",
+        "coingeckoId": "yes-chad",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "SHEB",
         "name": "Sheboshis",
         "address": "0x5dE869E3E62B0FB2c15573246BA3Bb3Fd97a2275",
@@ -14069,6 +14058,7 @@
         "listedIn": [
             "coingecko",
             "uniswap",
+            "lifinance",
             "xyfinance"
         ]
     },

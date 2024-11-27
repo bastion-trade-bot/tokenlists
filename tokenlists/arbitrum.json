@@ -72,6 +72,19 @@
         ]
     },
     {
+        "symbol": "ARBS",
+        "name": "Arbswap",
+        "address": "0xf50874f8246776CA4B89eEF471E718F70f38458F",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/30565/thumb/Arb-Logo_Circle_DARK_LOGO_ONLY.png?1696529436",
+        "coingeckoId": "arbswap",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "CREAM",
         "name": "Cream",
         "address": "0xf4D48Ce3ee1Ac3651998971541bAdbb9A14D7234",
@@ -428,6 +441,19 @@
         "chainId": 42161,
         "logoURI": "https://assets.coingecko.com/coins/images/39042/thumb/logo_gUSDC.png?1720066451",
         "coingeckoId": "gains-network-usdc",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "VRSW",
+        "name": "VirtuSwap",
+        "address": "0xd1E094CabC5aCB9D3b0599C3F76f2D01fF8d3563",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/30629/thumb/VirtuSwap_Logo_Red_200x200.png?1696529502",
+        "coingeckoId": "virtuswap",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -1182,19 +1208,6 @@
         ]
     },
     {
-        "symbol": "WSG",
-        "name": "Wall Street Games",
-        "address": "0xEf04804E1e474D3F9B73184D7ef5D786F3Fce930",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/36483/thumb/wsg.jpeg?1711539007",
-        "coingeckoId": "wall-street-games-2",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "O3",
         "name": "O3 Swap",
         "address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
@@ -1460,19 +1473,6 @@
         "chainId": 42161,
         "logoURI": "https://assets.coingecko.com/coins/images/37813/thumb/aark.png?1715599394",
         "coingeckoId": "aark-digital",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "POOL",
-        "name": "PoolTogether",
-        "address": "0xCF934E2402A5e072928a39a956964eb8F2B5B79C",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/14003/thumb/PoolTogether.png?1696513732",
-        "coingeckoId": "pooltogether",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -3464,7 +3464,7 @@
     },
     {
         "symbol": "MAGIC",
-        "name": "Magic",
+        "name": "Treasure",
         "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
         "decimals": 18,
         "chainId": 42161,

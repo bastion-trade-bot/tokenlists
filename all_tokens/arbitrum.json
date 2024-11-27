@@ -1,5 +1,17 @@
 [
     {
+        "symbol": "ENS",
+        "name": "Ethereum Name Service",
+        "address": "0xfeA31d704DEb0975dA8e77Bf13E04239e70d7c28",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "BOGE",
         "name": "Bitci DOGE",
         "address": "0xfd2fb8DE10eC41DdD898A8c7FA70D8Fc100834C4",
@@ -224,7 +236,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/30565/thumb/Arb-Logo_Circle_DARK_LOGO_ONLY.png?1696529436",
         "coingeckoId": "arbswap",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -1222,7 +1235,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/30629/thumb/VirtuSwap_Logo_Red_200x200.png?1696529502",
         "coingeckoId": "virtuswap",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -2738,8 +2752,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/36483/thumb/wsg.jpeg?1711539007",
         "coingeckoId": "wall-street-games-2",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -3490,8 +3503,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14003/thumb/PoolTogether.png?1696513732",
         "coingeckoId": "pooltogether",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -5041,18 +5053,6 @@
         "coingeckoId": "dinari-rddt",
         "listedIn": [
             "coingecko"
-        ]
-    },
-    {
-        "symbol": "przPOOL",
-        "name": "Prize POOL",
-        "address": "0x97A9C02CFBBf0332D8172331461aB476dF1E8c95",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
         ]
     },
     {
@@ -8312,7 +8312,7 @@
     },
     {
         "symbol": "MAGIC",
-        "name": "Magic",
+        "name": "Treasure",
         "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
         "decimals": 18,
         "chainId": 42161,
@@ -10199,6 +10199,18 @@
             "joe",
             "lifinance",
             "xyfinance"
+        ]
+    },
+    {
+        "symbol": "FTW",
+        "name": "Black Agnus",
+        "address": "0x306fD3e7b169Aa4ee19412323e1a5995B8c1a1f4",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/50170/thumb/32x32.png?1727177729",
+        "coingeckoId": "black-agnus",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {

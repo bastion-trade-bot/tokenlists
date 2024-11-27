@@ -1011,13 +1011,14 @@
     },
     {
         "symbol": "ZUT",
-        "name": "ZeroUtility",
+        "name": "ZeroUtility (PoS)",
         "address": "0xe86E8beb7340659DDDCE61727E500e3A5aD75a90",
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xe86E8beb7340659DDDCE61727E500e3A5aD75a90/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -1837,7 +1838,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/15298/thumb/lithium_ions.jpg?1696514948",
         "coingeckoId": "lithium-ventures",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -2876,6 +2878,18 @@
         ]
     },
     {
+        "symbol": "FRACTION",
+        "name": "Own a fraction",
+        "address": "0xbD80CFA9d93A87D1bb895f810ea348E496611cD4",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "ENS",
         "name": "Ethereum Name Service",
         "address": "0xbD7A5Cf51d22930B8B3Df6d834F9BCEf90EE7c4f",
@@ -3405,8 +3419,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/12330/thumb/Archethic_Logo.png?1719358185",
         "coingeckoId": "archethic",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -3958,18 +3971,6 @@
         "chainId": 137,
         "logoURI": "https://assets.coingecko.com/coins/images/8791/thumb/Group_11.png?1696508946",
         "coingeckoId": "roobee",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "GM",
-        "name": "GhostMarket",
-        "address": "0xFFcd553464a00D7B30a48960611E5032f544700A",
-        "decimals": 8,
-        "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/22765/thumb/gm.png?1696522068",
-        "coingeckoId": "ghostmarket",
         "listedIn": [
             "coingecko"
         ]
@@ -5165,8 +5166,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/5164/thumb/EURS_300x300.png?1696505680",
         "coingeckoId": "stasis-eurs",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -7054,7 +7054,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/51401/thumb/lightspeed-round-200.png?1731085512",
         "coingeckoId": "lightspeed",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -7227,18 +7228,6 @@
         "chainId": 137,
         "logoURI": "https://assets.coingecko.com/coins/images/38818/thumb/200.png?1719082276",
         "coingeckoId": "morkie",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "VINU",
-        "name": "Vita Inu",
-        "address": "0xAFCdd4f666c84Fed1d8BD825aA762e3714F652c9",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/20594/thumb/vita-inu-head-wallet-icon-transparent.png?1696520000",
-        "coingeckoId": "vita-inu",
         "listedIn": [
             "coingecko"
         ]
@@ -8217,18 +8206,6 @@
         ]
     },
     {
-        "symbol": "BBL",
-        "name": "beoble",
-        "address": "0x9A295B2B8922f7c7B33838DbC704A9F02575C61E",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x9a295b2b8922f7c7b33838dbc704a9f02575c61e/fbfb1612da89bbbcfd463c2999de743b.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "ZKP",
         "name": "Panther Protocol",
         "address": "0x9A06Db14D639796B25A6ceC6A1bf614fd98815EC",
@@ -8388,18 +8365,6 @@
             "coingecko",
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "DWC",
-        "name": "Defi World",
-        "address": "0x96F0a7167ab7ba6e59FfB68707C9d1B049524B0F",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/34154/thumb/Defi_Logo_Icon.png?1704210359",
-        "coingeckoId": "defi-world",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -8671,7 +8636,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/39474/thumb/router.jpg?1722425047",
         "coingeckoId": "router-protocol-2",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -9089,13 +9055,14 @@
     },
     {
         "symbol": "KAI",
-        "name": "Kinetix Finance",
+        "name": "Kinetix Finance Token",
         "address": "0x8aD3d3e6B1b7B65138bD508E48330B544539b2C3",
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://assets.coingecko.com/coins/images/34031/standard/KFI_Token_1.png?1703675672",
-        "coingeckoId": null,
+        "coingeckoId": "kinetixfi",
         "listedIn": [
+            "coingecko",
             "quickswap",
             "lifinance"
         ]
@@ -10818,7 +10785,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/21691/thumb/DBD-icon_200x200_%281%29.png?1696521046",
         "coingeckoId": "day-by-day",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -13011,7 +12979,8 @@
         "coingeckoId": "jarvis-reward-token",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -15202,7 +15171,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/17341/thumb/purefi.PNG?1696516893",
         "coingeckoId": "purefi",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -20213,18 +20183,6 @@
         "coingeckoId": "goldpesa-option",
         "listedIn": [
             "coingecko"
-        ]
-    },
-    {
-        "symbol": "EURSx",
-        "name": "Super STASIS EURS",
-        "address": "0x02Ef6868d69707b6093A2962BB5fe5661fCC0dEb",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/eurs.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
         ]
     },
     {

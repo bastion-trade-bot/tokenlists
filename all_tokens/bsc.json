@@ -639,6 +639,18 @@
         ]
     },
     {
+        "symbol": "BGOV",
+        "name": "BGOV Token",
+        "address": "0xf8E026dC4C0860771f691EcFFBbdfe2fa51c77CF",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xf8e026dc4c0860771f691ecffbbdfe2fa51c77cf/fc775c1a3aae5f1869f63640e7846b2c.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "CTO",
         "name": "Chief Troll Officer",
         "address": "0xf86D4743FC1De2A6bEf2D733158EDB9B72Bd16Ba",
@@ -2213,18 +2225,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/51059/thumb/200x200kingneiro.jpg?1729877401",
         "coingeckoId": "king-neiro",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "GM",
-        "name": "GhostMarket",
-        "address": "0xe5C85B60ff243CfDb067bE4078E477AC04B594e9",
-        "decimals": 8,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/22765/thumb/gm.png?1696522068",
-        "coingeckoId": "ghostmarket",
         "listedIn": [
             "coingecko"
         ]
@@ -18377,8 +18377,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/17566/thumb/DRIFE_Logo_2_4x.png?1724789292",
         "coingeckoId": "drife",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -21943,13 +21942,14 @@
     },
     {
         "symbol": "SPS",
-        "name": "SPARKLIFE",
+        "name": "Sparklife",
         "address": "0x8033064Fe1df862271d4546c281AfB581ee25C4A",
         "decimals": 8,
         "chainId": 56,
-        "logoURI": null,
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/52163/thumb/MONEDA.png?1732676217",
+        "coingeckoId": "sparklife",
         "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -23583,10 +23583,11 @@
         "address": "0x76A797A59Ba2C17726896976B7B3747BfD1d220f",
         "decimals": 9,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/17980/thumb/photo_2024-09-10_17.09.00.jpeg?1725963446",
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x76A797A59Ba2C17726896976B7B3747BfD1d220f.png",
         "coingeckoId": "the-open-network",
         "listedIn": [
             "coingecko",
+            "pancake",
             "lifinance"
         ]
     },
@@ -32641,7 +32642,7 @@
         "address": "0x45DbaeDCCa40313912C998C558C690A3d36319AE",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/52108/thumb/logo.jpeg?1732594393",
+        "logoURI": "https://assets.coingecko.com/coins/images/52108/thumb/longevity_logo_%E9%A0%AD%E5%83%8F.jpg?1732678191",
         "coingeckoId": "longevity",
         "listedIn": [
             "coingecko"
@@ -34341,7 +34342,7 @@
         "address": "0x3C6256F234Ba638E5883c46b3fEdb00ea2e66b8A",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/52080/thumb/Untitled_design_%285%29.png?1732527990",
+        "logoURI": "https://assets.coingecko.com/coins/images/52080/thumb/mI6Ae7od_400x400.jpg?1732677896",
         "coingeckoId": "moongate",
         "listedIn": [
             "coingecko"
@@ -37531,10 +37532,11 @@
         "address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/50193/thumb/shib.png?1726214772",
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x2859e4544C4bB03966803b044A93563Bd2D0DD4D.png",
         "coingeckoId": "binance-peg-shib",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "pancake"
         ]
     },
     {
@@ -39419,10 +39421,11 @@
         "address": "0x1Fa4a73a3F0133f0025378af00236f3aBDEE5D63",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/51252/thumb/NEAR.JPG?1730470269",
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x1Fa4a73a3F0133f0025378af00236f3aBDEE5D63.png",
         "coingeckoId": "binance-peg-near-protocol",
         "listedIn": [
             "coingecko",
+            "pancake",
             "lifinance"
         ]
     },
@@ -39756,6 +39759,7 @@
         "coingeckoId": "binance-peg-avalanche",
         "listedIn": [
             "coingecko",
+            "pancake",
             "lifinance",
             "elkfinance"
         ]
@@ -39860,18 +39864,6 @@
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "SHREKAI",
-        "name": "Shrek AI",
-        "address": "0x1B01A1AE8f233Fd3d39fFf9825c74b05CaA84a7d",
-        "decimals": 6,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/38172/thumb/shrekai.png?1716721967",
-        "coingeckoId": "shrek-ai",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -44055,6 +44047,18 @@
         "coingeckoId": "iotec-finance",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "mWOM",
+        "name": "mWOM",
+        "address": "0x027a9d301FB747cd972CFB29A63f3BDA551DFc5c",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x027a9d301fb747cd972cfb29a63f3bda551dfc5c/ad55b3656960ba3a109e1206f34cb1f0.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {

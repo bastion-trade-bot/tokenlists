@@ -518,6 +518,19 @@
         ]
     },
     {
+        "symbol": "ZUT",
+        "name": "ZeroUtility (PoS)",
+        "address": "0xe86E8beb7340659DDDCE61727E500e3A5aD75a90",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xe86E8beb7340659DDDCE61727E500e3A5aD75a90/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "MSU",
         "name": "MetaSoccer",
         "address": "0xe8377A076adAbb3F9838afB77Bee96Eac101ffB1",
@@ -887,6 +900,19 @@
         "chainId": 137,
         "logoURI": "https://assets.coingecko.com/coins/images/32223/thumb/steth-wei_D_3x.png?1696926841",
         "coingeckoId": "bridged-wrapped-steth-axelar",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "IONS",
+        "name": "Lithium Ventures",
+        "address": "0xd6d3B4254B4526c3095d8AB00B75f186c56dD72C",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/15298/thumb/lithium_ions.jpg?1696514948",
+        "coingeckoId": "lithium-ventures",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -1678,19 +1704,6 @@
             "coingecko",
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "UCO",
-        "name": "Archethic",
-        "address": "0xaa53B93608C88EE55fAD8db4C504Fa20E52642aD",
-        "decimals": 8,
-        "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/12330/thumb/Archethic_Logo.png?1719358185",
-        "coingeckoId": "archethic",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
         ]
     },
     {
@@ -2625,19 +2638,6 @@
         ]
     },
     {
-        "symbol": "EURS",
-        "name": "STASIS EURO",
-        "address": "0xE111178A87A3BFf0c8d18DECBa5798827539Ae99",
-        "decimals": 2,
-        "chainId": 137,
-        "logoURI": "https://assets.coingecko.com/coins/images/5164/thumb/EURS_300x300.png?1696505680",
-        "coingeckoId": "stasis-eurs",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "maDAI",
         "name": "Matic Aave interest bearing DAI",
         "address": "0xE0b22E0037B130A9F56bBb537684E6fA18192341",
@@ -3482,6 +3482,19 @@
         ]
     },
     {
+        "symbol": "SPEED",
+        "name": "Lightspeed",
+        "address": "0xB01CF1bE9568f09449382a47Cd5bF58e2A9D5922",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/51401/thumb/lightspeed-round-200.png?1731085512",
+        "coingeckoId": "lightspeed",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "GUILD",
         "name": "BlockchainSpace",
         "address": "0xAfF41DA975501E5b71848C975834341777D1a473",
@@ -4151,6 +4164,19 @@
         ]
     },
     {
+        "symbol": "ROUTE",
+        "name": "Router Protocol",
+        "address": "0x93890f346C5D02C3863a06657bc72555dC72c527",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/39474/thumb/router.jpg?1722425047",
+        "coingeckoId": "router-protocol-2",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "BRIDGE",
         "name": "Cross Chain Bridge",
         "address": "0x92868A5255C628dA08F550a858A802f5351C5223",
@@ -4421,13 +4447,14 @@
     },
     {
         "symbol": "KAI",
-        "name": "Kinetix Finance",
+        "name": "Kinetix Finance Token",
         "address": "0x8aD3d3e6B1b7B65138bD508E48330B544539b2C3",
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://assets.coingecko.com/coins/images/34031/standard/KFI_Token_1.png?1703675672",
-        "coingeckoId": null,
+        "coingeckoId": "kinetixfi",
         "listedIn": [
+            "coingecko",
             "quickswap",
             "lifinance"
         ]
@@ -5286,6 +5313,19 @@
         "coingeckoId": null,
         "listedIn": [
             "quickswap",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "DBD",
+        "name": "Day By Day",
+        "address": "0x72b9f88e822cf08B031c2206612B025a82fb303C",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/21691/thumb/DBD-icon_200x200_%281%29.png?1696521046",
+        "coingeckoId": "day-by-day",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -6399,7 +6439,8 @@
         "coingeckoId": "jarvis-reward-token",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -7475,6 +7516,19 @@
             "quickswap",
             "lifinance",
             "xyfinance"
+        ]
+    },
+    {
+        "symbol": "UFI",
+        "name": "PureFi",
+        "address": "0x3c205C8B3e02421Da82064646788c82f7bd753B9",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://assets.coingecko.com/coins/images/17341/thumb/purefi.PNG?1696516893",
+        "coingeckoId": "purefi",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
