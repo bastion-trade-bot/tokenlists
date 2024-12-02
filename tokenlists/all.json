@@ -4205,19 +4205,6 @@
             ]
         },
         {
-            "symbol": "DACKIE",
-            "name": "DackieSwap",
-            "address": "0x47C337Bd5b9344a6F3D6f58C474D9D8cd419D8cA",
-            "decimals": 18,
-            "chainId": 42161,
-            "logoURI": "https://assets.coingecko.com/coins/images/30752/thumb/dackieswap_large.png?1707290196",
-            "coingeckoId": "dackieswap",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "LRC",
             "name": "Loopring",
             "address": "0x46d0cE7de6247b0A95f67b43B589b4041BaE7fbE",
@@ -6423,6 +6410,19 @@
             ]
         },
         {
+            "symbol": "TUK",
+            "name": "eTukTuk",
+            "address": "0xeF433eBb8bA7a486ce21B854f093b9A3f4e696bc",
+            "decimals": 18,
+            "chainId": 56,
+            "logoURI": "https://assets.coingecko.com/coins/images/32072/thumb/TukToken-LogoCircle.png?1696530869",
+            "coingeckoId": "etuktuk",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "ELK",
             "name": "Elk Finance",
             "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
@@ -6760,8 +6760,7 @@
             "coingeckoId": "froyo-games",
             "listedIn": [
                 "coingecko",
-                "pancake",
-                "lifinance"
+                "pancake"
             ]
         },
         {
@@ -12877,7 +12876,7 @@
             "address": "0x8899eC96ed8C96b5C86C23c3f069c3dEf75b6d97",
             "decimals": 18,
             "chainId": 56,
-            "logoURI": "https://assets.coingecko.com/coins/images/32171/thumb/IMG_20231005_191903_018.jpg?1696741847",
+            "logoURI": "https://assets.coingecko.com/coins/images/32171/thumb/openfabric-coin-256x256.png?1733064523",
             "coingeckoId": "openfabric",
             "listedIn": [
                 "coingecko",
@@ -15672,6 +15671,19 @@
             "coingeckoId": "green-beli",
             "listedIn": [
                 "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "CART",
+            "name": "CryptoArt.ai",
+            "address": "0x5C8C8D560048F34E5f7f8ad71f2f81a89DBd273e",
+            "decimals": 18,
+            "chainId": 56,
+            "logoURI": "https://tokens.pancakeswap.finance/images/0x5C8C8D560048F34E5f7f8ad71f2f81a89DBd273e.png",
+            "coingeckoId": null,
+            "listedIn": [
+                "pancake",
                 "lifinance"
             ]
         },
@@ -22697,6 +22709,19 @@
             ]
         },
         {
+            "symbol": "WEVE",
+            "name": "veDAO",
+            "address": "0x911da02C1232A3c3E1418B834A311921143B04d7",
+            "decimals": 18,
+            "chainId": 250,
+            "logoURI": "https://assets.coingecko.com/coins/images/22741/thumb/S0aENDh0_400x400.jpg?1696522046",
+            "coingeckoId": "vedao",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "DMD",
             "name": "Dark Matter Defi",
             "address": "0x90E892FED501ae00596448aECF998C88816e5C0F",
@@ -22720,7 +22745,8 @@
             "coingeckoId": "fantom-maker",
             "listedIn": [
                 "coingecko",
-                "SpookySwap"
+                "SpookySwap",
+                "lifinance"
             ]
         },
         {
@@ -22912,6 +22938,19 @@
             "coingeckoId": "solidlydex",
             "listedIn": [
                 "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "CREDIT",
+            "name": "Creditum",
+            "address": "0x77128DFdD0ac859B33F44050c6fa272F34872B5E",
+            "decimals": 18,
+            "chainId": 250,
+            "logoURI": "https://assets.spooky.fi/tokens/CREDIT.png",
+            "coingeckoId": null,
+            "listedIn": [
+                "SpookySwap",
                 "lifinance"
             ]
         },
@@ -23160,6 +23199,19 @@
             "coingeckoId": "woo-network",
             "listedIn": [
                 "coingecko",
+                "SpookySwap",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "KAE",
+            "name": "Kanpeki",
+            "address": "0x65Def5029A0e7591e46B38742bFEdd1Fb7b24436",
+            "decimals": 18,
+            "chainId": 250,
+            "logoURI": "https://assets.spooky.fi/tokens/KAE.png",
+            "coingeckoId": null,
+            "listedIn": [
                 "SpookySwap",
                 "lifinance"
             ]
@@ -24970,19 +25022,6 @@
             "decimals": 18,
             "chainId": 42220,
             "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_stabilUSD.png",
-            "coingeckoId": null,
-            "listedIn": [
-                "lifinance",
-                "ubeswap"
-            ]
-        },
-        {
-            "symbol": "NCT",
-            "name": "Toucan Protocol: Nature Carbon Tonne",
-            "address": "0x02De4766C272abc10Bc88c220D214A26960a7e92",
-            "decimals": 18,
-            "chainId": 42220,
-            "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_NCT.png",
             "coingeckoId": null,
             "listedIn": [
                 "lifinance",
@@ -28997,6 +29036,19 @@
             ]
         },
         {
+            "symbol": "WHALE",
+            "name": "WHALE",
+            "address": "0xb9585ec9d4C97Ad9DEd7250Bb9a199fe8eED0ECA",
+            "decimals": 4,
+            "chainId": 137,
+            "logoURI": "https://assets.coingecko.com/coins/images/11797/thumb/WHALE.png?1696511673",
+            "coingeckoId": "whale",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "KNOT",
             "name": "Karmaverse",
             "address": "0xb763F1177E9B2Fb66FBe0d50372E3e2575c043e5",
@@ -30536,6 +30588,19 @@
             "coingeckoId": "axelar-usdt",
             "listedIn": [
                 "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "OOKI",
+            "name": "OOKI",
+            "address": "0xCd150B1F528F326f5194c012f32Eb30135C7C2c9",
+            "decimals": 18,
+            "chainId": 137,
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xCd150B1F528F326f5194c012f32Eb30135C7C2c9/logo.png",
+            "coingeckoId": null,
+            "listedIn": [
+                "sushiswap",
                 "lifinance"
             ]
         },
@@ -33920,7 +33985,8 @@
             "coingeckoId": "jarvis-reward-token",
             "listedIn": [
                 "coingecko",
-                "sushiswap"
+                "sushiswap",
+                "lifinance"
             ]
         },
         {
@@ -34997,6 +35063,19 @@
                 "quickswap",
                 "lifinance",
                 "xyfinance"
+            ]
+        },
+        {
+            "symbol": "UFI",
+            "name": "PureFi",
+            "address": "0x3c205C8B3e02421Da82064646788c82f7bd753B9",
+            "decimals": 18,
+            "chainId": 137,
+            "logoURI": "https://assets.coingecko.com/coins/images/17341/thumb/purefi.PNG?1696516893",
+            "coingeckoId": "purefi",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
             ]
         },
         {
@@ -37872,7 +37951,8 @@
             "coingeckoId": "axial-token",
             "listedIn": [
                 "coingecko",
-                "pangolin"
+                "pangolin",
+                "lifinance"
             ]
         },
         {
@@ -41251,6 +41331,7 @@
             "coingeckoId": null,
             "listedIn": [
                 "pangolin",
+                "lifinance",
                 "elkfinance"
             ]
         },
@@ -46948,6 +47029,19 @@
             ]
         },
         {
+            "symbol": "GPTPLUS",
+            "name": "GPTPlus",
+            "address": "0xeD9F6Aa6532869576211fD6367E3c328810fBeb3",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/34194/thumb/gptplus-icon.png?1704272397",
+            "coingeckoId": "gptplus",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "OMI",
             "name": "ECOMI",
             "address": "0xeD35af169aF46a02eE13b9d79Eb57d6D68C1749e",
@@ -48452,7 +48546,6 @@
             "coingeckoId": "game-stop",
             "listedIn": [
                 "coingecko",
-                "lifinance",
                 "xyfinance"
             ]
         },
@@ -55024,7 +55117,7 @@
         },
         {
             "symbol": "BREED",
-            "name": "BreederDAO",
+            "name": "BreederDAO  OLD ",
             "address": "0x94E9EB8b5Ab9fd6B9ea3169D55FFAde62a01702e",
             "decimals": 18,
             "chainId": 1,
@@ -57698,19 +57791,6 @@
                 "sushiswap",
                 "lifinance",
                 "xyfinance"
-            ]
-        },
-        {
-            "symbol": "DTX",
-            "name": "DaTa eXchange DTX",
-            "address": "0x765f0C16D1Ddc279295c1a7C24B0883F62d33F75",
-            "decimals": 18,
-            "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/2920/thumb/dtx.png?1696503667",
-            "coingeckoId": "databroker-dao",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
             ]
         },
         {
@@ -67317,7 +67397,8 @@
             "coingeckoId": "ooki",
             "listedIn": [
                 "coingecko",
-                "sushiswap"
+                "sushiswap",
+                "lifinance"
             ]
         },
         {
