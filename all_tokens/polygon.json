@@ -3129,6 +3129,18 @@
         ]
     },
     {
+        "symbol": "WFAIR",
+        "name": "WFAIR Token (PoS)",
+        "address": "0xb6B5CDF74606181a1b05bfC0B9F17fC2A64B0cD5",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xb6b5cdf74606181a1b05bfc0b9f17fc2a64b0cd5/6ee87316cd5e350c33bf357dc7f6c60e.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "SPORKx",
         "name": "Super Spork",
         "address": "0xb683fb34A77C06931Ba62d804252D1f60596A36A",
@@ -5062,7 +5074,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14153/thumb/par_round_200.png?1696513872",
         "coingeckoId": "par-stablecoin",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -5293,18 +5306,6 @@
         "coingeckoId": "artmeta",
         "listedIn": [
             "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "THEOS",
-        "name": "THEOS (PoS)",
-        "address": "0xDb982a636807B3ACD9FD28a99410B68c2159Fb32",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
             "lifinance"
         ]
     },
@@ -8353,7 +8354,8 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9201.png",
         "coingeckoId": null,
         "listedIn": [
-            "dfyn"
+            "dfyn",
+            "lifinance"
         ]
     },
     {
@@ -11356,8 +11358,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/13401/thumb/BRTR.png?1696513163",
         "coingeckoId": "barter",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -11580,7 +11581,7 @@
     },
     {
         "symbol": "BREED",
-        "name": "BreederDAO  OLD ",
+        "name": "BreederDAO",
         "address": "0x6949804b60DD9Dcea43Fd8d10CcdC640B55f9F7F",
         "decimals": 18,
         "chainId": 137,
@@ -15303,7 +15304,8 @@
         "coingeckoId": "gib",
         "listedIn": [
             "coingecko",
-            "quickswap"
+            "quickswap",
+            "lifinance"
         ]
     },
     {
