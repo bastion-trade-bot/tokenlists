@@ -22,6 +22,7 @@
         "coingeckoId": "celo-real-creal",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -79,6 +80,58 @@
         ]
     },
     {
+        "symbol": "cMeta",
+        "name": "MetaCelo",
+        "address": "0xF3608F846cA73147F08FdE8D57f45E27CeEA4d61",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0xF3608F846cA73147F08FdE8D57f45E27CeEA4d61/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "O3",
+        "name": "O3 Swap Token",
+        "address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_O3.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "ubeswap"
+        ]
+    },
+    {
+        "symbol": "AXLUSDC",
+        "name": "Axelar Bridged USDC",
+        "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+        "decimals": 6,
+        "chainId": 42220,
+        "logoURI": "https://assets.coingecko.com/coins/images/26476/thumb/uausdc_D_3x.png?1696525548",
+        "coingeckoId": "axlusdc",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "WETHv1",
+        "name": "Optics WETH v1",
+        "address": "0xE919F65739c26a42616b7b8eedC6b5524d1e3aC4",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "IMMO",
         "name": "ImmortalDAO",
         "address": "0xE685d21b7B0FC7A248a6A8E03b8Db22d013Aa2eE",
@@ -92,6 +145,19 @@
         ]
     },
     {
+        "symbol": "DAIv1",
+        "name": "Optics DAI v1",
+        "address": "0xE4fE50cdD716522A56204352f00AA110F731932d",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg",
+        "coingeckoId": null,
+        "listedIn": [
+            "sushiswap",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "MCEUR",
         "name": "mcEUR",
         "address": "0xE273Ad7ee11dCfAA87383aD5977EE1504aC07568",
@@ -101,6 +167,7 @@
         "coingeckoId": "mceur",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "ubeswap"
         ]
     },
