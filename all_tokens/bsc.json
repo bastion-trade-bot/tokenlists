@@ -2259,18 +2259,6 @@
         ]
     },
     {
-        "symbol": "ROAR",
-        "name": "AlphaDEX",
-        "address": "0xe561Ebd0D7f9b2BD81DA6e7DA655030DCb0a926b",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xe561ebd0d7f9b2bd81da6e7da655030dcb0a926b/1b868e3a1cd67ff691a0f3948ac142c5.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "Metis",
         "name": "Metis Token",
         "address": "0xe552Fb52a4F19e44ef5A967632DBc320B0820639",
@@ -6482,6 +6470,18 @@
         "coingeckoId": "poor-doge",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "mooCakeV2CAKE-BNB",
+        "name": "Moo CakeV2 CAKE-BNB",
+        "address": "0xb26642B6690E4c4c9A6dAd6115ac149c700C7dfE",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -11902,8 +11902,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/50233/thumb/Square_500x500.png?1728679264",
         "coingeckoId": "notai",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -25442,8 +25441,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/20911/thumb/trvl.jpeg?1696520301",
         "coingeckoId": "dtravel",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -26328,18 +26326,6 @@
         "coingeckoId": "yesorno-2",
         "listedIn": [
             "coingecko"
-        ]
-    },
-    {
-        "symbol": "AMC",
-        "name": "AMC",
-        "address": "0x6830a684df938D7BD409070EeceE2ce5dB6951A3",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
         ]
     },
     {
@@ -29988,7 +29974,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/30537/thumb/KTX.jpeg?1696529409",
         "coingeckoId": "ktx-finance",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -30589,10 +30576,12 @@
         "address": "0x516f8a1fB458EBdcFd0F544fF85c69C1c0Ebc31d",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/52254/thumb/Shieldeum_Coingecko.webp?1732834963",
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x516f8a1fB458EBdcFd0F544fF85c69C1c0Ebc31d.png",
         "coingeckoId": "shieldeum",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "pancake",
+            "lifinance"
         ]
     },
     {
@@ -32036,7 +32025,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/12771/thumb/milk.png?1696512567",
         "coingeckoId": "spaceswap-milk2",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -33925,7 +33915,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/52230/thumb/Banana_token_image.png?1732801941",
         "coingeckoId": "banana-for-scale-2",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -35310,6 +35301,18 @@
         "coingeckoId": "anypad",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "GLD",
+        "name": "GOLD",
+        "address": "0x362B47BD0AA70Ed8826e96686F293C57ba462555",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -41171,13 +41174,14 @@
     },
     {
         "symbol": "YGG",
-        "name": "Yield Guild Games Token",
+        "name": "Yield Guild Games",
         "address": "0x13Ab6739368a4e4abf24695bf52959224367391f",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x13ab6739368a4e4abf24695bf52959224367391f/1c86c9ac08830411a40e0d693f40480a.png",
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/17358/thumb/Shield_Mark_-_Colored_-_Iridescent.png?1696516909",
+        "coingeckoId": "yield-guild-games",
         "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
