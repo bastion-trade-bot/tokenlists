@@ -1581,19 +1581,6 @@
             ]
         },
         {
-            "symbol": "NOLA",
-            "name": "Nola",
-            "address": "0xF8388c2B6Edf00E2E27eEF5200B1beFB24cE141d",
-            "decimals": 18,
-            "chainId": 42161,
-            "logoURI": "https://assets.coingecko.com/coins/images/33708/thumb/nola.jpg?1702854587",
-            "coingeckoId": "nola",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "FLUX",
             "name": "Datamine FLUX",
             "address": "0xF80D589b3Dbe130c270a69F1a69D050f268786Df",
@@ -2461,19 +2448,6 @@
                 "sushiswap",
                 "lifinance",
                 "xyfinance"
-            ]
-        },
-        {
-            "symbol": "WALK",
-            "name": "SuperWalk WALK",
-            "address": "0x9d0c0675a995d5F12b03E880763F639d0628b5C6",
-            "decimals": 18,
-            "chainId": 42161,
-            "logoURI": "https://assets.coingecko.com/coins/images/37379/thumb/superwalk.jpeg?1714213441",
-            "coingeckoId": "superwalk-walk",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
             ]
         },
         {
@@ -3444,7 +3418,7 @@
         },
         {
             "symbol": "FCTR",
-            "name": "FactorDAO",
+            "name": "Factor",
             "address": "0x6dD963C510c2D2f09d5eDdB48Ede45FeD063Eb36",
             "decimals": 18,
             "chainId": 42161,
@@ -25378,6 +25352,19 @@
             ]
         },
         {
+            "symbol": "NCT",
+            "name": "Toucan Protocol: Nature Carbon Tonne",
+            "address": "0x02De4766C272abc10Bc88c220D214A26960a7e92",
+            "decimals": 18,
+            "chainId": 42220,
+            "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_NCT.png",
+            "coingeckoId": null,
+            "listedIn": [
+                "lifinance",
+                "ubeswap"
+            ]
+        },
+        {
             "symbol": "UBE",
             "name": "Ubeswap  OLD ",
             "address": "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",
@@ -29138,7 +29125,8 @@
             "coingeckoId": "lucidao",
             "listedIn": [
                 "coingecko",
-                "quickswap"
+                "quickswap",
+                "lifinance"
             ]
         },
         {
@@ -32271,6 +32259,7 @@
             "coingeckoId": "gamecredits",
             "listedIn": [
                 "coingecko",
+                "lifinance",
                 "elkfinance"
             ]
         },
@@ -46076,19 +46065,6 @@
             ]
         },
         {
-            "symbol": "NPXS",
-            "name": "Pundi X Token on xDai",
-            "address": "0x26dD64bdCB2FaF4F7E49A73145752e8d9cb34C94",
-            "decimals": 18,
-            "chainId": 100,
-            "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/xdai/0x26dD64bdCB2FaF4F7E49A73145752e8d9cb34C94/logo.png",
-            "coingeckoId": null,
-            "listedIn": [
-                "lifinance",
-                "elkfinance"
-            ]
-        },
-        {
             "symbol": "NEXO",
             "name": "Nexo on xDai",
             "address": "0x26DC03E492763068CCfE7C39B93A22442807C360",
@@ -46768,19 +46744,6 @@
             "listedIn": [
                 "coingecko",
                 "optimism",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "DOE",
-            "name": "Dogs Of Elon",
-            "address": "0xf8E9F10c22840b613cdA05A0c5Fdb59A4d6cd7eF",
-            "decimals": 18,
-            "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/19942/thumb/doe.png?1696519360",
-            "coingeckoId": "dogsofelon",
-            "listedIn": [
-                "coingecko",
                 "lifinance"
             ]
         },
@@ -51808,7 +51771,7 @@
             "address": "0xDDD6A0ECc3c6F6C102E5eA3d8Af7B801d1a77aC8",
             "decimals": 18,
             "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/20674/thumb/1.png?1732360028",
+            "logoURI": "https://assets.coingecko.com/coins/images/20674/thumb/pfp.png?1733812025",
             "coingeckoId": "unix",
             "listedIn": [
                 "coingecko",
@@ -53809,19 +53772,6 @@
             ]
         },
         {
-            "symbol": "MFI",
-            "name": "Marginswap",
-            "address": "0xAa4e3edb11AFa93c41db59842b29de64b72E355B",
-            "decimals": 18,
-            "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/13899/thumb/marginswap_logo.png?1696513642",
-            "coingeckoId": "marginswap",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "LIZ",
             "name": "Lizcoin",
             "address": "0xAF4144cd943ed5362Fed2BaE6573184659CBe6FF",
@@ -54185,19 +54135,6 @@
             "listedIn": [
                 "coingecko",
                 "uniswap",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "NPXS",
-            "name": "Pundi X  OLD ",
-            "address": "0xA15C7Ebe1f07CaF6bFF097D8a589fb8AC49Ae5B3",
-            "decimals": 18,
-            "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/2170/thumb/pundi-x.png?1696503130",
-            "coingeckoId": "pundi-x",
-            "listedIn": [
-                "coingecko",
                 "lifinance"
             ]
         },
@@ -58182,6 +58119,19 @@
             ]
         },
         {
+            "symbol": "DTX",
+            "name": "DaTa eXchange DTX",
+            "address": "0x765f0C16D1Ddc279295c1a7C24B0883F62d33F75",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/2920/thumb/dtx.png?1696503667",
+            "coingeckoId": "databroker-dao",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "XCAD",
             "name": "XCAD Network",
             "address": "0x7659CE147D0e714454073a5dd7003544234b6Aa0",
@@ -60625,7 +60575,7 @@
             "address": "0x5da42c37dEa61d1C31E7a810E7d2aFf736A41643",
             "decimals": 18,
             "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/51610/thumb/Yes-Chad-Token-Logo.png?1731611338",
+            "logoURI": "https://assets.coingecko.com/coins/images/51610/thumb/YES-CHAD-dexscreener.jpg?1733812039",
             "coingeckoId": "yes-chad",
             "listedIn": [
                 "coingecko",
@@ -66087,7 +66037,8 @@
             "coingeckoId": "genomesdao",
             "listedIn": [
                 "coingecko",
-                "sushiswap"
+                "sushiswap",
+                "lifinance"
             ]
         },
         {
@@ -66456,7 +66407,8 @@
             "coingeckoId": "open-loot",
             "listedIn": [
                 "coingecko",
-                "optimism"
+                "optimism",
+                "lifinance"
             ]
         },
         {
@@ -69084,6 +69036,19 @@
             "chainId": 1,
             "logoURI": "https://assets.coingecko.com/coins/images/24492/thumb/concave.jpg?1696523672",
             "coingeckoId": "concave",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "CULT",
+            "name": "Milady Cult Coin",
+            "address": "0x0000000000c5dc95539589fbD24BE07c6C14eCa4",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/52583/thumb/cult.jpg?1733712273",
+            "coingeckoId": "milady-cult-coin",
             "listedIn": [
                 "coingecko",
                 "lifinance"
