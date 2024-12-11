@@ -1214,7 +1214,7 @@
         ]
     },
     {
-        "symbol": "UST",
+        "symbol": "UST(Terra)",
         "name": "TerraUSD",
         "address": "0xFB21B70922B9f6e3C6274BcD6CB1aa8A0fe20B80",
         "decimals": 6,
@@ -2438,7 +2438,7 @@
         "address": "0x9638EC1D29dfA9835fdb7fa74B5B77B14d6Ac77e",
         "decimals": 18,
         "chainId": 10,
-        "logoURI": "https://raw.githubusercontent.com/superfluid-finance/assets/master/public/tokens/wbtc/icon.svg",
+        "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/wbtc.svg",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -2902,12 +2902,12 @@
         ]
     },
     {
-        "symbol": "USDCx",
-        "name": "Super USD Coin",
+        "symbol": "USDC.ex",
+        "name": "Super USD Coin (Bridged from Ethereum)",
         "address": "0x8430F084B939208E2eDEd1584889C9A66B90562f",
         "decimals": 18,
         "chainId": 10,
-        "logoURI": null,
+        "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/usdc.svg",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -4192,7 +4192,7 @@
         "address": "0x4caB5B9930210E2EdC6A905B9C75D615872A1A7E",
         "decimals": 18,
         "chainId": 10,
-        "logoURI": "https://raw.githubusercontent.com/superfluid-finance/assets/master/public/tokens/giv/icon.svg",
+        "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/giv.svg",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -4347,6 +4347,18 @@
             "coingecko",
             "dfyn",
             "xyfinance"
+        ]
+    },
+    {
+        "symbol": "L3",
+        "name": "Layer3",
+        "address": "0x46777C76dBbE40fABB2AAB99E33CE20058e76C59",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -4727,7 +4739,7 @@
         "address": "0x35Adeb0638EB192755B6E52544650603Fe65A006",
         "decimals": 18,
         "chainId": 10,
-        "logoURI": "https://raw.githubusercontent.com/superfluid-finance/assets/master/public/tokens/usdc/icon.svg",
+        "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/usdc.svg",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -5397,7 +5409,7 @@
         "address": "0x1828Bff08BD244F7990edDCd9B19cc654b33cDB4",
         "decimals": 18,
         "chainId": 10,
-        "logoURI": null,
+        "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/op.svg",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -5473,8 +5485,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/10390/thumb/cfeii0y.png?1696510389",
         "coingeckoId": "jarvis-reward-token",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -5951,11 +5962,11 @@
     },
     {
         "symbol": "stEUR",
-        "name": "Staked agEUR",
+        "name": "Staked EURA",
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
         "decimals": 18,
         "chainId": 10,
-        "logoURI": null,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stEUR.svg",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
@@ -5963,11 +5974,11 @@
     },
     {
         "symbol": "stUSD",
-        "name": "Staked agUSD",
+        "name": "Staked USDA",
         "address": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
         "decimals": 18,
         "chainId": 10,
-        "logoURI": null,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/stUSD.svg",
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
