@@ -7992,7 +7992,6 @@
         "coingeckoId": "origin-dollar-governance",
         "listedIn": [
             "coingecko",
-            "lifinance",
             "xyfinance"
         ]
     },
@@ -8175,11 +8174,12 @@
         "address": "0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/2843/thumb/ImcYCVfX_400x400.jpg?1628519767",
+        "logoURI": "https://ethereum-optimism.github.io/data/NCT/logo.svg",
         "coingeckoId": "polyswarm",
         "listedIn": [
             "coingecko",
             "uniswap",
+            "optimism",
             "lifinance"
         ]
     },
@@ -14929,19 +14929,6 @@
         ]
     },
     {
-        "symbol": "COSMIC",
-        "name": "Cosmic Network",
-        "address": "0x55A05Cf8898dd1c582eef939Df645d5D235C6f74",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/37006/thumb/Logo_Symbol_1000x1000_Static_Brand-1.png?1727823520",
-        "coingeckoId": "cosmic-network",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "SALD",
         "name": "Salad",
         "address": "0x5582a479f0c403E207D2578963CceF5D03BA636f",
@@ -19632,8 +19619,7 @@
         "coingeckoId": "genomesdao",
         "listedIn": [
             "coingecko",
-            "sushiswap",
-            "lifinance"
+            "sushiswap"
         ]
     },
     {
@@ -22070,6 +22056,19 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/28486/thumb/IMPT_logo.png?1696527478",
         "coingeckoId": "impt",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "SRK",
+        "name": "SparkPoint",
+        "address": "0x0488401c3F535193Fa8Df029d9fFe615A06E74E6",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/8371/thumb/SRK.png?1696508564",
+        "coingeckoId": "sparkpoint",
         "listedIn": [
             "coingecko",
             "lifinance"
