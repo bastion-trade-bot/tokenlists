@@ -924,7 +924,8 @@
             "coingeckoId": null,
             "listedIn": [
                 "sushiswap",
-                "arbitrum_bridge"
+                "arbitrum_bridge",
+                "lifinance"
             ]
         },
         {
@@ -2796,6 +2797,19 @@
             "chainId": 42161,
             "logoURI": "https://assets.coingecko.com/coins/images/605/thumb/Enzyme_Icon_Secondary.png?1696501803",
             "coingeckoId": "melon",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "AI",
+            "name": "Flourishing AI",
+            "address": "0x8d7c2588c365b9e98Ea464b63DBCCDf13ECd9809",
+            "decimals": 18,
+            "chainId": 42161,
+            "logoURI": "https://assets.coingecko.com/coins/images/17127/thumb/Flourishing_Icon_FullColor_200.png?1703377529",
+            "coingeckoId": "flourishing-ai-token",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -11068,7 +11082,7 @@
             "address": "0xB53cc8303943582949b9a23f0556b0f0C41Fec98",
             "decimals": 18,
             "chainId": 56,
-            "logoURI": "https://assets.coingecko.com/coins/images/24380/thumb/OMNIA-Logomark-white-transparent-BG.png?1728959886",
+            "logoURI": "https://assets.coingecko.com/coins/images/24380/thumb/OMNIA-Logo-Normal.png?1734253137",
             "coingeckoId": "omnia",
             "listedIn": [
                 "coingecko",
@@ -11869,19 +11883,6 @@
             "chainId": 56,
             "logoURI": "https://assets.coingecko.com/coins/images/35180/thumb/img-linkedin-companyavatar_copie.jpg?1707796022",
             "coingeckoId": "ta-da",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "DINGO",
-            "name": "Dingocoin",
-            "address": "0x9b208b117B2C4F76C1534B6f006b033220a681A4",
-            "decimals": 8,
-            "chainId": 56,
-            "logoURI": "https://assets.coingecko.com/coins/images/15989/thumb/dingocoin.png?1696515602",
-            "coingeckoId": "dingocoin",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -18724,19 +18725,6 @@
             "chainId": 56,
             "logoURI": "https://assets.coingecko.com/coins/images/20583/thumb/desu.png?1696519990",
             "coingeckoId": "dexsport",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "AGII",
-            "name": "AGII",
-            "address": "0x328fD053C4BB968875aFD9aD0aF36Fcf4A0BddA9",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://assets.coingecko.com/coins/images/32371/thumb/AGII.png?1699534856",
-            "coingeckoId": "agii",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -31548,6 +31536,19 @@
             ]
         },
         {
+            "symbol": "GUARD",
+            "name": "Guardian GUARD",
+            "address": "0xB0B2Ef34D412d73b0Ff90A709D1779A20655165A",
+            "decimals": 18,
+            "chainId": 137,
+            "logoURI": "https://assets.coingecko.com/coins/images/17995/thumb/LS_wolfDen_logo.0025_Light_200x200.png?1696517512",
+            "coingeckoId": "guardian-token",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "BOB",
             "name": "BOB",
             "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
@@ -43784,19 +43785,6 @@
             ]
         },
         {
-            "symbol": "SPOLAR",
-            "name": "Polar Shares",
-            "address": "0x9D6fc90b25976E40adaD5A3EdD08af9ed7a21729",
-            "decimals": 18,
-            "chainId": 1313161554,
-            "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x9D6fc90b25976E40adaD5A3EdD08af9ed7a21729/logo.svg",
-            "coingeckoId": "polar-shares",
-            "listedIn": [
-                "coingecko",
-                "trisolaris"
-            ]
-        },
-        {
             "symbol": "LINEAR",
             "name": "LiNEAR Protocol Staked NEAR",
             "address": "0x918dBe087040A41b786f0Da83190c293DAe24749",
@@ -43961,19 +43949,6 @@
             "chainId": 1313161554,
             "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x07F9F7f963C5cD2BBFFd30CcfB964Be114332E30/logo.svg",
             "coingeckoId": "staked-near",
-            "listedIn": [
-                "coingecko",
-                "trisolaris"
-            ]
-        },
-        {
-            "symbol": "NSTART",
-            "name": "NEARStarter",
-            "address": "0x06aEBB0f3D9eBe9829E1B67bD3dd608F711D3412",
-            "decimals": 24,
-            "chainId": 1313161554,
-            "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x06aEBB0f3D9eBe9829E1B67bD3dd608F711D3412/logo.svg",
-            "coingeckoId": "nearstarter",
             "listedIn": [
                 "coingecko",
                 "trisolaris"
@@ -58172,19 +58147,6 @@
             ]
         },
         {
-            "symbol": "SHOPX",
-            "name": "SHOPX",
-            "address": "0x7BEF710a5759d197EC0Bf621c3Df802C2D60D848",
-            "decimals": 18,
-            "chainId": 1,
-            "logoURI": "https://assets.coingecko.com/coins/images/14600/thumb/SHOPX2024-Profilpic256.png?1718798100",
-            "coingeckoId": "splyt",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
             "symbol": "ACRV",
             "name": "Aave v3 CRV",
             "address": "0x7B95Ec873268a6BFC6427e7a28e396Db9D0ebc65",
@@ -58562,6 +58524,19 @@
                 "sushiswap",
                 "lifinance",
                 "xyfinance"
+            ]
+        },
+        {
+            "symbol": "DTX",
+            "name": "DaTa eXchange DTX",
+            "address": "0x765f0C16D1Ddc279295c1a7C24B0883F62d33F75",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/2920/thumb/dtx.png?1696503667",
+            "coingeckoId": "databroker-dao",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
             ]
         },
         {
@@ -63896,7 +63871,7 @@
         },
         {
             "symbol": "SEND",
-            "name": " send",
+            "name": "Send",
             "address": "0x3f14920c99BEB920Afa163031c4e47a3e03B3e4A",
             "decimals": 0,
             "chainId": 1,
@@ -68232,7 +68207,8 @@
             "listedIn": [
                 "coingecko",
                 "optimism",
-                "arbitrum_bridge"
+                "arbitrum_bridge",
+                "lifinance"
             ]
         },
         {
