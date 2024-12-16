@@ -999,13 +999,14 @@
     },
     {
         "symbol": "ZUT",
-        "name": "ZeroUtility",
+        "name": "ZeroUtility (PoS)",
         "address": "0xe86E8beb7340659DDDCE61727E500e3A5aD75a90",
         "decimals": 18,
         "chainId": 137,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/matic/0xe86E8beb7340659DDDCE61727E500e3A5aD75a90/logo.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -8506,6 +8507,18 @@
         ]
     },
     {
+        "symbol": "IND",
+        "name": "Indorse Token (PoS)",
+        "address": "0x9611452965b63cFeA2C9774e5386AB6D4F0abf16",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "fireFBX",
         "name": "FireVault FBX",
         "address": "0x960d43BE128585Ca45365CD74a7773B9d814dfBE",
@@ -10399,6 +10412,18 @@
         ]
     },
     {
+        "symbol": "renDOGE",
+        "name": "renDOGE (PoS)",
+        "address": "0x7C4A54f5d20b4023D6746F1f765f4DFe7C39a7e6",
+        "decimals": 8,
+        "chainId": 137,
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x7c4a54f5d20b4023d6746f1f765f4dfe7c39a7e6/28b3f45e7263d60943ab71c6aa015da1.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "Redeemable BLU",
         "name": "BLU",
         "address": "0x7C1C974367Ee28D3d7aBb088f5FCd748B3759EA4",
@@ -10885,7 +10910,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/21691/thumb/DBD-icon_200x200_%281%29.png?1696521046",
         "coingeckoId": "day-by-day",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -11392,6 +11418,18 @@
         "listedIn": [
             "coingecko",
             "quickswap",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "WPC",
+        "name": "WePiggy Coin",
+        "address": "0x6F620EC89B8479e97A6985792d0c64F237566746",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x6f620ec89b8479e97a6985792d0c64f237566746/a3ba1eaa1b461b8c027ae423c3d5d2da.png",
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
