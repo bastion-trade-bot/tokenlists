@@ -1580,8 +1580,7 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11368.png",
         "coingeckoId": null,
         "listedIn": [
-            "arbitrum_bridge",
-            "lifinance"
+            "arbitrum_bridge"
         ]
     },
     {
@@ -2170,7 +2169,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/31887/thumb/wagmi_token_logo.png?1696530698",
         "coingeckoId": "wagmi-2",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -6595,6 +6595,18 @@
         ]
     },
     {
+        "symbol": "RD",
+        "name": "reDao",
+        "address": "0x85c3E9546e1BD65CaE10b69C49b8c331B29D17A3",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "MAGICGLP",
         "name": "MagicGLP",
         "address": "0x85667409a723684Fe1e57Dd1ABDe8D88C2f54214",
@@ -7578,8 +7590,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/50293/thumb/token7007.png?1726931640",
         "coingeckoId": "token7007",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -9443,18 +9454,6 @@
             "coingecko",
             "sushiswap",
             "arbitrum_bridge",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "IGS",
-        "name": "iGameS",
-        "address": "0x51f9f9fF6cB2266D68c04eC289c7ABa81378a383",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x51f9f9ff6cb2266d68c04ec289c7aba81378a383/8543252231d6128e80890fd8029eba3c.png",
-        "coingeckoId": null,
-        "listedIn": [
             "lifinance"
         ]
     },
