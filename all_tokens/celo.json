@@ -178,6 +178,18 @@
         ]
     },
     {
+        "symbol": "frxETH(axelar)",
+        "name": "Frax Ether",
+        "address": "0xEcc68d0451E20292406967Fe7C04280E5238Ac7D",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://static.debank.com/image/celo_token/logo_url/0xecc68d0451e20292406967fe7c04280e5238ac7d/71b8a5f7684c752901272fb31842abdf.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "pUSD",
         "name": "Poof USD",
         "address": "0xEadf4A7168A82D30Ba0619e64d5BCf5B30B45226",
@@ -834,7 +846,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/38052/thumb/cKES_200x200.png?1716403445",
         "coingeckoId": "celo-kenyan-shilling",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -891,7 +904,7 @@
     },
     {
         "symbol": "PACT",
-        "name": "impactMarket",
+        "name": "PACT",
         "address": "0x2b9018CeB303D540BbF08De8e7De64fDDD63396C",
         "decimals": 18,
         "chainId": 42220,
@@ -1072,6 +1085,18 @@
         ]
     },
     {
+        "symbol": "SOL",
+        "name": "SOL",
+        "address": "0x173234922eB27d5138c5e481be9dF5261fAeD450",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x570a5d26f7765ecb712c0924e4de545b89fd43df/7c5db5c2eae571da837b65f5b9ae1a5c.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "NTMX",
         "name": "NetM Token",
         "address": "0x123ED050805E0998EBEf43671327139224218e50",
@@ -1106,7 +1131,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/50608/thumb/PUSO_transparent.png?1728473971",
         "coingeckoId": "puso",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -1118,7 +1144,6 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_stabilUSD.png",
         "coingeckoId": null,
         "listedIn": [
-            "lifinance",
             "ubeswap"
         ]
     },

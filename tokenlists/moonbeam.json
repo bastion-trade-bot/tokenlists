@@ -1,12 +1,12 @@
 [
     {
-        "symbol": "AUSD",
-        "name": "Acala Dollar  Acala ",
-        "address": "0xfFfFFFFF52C56A9257bB97f4B2b6F7B2D624ecda",
-        "decimals": 12,
+        "symbol": "BRLA",
+        "name": "BRLA Digital BRLA",
+        "address": "0xfeB25F3fDDad13F82C4d6dbc1481516F62236429",
+        "decimals": 18,
         "chainId": 1284,
-        "logoURI": "https://assets.coingecko.com/coins/images/28145/thumb/logo_%285%29.png?1696527151",
-        "coingeckoId": "acala-dollar-acala",
+        "logoURI": "https://assets.coingecko.com/coins/images/40062/thumb/IconGreen400.png?1725459580",
+        "coingeckoId": "brla-digital-brla",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -33,6 +33,19 @@
         "chainId": 1284,
         "logoURI": "https://assets.coingecko.com/coins/images/22893/thumb/glint.png?1696522190",
         "coingeckoId": "beamswap",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "STDOT",
+        "name": "StellaSwap Staked DOT",
+        "address": "0xbc7E02c4178a7dF7d3E564323a5c359dc96C4db4",
+        "decimals": 10,
+        "chainId": 1284,
+        "logoURI": "https://assets.coingecko.com/coins/images/33872/thumb/stDOT.png?1703132036",
+        "coingeckoId": "stellaswap-staked-dot",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -85,19 +98,6 @@
         "chainId": 1284,
         "logoURI": "https://assets.coingecko.com/coins/images/29019/thumb/usdt.png?1696527990",
         "coingeckoId": "xcusdt",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "FLARE",
-        "name": "Solarflare",
-        "address": "0xE3e43888fa7803cDC7BEA478aB327cF1A0dc11a7",
-        "decimals": 18,
-        "chainId": 1284,
-        "logoURI": "https://assets.coingecko.com/coins/images/24310/thumb/Solarflare.png?1696523491",
-        "coingeckoId": "solarflare",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -172,13 +172,26 @@
         ]
     },
     {
+        "symbol": "WELL",
+        "name": "Moonwell",
+        "address": "0x511aB53F793683763E5a8829738301368a2411E3",
+        "decimals": 18,
+        "chainId": 1284,
+        "logoURI": "https://assets.coingecko.com/coins/images/26133/thumb/WELL.png?1696525221",
+        "coingeckoId": "moonwell-artemis",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "WAVAX",
-        "name": "Wrapped AVAX",
+        "name": "Multichain Bridged WAVAX  Moonbeam ",
         "address": "0x4792C1EcB969B036eb51330c63bD27899A13D84e",
         "decimals": 18,
         "chainId": 1284,
-        "logoURI": "https://assets.coingecko.com/coins/images/15075/thumb/wrapped-avax.png?1696514734",
-        "coingeckoId": "wrapped-avax",
+        "logoURI": "https://assets.coingecko.com/coins/images/53014/thumb/avax.png?1734993474",
+        "coingeckoId": "multichain-bridged-wavax-moonbeam",
         "listedIn": [
             "coingecko",
             "lifinance"

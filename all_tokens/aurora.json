@@ -421,8 +421,9 @@
         "decimals": 18,
         "chainId": 1313161554,
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xE4B9e004389d91e4134a28F19BD833cBA1d994B6/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "frax",
         "listedIn": [
+            "coingecko",
             "trisolaris"
         ]
     },
@@ -685,14 +686,13 @@
     },
     {
         "symbol": "LINEAR",
-        "name": "LiNEAR Protocol Staked NEAR",
+        "name": "LiNEAR",
         "address": "0x918dBe087040A41b786f0Da83190c293DAe24749",
         "decimals": 24,
         "chainId": 1313161554,
         "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x918dBe087040A41b786f0Da83190c293DAe24749/logo.svg",
-        "coingeckoId": "linear-protocol",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "trisolaris"
         ]
     },
