@@ -236,7 +236,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/50359/thumb/200x200-ceb.png?1727296199",
         "coingeckoId": "carbon-emission-blockchain",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -2262,6 +2263,18 @@
         "listedIn": [
             "coingecko",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "ATHX",
+        "name": "Athena DexFi",
+        "address": "0xe52A85F67D5A55A77D35193D963b7E1d94D1F2eB",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/36188/thumb/Athena200.png?1710760467",
+        "coingeckoId": "athena-dexfi",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -8034,6 +8047,18 @@
         ]
     },
     {
+        "symbol": "PIKA",
+        "name": "Pika Infinity",
+        "address": "0xa14aa971a1c8009ad4A0020B029fB3faf1521cAF",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "BULK",
         "name": "Bulk Token",
         "address": "0xa143ac515dCA260A46C742C7251eF3B268639593",
@@ -8775,7 +8800,7 @@
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/22445/thumb/luca.png?1696521771",
-        "coingeckoId": "lucrosus-capital",
+        "coingeckoId": null,
         "listedIn": [
             "coingecko"
         ]
@@ -14604,6 +14629,18 @@
         ]
     },
     {
+        "symbol": "EARN (Earn Guild)",
+        "name": "EarnGuild",
+        "address": "0xB0eB3e295B44d7D405ba8026A9734A9ab354a8B2",
+        "decimals": 8,
+        "chainId": 56,
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xb0eb3e295b44d7d405ba8026a9734a9ab354a8b2/9aaf46714dc228bba883b9cd052311d1.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "IF",
         "name": "Impossible Finance",
         "address": "0xB0e1fc65C1a741b4662B813eB787d369b8614Af1",
@@ -14931,6 +14968,18 @@
         "listedIn": [
             "coingecko",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "BZPR1",
+        "name": "Backed ZPR1   1 3 Month T Bill",
+        "address": "0xAde6057FcAfa57d6d51FFa341C64ce4814995995",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/32867/thumb/b-ZPR1-200x200.png?1699671603",
+        "coingeckoId": "backed-zpr1-1-3-month-t-bill",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -29789,7 +29838,7 @@
     },
     {
         "symbol": "XED",
-        "name": "Exeedme",
+        "name": "Exeedme  OLD ",
         "address": "0x5621b5A3f4a8008c4CCDd1b942B121c8B1944F1f",
         "decimals": 18,
         "chainId": 56,
@@ -33978,6 +34027,18 @@
         ]
     },
     {
+        "symbol": "BERNX",
+        "name": "Backed ERNX   Bond",
+        "address": "0x3f95AA88dDbB7D9D484aa3D482bf0a80009c52c9",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/36755/thumb/b-ERNX-200x200.png?1712993360",
+        "coingeckoId": "backed-ernx-bond",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "GAMER",
         "name": "GameStation",
         "address": "0x3f6b3595ecF70735D3f48D69b09C4E4506DB3F47",
@@ -36430,18 +36491,6 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/27460/thumb/B3S1F8VA_400x400.jpeg?1696526500",
         "coingeckoId": "bluebenx-2",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "ATH",
-        "name": "Athena DexFi",
-        "address": "0x315D6f9D775DaA04Bc9e36100c8A82377846Dbc6",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/36188/thumb/Athena200.png?1710760467",
-        "coingeckoId": "athena-dexfi",
         "listedIn": [
             "coingecko"
         ]
@@ -41132,7 +41181,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/22951/thumb/LUNA_wh_small.png?1696522247",
         "coingeckoId": "luna-wormhole",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -41521,18 +41571,6 @@
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "TFBX",
-        "name": "Truefeedback",
-        "address": "0x1354E1C028Ad93eD9992eE3bFd3ee5608489439C",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/8842/thumb/5rd7a55q_400x400.png?1696508994",
-        "coingeckoId": "truefeedbackchain",
-        "listedIn": [
-            "coingecko"
         ]
     },
     {
@@ -42095,6 +42133,18 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/35314/thumb/200x200-100kb.png?1708160923",
         "coingeckoId": "peachy",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "BERNA",
+        "name": "Backed ERNA   Bond",
+        "address": "0x0f76D32CDccDcbd602A55Af23EAF58FD1eE17245",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/36757/thumb/b-ERNA-200x200.png?1712245846",
+        "coingeckoId": "backed-erna-bond",
         "listedIn": [
             "coingecko"
         ]
@@ -44031,6 +44081,18 @@
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "SOLV",
+        "name": "Solv",
+        "address": "0x04830A96a23EA718fAA695a5AAe74695AAE3A23f",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x04830A96a23EA718fAA695a5AAe74695AAE3A23f.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "pancake"
         ]
     },
     {
