@@ -716,19 +716,6 @@
         ]
     },
     {
-        "symbol": "XED",
-        "name": "Exeedme  OLD ",
-        "address": "0xee573a945B01B788B9287CE062A0CFC15bE9fd86",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/13518/thumb/Asset_7_2x.png?1734167415",
-        "coingeckoId": "exeedme",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "APX",
         "name": "AstroPepeX",
         "address": "0xed4e879087ebD0e8A77d66870012B5e0dffd0Fa4",
@@ -8650,10 +8637,11 @@
         "address": "0x9E6be44cC1236eEf7e1f197418592D363BedCd5A",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/38499/thumb/azuro.jpeg?1717727357",
+        "logoURI": "https://ethereum-optimism.github.io/data/AZUR/logo.svg",
         "coingeckoId": "azuro-protocol",
         "listedIn": [
             "coingecko",
+            "optimism",
             "lifinance"
         ]
     },
@@ -12447,6 +12435,19 @@
         ]
     },
     {
+        "symbol": "DTX",
+        "name": "DaTa eXchange DTX",
+        "address": "0x765f0C16D1Ddc279295c1a7C24B0883F62d33F75",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/2920/thumb/dtx.png?1696503667",
+        "coingeckoId": "databroker-dao",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "XCAD",
         "name": "XCAD Network",
         "address": "0x7659CE147D0e714454073a5dd7003544234b6Aa0",
@@ -15878,6 +15879,19 @@
         ]
     },
     {
+        "symbol": "BGB",
+        "name": "Bitget Token",
+        "address": "0x54D2252757e1672EEaD234D27B1270728fF90581",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/11610/thumb/Bitget_logo.png?1736925727",
+        "coingeckoId": "bitget-token",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "SIDUS",
         "name": "Sidus",
         "address": "0x549020a9Cb845220D66d3E9c6D9F9eF61C981102",
@@ -19212,6 +19226,19 @@
         ]
     },
     {
+        "symbol": "MELD",
+        "name": "MELD",
+        "address": "0x333000333b26eE30214B4af6419D9ab07a450400",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/30170/thumb/Twitter.jpg?1696529090",
+        "coingeckoId": "meld-2",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "MSWETH",
         "name": "Eigenpie swETH",
         "address": "0x32bd822d615A3658A68b6fDD30c2fcb2C996D678",
@@ -22457,8 +22484,7 @@
         "listedIn": [
             "coingecko",
             "optimism",
-            "arbitrum_bridge",
-            "lifinance"
+            "arbitrum_bridge"
         ]
     },
     {
