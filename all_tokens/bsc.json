@@ -829,7 +829,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/13839/thumb/Logo-D-Unicorn.png?1696513581",
         "coingeckoId": "julswap",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -2401,7 +2402,8 @@
         "coingeckoId": "froyo-games",
         "listedIn": [
             "coingecko",
-            "pancake"
+            "pancake",
+            "lifinance"
         ]
     },
     {
@@ -3460,6 +3462,18 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/1471/thumb/napoleon-x.jpg?1696502517",
         "coingeckoId": "napoleon-x",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "BCSBGC3",
+        "name": "Backed Swiss Domestic Government Bond 0",
+        "address": "0xd8B95B1987741849cA7e71e976aEB535fd2e55a2",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/38920/thumb/b-CSBGC3-200x200.png?1719513620",
+        "coingeckoId": "backed-swiss-domestic-government-bond-0-3",
         "listedIn": [
             "coingecko"
         ]
@@ -6825,6 +6839,7 @@
         "listedIn": [
             "coingecko",
             "pancake",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -6910,10 +6925,11 @@
         "address": "0xabE8E5CabE24Cb36df9540088fD7cE1175b9bc52",
         "decimals": 18,
         "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/27987/thumb/solv.jpg?1736852670",
+        "logoURI": "https://tokens.pancakeswap.finance/images/0xabE8E5CabE24Cb36df9540088fD7cE1175b9bc52.png",
         "coingeckoId": "solv-protocol",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "pancake"
         ]
     },
     {
@@ -9314,6 +9330,18 @@
         "coingeckoId": "ambit-usd",
         "listedIn": [
             "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "WDRIP",
+        "name": "Wrapped Drip",
+        "address": "0xF30224eB7104aca47235beb3362E331Ece70616A",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
             "lifinance"
         ]
     },
@@ -17887,6 +17915,18 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/28888/thumb/IMG_20230130_210408.png?1696527865",
         "coingeckoId": "moonpot-finance",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "WHALE",
+        "name": "Whale",
+        "address": "0x96e8d3a52Dd950AaCC8d1749932e1C14BC76e371",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/53638/thumb/Whale.png?1736958159",
+        "coingeckoId": "whale-2",
         "listedIn": [
             "coingecko"
         ]
@@ -32158,6 +32198,18 @@
         ]
     },
     {
+        "symbol": "xGRO",
+        "name": "xGrowth Token",
+        "address": "0x4AdAE3Ad22c4e8fb56D4Ae5C7Eb3abC0dd2d3379",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x4adae3ad22c4e8fb56d4ae5c7eb3abc0dd2d3379/8ab1bf2f55880d258ba45c045323b09e.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "ZILLA",
         "name": "DogeZilla",
         "address": "0x4Ace5CdB2aA47d1B2B8E4c4cA01BF6850A4b87B5",
@@ -41168,7 +41220,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/22951/thumb/LUNA_wh_small.png?1696522247",
         "coingeckoId": "luna-wormhole",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -41785,7 +41838,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/21737/thumb/dks.jpg?1696521092",
         "coingeckoId": "darkshield",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -41836,6 +41890,18 @@
         "coingeckoId": "dragonking",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "USDFI",
+        "name": "USDFI",
+        "address": "0x11A38e06699b238D6D9A0C7A01f3AC63a07ad318",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -44067,18 +44133,6 @@
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
-        ]
-    },
-    {
-        "symbol": "SOLV",
-        "name": "Solv",
-        "address": "0x04830A96a23EA718fAA695a5AAe74695AAE3A23f",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://tokens.pancakeswap.finance/images/0x04830A96a23EA718fAA695a5AAe74695AAE3A23f.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "pancake"
         ]
     },
     {
