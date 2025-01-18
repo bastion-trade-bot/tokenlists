@@ -911,7 +911,8 @@
             "coingeckoId": null,
             "listedIn": [
                 "sushiswap",
-                "arbitrum_bridge"
+                "arbitrum_bridge",
+                "lifinance"
             ]
         },
         {
@@ -1670,19 +1671,6 @@
             "chainId": 42161,
             "logoURI": "https://assets.coingecko.com/coins/images/38976/thumb/Screen_Shot_2024-06-18_at_12.55.54_PM_2.png?1719714886",
             "coingeckoId": "axelar-bridged-frax-ether",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "ELM",
-            "name": "ELLERIUM",
-            "address": "0xEEac5E75216571773C0064b3B591A86253791DB6",
-            "decimals": 18,
-            "chainId": 42161,
-            "logoURI": "https://assets.coingecko.com/coins/images/28153/thumb/elm.png?1696527158",
-            "coingeckoId": "ellerium",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -8635,7 +8623,8 @@
             "coingeckoId": "solv-protocol",
             "listedIn": [
                 "coingecko",
-                "pancake"
+                "pancake",
+                "lifinance"
             ]
         },
         {
@@ -10628,19 +10617,6 @@
             "chainId": 56,
             "logoURI": "https://assets.coingecko.com/coins/images/31149/thumb/USDFI_200.png?1696529977",
             "coingeckoId": "usdfi",
-            "listedIn": [
-                "coingecko",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "T99",
-            "name": "Tethereum",
-            "address": "0xC98cF0876B23FB1F574Be5c59E4217C80b34D327",
-            "decimals": 18,
-            "chainId": 56,
-            "logoURI": "https://assets.coingecko.com/coins/images/50437/thumb/T99_200x200.png?1727814654",
-            "coingeckoId": "tethereum-2",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -20963,6 +20939,7 @@
             "coingeckoId": "loot",
             "listedIn": [
                 "coingecko",
+                "lifinance",
                 "xyfinance"
             ]
         },
@@ -24401,19 +24378,6 @@
             "coingeckoId": "equalizer-dex",
             "listedIn": [
                 "coingecko",
-                "lifinance"
-            ]
-        },
-        {
-            "symbol": "SHADE",
-            "name": "ShadeToken",
-            "address": "0x3A3841f5fa9f2c283EA567d5Aeea3Af022dD2262",
-            "decimals": 18,
-            "chainId": 250,
-            "logoURI": "https://assets.spooky.fi/tokens/SHADE.png",
-            "coingeckoId": null,
-            "listedIn": [
-                "SpookySwap",
                 "lifinance"
             ]
         },
@@ -41484,6 +41448,19 @@
             ]
         },
         {
+            "symbol": "FINE",
+            "name": "FINE",
+            "address": "0x5478B121ceB140F8114E16B16D1752F3b29d514f",
+            "decimals": 18,
+            "chainId": 43114,
+            "logoURI": "https://assets.coingecko.com/coins/images/51464/thumb/finelogo.jpg?1731321281",
+            "coingeckoId": "fine-2",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "INSUR",
             "name": "InsurAce",
             "address": "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
@@ -41918,8 +41895,7 @@
             "coingeckoId": "avaxminerai",
             "listedIn": [
                 "coingecko",
-                "joe",
-                "lifinance"
+                "joe"
             ]
         },
         {
@@ -49316,6 +49292,19 @@
             ]
         },
         {
+            "symbol": "CRETH2",
+            "name": "Cream ETH 2",
+            "address": "0xcBc1065255cBc3aB41a6868c22d1f1C573AB89fd",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xcBc1065255cBc3aB41a6868c22d1f1C573AB89fd/logo.png",
+            "coingeckoId": null,
+            "listedIn": [
+                "sushiswap",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "CTI",
             "name": "ClinTex CTi",
             "address": "0xcB8fb2438A805664cD8c3e640b85AC473DA5BE87",
@@ -54200,6 +54189,19 @@
             ]
         },
         {
+            "symbol": "CHO",
+            "name": "Choise ai",
+            "address": "0xBBa39Fd2935d5769116ce38d46a71bde9cf03099",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/25935/thumb/CHO_%282%29.png?1721039541",
+            "coingeckoId": "choise",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "BMP",
             "name": "BitmapPunks",
             "address": "0xBBBB2D4d765c1e455E4896A64BA3883e914ABBBB",
@@ -55537,6 +55539,19 @@
             "chainId": 1,
             "logoURI": "https://assets.coingecko.com/coins/images/31821/thumb/Omikami_BTC_AMZN.png?1696530635",
             "coingeckoId": "amaterasu-omikami",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
+            "symbol": "THEOS",
+            "name": "Theos",
+            "address": "0x9e10f61749c4952C320412A6B26901605Ff6Da1d",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/18150/thumb/theos_logo.png?1696517652",
+            "coingeckoId": "theos",
             "listedIn": [
                 "coingecko",
                 "lifinance"
@@ -61991,6 +62006,19 @@
             ]
         },
         {
+            "symbol": "PAGE",
+            "name": "Page",
+            "address": "0x60e683C6514Edd5F758A55b6f393BeBBAfaA8d5e",
+            "decimals": 8,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/19015/thumb/Page_Icon_LG.png?1696518467",
+            "coingeckoId": "page",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
+            ]
+        },
+        {
             "symbol": "PERC",
             "name": "Perion",
             "address": "0x60bE1e1fE41c1370ADaF5d8e66f07Cf1C2Df2268",
@@ -63409,6 +63437,19 @@
                 "sushiswap",
                 "lifinance",
                 "xyfinance"
+            ]
+        },
+        {
+            "symbol": "WALLY",
+            "name": "Emotional Support Alligator",
+            "address": "0x4f7d2D728ce137dd01ec63EF7B225805C7b54575",
+            "decimals": 9,
+            "chainId": 1,
+            "logoURI": "https://assets.coingecko.com/coins/images/51993/thumb/1000493062.jpg?1732295841",
+            "coingeckoId": "emotional-support-alligator",
+            "listedIn": [
+                "coingecko",
+                "lifinance"
             ]
         },
         {
@@ -69623,7 +69664,8 @@
             "listedIn": [
                 "coingecko",
                 "optimism",
-                "arbitrum_bridge"
+                "arbitrum_bridge",
+                "lifinance"
             ]
         },
         {
