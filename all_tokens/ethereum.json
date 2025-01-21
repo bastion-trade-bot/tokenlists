@@ -10809,7 +10809,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/50187/thumb/cmc_200x200.png?1733729546",
         "coingeckoId": "squidgrow-2",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -19985,18 +19986,6 @@
         ]
     },
     {
-        "symbol": "SHEZUSD",
-        "name": "ShezmuUSD",
-        "address": "0xD60EeA80C83779a8A5BFCDAc1F3323548e6BB62d",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/39541/thumb/shezUSD.png?1722842027",
-        "coingeckoId": "shezmuusd",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "TRALA",
         "name": "TRALA TOKEN",
         "address": "0xD5e0eda0214f1d05af466E483d9376a77A67448b",
@@ -21809,6 +21798,18 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/13393/thumb/r34p_logo.png?1696513155",
         "coingeckoId": "r34p",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "ARBX",
+        "name": "Arbitrax AI",
+        "address": "0xCAC88fBd9b3fB2b018BE2b68e3C55aa90628BE6E",
+        "decimals": 9,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/53792/thumb/logo.png?1737383376",
+        "coingeckoId": "arbitrax-ai",
         "listedIn": [
             "coingecko"
         ]
@@ -27491,6 +27492,18 @@
         ]
     },
     {
+        "symbol": "AUDAI",
+        "name": "AuditAI",
+        "address": "0xA26B04B41162b0d7c2e1e2f9a33B752E28304a49",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/53235/thumb/AuditAI.jpg?1735811417",
+        "coingeckoId": "auditai",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "WLEV",
         "name": "Wrapped Leviathan",
         "address": "0xA2482ccFF8432ee68b9A26a30fCDd2782Bd81BED",
@@ -30166,18 +30179,6 @@
         ]
     },
     {
-        "symbol": "FXAI",
-        "name": "Floki XAI",
-        "address": "0x98497389aCC3014148352F1A01fB9Cf0cAf44d91",
-        "decimals": 9,
-        "chainId": 1,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "WAR",
         "name": "War Legends",
         "address": "0x983d8edB44Ca96c0595f3c456ebdD47855911f34",
@@ -31284,8 +31285,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/17521/thumb/banana-token-cg.png?1696517059",
         "coingeckoId": "banana",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -33128,6 +33128,18 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/51242/thumb/Eywa.png?1730449129",
         "coingeckoId": "eywa",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
+        "symbol": "SHEZETH",
+        "name": "ShezmuETH",
+        "address": "0x8cCB64623cDa445AA0ce7C0CaEF99486Ebd155bA",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/39540/thumb/shezETH.png?1722841948",
+        "coingeckoId": "shezmueth",
         "listedIn": [
             "coingecko"
         ]
@@ -36496,18 +36508,6 @@
         "coingeckoId": "vvs-finance",
         "listedIn": [
             "coingecko"
-        ]
-    },
-    {
-        "symbol": "SHUNG",
-        "name": "Shungite",
-        "address": "0x839b2086ef84F25a07BeEB61Cd325B79b5E08A5d",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": null,
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
         ]
     },
     {
@@ -46723,18 +46723,6 @@
         ]
     },
     {
-        "symbol": "SHEZETH",
-        "name": "ShezmuETH",
-        "address": "0x63a0964A36c34E81959da5894ad888800e17405b",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/39540/thumb/shezETH.png?1722841948",
-        "coingeckoId": "shezmueth",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "PREMIA",
         "name": "Premia",
         "address": "0x6399C842dD2bE3dE30BF99Bc7D1bBF6Fa3650E70",
@@ -46821,6 +46809,18 @@
         "coingeckoId": null,
         "listedIn": [
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "SHEZUSD",
+        "name": "ShezmuUSD",
+        "address": "0x634Ed807647e07a7C038EF1956a58ADbc6695F88",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/39541/thumb/shezUSD.png?1722842027",
+        "coingeckoId": "shezmuusd",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -61176,8 +61176,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/25106/thumb/orb-white-256.png?1709559789",
         "coingeckoId": "nation3",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -62348,18 +62347,6 @@
         "chainId": 1,
         "logoURI": "https://assets.coingecko.com/coins/images/34605/thumb/Troll_2.o.jpg?1705492471",
         "coingeckoId": "troll-2-0",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "AUDAI",
-        "name": "AuditAI",
-        "address": "0x2f4c6f8175e89480b97bC9d390358744541C5aC6",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/53235/thumb/AuditAI.jpg?1735811417",
-        "coingeckoId": "auditai",
         "listedIn": [
             "coingecko"
         ]
@@ -69979,18 +69966,6 @@
         ]
     },
     {
-        "symbol": "KCAL",
-        "name": "Phantasma Energy",
-        "address": "0x14EB60F5f270B059B0c788De0Ddc51Da86f8a06d",
-        "decimals": 10,
-        "chainId": 1,
-        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x14eb60f5f270b059b0c788de0ddc51da86f8a06d/7c9b5bf06c4c8c225c4fbd361f2a668c.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "BCUG",
         "name": "Blockchain Cuties Universe Governance",
         "address": "0x14Da7b27b2E0FedEfe0a664118b0c9bc68e2E9AF",
@@ -70189,6 +70164,18 @@
         "coingeckoId": "free-speech-2",
         "listedIn": [
             "coingecko"
+        ]
+    },
+    {
+        "symbol": "LAK3",
+        "name": "LAKE",
+        "address": "0x13d074303C95a34d304F29928dC8A16dEc797e9E",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": null,
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
