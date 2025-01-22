@@ -72,6 +72,19 @@
         ]
     },
     {
+        "symbol": "STERN",
+        "name": "Staked Ethos Reserve Note",
+        "address": "0xf7A0dd3317535eC4f4d29ADF9d620B3d8D5D5069",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/31522/thumb/stERN.png?1696530332",
+        "coingeckoId": "staked-ethos-reserve-note",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "ARBS",
         "name": "Arbswap",
         "address": "0xf50874f8246776CA4B89eEF471E718F70f38458F",
@@ -470,7 +483,8 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
-            "arbitrum_bridge"
+            "arbitrum_bridge",
+            "lifinance"
         ]
     },
     {
@@ -1098,6 +1112,19 @@
         "listedIn": [
             "coingecko",
             "xyfinance"
+        ]
+    },
+    {
+        "symbol": "PLX",
+        "name": "PLEXUS",
+        "address": "0xFB853ACEa0E76f73F8274B521FE1611C888670Cc",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/29360/thumb/Token-Symbol_Main200.png?1696528308",
+        "coingeckoId": "plexus-app",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -1804,19 +1831,6 @@
         "chainId": 42161,
         "logoURI": "https://assets.coingecko.com/coins/images/27266/thumb/Bob-logo.png?1696526318",
         "coingeckoId": "bob",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "SPEED",
-        "name": "Lightspeed",
-        "address": "0xB01CF1bE9568f09449382a47Cd5bF58e2A9D5922",
-        "decimals": 18,
-        "chainId": 42161,
-        "logoURI": "https://assets.coingecko.com/coins/images/51401/thumb/lightspeed-round-200.png?1731085512",
-        "coingeckoId": "lightspeed",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -2944,6 +2958,19 @@
         "chainId": 42161,
         "logoURI": "https://assets.coingecko.com/coins/images/52889/thumb/Token_Logo.png?1734601695",
         "coingeckoId": "derive",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "SUSDX",
+        "name": "usdx money Staked USDX",
+        "address": "0x7788A3538C5fc7F9c7C8A74EAC4c898fC8d87d92",
+        "decimals": 18,
+        "chainId": 42161,
+        "logoURI": "https://assets.coingecko.com/coins/images/50836/thumb/sUSDX200px.png?1731906119",
+        "coingeckoId": "usdx-money-staked-usdx",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -5085,8 +5112,7 @@
         "coingeckoId": "ibuffer-token",
         "listedIn": [
             "coingecko",
-            "joe",
-            "lifinance"
+            "joe"
         ]
     },
     {
