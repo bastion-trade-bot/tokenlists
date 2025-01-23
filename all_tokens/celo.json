@@ -34,6 +34,7 @@
         "coingeckoId": "celo-real-creal",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -59,6 +60,7 @@
         "coingeckoId": "usd-coin",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -108,6 +110,7 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_OLAS.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -120,7 +123,8 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mceur.jpg",
         "coingeckoId": null,
         "listedIn": [
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -156,7 +160,8 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0xF3608F846cA73147F08FdE8D57f45E27CeEA4d61/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -168,7 +173,20 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_O3.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "ubeswap"
+        ]
+    },
+    {
+        "symbol": "frxETH(axelar)",
+        "name": "Frax Ether",
+        "address": "0xEcc68d0451E20292406967Fe7C04280E5238Ac7D",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://static.debank.com/image/celo_token/logo_url/0xecc68d0451e20292406967fe7c04280e5238ac7d/71b8a5f7684c752901272fb31842abdf.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -192,7 +210,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/26476/thumb/uausdc_D_3x.png?1696525548",
         "coingeckoId": "axlusdc",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -204,7 +223,8 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg",
         "coingeckoId": null,
         "listedIn": [
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -229,7 +249,8 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg",
         "coingeckoId": null,
         "listedIn": [
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -242,6 +263,7 @@
         "coingeckoId": "mceur",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -268,6 +290,7 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -294,6 +317,7 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -307,18 +331,20 @@
         "coingeckoId": "sushi",
         "listedIn": [
             "coingecko",
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
         "symbol": "stCELO",
-        "name": "Staked Celo",
+        "name": "Staked CELO",
         "address": "0xC668583dcbDc9ae6FA3CE46462758188adfdfC24",
         "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_stCELO.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -331,7 +357,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/19479/thumb/agEUR-4.png?1710726218",
         "coingeckoId": "ageur",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -343,7 +370,8 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg",
         "coingeckoId": null,
         "listedIn": [
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -373,13 +401,14 @@
     },
     {
         "symbol": "cDEFI",
-        "name": "Celo DeFi Index",
+        "name": "Celo Defi Index",
         "address": "0xA287A3722c367849eFA5c76e96BE36efd65C290e",
         "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cDEFI.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -393,6 +422,7 @@
         "coingeckoId": "ethichub",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -406,6 +436,7 @@
         "coingeckoId": "moola-interest-bearing-creal",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -431,6 +462,7 @@
         "coingeckoId": "moola-celo-dollars",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -444,18 +476,20 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
+            "lifinance",
             "ubeswap"
         ]
     },
     {
         "symbol": "AVAX",
-        "name": "Allbridge AVAX",
+        "name": "AVAX",
         "address": "0x8E3670FD7B0935d3FE832711deBFE13BB689b690",
         "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_AVAX.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -482,6 +516,18 @@
         "coingeckoId": null,
         "listedIn": [
             "ubeswap"
+        ]
+    },
+    {
+        "symbol": "KNOX",
+        "name": "KnoxDAO Reserve",
+        "address": "0x833fD14F0FD4eaA47433A07428a46d1Ac60fA591",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x833fd14f0fd4eaa47433a07428a46d1ac60fa591/7176f2f6055662dc3f0e3378b93574f7.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -531,18 +577,20 @@
         "coingeckoId": "mcelo",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "ubeswap"
         ]
     },
     {
         "symbol": "xABR",
-        "name": "Staked Allbridge",
+        "name": "xABR",
         "address": "0x788BA01f8E2b87c08B142DB46F82094e0bdCad4F",
         "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_xABR.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -557,6 +605,7 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "lifinance",
             "elkfinance",
             "ubeswap"
         ]
@@ -572,6 +621,7 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -599,6 +649,7 @@
         "coingeckoId": "ubeswap-2",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -624,6 +675,7 @@
         "coingeckoId": "allbridge",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -637,6 +689,7 @@
         "coingeckoId": "wormhole-bridged-weth-celo",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -649,7 +702,8 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mcusd.jpg",
         "coingeckoId": null,
         "listedIn": [
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -675,6 +729,18 @@
         "listedIn": [
             "coingecko",
             "ubeswap"
+        ]
+    },
+    {
+        "symbol": "USDT",
+        "name": "Tether USD",
+        "address": "0x617f3112bf5397D0467D315cC709EF968D9ba546",
+        "decimals": 6,
+        "chainId": 42220,
+        "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x617f3112bf5397d0467d315cc709ef968d9ba546/f1992d97a61c154a388c0de34cb136f3.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -711,6 +777,7 @@
         "coingeckoId": "glo-dollar",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -724,6 +791,7 @@
         "coingeckoId": "tether",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -750,6 +818,7 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "lifinance",
             "elkfinance",
             "ubeswap"
         ]
@@ -777,7 +846,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/38052/thumb/cKES_200x200.png?1716403445",
         "coingeckoId": "celo-kenyan-shilling",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -789,6 +859,7 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cStar.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -802,6 +873,7 @@
         "coingeckoId": "usd-coin-wormhole-from-ethereum",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -852,7 +924,8 @@
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x2E3487F967DF2Ebc2f236E16f8fCAeac7091324D/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "sushiswap"
+            "sushiswap",
+            "lifinance"
         ]
     },
     {
@@ -866,6 +939,7 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -891,6 +965,7 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -917,6 +992,7 @@
         "coingeckoId": "plastiks",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -965,7 +1041,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/22603/thumb/200x200.png?1696521919",
         "coingeckoId": "jumptoken",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -1003,7 +1080,20 @@
         "coingeckoId": "moola-market",
         "listedIn": [
             "coingecko",
+            "lifinance",
             "ubeswap"
+        ]
+    },
+    {
+        "symbol": "SOL",
+        "name": "SOL",
+        "address": "0x173234922eB27d5138c5e481be9dF5261fAeD450",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x570a5d26f7765ecb712c0924e4de545b89fd43df/7c5db5c2eae571da837b65f5b9ae1a5c.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     },
     {
@@ -1028,6 +1118,7 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -1040,7 +1131,8 @@
         "logoURI": "https://assets.coingecko.com/coins/images/50608/thumb/PUSO_transparent.png?1728473971",
         "coingeckoId": "puso",
         "listedIn": [
-            "coingecko"
+            "coingecko",
+            "lifinance"
         ]
     },
     {
@@ -1057,13 +1149,14 @@
     },
     {
         "symbol": "NCT",
-        "name": "Nature Carbon Tonne",
+        "name": "Toucan Protocol: Nature Carbon Tonne",
         "address": "0x02De4766C272abc10Bc88c220D214A26960a7e92",
         "decimals": 18,
         "chainId": 42220,
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_NCT.png",
         "coingeckoId": null,
         "listedIn": [
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -1078,6 +1171,7 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
+            "lifinance",
             "ubeswap"
         ]
     },
@@ -1091,6 +1185,18 @@
         "coingeckoId": null,
         "listedIn": [
             "ubeswap"
+        ]
+    },
+    {
+        "symbol": "USDA",
+        "name": "USDA",
+        "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
         ]
     }
 ]
