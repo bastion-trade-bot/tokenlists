@@ -1071,19 +1071,6 @@
         ]
     },
     {
-        "symbol": "VPP",
-        "name": "Virtue Poker Points",
-        "address": "0xe069Af87450fB51Fc0d0E044617f1C134163e591",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/3386/thumb/vp-logo-200x200.png?1696504084",
-        "coingeckoId": "virtue-poker",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "ANKRETH",
         "name": "Ankr Staked ETH",
         "address": "0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3",
@@ -1788,6 +1775,19 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/34674/thumb/ion-coingecko-200w.png?1714009819",
         "coingeckoId": "ice",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "SOLO",
+        "name": "Sologenic",
+        "address": "0xc2c28b58db223DA89b567A0A98197Fc17C115148",
+        "decimals": 15,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/10771/thumb/solo.png?1696510734",
+        "coingeckoId": "solo-coin",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -3562,7 +3562,7 @@
     },
     {
         "symbol": "PROS",
-        "name": "Prosper",
+        "name": "Prosper  OLD ",
         "address": "0xEd8c8Aa8299C10f067496BB66f8cC7Fb338A3405",
         "decimals": 18,
         "chainId": 56,
@@ -4342,6 +4342,19 @@
         "listedIn": [
             "coingecko",
             "pancake",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "IPX",
+        "name": "InpulseX",
+        "address": "0xCDB96d3aEf363a036c6CF6c9b5736d79f0E404e2",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/30112/thumb/inpulse-x.jpg?1696529034",
+        "coingeckoId": "inpulse-x-2",
+        "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -6517,6 +6530,19 @@
         "chainId": 56,
         "logoURI": "https://assets.coingecko.com/coins/images/20748/thumb/hunnydaologo-200x200.png?1696520145",
         "coingeckoId": "hunny-love-token",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
+        "symbol": "SWAP",
+        "name": "TrustSwap",
+        "address": "0x94eafeEeF7FFA66203FDc9349C54D601472a79dC",
+        "decimals": 18,
+        "chainId": 56,
+        "logoURI": "https://assets.coingecko.com/coins/images/11795/thumb/Untitled_design-removebg-preview.png?1696511671",
+        "coingeckoId": "trustswap",
         "listedIn": [
             "coingecko",
             "lifinance"
@@ -8924,19 +8950,6 @@
         ]
     },
     {
-        "symbol": "WRKX",
-        "name": "Web3 Workx",
-        "address": "0x6aD0b271F4b3D7651AE9947A18bae29ca20d83eB",
-        "decimals": 18,
-        "chainId": 56,
-        "logoURI": "https://assets.coingecko.com/coins/images/32684/thumb/WORKX.jpg?1724393700",
-        "coingeckoId": "nft-workx",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "MNST",
         "name": "MoonStarter",
         "address": "0x6a6Ccf15B38DA4b5B0eF4C8fe9FefCB472A893F9",
@@ -9426,6 +9439,7 @@
         "listedIn": [
             "coingecko",
             "pancake",
+            "lifinance",
             "elkfinance"
         ]
     },
@@ -10217,15 +10231,14 @@
         ]
     },
     {
-        "symbol": "MTLX",
-        "name": "Mettalex",
+        "symbol": "anyMTLX",
+        "name": "anyMTLX",
         "address": "0x5921DEE8556c4593EeFCFad3CA5e2f618606483b",
         "decimals": 18,
         "chainId": 56,
         "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/bsc/0x5921DEE8556c4593EeFCFad3CA5e2f618606483b/logo.png",
-        "coingeckoId": "mettalex",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
             "pancake",
             "lifinance",
             "elkfinance"
