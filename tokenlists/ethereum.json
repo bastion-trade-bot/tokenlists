@@ -2522,13 +2522,14 @@
     },
     {
         "symbol": "ZUSD",
-        "name": "Z.com USD",
+        "name": "ZUSD",
         "address": "0xc56c2b7e71B54d38Aab6d52E94a04Cbfa8F604fA",
         "decimals": 6,
         "chainId": 1,
         "logoURI": "https://ethereum-optimism.github.io/data/ZUSD/logo.svg",
         "coingeckoId": "zusd",
         "listedIn": [
+            "coingecko",
             "optimism",
             "lifinance"
         ]
@@ -3224,10 +3225,11 @@
         "address": "0xb7109df1a93f8fe2B8162c6207C9B846C1C68090",
         "decimals": 18,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/39481/thumb/t05.png?1722465175",
+        "logoURI": "https://ethereum-optimism.github.io/data/MAX/logo.png",
         "coingeckoId": "matr1x",
         "listedIn": [
             "coingecko",
+            "optimism",
             "lifinance"
         ]
     },
@@ -5621,7 +5623,8 @@
             "coingecko",
             "sushiswap",
             "optimism",
-            "arbitrum_bridge"
+            "arbitrum_bridge",
+            "lifinance"
         ]
     },
     {
@@ -16636,19 +16639,6 @@
         ]
     },
     {
-        "symbol": "LMR",
-        "name": "Lumerin",
-        "address": "0x4b1D0b9F081468D780Ca1d5d79132b64301085d1",
-        "decimals": 8,
-        "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/24593/thumb/Lumerin-icon.png?1696523767",
-        "coingeckoId": "lumerin",
-        "listedIn": [
-            "coingecko",
-            "lifinance"
-        ]
-    },
-    {
         "symbol": "NAOS",
         "name": "NAOS Finance",
         "address": "0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496",
@@ -17335,10 +17325,11 @@
         "address": "0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
         "decimals": 2,
         "chainId": 1,
-        "logoURI": "https://assets.coingecko.com/coins/images/1899/thumb/tel.png?1696502892",
+        "logoURI": "https://ethereum-optimism.github.io/data/TEL/logo.svg",
         "coingeckoId": "telcoin",
         "listedIn": [
             "coingecko",
+            "optimism",
             "lifinance"
         ]
     },
@@ -19342,6 +19333,19 @@
         ]
     },
     {
+        "symbol": "NATION",
+        "name": "Nation3",
+        "address": "0x333A4823466879eeF910A04D473505da62142069",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://assets.coingecko.com/coins/images/25106/thumb/orb-white-256.png?1709559789",
+        "coingeckoId": "nation3",
+        "listedIn": [
+            "coingecko",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "MPL",
         "name": "Maple",
         "address": "0x33349B282065b0284d756F0577FB39c158F935e6",
@@ -19859,6 +19863,7 @@
         "coingeckoId": "hex",
         "listedIn": [
             "coingecko",
+            "optimism",
             "lifinance",
             "xyfinance"
         ]
@@ -21308,8 +21313,7 @@
         "coingeckoId": "equalizer",
         "listedIn": [
             "coingecko",
-            "optimism",
-            "lifinance"
+            "optimism"
         ]
     },
     {
@@ -21430,6 +21434,19 @@
         "listedIn": [
             "coingecko",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "LEGEND",
+        "name": "Legend",
+        "address": "0x1B1FF83AE0751ffb7ce0224e9C330e859E95dD16",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://ethereum-optimism.github.io/data/LEGEND/logo.svg",
+        "coingeckoId": "legend-2",
+        "listedIn": [
+            "coingecko",
+            "optimism"
         ]
     },
     {
@@ -22694,7 +22711,8 @@
         "listedIn": [
             "coingecko",
             "optimism",
-            "arbitrum_bridge"
+            "arbitrum_bridge",
+            "lifinance"
         ]
     },
     {
