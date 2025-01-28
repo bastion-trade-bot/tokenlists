@@ -141,13 +141,14 @@
     },
     {
         "symbol": "AUTUMN",
-        "name": "Autumn Token (PoS)",
+        "name": "Autumn",
         "address": "0xfbA4d30e964E40775C95B58AcF6b5A621b929c0a",
         "decimals": 18,
         "chainId": 137,
-        "logoURI": null,
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/25366/thumb/autumn.png?1696524499",
+        "coingeckoId": "autumn",
         "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -5492,8 +5493,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/15227/thumb/j4WEJrwU.png?1696514882",
         "coingeckoId": "bankless-dao",
         "listedIn": [
-            "coingecko",
-            "lifinance"
+            "coingecko"
         ]
     },
     {
@@ -6954,8 +6954,7 @@
         "coingeckoId": "robohero-2",
         "listedIn": [
             "coingecko",
-            "quickswap",
-            "lifinance"
+            "quickswap"
         ]
     },
     {
@@ -14306,6 +14305,18 @@
         ]
     },
     {
+        "symbol": "AXIA",
+        "name": "Axia (axiaprotocol.io)",
+        "address": "0x49690541E3f6E933A9aa3cFFEe6010a7BB5B72d7",
+        "decimals": 18,
+        "chainId": 137,
+        "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x49690541e3f6e933a9aa3cffee6010a7bb5b72d7/47a81379fd588ead00405e6ab169b791.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "SENT",
         "name": "Sentinel",
         "address": "0x48e3883233461C2eF4cB3FcF419D6db07fb86CeA",
@@ -20653,6 +20664,18 @@
         "listedIn": [
             "coingecko",
             "lifinance"
+        ]
+    },
+    {
+        "symbol": "AUSD",
+        "name": "AUSD",
+        "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+        "decimals": 6,
+        "chainId": 137,
+        "logoURI": "https://i.imgur.com/Fr5cwbM.jpeg",
+        "coingeckoId": null,
+        "listedIn": [
+            "quickswap"
         ]
     },
     {
